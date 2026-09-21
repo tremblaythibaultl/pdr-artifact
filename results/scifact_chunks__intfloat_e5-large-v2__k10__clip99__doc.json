@@ -1,0 +1,101 @@
+{
+  "dataset": "scifact_chunks",
+  "model": "intfloat/e5-large-v2",
+  "k": 10,
+  "clip_percentile": 99.0,
+  "collapsed_to_documents": true,
+  "generated_at": "2026-09-10T22:21:52.327118+00:00",
+  "records": [
+    {
+      "dataset": "scifact_chunks",
+      "model": "intfloat/e5-large-v2",
+      "k": 10,
+      "bits": 2,
+      "n_queries": 300,
+      "s_A": 0.07334259152412415,
+      "ndcg_quantized": 0.5878867130358528,
+      "recall_quantized": 0.7065555555555556,
+      "ndcg_float": 0.7155999816492892,
+      "recall_float": 0.8471666666666666,
+      "top1_agreement": 0.62
+    },
+    {
+      "dataset": "scifact_chunks",
+      "model": "intfloat/e5-large-v2",
+      "k": 10,
+      "bits": 3,
+      "n_queries": 300,
+      "s_A": 0.024447530508041382,
+      "ndcg_quantized": 0.6959448961786011,
+      "recall_quantized": 0.8218888888888889,
+      "ndcg_float": 0.7155999816492892,
+      "recall_float": 0.8471666666666666,
+      "top1_agreement": 0.7966666666666666
+    },
+    {
+      "dataset": "scifact_chunks",
+      "model": "intfloat/e5-large-v2",
+      "k": 10,
+      "bits": 4,
+      "n_queries": 300,
+      "s_A": 0.010477513074874878,
+      "ndcg_quantized": 0.7180175193679446,
+      "recall_quantized": 0.8443888888888889,
+      "ndcg_float": 0.7155999816492892,
+      "recall_float": 0.8471666666666666,
+      "top1_agreement": 0.8966666666666666
+    },
+    {
+      "dataset": "scifact_chunks",
+      "model": "intfloat/e5-large-v2",
+      "k": 10,
+      "bits": 5,
+      "n_queries": 300,
+      "s_A": 0.0048895061016082765,
+      "ndcg_quantized": 0.7198344254183504,
+      "recall_quantized": 0.8438333333333332,
+      "ndcg_float": 0.7155999816492892,
+      "recall_float": 0.8471666666666666,
+      "top1_agreement": 0.9033333333333333
+    },
+    {
+      "dataset": "scifact_chunks",
+      "model": "intfloat/e5-large-v2",
+      "k": 10,
+      "bits": 6,
+      "n_queries": 300,
+      "s_A": 0.002365890049165295,
+      "ndcg_quantized": 0.7149642189514672,
+      "recall_quantized": 0.8454999999999999,
+      "ndcg_float": 0.7155999816492892,
+      "recall_float": 0.8471666666666666,
+      "top1_agreement": 0.9233333333333333
+    },
+    {
+      "dataset": "scifact_chunks",
+      "model": "intfloat/e5-large-v2",
+      "k": 10,
+      "bits": 7,
+      "n_queries": 300,
+      "s_A": 0.001164168119430542,
+      "ndcg_quantized": 0.7171535067939881,
+      "recall_quantized": 0.8471666666666666,
+      "ndcg_float": 0.7155999816492892,
+      "recall_float": 0.8471666666666666,
+      "top1_agreement": 0.9233333333333333
+    },
+    {
+      "dataset": "scifact_chunks",
+      "model": "intfloat/e5-large-v2",
+      "k": 10,
+      "bits": 8,
+      "n_queries": 300,
+      "s_A": 0.0005775007206623949,
+      "ndcg_quantized": 0.716276801578561,
+      "recall_quantized": 0.8454999999999999,
+      "ndcg_float": 0.7155999816492892,
+      "recall_float": 0.8471666666666666,
+      "top1_agreement": 0.9233333333333333
+    }
+  ]
+}

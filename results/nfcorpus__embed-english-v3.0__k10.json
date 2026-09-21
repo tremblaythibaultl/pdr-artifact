@@ -1,0 +1,99 @@
+{
+  "dataset": "nfcorpus",
+  "model": "embed-english-v3.0",
+  "k": 10,
+  "generated_at": "2026-06-22T20:26:44.525759+00:00",
+  "records": [
+    {
+      "dataset": "nfcorpus",
+      "model": "embed-english-v3.0",
+      "k": 10,
+      "bits": 2,
+      "n_queries": 323,
+      "s_A": 0.2156209796667099,
+      "ndcg_quantized": 0.04999831549879386,
+      "recall_quantized": 0.01874130101930397,
+      "ndcg_float": 0.3872583217708921,
+      "recall_float": 0.19217621298314455,
+      "top1_agreement": 0.021671826625386997
+    },
+    {
+      "dataset": "nfcorpus",
+      "model": "embed-english-v3.0",
+      "k": 10,
+      "bits": 3,
+      "n_queries": 323,
+      "s_A": 0.0718736598889033,
+      "ndcg_quantized": 0.37336423953407705,
+      "recall_quantized": 0.1826486664052936,
+      "ndcg_float": 0.3872583217708921,
+      "recall_float": 0.19217621298314455,
+      "top1_agreement": 0.6130030959752322
+    },
+    {
+      "dataset": "nfcorpus",
+      "model": "embed-english-v3.0",
+      "k": 10,
+      "bits": 4,
+      "n_queries": 323,
+      "s_A": 0.030802997095244273,
+      "ndcg_quantized": 0.38132078512129336,
+      "recall_quantized": 0.18605982058793522,
+      "ndcg_float": 0.3872583217708921,
+      "recall_float": 0.19217621298314455,
+      "top1_agreement": 0.8297213622291022
+    },
+    {
+      "dataset": "nfcorpus",
+      "model": "embed-english-v3.0",
+      "k": 10,
+      "bits": 5,
+      "n_queries": 323,
+      "s_A": 0.01437473197778066,
+      "ndcg_quantized": 0.3853383307308349,
+      "recall_quantized": 0.19163335700174397,
+      "ndcg_float": 0.3872583217708921,
+      "recall_float": 0.19217621298314455,
+      "top1_agreement": 0.9195046439628483
+    },
+    {
+      "dataset": "nfcorpus",
+      "model": "embed-english-v3.0",
+      "k": 10,
+      "bits": 6,
+      "n_queries": 323,
+      "s_A": 0.006955515473119674,
+      "ndcg_quantized": 0.3875175577663272,
+      "recall_quantized": 0.19145137828680164,
+      "ndcg_float": 0.3872583217708921,
+      "recall_float": 0.19217621298314455,
+      "top1_agreement": 0.9504643962848297
+    },
+    {
+      "dataset": "nfcorpus",
+      "model": "embed-english-v3.0",
+      "k": 10,
+      "bits": 7,
+      "n_queries": 323,
+      "s_A": 0.003422555232804919,
+      "ndcg_quantized": 0.3865449451006423,
+      "recall_quantized": 0.19095543974425275,
+      "ndcg_float": 0.3872583217708921,
+      "recall_float": 0.19217621298314455,
+      "top1_agreement": 0.978328173374613
+    },
+    {
+      "dataset": "nfcorpus",
+      "model": "embed-english-v3.0",
+      "k": 10,
+      "bits": 8,
+      "n_queries": 323,
+      "s_A": 0.0016978029895016527,
+      "ndcg_quantized": 0.3879066225084715,
+      "recall_quantized": 0.1921060653692072,
+      "ndcg_float": 0.3872583217708921,
+      "recall_float": 0.19217621298314455,
+      "top1_agreement": 0.9938080495356038
+    }
+  ]
+}

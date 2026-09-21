@@ -1,0 +1,17 @@
+{
+  "endpoint": "scifact",
+  "model": "BAAI/bge-large-en-v1.5",
+  "k": 5,
+  "conds": [
+    "float",
+    "8",
+    "6",
+    "4",
+    "3",
+    "2"
+  ],
+  "clip": 99.0,
+  "n_queries": 300,
+  "n_jobs": 1264,
+  "template": "one-word"
+}

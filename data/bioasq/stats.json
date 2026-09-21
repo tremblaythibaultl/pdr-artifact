@@ -1,0 +1,14 @@
+{
+  "n_passages": 35454,
+  "passage_chars_median": 220.0,
+  "passage_chars_mean": 311,
+  "n_eligible_factoid": 566,
+  "n_sampled": 300,
+  "max_gold": 3,
+  "gold_per_query": {
+    "1": 190,
+    "2": 54,
+    "3": 56
+  },
+  "answers_per_query_median": 1.0
+}

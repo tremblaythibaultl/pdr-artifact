@@ -1,0 +1,4854 @@
+[
+{
+"qid": "512d0e635274a5fb07000005",
+"cond": "closed",
+"job": "4b8ad861bbf8ab16",
+"gold": [
+"Etanercept"
+]
+},
+{
+"qid": "515df063298dcd4e51000029",
+"cond": "closed",
+"job": "524600ff967ec8a6",
+"gold": [
+"Reduction of number of exacerbations"
+]
+},
+{
+"qid": "516545a8298dcd4e51000056",
+"cond": "closed",
+"job": "bbd7761442fda111",
+"gold": [
+"SMIM1"
+]
+},
+{
+"qid": "5178d6be8ed59a060a000038",
+"cond": "closed",
+"job": "5062cc11717b1ca8",
+"gold": [
+"Reads Per Kilobase per Million mapped reads (RPKM)"
+]
+},
+{
+"qid": "52b2e409f828ad283c00000e",
+"cond": "closed",
+"job": "937301186dae72eb",
+"gold": [
+"schizophrenia"
+]
+},
+{
+"qid": "52bf19f703868f1b06000002",
+"cond": "closed",
+"job": "132641b580949a52",
+"gold": [
+"autosomal dominant"
+]
+},
+{
+"qid": "52e92c6e98d0239505000024",
+"cond": "closed",
+"job": "bd34792cc468cf86",
+"gold": [
+"RFX6"
+]
+},
+{
+"qid": "52f21e8f2059c6d71c00000c",
+"cond": "closed",
+"job": "530c29a2cb6c7c78",
+"gold": [
+"BRCA1 dysfunction"
+]
+},
+{
+"qid": "530c7f52970c65fa6b000010",
+"cond": "closed",
+"job": "4d130c8265605e87",
+"gold": [
+"Oxantel disrupts polymicrobial biofilm"
+]
+},
+{
+"qid": "530cf4e0c8a0b4a00c000002",
+"cond": "closed",
+"job": "bf6ab5a2e36beed6",
+"gold": [
+"via mutations in beta-MHC and alpha-TPM1"
+]
+},
+{
+"qid": "53161545b166e2b806000002",
+"cond": "closed",
+"job": "0583679bd5bf43cd",
+"gold": [
+"In HNPCC, the mismatch DNA repair system is involved."
+]
+},
+{
+"qid": "5319a6e9b166e2b806000023",
+"cond": "closed",
+"job": "79a15297c76da3f3",
+"gold": [
+"A CAG trinucleotide repeat expansion in the HD gene"
+]
+},
+{
+"qid": "531e2695267d7dd05300000f",
+"cond": "closed",
+"job": "97ae3d5bf3d94ddb",
+"gold": [
+"mitochondrial inner membrane"
+]
+},
+{
+"qid": "532206819b2d7acc7e00000f",
+"cond": "closed",
+"job": "96a1510b944f898c",
+"gold": [
+"Immunoaffinity purification"
+]
+},
+{
+"qid": "532f1452d6d3ac6a34000030",
+"cond": "closed",
+"job": "774af9e92a07ac2b",
+"gold": [
+"The ubiquitin proteome is the entire set ubiquitinated proteins and of their respective ubiquitination sites."
+]
+},
+{
+"qid": "53318685d6d3ac6a3400003d",
+"cond": "closed",
+"job": "eff63225efafff2b",
+"gold": [
+"autosomal dominant"
+]
+},
+{
+"qid": "533c38b3c45e133714000009",
+"cond": "closed",
+"job": "0f74f7bd24db216c",
+"gold": [
+"30,000-50,000"
+]
+},
+{
+"qid": "53442ca9aeec6fbd0700000b",
+"cond": "closed",
+"job": "687462f0d84b02a0",
+"gold": [
+"luminal side of the endoplasmic reticulum"
+]
+},
+{
+"qid": "5348307daeec6fbd07000011",
+"cond": "closed",
+"job": "29685f43736115c4",
+"gold": [
+"intensity-based absolute quantification"
+]
+},
+{
+"qid": "534e364e288f4dae47000001",
+"cond": "closed",
+"job": "9600f85baca9231e",
+"gold": [
+"Approximately 200",
+"200",
+"~200"
+]
+},
+{
+"qid": "53592c1e9a4572de6f000002",
+"cond": "closed",
+"job": "76b879531165ef79",
+"gold": [
+"3mm"
+]
+},
+{
+"qid": "535d2cf09a4572de6f000004",
+"cond": "closed",
+"job": "a3b6a7ec0525259c",
+"gold": [
+"between 10,000 and 20,000"
+]
+},
+{
+"qid": "535d35779a4572de6f000005",
+"cond": "closed",
+"job": "0b96889d53dc5c37",
+"gold": [
+"Between 1% and 2% "
+]
+},
+{
+"qid": "53617eeb7d100faa0900000a",
+"cond": "closed",
+"job": "56c19db1be6a24b3",
+"gold": [
+"Anorexia Athletica"
+]
+},
+{
+"qid": "54ede76294afd61504000008",
+"cond": "closed",
+"job": "a5190ffe1a4ed381",
+"gold": [
+"At least 15%, based on the International Fanconi Anemia Registry (IFAR)"
+]
+},
+{
+"qid": "54edf81f94afd61504000014",
+"cond": "closed",
+"job": "85df81b54d99cc3f",
+"gold": [
+"BRG1"
+]
+},
+{
+"qid": "54ff5197e9bde69634000001",
+"cond": "closed",
+"job": "69034332d85f9d07",
+"gold": [
+"6-7 kb"
+]
+},
+{
+"qid": "5506ce078e1671127b00000b",
+"cond": "closed",
+"job": "e1490b10bc0b4337",
+"gold": [
+"Protein phosphatase 1",
+"PP1"
+]
+},
+{
+"qid": "55376663bc4f83e82800000a",
+"cond": "closed",
+"job": "c4c2ab41a4cab2d4",
+"gold": [
+"CD99"
+]
+},
+{
+"qid": "554140ad182542114d000003",
+"cond": "closed",
+"job": "e883d384cc25a202",
+"gold": [
+"mpMoRFsDB"
+]
+},
+{
+"qid": "554148c23f2354b713000001",
+"cond": "closed",
+"job": "db405d16a71e91e1",
+"gold": [
+"LepChorionDB"
+]
+},
+{
+"qid": "5545e65bd355485447000001",
+"cond": "closed",
+"job": "12dc09f91c22d2ff",
+"gold": [
+"Amyotrophic lateral sclerosis (ALS)"
+]
+},
+{
+"qid": "569e79ecceceede94d000002",
+"cond": "closed",
+"job": "e961f16be6f2d9a0",
+"gold": [
+"The comprehensive characterization of the mouse transcriptome."
+]
+},
+{
+"qid": "56a39d60496b62f23f000006",
+"cond": "closed",
+"job": "0d4d8be40b335beb",
+"gold": [
+"r3Cseq"
+]
+},
+{
+"qid": "56ae57350a360a5e4500000a",
+"cond": "closed",
+"job": "22d8c5da69881340",
+"gold": [
+"Norvaline"
+]
+},
+{
+"qid": "56ae70050a360a5e4500000f",
+"cond": "closed",
+"job": "7bb9dd75a620e81b",
+"gold": [
+"The repression of hematopoietic genes in erythroid cells."
+]
+},
+{
+"qid": "56b1f4300a360a5e4500001b",
+"cond": "closed",
+"job": "fc37f28ac4a817f7",
+"gold": [
+"LQVVR"
+]
+},
+{
+"qid": "56b330bb39c782df06000001",
+"cond": "closed",
+"job": "6c9797c49f524053",
+"gold": [
+"Sushi.R"
+]
+},
+{
+"qid": "56b76d916e3f8eaf4c000001",
+"cond": "closed",
+"job": "911c50bdea7f9e2a",
+"gold": [
+"Flaviviridae"
+]
+},
+{
+"qid": "56c073fcef6e394741000020",
+"cond": "closed",
+"job": "3307f5d6b03d27d4",
+"gold": [
+"Spermidine protects against \u03b1-synuclein neurotoxicity"
+]
+},
+{
+"qid": "56c8f4615795f9a73e00001a",
+"cond": "closed",
+"job": "515a7979d184689c",
+"gold": [
+"GBshape"
+]
+},
+{
+"qid": "56caea805795f9a73e00002c",
+"cond": "closed",
+"job": "03f345cb78e164e6",
+"gold": [
+"Amino Acid-DepeLysosomal Membrane Protein SLC38A9"
+]
+},
+{
+"qid": "56cafa845795f9a73e00002e",
+"cond": "closed",
+"job": "ae1991951f5f3abd",
+"gold": [
+"The mTOR pathway"
+]
+},
+{
+"qid": "56cdf5195795f9a73e000045",
+"cond": "closed",
+"job": "450e3f0373431e7b",
+"gold": [
+"Hsp90"
+]
+},
+{
+"qid": "56cf3f4f3975bb303a000008",
+"cond": "closed",
+"job": "d6ac4325126107c1",
+"gold": [
+"Xp21-p11"
+]
+},
+{
+"qid": "56d06e043975bb303a000011",
+"cond": "closed",
+"job": "5d8622030f2f6572",
+"gold": [
+"hormone receptor-positive, human epidermal growth factor receptor 2-negative"
+]
+},
+{
+"qid": "56d860ad51531f7e33000002",
+"cond": "closed",
+"job": "f3453d13330e9120",
+"gold": [
+"Christianson syndrome"
+]
+},
+{
+"qid": "56f6c11109dd18d46b00000e",
+"cond": "closed",
+"job": "d99b55a22cfb30e5",
+"gold": [
+"cyclophilin"
+]
+},
+{
+"qid": "56f961b3cf1c325851000003",
+"cond": "closed",
+"job": "d7b2b8d06647235e",
+"gold": [
+"Blue"
+]
+},
+{
+"qid": "56fcf1b8cf1c325851000005",
+"cond": "closed",
+"job": "d5c4bd294c9d38f0",
+"gold": [
+"it supresses cell cytokines and differentiation genes"
+]
+},
+{
+"qid": "571e4293bb137a4b0c00000b",
+"cond": "closed",
+"job": "350aae9f119339b4",
+"gold": [
+"EAAT1 mutations"
+]
+},
+{
+"qid": "587e07023ec846c24f000001",
+"cond": "closed",
+"job": "36e632fa91a85f40",
+"gold": [
+"PHYLUCE"
+]
+},
+{
+"qid": "587e1a01fc7e8dd84f000001",
+"cond": "closed",
+"job": "51b0919107ad5d77",
+"gold": [
+"RADAR"
+]
+},
+{
+"qid": "587e1bfdfc7e8dd84f000002",
+"cond": "closed",
+"job": "070fb96361eeca00",
+"gold": [
+"GBshape"
+]
+},
+{
+"qid": "587e3129c32c812009000002",
+"cond": "closed",
+"job": "c9428914928d2c88",
+"gold": [
+"traseR"
+]
+},
+{
+"qid": "587e3e302420191125000002",
+"cond": "closed",
+"job": "d94ad750b9422eda",
+"gold": [
+"LOLA"
+]
+},
+{
+"qid": "587f760792a5b8ad44000005",
+"cond": "closed",
+"job": "10b0d23d136a8711",
+"gold": [
+"JAMM"
+]
+},
+{
+"qid": "587f795d92a5b8ad44000007",
+"cond": "closed",
+"job": "eb29e70db8aa4a82",
+"gold": [
+"Left-Right Asymmetry"
+]
+},
+{
+"qid": "587f7a69d8d850a152000001",
+"cond": "closed",
+"job": "13b4a69b597730ec",
+"gold": [
+"libFLASM"
+]
+},
+{
+"qid": "5880a8ec0a76a87357000001",
+"cond": "closed",
+"job": "2ffc05aece271256",
+"gold": [
+"CAFE"
+]
+},
+{
+"qid": "5883a727e56acf5176000001",
+"cond": "closed",
+"job": "fe2f807aedd1fcb5",
+"gold": [
+"The expansion of resident stem cells."
+]
+},
+{
+"qid": "58853667e56acf5176000015",
+"cond": "closed",
+"job": "d9509980daf07a39",
+"gold": [
+"Modulation of expression of the G protein-coupled receptor G2A."
+]
+},
+{
+"qid": "588f341594c1512c50000002",
+"cond": "closed",
+"job": "4192bea383f2520f",
+"gold": [
+"Learning de novo promoter architectures from genome-wide transcription start sites."
+]
+},
+{
+"qid": "589185cc621ea6ff7e00000b",
+"cond": "closed",
+"job": "e853018e91f0486b",
+"gold": [
+"Spinal Muscular Atrophy",
+"SMA"
+]
+},
+{
+"qid": "5891c90949702f2e01000001",
+"cond": "closed",
+"job": "7644afe05e40a7b8",
+"gold": [
+"INCA"
+]
+},
+{
+"qid": "589317e849702f2e01000005",
+"cond": "closed",
+"job": "4617c001caf7fca4",
+"gold": [
+"Pse-in-One"
+]
+},
+{
+"qid": "589480b47d9090f353000007",
+"cond": "closed",
+"job": "912d67badd361cf0",
+"gold": [
+"webSDA"
+]
+},
+{
+"qid": "5895f18ce370baff39000001",
+"cond": "closed",
+"job": "de9932790d1da118",
+"gold": [
+"SSCprofiler"
+]
+},
+{
+"qid": "58a2df9c60087bc10a000006",
+"cond": "closed",
+"job": "1610a915cf8fc11d",
+"gold": [
+"8%"
+]
+},
+{
+"qid": "58a877cf38c171fb5b000004",
+"cond": "closed",
+"job": "e6a7976b00e51b1a",
+"gold": [
+"transposable element insertion"
+]
+},
+{
+"qid": "58a9d8a1396a458e50000005",
+"cond": "closed",
+"job": "e285f8d5a175ee89",
+"gold": [
+"In the inner mitochondrial membrane"
+]
+},
+{
+"qid": "58bc363622d300530900001f",
+"cond": "closed",
+"job": "ad396b9212436c57",
+"gold": [
+"Akkermansia muciniphila resides in the gastrointestinal tracts of humans and animals."
+]
+},
+{
+"qid": "58c27b7102b8c60953000021",
+"cond": "closed",
+"job": "ff802cc3f1c64ff7",
+"gold": [
+"the sharing of enhancer elements",
+"enhancer sharing"
+]
+},
+{
+"qid": "58d0dc878acda34529000004",
+"cond": "closed",
+"job": "2c0fe65ce58c5278",
+"gold": [
+"The DAL cluster"
+]
+},
+{
+"qid": "58df47f08acda3452900002f",
+"cond": "closed",
+"job": "ef294c1e1fa60345",
+"gold": [
+"cryopyrin-associated periodic syndromes (CAPS) disorders"
+]
+},
+{
+"qid": "58e79e703e8b6dc87c00000a",
+"cond": "closed",
+"job": "64b691d310cddbf2",
+"gold": [
+"50-60%"
+]
+},
+{
+"qid": "58e9f0ba3e8b6dc87c00000e",
+"cond": "closed",
+"job": "005fe3a17066d3c2",
+"gold": [
+"Nasuia deltocephalinicola"
+]
+},
+{
+"qid": "58ea7248eda5a57672000002",
+"cond": "closed",
+"job": "4bdfaa38205b96ea",
+"gold": [
+"congenital insensitivity to pain",
+"CIP"
+]
+},
+{
+"qid": "58f0b0c070f9fc6f0f000006",
+"cond": "closed",
+"job": "c1d135afe16e9138",
+"gold": [
+"Valbenazine granted breakthrough drug status for treating tardive dyskinesia."
+]
+},
+{
+"qid": "58f4b1a170f9fc6f0f000010",
+"cond": "closed",
+"job": "bac76e34be23eb89",
+"gold": [
+"Amanita phalloides"
+]
+},
+{
+"qid": "593fe7f970f9fc6f0f000022",
+"cond": "closed",
+"job": "ce74c1467fe4957f",
+"gold": [
+"3",
+"three"
+]
+},
+{
+"qid": "5a551a8fb750ff4455000002",
+"cond": "closed",
+"job": "a57eee859c77d52e",
+"gold": [
+"Osteosarcoma"
+]
+},
+{
+"qid": "5a67c497b750ff4455000012",
+"cond": "closed",
+"job": "3472648d7ccae1cb",
+"gold": [
+"Genomiser"
+]
+},
+{
+"qid": "5a6d1733b750ff4455000030",
+"cond": "closed",
+"job": "7ea7b851ca790394",
+"gold": [
+"Limb-Enhancer Genie (LEG)"
+]
+},
+{
+"qid": "5a6d196db750ff4455000032",
+"cond": "closed",
+"job": "86a2b4492d287ab7",
+"gold": [
+"Subpallial Enhancer Transgenic Lines"
+]
+},
+{
+"qid": "5a6e472ab750ff4455000048",
+"cond": "closed",
+"job": "baf9a38ba2f1bddc",
+"gold": [
+"Cellular adhesion function"
+]
+},
+{
+"qid": "5a70ce82b750ff4455000065",
+"cond": "closed",
+"job": "e158fa75b3d77c47",
+"gold": [
+"Anti-RANKL antibody which prevents bone catabolism in osteoporosis"
+]
+},
+{
+"qid": "5a72302b2dc08e987e000005",
+"cond": "closed",
+"job": "0fef9a659103942f",
+"gold": [
+"patent foramen ovale"
+]
+},
+{
+"qid": "5a735cdc3b9d13c708000004",
+"cond": "closed",
+"job": "7267fb9c42628ea8",
+"gold": [
+"Phase 3"
+]
+},
+{
+"qid": "5a75f6e083b0d9ea66000009",
+"cond": "closed",
+"job": "72ff4384636b5bbe",
+"gold": [
+"Cseq-Simulator"
+]
+},
+{
+"qid": "5a76160a83b0d9ea66000020",
+"cond": "closed",
+"job": "6e70b8ab17f27433",
+"gold": [
+"BPP"
+]
+},
+{
+"qid": "5a76179d83b0d9ea66000021",
+"cond": "closed",
+"job": "45d7538189618e3a",
+"gold": [
+"SeqArray"
+]
+},
+{
+"qid": "5a774fdcfaa1ab7d2e000008",
+"cond": "closed",
+"job": "f4a984baced536ac",
+"gold": [
+"P53-binding protein 1",
+"53BP1"
+]
+},
+{
+"qid": "5a7d4721faa1ab7d2e000012",
+"cond": "closed",
+"job": "1936d2edb6b96bd4",
+"gold": [
+"Stabilizes",
+"Protects"
+]
+},
+{
+"qid": "5a7d4e9afaa1ab7d2e000013",
+"cond": "closed",
+"job": "ad22abb8f3f48601",
+"gold": [
+"eight"
+]
+},
+{
+"qid": "5a7d51dafaa1ab7d2e000017",
+"cond": "closed",
+"job": "9cc013efb91ba8f3",
+"gold": [
+"Intravenous"
+]
+},
+{
+"qid": "5a7d5ce0faa1ab7d2e00001b",
+"cond": "closed",
+"job": "8d5701ee588eb5d8",
+"gold": [
+"Reduces body weight"
+]
+},
+{
+"qid": "5a89800efcd1d6a10c00000c",
+"cond": "closed",
+"job": "195911df27c098fb",
+"gold": [
+"UCP1+ adipocytes"
+]
+},
+{
+"qid": "5a9ac4e81d1251d03b000011",
+"cond": "closed",
+"job": "c43eae7e1ba3e3ff",
+"gold": [
+"high-grade gliomas"
+]
+},
+{
+"qid": "5a9d29571d1251d03b000018",
+"cond": "closed",
+"job": "88b49c13f388974e",
+"gold": [
+"Inhibitory"
+]
+},
+{
+"qid": "5a9d8d691d1251d03b000020",
+"cond": "closed",
+"job": "a36fd24f36aa7e33",
+"gold": [
+"RAB10 may be potential biomarkers of AD"
+]
+},
+{
+"qid": "5aacd487fcf4565872000007",
+"cond": "closed",
+"job": "8a02a3c7bdf3afd3",
+"gold": [
+"DNA polymerase theta (pol \u03b8) is an evolutionarily conserved protein encoded by the POLQ gene in mammalian genomes"
+]
+},
+{
+"qid": "5abd13e1fcf4565872000029",
+"cond": "closed",
+"job": "9a8386cea0b1223b",
+"gold": [
+"foot"
+]
+},
+{
+"qid": "5ac0a82d19833b0d7b000003",
+"cond": "closed",
+"job": "403108f1ce87f9a9",
+"gold": [
+"100%"
+]
+},
+{
+"qid": "5ac24c9495d0062724000002",
+"cond": "closed",
+"job": "d25551523542bb85",
+"gold": [
+"location of DNA binding proteins at high resolution"
+]
+},
+{
+"qid": "5ac716810340b9f058000003",
+"cond": "closed",
+"job": "0733efeb71971388",
+"gold": [
+"lncRNA H19"
+]
+},
+{
+"qid": "5ace17c30340b9f058000009",
+"cond": "closed",
+"job": "266e28eb4f1ba2f1",
+"gold": [
+"OR7D4"
+]
+},
+{
+"qid": "5acf74460340b9f058000013",
+"cond": "closed",
+"job": "e48efb486035fe35",
+"gold": [
+"ABCC11"
+]
+},
+{
+"qid": "5ad4dd93133db5eb78000008",
+"cond": "closed",
+"job": "7bf2e8e99df086a9",
+"gold": [
+"A three-legged pinwheel-shaped heteropolymer."
+]
+},
+{
+"qid": "5be44ed3133db5eb78000016",
+"cond": "closed",
+"job": "756b28784b0fd7d2",
+"gold": [
+"Bacterial endero-mammary pathway"
+]
+},
+{
+"qid": "5be48c39133db5eb7800001d",
+"cond": "closed",
+"job": "1610963e4fbf74ec",
+"gold": [
+"PD-L1 status"
+]
+},
+{
+"qid": "5be494a0133db5eb7800001f",
+"cond": "closed",
+"job": "c87162400a1c8bde",
+"gold": [
+"Glioma"
+]
+},
+{
+"qid": "5c0112dd133db5eb78000026",
+"cond": "closed",
+"job": "c8e9291838f38f63",
+"gold": [
+"Tuberculosis"
+]
+},
+{
+"qid": "5c011448133db5eb78000027",
+"cond": "closed",
+"job": "dfb90f7500a998b3",
+"gold": [
+"Inhibits bacterial DNA replication"
+]
+},
+{
+"qid": "5c0115e0133db5eb78000029",
+"cond": "closed",
+"job": "2bf9c5794c4f0bec",
+"gold": [
+"type IIA"
+]
+},
+{
+"qid": "5c0117fd133db5eb7800002a",
+"cond": "closed",
+"job": "5ff51c476f6e69a3",
+"gold": [
+"2017"
+]
+},
+{
+"qid": "5c2cf051133db5eb78000030",
+"cond": "closed",
+"job": "e48be623e3f2783b",
+"gold": [
+"3600"
+]
+},
+{
+"qid": "5c51f01e07ef653866000002",
+"cond": "closed",
+"job": "c2b3be065f791ae8",
+"gold": [
+"CNEFinder"
+]
+},
+{
+"qid": "5c51f9dd07ef653866000005",
+"cond": "closed",
+"job": "aa6ec643946a745d",
+"gold": [
+"CNV-RF"
+]
+},
+{
+"qid": "5c51fb7a07ef653866000006",
+"cond": "closed",
+"job": "acc5f24979f28475",
+"gold": [
+"DeepVariant"
+]
+},
+{
+"qid": "5c5219f67e3cb0e231000006",
+"cond": "closed",
+"job": "ff11032c21a33ba9",
+"gold": [
+"SVM OR Support Vector Machine"
+]
+},
+{
+"qid": "5c5312097e3cb0e231000011",
+"cond": "closed",
+"job": "1a78f999aaf9e380",
+"gold": [
+"Ohio"
+]
+},
+{
+"qid": "5c53191a7e3cb0e231000016",
+"cond": "closed",
+"job": "1bc5d7b359f2e11d",
+"gold": [
+"Porphyromonas gingivalis"
+]
+},
+{
+"qid": "5c532ad97e3cb0e23100001a",
+"cond": "closed",
+"job": "180bafb5f309d6a8",
+"gold": [
+"3DSNP"
+]
+},
+{
+"qid": "5c56b96e07647bbc4b000010",
+"cond": "closed",
+"job": "721f0057131467b7",
+"gold": [
+"ezTag"
+]
+},
+{
+"qid": "5c58962286df2b9174000007",
+"cond": "closed",
+"job": "b48676ea02a2b6ec",
+"gold": [
+"lead"
+]
+},
+{
+"qid": "5c5b4a941a4c55d80b000002",
+"cond": "closed",
+"job": "d045fe1cd4f3471b",
+"gold": [
+"PIK3CA"
+]
+},
+{
+"qid": "5c5f10791a4c55d80b000014",
+"cond": "closed",
+"job": "5106c8a5b8135da7",
+"gold": [
+"PolyA polymerase (PAP) adds a polyA tail onto the 3'-end of RNAs without a nucleic acid template, using adenosine-5'-triphosphate (ATP) as a substrate."
+]
+},
+{
+"qid": "5c5f2c0c1a4c55d80b000021",
+"cond": "closed",
+"job": "96f19b586083e019",
+"gold": [
+"A keystone periodontal pathogen. "
+]
+},
+{
+"qid": "5c5f30c91a4c55d80b000025",
+"cond": "closed",
+"job": "264d012dab68d4b0",
+"gold": [
+"T helper type 17 (TH17) cells."
+]
+},
+{
+"qid": "5c5f3a1f1a4c55d80b000028",
+"cond": "closed",
+"job": "8408de54ebfe7334",
+"gold": [
+"The convertion of L-fucose to fucose-1-phosphate."
+]
+},
+{
+"qid": "5c5f56501a4c55d80b00002a",
+"cond": "closed",
+"job": "09f53136aea66f7a",
+"gold": [
+"Re-express the basic helix-loop-helix (bHLH) transcription factor dHAND (also known as Hand2) in the diseased human and mouse myocardium."
+]
+},
+{
+"qid": "5c630666e842deac6700000c",
+"cond": "closed",
+"job": "dad29fb9c626060d",
+"gold": [
+"MIR137"
+]
+},
+{
+"qid": "5c6545bae842deac6700001d",
+"cond": "closed",
+"job": "3dba3549a2a7f609",
+"gold": [
+"CD38"
+]
+},
+{
+"qid": "5c65468ce842deac6700001e",
+"cond": "closed",
+"job": "cb417667806f8116",
+"gold": [
+"Mogamulizumab"
+]
+},
+{
+"qid": "5c65897a7c78d69471000006",
+"cond": "closed",
+"job": "0e07cbf24cdf5dce",
+"gold": [
+"Enasidenib"
+]
+},
+{
+"qid": "5c65abd17c78d69471000009",
+"cond": "closed",
+"job": "5f8ecf9752bbcbb3",
+"gold": [
+"Cellular adhesion function"
+]
+},
+{
+"qid": "5c65b7657c78d6947100000c",
+"cond": "closed",
+"job": "f3ded5b52d97cc9a",
+"gold": [
+"FunImageJ"
+]
+},
+{
+"qid": "5c6ab4c17c78d6947100001d",
+"cond": "closed",
+"job": "f4f946799ce157ea",
+"gold": [
+"MATLAB"
+]
+},
+{
+"qid": "5c6acb107c78d6947100001f",
+"cond": "closed",
+"job": "909d1f9939a0e015",
+"gold": [
+"IRscope"
+]
+},
+{
+"qid": "5c6ad2997c78d69471000020",
+"cond": "closed",
+"job": "7ac2de47584385ae",
+"gold": [
+"PyNBS"
+]
+},
+{
+"qid": "5c6d65637c78d69471000038",
+"cond": "closed",
+"job": "70bb173a044cdf3e",
+"gold": [
+"Protein Contacts Atlas"
+]
+},
+{
+"qid": "5c7d5ae9d774d04240000010",
+"cond": "closed",
+"job": "b50cc223faab5da8",
+"gold": [
+"Adipose Tissue"
+]
+},
+{
+"qid": "5c85234775a4a5d219000007",
+"cond": "closed",
+"job": "961c5d396a692763",
+"gold": [
+"Fidaxomicin"
+]
+},
+{
+"qid": "5c890ad575a4a5d21900000d",
+"cond": "closed",
+"job": "2c6450b5e06db96a",
+"gold": [
+"Olive tree"
+]
+},
+{
+"qid": "5c890e6d75a4a5d21900000f",
+"cond": "closed",
+"job": "d6fd2c82624b0506",
+"gold": [
+"Mountain tea",
+"Ironwort"
+]
+},
+{
+"qid": "5c896f60d558e5f232000003",
+"cond": "closed",
+"job": "5338c22a2d6ff6c9",
+"gold": [
+"children and young adults with refractory or relapse B cell precursor acute lymphoblastic leukemia"
+]
+},
+{
+"qid": "5c897082d558e5f232000004",
+"cond": "closed",
+"job": "1ebcfab82cb65718",
+"gold": [
+"475,000 USD"
+]
+},
+{
+"qid": "5c8973f3d558e5f232000007",
+"cond": "closed",
+"job": "fdc720ed609ab425",
+"gold": [
+"Glybera",
+"Alipogene tiparvovec"
+]
+},
+{
+"qid": "5c897555d558e5f232000009",
+"cond": "closed",
+"job": "da87726f21bf7a4a",
+"gold": [
+"Luxturna"
+]
+},
+{
+"qid": "5c8fe1f10101eac87000000a",
+"cond": "closed",
+"job": "7e24913ded233964",
+"gold": [
+"Promotes",
+"Induces"
+]
+},
+{
+"qid": "5c8fe7cb0101eac87000000c",
+"cond": "closed",
+"job": "5f7f408dbaae0647",
+"gold": [
+"Runt related factor-2"
+]
+},
+{
+"qid": "5c8fee200101eac87000000f",
+"cond": "closed",
+"job": "283ab54d8c897675",
+"gold": [
+"None"
+]
+},
+{
+"qid": "5c8fef490101eac870000010",
+"cond": "closed",
+"job": "52f36c0536619c93",
+"gold": [
+"Cofilin 2"
+]
+},
+{
+"qid": "5c915a8becadf2e73f000009",
+"cond": "closed",
+"job": "464dcc019e46cbac",
+"gold": [
+"Keytruda"
+]
+},
+{
+"qid": "5c920df7ecadf2e73f00000f",
+"cond": "closed",
+"job": "d057c20f40bfd5ae",
+"gold": [
+"Oral"
+]
+},
+{
+"qid": "5c920f13ecadf2e73f000010",
+"cond": "closed",
+"job": "a88bccf9815db179",
+"gold": [
+"anticoagulant"
+]
+},
+{
+"qid": "5c920fc3ecadf2e73f000011",
+"cond": "closed",
+"job": "76b4f9635def7f60",
+"gold": [
+"Eliquis"
+]
+},
+{
+"qid": "5c92869aecadf2e73f000015",
+"cond": "closed",
+"job": "917ae627c13d1cf1",
+"gold": [
+"Magnesium transporter"
+]
+},
+{
+"qid": "5c93e8bdecadf2e73f00001c",
+"cond": "closed",
+"job": "1bc38b59a1ba4b2b",
+"gold": [
+"Aicardi-Goutieres syndrome"
+]
+},
+{
+"qid": "5c9e6e99ecadf2e73f000036",
+"cond": "closed",
+"job": "735326c88e30299a",
+"gold": [
+"Mitochondrial transfer"
+]
+},
+{
+"qid": "5c9efde8ecadf2e73f000039",
+"cond": "closed",
+"job": "8e7c14dd3f610fb3",
+"gold": [
+"deficiency of \u03b2-galactocerebrosidase"
+]
+},
+{
+"qid": "5caa0247ecadf2e73f000055",
+"cond": "closed",
+"job": "b19472ad7223fcb4",
+"gold": [
+"moesin (Moe)"
+]
+},
+{
+"qid": "5d35e421b3a638076300000d",
+"cond": "closed",
+"job": "bd78304d62ba786c",
+"gold": [
+"14 cell divisions"
+]
+},
+{
+"qid": "5d36b8a37bc3fee31f000009",
+"cond": "closed",
+"job": "a514c3be73f20743",
+"gold": [
+"apoptosis"
+]
+},
+{
+"qid": "5d38577b7bc3fee31f000017",
+"cond": "closed",
+"job": "691b323f3336c594",
+"gold": [
+"lack of H1"
+]
+},
+{
+"qid": "5d387c20a1e1595105000010",
+"cond": "closed",
+"job": "ac29827894af326b",
+"gold": [
+"783"
+]
+},
+{
+"qid": "5e29fb27aa19d74431000005",
+"cond": "closed",
+"job": "c9f54c998ed7163d",
+"gold": [
+"Hyperphosphorylation",
+"Hyperphosphorylates"
+]
+},
+{
+"qid": "5e2a046caa19d74431000008",
+"cond": "closed",
+"job": "138b1b2acecb0823",
+"gold": [
+"One"
+]
+},
+{
+"qid": "5e2a080caa19d7443100000a",
+"cond": "closed",
+"job": "17c1babefc94a2dd",
+"gold": [
+"AMPK/Sirt1 pathway"
+]
+},
+{
+"qid": "5e2b00bc76af173751000004",
+"cond": "closed",
+"job": "bb170b012107ceb4",
+"gold": [
+"DeepSynergy"
+]
+},
+{
+"qid": "5e2deb35fbd6abf43b00001c",
+"cond": "closed",
+"job": "8af79d6535c517e8",
+"gold": [
+"SLIC-CAGE"
+]
+},
+{
+"qid": "5e2e11a1fbd6abf43b000021",
+"cond": "closed",
+"job": "f9d89765374ffdf5",
+"gold": [
+"G380R"
+]
+},
+{
+"qid": "5e2e136bfbd6abf43b000023",
+"cond": "closed",
+"job": "ef55bc0a463b8407",
+"gold": [
+"The OncoPPi Portal"
+]
+},
+{
+"qid": "5e2e1986fbd6abf43b000025",
+"cond": "closed",
+"job": "ecff71239a821e86",
+"gold": [
+"c.G2873A",
+"p.R958H"
+]
+},
+{
+"qid": "5e30b870fbd6abf43b000038",
+"cond": "closed",
+"job": "b39aa651e8578728",
+"gold": [
+"Neo4j"
+]
+},
+{
+"qid": "5e36a718b5b409ea53000004",
+"cond": "closed",
+"job": "8f8f7838a5cb6d4b",
+"gold": [
+"Uc.63+"
+]
+},
+{
+"qid": "5e36cf8eb5b409ea53000007",
+"cond": "closed",
+"job": "e653e98816e77a4d",
+"gold": [
+"melanocytes"
+]
+},
+{
+"qid": "5e36d5b9b5b409ea53000009",
+"cond": "closed",
+"job": "5aa12b07db7f086d",
+"gold": [
+"ExpansionHunter"
+]
+},
+{
+"qid": "5e3ab4f8b5b409ea5300001b",
+"cond": "closed",
+"job": "29da9b37ba65b337",
+"gold": [
+"Layman's term vocabulary for health related terms"
+]
+},
+{
+"qid": "5e3da25848dab47f26000004",
+"cond": "closed",
+"job": "3e71ad692ae67481",
+"gold": [
+"omodysplasia"
+]
+},
+{
+"qid": "5e4565c63f54159529000001",
+"cond": "closed",
+"job": "c68879a35f059c68",
+"gold": [
+"elbow dysplasia"
+]
+},
+{
+"qid": "5e48edb1f8b2df0d49000002",
+"cond": "closed",
+"job": "1837a4d63d4d1d2f",
+"gold": [
+"Proton beams"
+]
+},
+{
+"qid": "5e499e266d0a27794100000c",
+"cond": "closed",
+"job": "189352bf47d2c4c8",
+"gold": [
+"Viagra"
+]
+},
+{
+"qid": "5e4adb486d0a277941000015",
+"cond": "closed",
+"job": "bf29f7b201ed27fd",
+"gold": [
+"Cytoscape (version 3)"
+]
+},
+{
+"qid": "5e4bed1c6d0a27794100002b",
+"cond": "closed",
+"job": "9709e866f08619dd",
+"gold": [
+"butterfly rash associated with SLE"
+]
+},
+{
+"qid": "5e50123e6d0a277941000036",
+"cond": "closed",
+"job": "d3d3b08819761d22",
+"gold": [
+"Stata"
+]
+},
+{
+"qid": "5e5286036d0a277941000040",
+"cond": "closed",
+"job": "79b4455b1eee9345",
+"gold": [
+"Chromosome 15"
+]
+},
+{
+"qid": "5e52a4ec6d0a277941000044",
+"cond": "closed",
+"job": "c83a013243fdffae",
+"gold": [
+"Phosphonormalizer"
+]
+},
+{
+"qid": "5e52a7b66d0a277941000045",
+"cond": "closed",
+"job": "0308fe53abbb5d64",
+"gold": [
+"DeepCpG"
+]
+},
+{
+"qid": "5e52add36d0a277941000047",
+"cond": "closed",
+"job": "129603b87499612a",
+"gold": [
+"easyGWAS"
+]
+},
+{
+"qid": "5e5409776d0a277941000051",
+"cond": "closed",
+"job": "79c8ddd96fb038aa",
+"gold": [
+"dual Src/Abl kinase"
+]
+},
+{
+"qid": "5e5b626fb761aafe0900000c",
+"cond": "closed",
+"job": "673d278b3126ed00",
+"gold": [
+"Multidrug-resistant P-glycoprotein 3 (MDR3) is a phospholipid translocator"
+]
+},
+{
+"qid": "5e5b6f04b761aafe0900000e",
+"cond": "closed",
+"job": "1c86b86c465c1d9e",
+"gold": [
+"The severe acute respiratory syndrome coronavirus (SARS-CoV) genome is predicted to encode 14 functional open reading frames, leading to the expression of up to 30 structural and non-structural protein products."
+]
+},
+{
+"qid": "5e5bab131af46fc130000001",
+"cond": "closed",
+"job": "622f9722951cdbf0",
+"gold": [
+"The GBA2 gene encodes the non-lysosomal glucosylceramidase (NLGase), an enzyme that catalyzes the conversion of glucosylceramide (GlcCer) to ceramide and glucose."
+]
+},
+{
+"qid": "5e5d24811af46fc130000006",
+"cond": "closed",
+"job": "e276c51f8a6720a6",
+"gold": [
+"Romiplostim (ROM) is a thrombopoietin (TPO)-receptor-agonist"
+]
+},
+{
+"qid": "5e6de3f21af46fc130000022",
+"cond": "closed",
+"job": "53ca16ab863b2a51",
+"gold": [
+"polymerase"
+]
+},
+{
+"qid": "5e6df7887fc1ee872b000001",
+"cond": "closed",
+"job": "f85423bf731f75f6",
+"gold": [
+"PTEN pseudogene (PTENp) acts as an endogenous RNA, which regulates its parental gene by competitively binding to the 3' UTR of PTEN gene in the human."
+]
+},
+{
+"qid": "5e6e487151b80c9423000001",
+"cond": "closed",
+"job": "4e5508f59bd1ea3f",
+"gold": [
+"lysine methyltransferase activity"
+]
+},
+{
+"qid": "5e763bd4c6a8763d2300000f",
+"cond": "closed",
+"job": "51ac05a45a56bf83",
+"gold": [
+"1983"
+]
+},
+{
+"qid": "5e76436cc6a8763d23000012",
+"cond": "closed",
+"job": "b0e046d914ce4f4f",
+"gold": [
+"Oral"
+]
+},
+{
+"qid": "5e76452fc6a8763d23000015",
+"cond": "closed",
+"job": "befb86099db37f71",
+"gold": [
+"80-100%"
+]
+},
+{
+"qid": "5e7667b1835f4e4777000004",
+"cond": "closed",
+"job": "676e1003499420d7",
+"gold": [
+"G1P[8]"
+]
+},
+{
+"qid": "5e7745ea835f4e4777000006",
+"cond": "closed",
+"job": "82b198095fe7602c",
+"gold": [
+"Leuprorelin acetate"
+]
+},
+{
+"qid": "5e776443835f4e4777000008",
+"cond": "closed",
+"job": "1927c749d419eb25",
+"gold": [
+"Astellas Pharma GmbH"
+]
+},
+{
+"qid": "5e776845835f4e477700000a",
+"cond": "closed",
+"job": "0ad64e6baabad795",
+"gold": [
+"Modified Vaccinia virus Ankara expressing Antigen 85A"
+]
+},
+{
+"qid": "5e776a75835f4e477700000d",
+"cond": "closed",
+"job": "c888b2d05e8e5e11",
+"gold": [
+"MannKind Corporation"
+]
+},
+{
+"qid": "5e776cfe835f4e4777000010",
+"cond": "closed",
+"job": "40d5c168b78c82de",
+"gold": [
+"June 2014"
+]
+},
+{
+"qid": "5e776db8835f4e4777000011",
+"cond": "closed",
+"job": "160de77cafd15118",
+"gold": [
+"Sanofi"
+]
+},
+{
+"qid": "5e7f5d0d835f4e4777000016",
+"cond": "closed",
+"job": "1d0fcaea52965482",
+"gold": [
+"In advance of the 2015-2016 season"
+]
+},
+{
+"qid": "5e7f64d6835f4e477700001f",
+"cond": "closed",
+"job": "b04fbc18376956b4",
+"gold": [
+"transdermal drug-coated microneedle patch system"
+]
+},
+{
+"qid": "5e920be42d3121100d00000c",
+"cond": "closed",
+"job": "f64d100da414d1b1",
+"gold": [
+"Viral Polymerase"
+]
+},
+{
+"qid": "601bde6e1cb411341a000006",
+"cond": "closed",
+"job": "54bafe3c5bb14fe0",
+"gold": [
+"Multisystem disease with abnormal neurodevelopment"
+]
+},
+{
+"qid": "601bfa531cb411341a000008",
+"cond": "closed",
+"job": "12c1fd0d2e153f72",
+"gold": [
+"Primary microcephaly"
+]
+},
+{
+"qid": "601d2d001cb411341a00002c",
+"cond": "closed",
+"job": "d5a3f23633f73920",
+"gold": [
+"Joubert syndrome"
+]
+},
+{
+"qid": "601d74681cb411341a000042",
+"cond": "closed",
+"job": "f36c53ba24e3b8ab",
+"gold": [
+"KRASG12C"
+]
+},
+{
+"qid": "601d79e01cb411341a000047",
+"cond": "closed",
+"job": "dcf9ae8cfdca4734",
+"gold": [
+"INDEED"
+]
+},
+{
+"qid": "601db60e1cb411341a000049",
+"cond": "closed",
+"job": "3c41f0a725ea495c",
+"gold": [
+"D2",
+"chromosome D2"
+]
+},
+{
+"qid": "601eafcd1cb411341a000056",
+"cond": "closed",
+"job": "f84b6d29a4282a85",
+"gold": [
+"DeepCC"
+]
+},
+{
+"qid": "601eb56c1cb411341a000058",
+"cond": "closed",
+"job": "383815b603f50c4c",
+"gold": [
+"20",
+"20p12",
+"mkks or bbs6 gene on chromosome 20p12",
+"20p12 between D20S162 and D20S894 markers"
+]
+},
+{
+"qid": "601ebba41cb411341a00005a",
+"cond": "closed",
+"job": "226cbf372f725f8e",
+"gold": [
+"DagLogo"
+]
+},
+{
+"qid": "601ebde11cb411341a00005d",
+"cond": "closed",
+"job": "50a90d914667f0ed",
+"gold": [
+"SignatureSearch"
+]
+},
+{
+"qid": "6020a8431cb411341a00007f",
+"cond": "closed",
+"job": "beaa0d5935dc345c",
+"gold": [
+"Daratumumab"
+]
+},
+{
+"qid": "60258edd1cb411341a0000a9",
+"cond": "closed",
+"job": "01c06e9d49a101f3",
+"gold": [
+"Rheumatoid arthritis"
+]
+},
+{
+"qid": "602593101cb411341a0000ab",
+"cond": "closed",
+"job": "5e69ddfb50e988e1",
+"gold": [
+"disease-modifying antirheumatic drug"
+]
+},
+{
+"qid": "6026d8641cb411341a0000cd",
+"cond": "closed",
+"job": "6d7473c0bfe16ace",
+"gold": [
+"ubrogepant"
+]
+},
+{
+"qid": "6026f0251cb411341a0000d6",
+"cond": "closed",
+"job": "b77e824c2d9c80a4",
+"gold": [
+"Intravenously"
+]
+},
+{
+"qid": "6027f8ae1cb411341a0000ed",
+"cond": "closed",
+"job": "448318522f1d881b",
+"gold": [
+"metPropagate"
+]
+},
+{
+"qid": "6028183e1cb411341a0000f1",
+"cond": "closed",
+"job": "73ee2fd961d80a21",
+"gold": [
+"Putamen"
+]
+},
+{
+"qid": "60281eb11cb411341a0000f5",
+"cond": "closed",
+"job": "303babaa80eb2fe9",
+"gold": [
+"Hippocampal volume"
+]
+},
+{
+"qid": "6028f5851cb411341a0000ff",
+"cond": "closed",
+"job": "de03e53d2b661d8e",
+"gold": [
+"1.1%"
+]
+},
+{
+"qid": "6028fad21cb411341a000101",
+"cond": "closed",
+"job": "86eda0b2c5937621",
+"gold": [
+"September 2018"
+]
+},
+{
+"qid": "602967de1cb411341a000113",
+"cond": "closed",
+"job": "cec51dca0347b847",
+"gold": [
+"32"
+]
+},
+{
+"qid": "602a84ae1cb411341a000116",
+"cond": "closed",
+"job": "ac3e2ebe7336f590",
+"gold": [
+"Long noncoding RNAs",
+"lncRNAs"
+]
+},
+{
+"qid": "602c1d3b1cb411341a00011e",
+"cond": "closed",
+"job": "5c83a7c44b105038",
+"gold": [
+"activin type II receptors"
+]
+},
+{
+"qid": "6030fcb51cb411341a000127",
+"cond": "closed",
+"job": "d67791132e4169ee",
+"gold": [
+"http://braineacv2.inf.um.es/"
+]
+},
+{
+"qid": "6030fe7a1cb411341a000128",
+"cond": "closed",
+"job": "2b138eb8710124f0",
+"gold": [
+"Neurodevelopmental disorders"
+]
+},
+{
+"qid": "6031287e1cb411341a00012d",
+"cond": "closed",
+"job": "6c74df5cf1107006",
+"gold": [
+"ARID1B"
+]
+},
+{
+"qid": "603219c21cb411341a000133",
+"cond": "closed",
+"job": "f067b1c370b474ae",
+"gold": [
+"'Vesiduction' as a fourth mode of intercellular DNA transfer."
+]
+},
+{
+"qid": "603251f81cb411341a00013a",
+"cond": "closed",
+"job": "e4b9af01a94e8c55",
+"gold": [
+"c-Myc"
+]
+},
+{
+"qid": "6032a0e21cb411341a000148",
+"cond": "closed",
+"job": "0f641ffb46d92e32",
+"gold": [
+"antimicrobial peptide of bacteria"
+]
+},
+{
+"qid": "6032b6661cb411341a00014a",
+"cond": "closed",
+"job": "04925fced436c626",
+"gold": [
+"liver"
+]
+},
+{
+"qid": "6032ba631cb411341a00014b",
+"cond": "closed",
+"job": "e62e7ac7619932f6",
+"gold": [
+"lysozyme is an antimicrobial enzyme."
+]
+},
+{
+"qid": "6048ff3e1cb411341a000160",
+"cond": "closed",
+"job": "436d30ea76abb8ae",
+"gold": [
+"Mast cells"
+]
+},
+{
+"qid": "604911661cb411341a000169",
+"cond": "closed",
+"job": "9da2fec811289dd1",
+"gold": [
+"osteogenic growth factor"
+]
+},
+{
+"qid": "6049173d1cb411341a00016b",
+"cond": "closed",
+"job": "67800e9cde3e1b98",
+"gold": [
+"Ivermectin is used to treat parasitic diseases"
+]
+},
+{
+"qid": "605271d994d57fd87900000f",
+"cond": "closed",
+"job": "878550adc7e9cd77",
+"gold": [
+"multiple sclerosis"
+]
+},
+{
+"qid": "605281cf94d57fd879000015",
+"cond": "closed",
+"job": "ed6baba55f3d42d0",
+"gold": [
+"1,272"
+]
+},
+{
+"qid": "6053ba5b94d57fd879000017",
+"cond": "closed",
+"job": "b4e69533e52bd3a5",
+"gold": [
+"FTY720",
+"Fingolimod"
+]
+},
+{
+"qid": "60579cb394d57fd87900002e",
+"cond": "closed",
+"job": "7d6c8ac545f2bfa0",
+"gold": [
+"MIENTURNET"
+]
+},
+{
+"qid": "6057bf0694d57fd879000031",
+"cond": "closed",
+"job": "e4a761bf5e01ca89",
+"gold": [
+"apoE4-165"
+]
+},
+{
+"qid": "6057c0cd94d57fd879000032",
+"cond": "closed",
+"job": "eae70efe044d7466",
+"gold": [
+"a susceptibility locus on chromosome 13"
+]
+},
+{
+"qid": "6057c2f894d57fd879000033",
+"cond": "closed",
+"job": "5a9eb243a88b8a08",
+"gold": [
+"EpiMethylTag"
+]
+},
+{
+"qid": "605cc21d94d57fd879000036",
+"cond": "closed",
+"job": "7937c7d2cae5d308",
+"gold": [
+"Promotion of T helper cell differentiation by resolving secretory stress and accelerating proliferation"
+]
+},
+{
+"qid": "605fb19794d57fd879000038",
+"cond": "closed",
+"job": "c5593cc1396c37ba",
+"gold": [
+"Protein Contacts Atlas"
+]
+},
+{
+"qid": "605fb41094d57fd879000039",
+"cond": "closed",
+"job": "05dc9a51ffb84f37",
+"gold": [
+"Primary aldosteronism"
+]
+},
+{
+"qid": "606074ab94d57fd87900003e",
+"cond": "closed",
+"job": "f08e2a6e23a96b13",
+"gold": [
+"Rtpca"
+]
+},
+{
+"qid": "606081e594d57fd879000041",
+"cond": "closed",
+"job": "0c70154ebf9f2ffe",
+"gold": [
+"regutools"
+]
+},
+{
+"qid": "606ab57394d57fd87900004f",
+"cond": "closed",
+"job": "f61e91ee3ecad82b",
+"gold": [
+"Induces",
+"inducer",
+"induction"
+]
+},
+{
+"qid": "606ad16594d57fd879000051",
+"cond": "closed",
+"job": "2d92b2757b2c42e3",
+"gold": [
+"CYP2C19"
+]
+},
+{
+"qid": "606b2bf594d57fd87900005d",
+"cond": "closed",
+"job": "ab8f8325e717d8f4",
+"gold": [
+"Thiazovivin is a selective small molecule that directly targets Rho-associated kinase (ROCK) and increases expression of pluripotency factors."
+]
+},
+{
+"qid": "606b32af94d57fd879000060",
+"cond": "closed",
+"job": "0f8be33485076668",
+"gold": [
+"for the detachment of cells"
+]
+},
+{
+"qid": "606b75c194d57fd87900006c",
+"cond": "closed",
+"job": "32b3d48f59909b3e",
+"gold": [
+"2017"
+]
+},
+{
+"qid": "606b800994d57fd879000071",
+"cond": "closed",
+"job": "5ea308de6ec481fb",
+"gold": [
+"next generation sequencing",
+"NGS"
+]
+},
+{
+"qid": "6081b64d4e6a4cf63000000a",
+"cond": "closed",
+"job": "b7698f00a42ba046",
+"gold": [
+"HSJ1 are chaperones."
+]
+},
+{
+"qid": "6082f0ec4e6a4cf63000000e",
+"cond": "closed",
+"job": "7d3891d7b3a005a7",
+"gold": [
+"carboxyglutamateis a  a post-translational glutamic acidof"
+]
+},
+{
+"qid": "60853db94e6a4cf630000010",
+"cond": "closed",
+"job": "b4f7be391a67eeaa",
+"gold": [
+"Circular RNAs (circRNAs) are a new class of non-coding RNA with a stable structure formed by special loop splicing."
+]
+},
+{
+"qid": "61f52f22882a024a10000002",
+"cond": "closed",
+"job": "3cfe23f468d8bf51",
+"gold": [
+"Bosch-Boonstra-Schaaf optic atrophy syndrome",
+"BBSOAS"
+]
+},
+{
+"qid": "61f56284882a024a10000005",
+"cond": "closed",
+"job": "7fdf768614d4e056",
+"gold": [
+"Alport syndrome"
+]
+},
+{
+"qid": "61f563f7882a024a10000006",
+"cond": "closed",
+"job": "2964a75e211a714b",
+"gold": [
+"A novel neurodevelopmental syndrome with progressive microcephaly, seizures, and joint anomalies"
+]
+},
+{
+"qid": "61f5ee57882a024a10000012",
+"cond": "closed",
+"job": "47918c0b2336f327",
+"gold": [
+"pulmonary embolism"
+]
+},
+{
+"qid": "61f810a5882a024a1000003e",
+"cond": "closed",
+"job": "9285c425cd71f678",
+"gold": [
+"A syndromic form of thoracic aortic aneurysm (TAA) with clinical overlap with Loeys-Dietz and Shprintzen-Goldberg syndromes"
+]
+},
+{
+"qid": "61f81857882a024a10000040",
+"cond": "closed",
+"job": "d2f67ccb503974fb",
+"gold": [
+"Retinal dystrophy"
+]
+},
+{
+"qid": "61f919cc882a024a10000048",
+"cond": "closed",
+"job": "2982dc2e5cd0757a",
+"gold": [
+"2183"
+]
+},
+{
+"qid": "61f95f9f882a024a1000004e",
+"cond": "closed",
+"job": "67c3caeff9440443",
+"gold": [
+"Oguchi disease"
+]
+},
+{
+"qid": "6200411cc9dfcb9c09000014",
+"cond": "closed",
+"job": "f1af398a2cc10319",
+"gold": [
+"JUCHMME"
+]
+},
+{
+"qid": "6202f600c9dfcb9c0900002b",
+"cond": "closed",
+"job": "a9d8a77e8a629982",
+"gold": [
+"9th"
+]
+},
+{
+"qid": "6206b740c9dfcb9c0900003b",
+"cond": "closed",
+"job": "551a8d0e4c1d92fc",
+"gold": [
+"Improves"
+]
+},
+{
+"qid": "6206bf3cc9dfcb9c0900003d",
+"cond": "closed",
+"job": "04745f41c090a417",
+"gold": [
+"MEK"
+]
+},
+{
+"qid": "6206c22ac9dfcb9c0900003e",
+"cond": "closed",
+"job": "19a73c85b3000c50",
+"gold": [
+"PI3K/AKT"
+]
+},
+{
+"qid": "6206d06ec9dfcb9c09000041",
+"cond": "closed",
+"job": "676973cbd24b6aad",
+"gold": [
+"Ammi visnaga"
+]
+},
+{
+"qid": "620c28d03a8413c653000007",
+"cond": "closed",
+"job": "8d80184b4cccb862",
+"gold": [
+"myeloid leukaemia"
+]
+},
+{
+"qid": "621142713a8413c65300000a",
+"cond": "closed",
+"job": "643e4150ec24c454",
+"gold": [
+"50%"
+]
+},
+{
+"qid": "621145c63a8413c65300000c",
+"cond": "closed",
+"job": "69fdf95c7f647d5a",
+"gold": [
+"26 March 2021"
+]
+},
+{
+"qid": "6217bf6a3a8413c65300001d",
+"cond": "closed",
+"job": "3f77187df743c755",
+"gold": [
+"MTH1"
+]
+},
+{
+"qid": "62190bac3a8413c653000034",
+"cond": "closed",
+"job": "60a9f07a0bb0ffe9",
+"gold": [
+"critical COVID-19 pneumonia"
+]
+},
+{
+"qid": "621e59ce3a8413c65300004c",
+"cond": "closed",
+"job": "8b38dc7413c221b6",
+"gold": [
+"GLYCO"
+]
+},
+{
+"qid": "62265b4a3a8413c653000083",
+"cond": "closed",
+"job": "a5328535d268b488",
+"gold": [
+"runt-related transcription factor 1"
+]
+},
+{
+"qid": "622b99f73a8413c653000093",
+"cond": "closed",
+"job": "0908fd656f0bba47",
+"gold": [
+"Her2"
+]
+},
+{
+"qid": "622d1ed13a8413c6530000a3",
+"cond": "closed",
+"job": "e9b8328cff7e5a1c",
+"gold": [
+"The daughterless (da) gene in Drosophila encodes a broadly expressed transcriptional regulator whose specific functions in the control of sex determination and neurogenesis have been extensively examined."
+]
+},
+{
+"qid": "622dfb133a8413c6530000a8",
+"cond": "closed",
+"job": "0a6ac87a9c52581d",
+"gold": [
+"Gantenerumab significantly reduced amyloid plaques, cerebrospinal fluid total tau, and phospho-tau181 and attenuated increases of neurofilament light chain."
+]
+},
+{
+"qid": "6237a8343a8413c6530000b2",
+"cond": "closed",
+"job": "232998c7b9ae26ef",
+"gold": [
+"epidermal growth factor family"
+]
+},
+{
+"qid": "6237ac143a8413c6530000b7",
+"cond": "closed",
+"job": "aeeae8c416a7a5ae",
+"gold": [
+"EGFR/MAPK pathway"
+]
+},
+{
+"qid": "6252f496e764a53204000020",
+"cond": "closed",
+"job": "b5bcf3da1b26b6d2",
+"gold": [
+"ATP binding cassette (ABC) transporter"
+]
+},
+{
+"qid": "626aab13e764a5320400003b",
+"cond": "closed",
+"job": "3b3abefbd52997e5",
+"gold": [
+"25 times greater than DNA sequence changes"
+]
+},
+{
+"qid": "626ae803e764a5320400003c",
+"cond": "closed",
+"job": "5faea18a227a0aab",
+"gold": [
+"Typically 2-3 generations. Sometimes >10 generations."
+]
+},
+{
+"qid": "626aeb2fe764a5320400003f",
+"cond": "closed",
+"job": "9ee09992b632e1f7",
+"gold": [
+"APPROACH and COMPASS"
+]
+},
+{
+"qid": "626aeba1e764a53204000040",
+"cond": "closed",
+"job": "39b259ec590539a0",
+"gold": [
+"Ionis Pharmaceuticals",
+"Akcea Therapeutics"
+]
+},
+{
+"qid": "626aef83e764a53204000044",
+"cond": "closed",
+"job": "7348911253c9d756",
+"gold": [
+"1999"
+]
+},
+{
+"qid": "6278ca4a56bf9aee6f00000c",
+"cond": "closed",
+"job": "aaf6ac5e95a5a677",
+"gold": [
+"L124",
+"Omega-1 (\u03a91) loop"
+]
+},
+{
+"qid": "512d0e635274a5fb07000005",
+"cond": "gold",
+"job": "da0a64b556a8431c",
+"gold": [
+"Etanercept"
+]
+},
+{
+"qid": "515df063298dcd4e51000029",
+"cond": "gold",
+"job": "3b31d33230d3c33f",
+"gold": [
+"Reduction of number of exacerbations"
+]
+},
+{
+"qid": "516545a8298dcd4e51000056",
+"cond": "gold",
+"job": "4ba38422ebaa307a",
+"gold": [
+"SMIM1"
+]
+},
+{
+"qid": "5178d6be8ed59a060a000038",
+"cond": "gold",
+"job": "f4ff509f9331972f",
+"gold": [
+"Reads Per Kilobase per Million mapped reads (RPKM)"
+]
+},
+{
+"qid": "52b2e409f828ad283c00000e",
+"cond": "gold",
+"job": "12079f28a23d7791",
+"gold": [
+"schizophrenia"
+]
+},
+{
+"qid": "52bf19f703868f1b06000002",
+"cond": "gold",
+"job": "8d0612e11153409f",
+"gold": [
+"autosomal dominant"
+]
+},
+{
+"qid": "52e92c6e98d0239505000024",
+"cond": "gold",
+"job": "3eab321fa6dec95f",
+"gold": [
+"RFX6"
+]
+},
+{
+"qid": "52f21e8f2059c6d71c00000c",
+"cond": "gold",
+"job": "6da846b94a17a8d0",
+"gold": [
+"BRCA1 dysfunction"
+]
+},
+{
+"qid": "530c7f52970c65fa6b000010",
+"cond": "gold",
+"job": "a5bcb64986bf1972",
+"gold": [
+"Oxantel disrupts polymicrobial biofilm"
+]
+},
+{
+"qid": "530cf4e0c8a0b4a00c000002",
+"cond": "gold",
+"job": "eae86f91f8cd7834",
+"gold": [
+"via mutations in beta-MHC and alpha-TPM1"
+]
+},
+{
+"qid": "53161545b166e2b806000002",
+"cond": "gold",
+"job": "d3e86536e02a0990",
+"gold": [
+"In HNPCC, the mismatch DNA repair system is involved."
+]
+},
+{
+"qid": "5319a6e9b166e2b806000023",
+"cond": "gold",
+"job": "bdc559930a7f8d36",
+"gold": [
+"A CAG trinucleotide repeat expansion in the HD gene"
+]
+},
+{
+"qid": "531e2695267d7dd05300000f",
+"cond": "gold",
+"job": "b0e1f9317177cfbd",
+"gold": [
+"mitochondrial inner membrane"
+]
+},
+{
+"qid": "532206819b2d7acc7e00000f",
+"cond": "gold",
+"job": "ff293ee6718c5f4e",
+"gold": [
+"Immunoaffinity purification"
+]
+},
+{
+"qid": "532f1452d6d3ac6a34000030",
+"cond": "gold",
+"job": "5296c55fb8d96f13",
+"gold": [
+"The ubiquitin proteome is the entire set ubiquitinated proteins and of their respective ubiquitination sites."
+]
+},
+{
+"qid": "53318685d6d3ac6a3400003d",
+"cond": "gold",
+"job": "e3cabb03bbbd2bbe",
+"gold": [
+"autosomal dominant"
+]
+},
+{
+"qid": "533c38b3c45e133714000009",
+"cond": "gold",
+"job": "40d4c52ef18cc4fe",
+"gold": [
+"30,000-50,000"
+]
+},
+{
+"qid": "53442ca9aeec6fbd0700000b",
+"cond": "gold",
+"job": "7c369c8d38cbd563",
+"gold": [
+"luminal side of the endoplasmic reticulum"
+]
+},
+{
+"qid": "5348307daeec6fbd07000011",
+"cond": "gold",
+"job": "5897cf91a5214f7c",
+"gold": [
+"intensity-based absolute quantification"
+]
+},
+{
+"qid": "534e364e288f4dae47000001",
+"cond": "gold",
+"job": "1c8f6cac9af893d4",
+"gold": [
+"Approximately 200",
+"200",
+"~200"
+]
+},
+{
+"qid": "53592c1e9a4572de6f000002",
+"cond": "gold",
+"job": "fd8d8c397775e125",
+"gold": [
+"3mm"
+]
+},
+{
+"qid": "535d2cf09a4572de6f000004",
+"cond": "gold",
+"job": "ec3f63909b728ceb",
+"gold": [
+"between 10,000 and 20,000"
+]
+},
+{
+"qid": "535d35779a4572de6f000005",
+"cond": "gold",
+"job": "cecede8422d1a14d",
+"gold": [
+"Between 1% and 2% "
+]
+},
+{
+"qid": "53617eeb7d100faa0900000a",
+"cond": "gold",
+"job": "155e392110a41e49",
+"gold": [
+"Anorexia Athletica"
+]
+},
+{
+"qid": "54ede76294afd61504000008",
+"cond": "gold",
+"job": "da1d5157388e1dec",
+"gold": [
+"At least 15%, based on the International Fanconi Anemia Registry (IFAR)"
+]
+},
+{
+"qid": "54edf81f94afd61504000014",
+"cond": "gold",
+"job": "8c7dd3b0db8369fa",
+"gold": [
+"BRG1"
+]
+},
+{
+"qid": "54ff5197e9bde69634000001",
+"cond": "gold",
+"job": "2809619e5fe9b4a5",
+"gold": [
+"6-7 kb"
+]
+},
+{
+"qid": "5506ce078e1671127b00000b",
+"cond": "gold",
+"job": "2da16cb6c997803a",
+"gold": [
+"Protein phosphatase 1",
+"PP1"
+]
+},
+{
+"qid": "55376663bc4f83e82800000a",
+"cond": "gold",
+"job": "9b22352c5549a0f2",
+"gold": [
+"CD99"
+]
+},
+{
+"qid": "554140ad182542114d000003",
+"cond": "gold",
+"job": "4b779cfa57577e81",
+"gold": [
+"mpMoRFsDB"
+]
+},
+{
+"qid": "554148c23f2354b713000001",
+"cond": "gold",
+"job": "6e4e205b6895b59c",
+"gold": [
+"LepChorionDB"
+]
+},
+{
+"qid": "5545e65bd355485447000001",
+"cond": "gold",
+"job": "e5d17dd86da8f487",
+"gold": [
+"Amyotrophic lateral sclerosis (ALS)"
+]
+},
+{
+"qid": "569e79ecceceede94d000002",
+"cond": "gold",
+"job": "cb4aeff52df8610c",
+"gold": [
+"The comprehensive characterization of the mouse transcriptome."
+]
+},
+{
+"qid": "56a39d60496b62f23f000006",
+"cond": "gold",
+"job": "c4a00427f6617e39",
+"gold": [
+"r3Cseq"
+]
+},
+{
+"qid": "56ae57350a360a5e4500000a",
+"cond": "gold",
+"job": "df6bde1ae00f932c",
+"gold": [
+"Norvaline"
+]
+},
+{
+"qid": "56ae70050a360a5e4500000f",
+"cond": "gold",
+"job": "01955cb9a74f1dcb",
+"gold": [
+"The repression of hematopoietic genes in erythroid cells."
+]
+},
+{
+"qid": "56b1f4300a360a5e4500001b",
+"cond": "gold",
+"job": "04810d4ea7e43e29",
+"gold": [
+"LQVVR"
+]
+},
+{
+"qid": "56b330bb39c782df06000001",
+"cond": "gold",
+"job": "f084edf1a9ad4f9a",
+"gold": [
+"Sushi.R"
+]
+},
+{
+"qid": "56b76d916e3f8eaf4c000001",
+"cond": "gold",
+"job": "bfe68df67861ce7a",
+"gold": [
+"Flaviviridae"
+]
+},
+{
+"qid": "56c073fcef6e394741000020",
+"cond": "gold",
+"job": "2c20a9a058e9f6d9",
+"gold": [
+"Spermidine protects against \u03b1-synuclein neurotoxicity"
+]
+},
+{
+"qid": "56c8f4615795f9a73e00001a",
+"cond": "gold",
+"job": "9bcd91c6fd7a3798",
+"gold": [
+"GBshape"
+]
+},
+{
+"qid": "56caea805795f9a73e00002c",
+"cond": "gold",
+"job": "9a60a12ad9c0e75d",
+"gold": [
+"Amino Acid-DepeLysosomal Membrane Protein SLC38A9"
+]
+},
+{
+"qid": "56cafa845795f9a73e00002e",
+"cond": "gold",
+"job": "504f42b524f88f98",
+"gold": [
+"The mTOR pathway"
+]
+},
+{
+"qid": "56cdf5195795f9a73e000045",
+"cond": "gold",
+"job": "a43006717d2353a7",
+"gold": [
+"Hsp90"
+]
+},
+{
+"qid": "56cf3f4f3975bb303a000008",
+"cond": "gold",
+"job": "6fbfdcc3ca8440e2",
+"gold": [
+"Xp21-p11"
+]
+},
+{
+"qid": "56d06e043975bb303a000011",
+"cond": "gold",
+"job": "2cbb9dc6fd61a2f6",
+"gold": [
+"hormone receptor-positive, human epidermal growth factor receptor 2-negative"
+]
+},
+{
+"qid": "56d860ad51531f7e33000002",
+"cond": "gold",
+"job": "dbd81507f5c298ca",
+"gold": [
+"Christianson syndrome"
+]
+},
+{
+"qid": "56f6c11109dd18d46b00000e",
+"cond": "gold",
+"job": "5e30e78c498f63c4",
+"gold": [
+"cyclophilin"
+]
+},
+{
+"qid": "56f961b3cf1c325851000003",
+"cond": "gold",
+"job": "6e9cb7aee9a75d8b",
+"gold": [
+"Blue"
+]
+},
+{
+"qid": "56fcf1b8cf1c325851000005",
+"cond": "gold",
+"job": "92ab64571f7cd0f4",
+"gold": [
+"it supresses cell cytokines and differentiation genes"
+]
+},
+{
+"qid": "571e4293bb137a4b0c00000b",
+"cond": "gold",
+"job": "fabe666c9dee6752",
+"gold": [
+"EAAT1 mutations"
+]
+},
+{
+"qid": "587e07023ec846c24f000001",
+"cond": "gold",
+"job": "afe2b7948991896b",
+"gold": [
+"PHYLUCE"
+]
+},
+{
+"qid": "587e1a01fc7e8dd84f000001",
+"cond": "gold",
+"job": "3d0a77038878c449",
+"gold": [
+"RADAR"
+]
+},
+{
+"qid": "587e1bfdfc7e8dd84f000002",
+"cond": "gold",
+"job": "63b21163df5d0f83",
+"gold": [
+"GBshape"
+]
+},
+{
+"qid": "587e3129c32c812009000002",
+"cond": "gold",
+"job": "0e35527b0e66078f",
+"gold": [
+"traseR"
+]
+},
+{
+"qid": "587e3e302420191125000002",
+"cond": "gold",
+"job": "621ee6e4e63a890a",
+"gold": [
+"LOLA"
+]
+},
+{
+"qid": "587f760792a5b8ad44000005",
+"cond": "gold",
+"job": "abbe1defd670132d",
+"gold": [
+"JAMM"
+]
+},
+{
+"qid": "587f795d92a5b8ad44000007",
+"cond": "gold",
+"job": "0356d7192f16d469",
+"gold": [
+"Left-Right Asymmetry"
+]
+},
+{
+"qid": "587f7a69d8d850a152000001",
+"cond": "gold",
+"job": "e28430bd0abc9c78",
+"gold": [
+"libFLASM"
+]
+},
+{
+"qid": "5880a8ec0a76a87357000001",
+"cond": "gold",
+"job": "ae9b7e5777fa2198",
+"gold": [
+"CAFE"
+]
+},
+{
+"qid": "5883a727e56acf5176000001",
+"cond": "gold",
+"job": "527d753eef6f89b6",
+"gold": [
+"The expansion of resident stem cells."
+]
+},
+{
+"qid": "58853667e56acf5176000015",
+"cond": "gold",
+"job": "6f7a246679b4318d",
+"gold": [
+"Modulation of expression of the G protein-coupled receptor G2A."
+]
+},
+{
+"qid": "588f341594c1512c50000002",
+"cond": "gold",
+"job": "defc12a4f4dcaaa7",
+"gold": [
+"Learning de novo promoter architectures from genome-wide transcription start sites."
+]
+},
+{
+"qid": "589185cc621ea6ff7e00000b",
+"cond": "gold",
+"job": "303c4ba7b1171dd3",
+"gold": [
+"Spinal Muscular Atrophy",
+"SMA"
+]
+},
+{
+"qid": "5891c90949702f2e01000001",
+"cond": "gold",
+"job": "4ef403f55b702490",
+"gold": [
+"INCA"
+]
+},
+{
+"qid": "589317e849702f2e01000005",
+"cond": "gold",
+"job": "008761abe2a48ec4",
+"gold": [
+"Pse-in-One"
+]
+},
+{
+"qid": "589480b47d9090f353000007",
+"cond": "gold",
+"job": "ed4ac130099a268c",
+"gold": [
+"webSDA"
+]
+},
+{
+"qid": "5895f18ce370baff39000001",
+"cond": "gold",
+"job": "af3498f3eaeefc74",
+"gold": [
+"SSCprofiler"
+]
+},
+{
+"qid": "58a2df9c60087bc10a000006",
+"cond": "gold",
+"job": "e2cab9357b0ce70c",
+"gold": [
+"8%"
+]
+},
+{
+"qid": "58a877cf38c171fb5b000004",
+"cond": "gold",
+"job": "934d3ba316a96ac4",
+"gold": [
+"transposable element insertion"
+]
+},
+{
+"qid": "58a9d8a1396a458e50000005",
+"cond": "gold",
+"job": "226243fc31f582a2",
+"gold": [
+"In the inner mitochondrial membrane"
+]
+},
+{
+"qid": "58bc363622d300530900001f",
+"cond": "gold",
+"job": "8578967d0144536d",
+"gold": [
+"Akkermansia muciniphila resides in the gastrointestinal tracts of humans and animals."
+]
+},
+{
+"qid": "58c27b7102b8c60953000021",
+"cond": "gold",
+"job": "2a1fe1e030f5c8ed",
+"gold": [
+"the sharing of enhancer elements",
+"enhancer sharing"
+]
+},
+{
+"qid": "58d0dc878acda34529000004",
+"cond": "gold",
+"job": "083f3704530d6192",
+"gold": [
+"The DAL cluster"
+]
+},
+{
+"qid": "58df47f08acda3452900002f",
+"cond": "gold",
+"job": "f5c08213058a53fb",
+"gold": [
+"cryopyrin-associated periodic syndromes (CAPS) disorders"
+]
+},
+{
+"qid": "58e79e703e8b6dc87c00000a",
+"cond": "gold",
+"job": "22b984a0d1433f6f",
+"gold": [
+"50-60%"
+]
+},
+{
+"qid": "58e9f0ba3e8b6dc87c00000e",
+"cond": "gold",
+"job": "4c0d221f8a035b61",
+"gold": [
+"Nasuia deltocephalinicola"
+]
+},
+{
+"qid": "58ea7248eda5a57672000002",
+"cond": "gold",
+"job": "aa0adb36934a520a",
+"gold": [
+"congenital insensitivity to pain",
+"CIP"
+]
+},
+{
+"qid": "58f0b0c070f9fc6f0f000006",
+"cond": "gold",
+"job": "bb5b08f9bf31a3c9",
+"gold": [
+"Valbenazine granted breakthrough drug status for treating tardive dyskinesia."
+]
+},
+{
+"qid": "58f4b1a170f9fc6f0f000010",
+"cond": "gold",
+"job": "e37b9c2ab903953f",
+"gold": [
+"Amanita phalloides"
+]
+},
+{
+"qid": "593fe7f970f9fc6f0f000022",
+"cond": "gold",
+"job": "4e482f7fc9d49275",
+"gold": [
+"3",
+"three"
+]
+},
+{
+"qid": "5a551a8fb750ff4455000002",
+"cond": "gold",
+"job": "979f11c8d0070745",
+"gold": [
+"Osteosarcoma"
+]
+},
+{
+"qid": "5a67c497b750ff4455000012",
+"cond": "gold",
+"job": "e027bbe7952c4794",
+"gold": [
+"Genomiser"
+]
+},
+{
+"qid": "5a6d1733b750ff4455000030",
+"cond": "gold",
+"job": "c340caf2d0e0630d",
+"gold": [
+"Limb-Enhancer Genie (LEG)"
+]
+},
+{
+"qid": "5a6d196db750ff4455000032",
+"cond": "gold",
+"job": "fda7ac258b6d8d91",
+"gold": [
+"Subpallial Enhancer Transgenic Lines"
+]
+},
+{
+"qid": "5a6e472ab750ff4455000048",
+"cond": "gold",
+"job": "d42c2e690e382101",
+"gold": [
+"Cellular adhesion function"
+]
+},
+{
+"qid": "5a70ce82b750ff4455000065",
+"cond": "gold",
+"job": "219ddc6a796eb850",
+"gold": [
+"Anti-RANKL antibody which prevents bone catabolism in osteoporosis"
+]
+},
+{
+"qid": "5a72302b2dc08e987e000005",
+"cond": "gold",
+"job": "28eb5931e749af62",
+"gold": [
+"patent foramen ovale"
+]
+},
+{
+"qid": "5a735cdc3b9d13c708000004",
+"cond": "gold",
+"job": "881b7ff0da1e1928",
+"gold": [
+"Phase 3"
+]
+},
+{
+"qid": "5a75f6e083b0d9ea66000009",
+"cond": "gold",
+"job": "466832278269f79e",
+"gold": [
+"Cseq-Simulator"
+]
+},
+{
+"qid": "5a76160a83b0d9ea66000020",
+"cond": "gold",
+"job": "a09cd9fd66d19dfe",
+"gold": [
+"BPP"
+]
+},
+{
+"qid": "5a76179d83b0d9ea66000021",
+"cond": "gold",
+"job": "5d1550cbb25059c3",
+"gold": [
+"SeqArray"
+]
+},
+{
+"qid": "5a774fdcfaa1ab7d2e000008",
+"cond": "gold",
+"job": "ea5649923f71da42",
+"gold": [
+"P53-binding protein 1",
+"53BP1"
+]
+},
+{
+"qid": "5a7d4721faa1ab7d2e000012",
+"cond": "gold",
+"job": "19b67155c5304430",
+"gold": [
+"Stabilizes",
+"Protects"
+]
+},
+{
+"qid": "5a7d4e9afaa1ab7d2e000013",
+"cond": "gold",
+"job": "eb6aa202cf7cc4d7",
+"gold": [
+"eight"
+]
+},
+{
+"qid": "5a7d51dafaa1ab7d2e000017",
+"cond": "gold",
+"job": "1f2ecae8a25e1ee6",
+"gold": [
+"Intravenous"
+]
+},
+{
+"qid": "5a7d5ce0faa1ab7d2e00001b",
+"cond": "gold",
+"job": "f758e0ad3ab92fe3",
+"gold": [
+"Reduces body weight"
+]
+},
+{
+"qid": "5a89800efcd1d6a10c00000c",
+"cond": "gold",
+"job": "d4256649276fcb1f",
+"gold": [
+"UCP1+ adipocytes"
+]
+},
+{
+"qid": "5a9ac4e81d1251d03b000011",
+"cond": "gold",
+"job": "03a034271313444f",
+"gold": [
+"high-grade gliomas"
+]
+},
+{
+"qid": "5a9d29571d1251d03b000018",
+"cond": "gold",
+"job": "921f799d4d73fde1",
+"gold": [
+"Inhibitory"
+]
+},
+{
+"qid": "5a9d8d691d1251d03b000020",
+"cond": "gold",
+"job": "6f3f5ea6a1fa12f9",
+"gold": [
+"RAB10 may be potential biomarkers of AD"
+]
+},
+{
+"qid": "5aacd487fcf4565872000007",
+"cond": "gold",
+"job": "5c43a0f64c35a868",
+"gold": [
+"DNA polymerase theta (pol \u03b8) is an evolutionarily conserved protein encoded by the POLQ gene in mammalian genomes"
+]
+},
+{
+"qid": "5abd13e1fcf4565872000029",
+"cond": "gold",
+"job": "095ad10edb4a11a4",
+"gold": [
+"foot"
+]
+},
+{
+"qid": "5ac0a82d19833b0d7b000003",
+"cond": "gold",
+"job": "210a77971df0be10",
+"gold": [
+"100%"
+]
+},
+{
+"qid": "5ac24c9495d0062724000002",
+"cond": "gold",
+"job": "9633be977ebf3a02",
+"gold": [
+"location of DNA binding proteins at high resolution"
+]
+},
+{
+"qid": "5ac716810340b9f058000003",
+"cond": "gold",
+"job": "c99d659c2be77bd4",
+"gold": [
+"lncRNA H19"
+]
+},
+{
+"qid": "5ace17c30340b9f058000009",
+"cond": "gold",
+"job": "e60cbbeaf50f938e",
+"gold": [
+"OR7D4"
+]
+},
+{
+"qid": "5acf74460340b9f058000013",
+"cond": "gold",
+"job": "10f2bcf1a2cacc3f",
+"gold": [
+"ABCC11"
+]
+},
+{
+"qid": "5ad4dd93133db5eb78000008",
+"cond": "gold",
+"job": "66ca31c4f17545f7",
+"gold": [
+"A three-legged pinwheel-shaped heteropolymer."
+]
+},
+{
+"qid": "5be44ed3133db5eb78000016",
+"cond": "gold",
+"job": "c4a2b0c8e0c962d3",
+"gold": [
+"Bacterial endero-mammary pathway"
+]
+},
+{
+"qid": "5be48c39133db5eb7800001d",
+"cond": "gold",
+"job": "00ad2496c538a5a9",
+"gold": [
+"PD-L1 status"
+]
+},
+{
+"qid": "5be494a0133db5eb7800001f",
+"cond": "gold",
+"job": "e201daf8fefa90ac",
+"gold": [
+"Glioma"
+]
+},
+{
+"qid": "5c0112dd133db5eb78000026",
+"cond": "gold",
+"job": "248c2f4e83660d48",
+"gold": [
+"Tuberculosis"
+]
+},
+{
+"qid": "5c011448133db5eb78000027",
+"cond": "gold",
+"job": "3889dce7e868a525",
+"gold": [
+"Inhibits bacterial DNA replication"
+]
+},
+{
+"qid": "5c0115e0133db5eb78000029",
+"cond": "gold",
+"job": "03da3bc33788ac25",
+"gold": [
+"type IIA"
+]
+},
+{
+"qid": "5c0117fd133db5eb7800002a",
+"cond": "gold",
+"job": "d855de697bf41830",
+"gold": [
+"2017"
+]
+},
+{
+"qid": "5c2cf051133db5eb78000030",
+"cond": "gold",
+"job": "cc1754f8884a2527",
+"gold": [
+"3600"
+]
+},
+{
+"qid": "5c51f01e07ef653866000002",
+"cond": "gold",
+"job": "3a6f4c234ebac237",
+"gold": [
+"CNEFinder"
+]
+},
+{
+"qid": "5c51f9dd07ef653866000005",
+"cond": "gold",
+"job": "30d4157140aef445",
+"gold": [
+"CNV-RF"
+]
+},
+{
+"qid": "5c51fb7a07ef653866000006",
+"cond": "gold",
+"job": "1b906d45cc2479cb",
+"gold": [
+"DeepVariant"
+]
+},
+{
+"qid": "5c5219f67e3cb0e231000006",
+"cond": "gold",
+"job": "557c662a63d3da1d",
+"gold": [
+"SVM OR Support Vector Machine"
+]
+},
+{
+"qid": "5c5312097e3cb0e231000011",
+"cond": "gold",
+"job": "220788371a12627b",
+"gold": [
+"Ohio"
+]
+},
+{
+"qid": "5c53191a7e3cb0e231000016",
+"cond": "gold",
+"job": "c02df81ae5ee1434",
+"gold": [
+"Porphyromonas gingivalis"
+]
+},
+{
+"qid": "5c532ad97e3cb0e23100001a",
+"cond": "gold",
+"job": "3f587adf35ac69ad",
+"gold": [
+"3DSNP"
+]
+},
+{
+"qid": "5c56b96e07647bbc4b000010",
+"cond": "gold",
+"job": "1e61f43bbf490603",
+"gold": [
+"ezTag"
+]
+},
+{
+"qid": "5c58962286df2b9174000007",
+"cond": "gold",
+"job": "de129659c7319c0c",
+"gold": [
+"lead"
+]
+},
+{
+"qid": "5c5b4a941a4c55d80b000002",
+"cond": "gold",
+"job": "af5e9e275f330db6",
+"gold": [
+"PIK3CA"
+]
+},
+{
+"qid": "5c5f10791a4c55d80b000014",
+"cond": "gold",
+"job": "20ea595075b117b3",
+"gold": [
+"PolyA polymerase (PAP) adds a polyA tail onto the 3'-end of RNAs without a nucleic acid template, using adenosine-5'-triphosphate (ATP) as a substrate."
+]
+},
+{
+"qid": "5c5f2c0c1a4c55d80b000021",
+"cond": "gold",
+"job": "75816b563c116e2b",
+"gold": [
+"A keystone periodontal pathogen. "
+]
+},
+{
+"qid": "5c5f30c91a4c55d80b000025",
+"cond": "gold",
+"job": "43f9f99d5e2503eb",
+"gold": [
+"T helper type 17 (TH17) cells."
+]
+},
+{
+"qid": "5c5f3a1f1a4c55d80b000028",
+"cond": "gold",
+"job": "cd7082f5c2bf9ddd",
+"gold": [
+"The convertion of L-fucose to fucose-1-phosphate."
+]
+},
+{
+"qid": "5c5f56501a4c55d80b00002a",
+"cond": "gold",
+"job": "e5795dc00eb19f72",
+"gold": [
+"Re-express the basic helix-loop-helix (bHLH) transcription factor dHAND (also known as Hand2) in the diseased human and mouse myocardium."
+]
+},
+{
+"qid": "5c630666e842deac6700000c",
+"cond": "gold",
+"job": "985ab34cbf11b10a",
+"gold": [
+"MIR137"
+]
+},
+{
+"qid": "5c6545bae842deac6700001d",
+"cond": "gold",
+"job": "ab9d16a8af19a6c0",
+"gold": [
+"CD38"
+]
+},
+{
+"qid": "5c65468ce842deac6700001e",
+"cond": "gold",
+"job": "ee6832bea8b58702",
+"gold": [
+"Mogamulizumab"
+]
+},
+{
+"qid": "5c65897a7c78d69471000006",
+"cond": "gold",
+"job": "47b48197c028d07d",
+"gold": [
+"Enasidenib"
+]
+},
+{
+"qid": "5c65abd17c78d69471000009",
+"cond": "gold",
+"job": "1a7a2a9ea6d3cd30",
+"gold": [
+"Cellular adhesion function"
+]
+},
+{
+"qid": "5c65b7657c78d6947100000c",
+"cond": "gold",
+"job": "5eea4d0cc204357e",
+"gold": [
+"FunImageJ"
+]
+},
+{
+"qid": "5c6ab4c17c78d6947100001d",
+"cond": "gold",
+"job": "b962dc0ea25329d4",
+"gold": [
+"MATLAB"
+]
+},
+{
+"qid": "5c6acb107c78d6947100001f",
+"cond": "gold",
+"job": "12c260ffd2b02fd2",
+"gold": [
+"IRscope"
+]
+},
+{
+"qid": "5c6ad2997c78d69471000020",
+"cond": "gold",
+"job": "62ebb7fb0fb3865a",
+"gold": [
+"PyNBS"
+]
+},
+{
+"qid": "5c6d65637c78d69471000038",
+"cond": "gold",
+"job": "c47f0113805f6d51",
+"gold": [
+"Protein Contacts Atlas"
+]
+},
+{
+"qid": "5c7d5ae9d774d04240000010",
+"cond": "gold",
+"job": "afcfa5a5895150a2",
+"gold": [
+"Adipose Tissue"
+]
+},
+{
+"qid": "5c85234775a4a5d219000007",
+"cond": "gold",
+"job": "03173c5ecaadbec9",
+"gold": [
+"Fidaxomicin"
+]
+},
+{
+"qid": "5c890ad575a4a5d21900000d",
+"cond": "gold",
+"job": "ed6cf1435bae8889",
+"gold": [
+"Olive tree"
+]
+},
+{
+"qid": "5c890e6d75a4a5d21900000f",
+"cond": "gold",
+"job": "2e6bad980f767350",
+"gold": [
+"Mountain tea",
+"Ironwort"
+]
+},
+{
+"qid": "5c896f60d558e5f232000003",
+"cond": "gold",
+"job": "a59bd26d45a518dc",
+"gold": [
+"children and young adults with refractory or relapse B cell precursor acute lymphoblastic leukemia"
+]
+},
+{
+"qid": "5c897082d558e5f232000004",
+"cond": "gold",
+"job": "6ac91a54f2b026ae",
+"gold": [
+"475,000 USD"
+]
+},
+{
+"qid": "5c8973f3d558e5f232000007",
+"cond": "gold",
+"job": "93027dc97c3eae61",
+"gold": [
+"Glybera",
+"Alipogene tiparvovec"
+]
+},
+{
+"qid": "5c897555d558e5f232000009",
+"cond": "gold",
+"job": "a243073a5704a0c1",
+"gold": [
+"Luxturna"
+]
+},
+{
+"qid": "5c8fe1f10101eac87000000a",
+"cond": "gold",
+"job": "cdb333313a0feb34",
+"gold": [
+"Promotes",
+"Induces"
+]
+},
+{
+"qid": "5c8fe7cb0101eac87000000c",
+"cond": "gold",
+"job": "c3caa4fd05b1c691",
+"gold": [
+"Runt related factor-2"
+]
+},
+{
+"qid": "5c8fee200101eac87000000f",
+"cond": "gold",
+"job": "38e391d6897a98c7",
+"gold": [
+"None"
+]
+},
+{
+"qid": "5c8fef490101eac870000010",
+"cond": "gold",
+"job": "f363a8400f83b4f8",
+"gold": [
+"Cofilin 2"
+]
+},
+{
+"qid": "5c915a8becadf2e73f000009",
+"cond": "gold",
+"job": "6193fbb3bf610ea4",
+"gold": [
+"Keytruda"
+]
+},
+{
+"qid": "5c920df7ecadf2e73f00000f",
+"cond": "gold",
+"job": "5f801c25f647655f",
+"gold": [
+"Oral"
+]
+},
+{
+"qid": "5c920f13ecadf2e73f000010",
+"cond": "gold",
+"job": "728405490df53532",
+"gold": [
+"anticoagulant"
+]
+},
+{
+"qid": "5c920fc3ecadf2e73f000011",
+"cond": "gold",
+"job": "fb73baefd44c9fed",
+"gold": [
+"Eliquis"
+]
+},
+{
+"qid": "5c92869aecadf2e73f000015",
+"cond": "gold",
+"job": "b315321c5c909c55",
+"gold": [
+"Magnesium transporter"
+]
+},
+{
+"qid": "5c93e8bdecadf2e73f00001c",
+"cond": "gold",
+"job": "5a559e39a39c14bb",
+"gold": [
+"Aicardi-Goutieres syndrome"
+]
+},
+{
+"qid": "5c9e6e99ecadf2e73f000036",
+"cond": "gold",
+"job": "7803dd2f32d6d2f8",
+"gold": [
+"Mitochondrial transfer"
+]
+},
+{
+"qid": "5c9efde8ecadf2e73f000039",
+"cond": "gold",
+"job": "d10082b9d3e50212",
+"gold": [
+"deficiency of \u03b2-galactocerebrosidase"
+]
+},
+{
+"qid": "5caa0247ecadf2e73f000055",
+"cond": "gold",
+"job": "9bfaaf4fdf307c88",
+"gold": [
+"moesin (Moe)"
+]
+},
+{
+"qid": "5d35e421b3a638076300000d",
+"cond": "gold",
+"job": "d6c6155e9ca2b221",
+"gold": [
+"14 cell divisions"
+]
+},
+{
+"qid": "5d36b8a37bc3fee31f000009",
+"cond": "gold",
+"job": "0cbe58a97b8af40e",
+"gold": [
+"apoptosis"
+]
+},
+{
+"qid": "5d38577b7bc3fee31f000017",
+"cond": "gold",
+"job": "3c7321a475c96143",
+"gold": [
+"lack of H1"
+]
+},
+{
+"qid": "5d387c20a1e1595105000010",
+"cond": "gold",
+"job": "1b6d277863d36391",
+"gold": [
+"783"
+]
+},
+{
+"qid": "5e29fb27aa19d74431000005",
+"cond": "gold",
+"job": "24215588540b9686",
+"gold": [
+"Hyperphosphorylation",
+"Hyperphosphorylates"
+]
+},
+{
+"qid": "5e2a046caa19d74431000008",
+"cond": "gold",
+"job": "88f84427900bbcbf",
+"gold": [
+"One"
+]
+},
+{
+"qid": "5e2a080caa19d7443100000a",
+"cond": "gold",
+"job": "f6750875e7be332c",
+"gold": [
+"AMPK/Sirt1 pathway"
+]
+},
+{
+"qid": "5e2b00bc76af173751000004",
+"cond": "gold",
+"job": "84834dd0d2e80b02",
+"gold": [
+"DeepSynergy"
+]
+},
+{
+"qid": "5e2deb35fbd6abf43b00001c",
+"cond": "gold",
+"job": "49a8980d5cfd95d3",
+"gold": [
+"SLIC-CAGE"
+]
+},
+{
+"qid": "5e2e11a1fbd6abf43b000021",
+"cond": "gold",
+"job": "6ad9271046e60a4e",
+"gold": [
+"G380R"
+]
+},
+{
+"qid": "5e2e136bfbd6abf43b000023",
+"cond": "gold",
+"job": "375d4a8d569123f2",
+"gold": [
+"The OncoPPi Portal"
+]
+},
+{
+"qid": "5e2e1986fbd6abf43b000025",
+"cond": "gold",
+"job": "be96279babfa8ce2",
+"gold": [
+"c.G2873A",
+"p.R958H"
+]
+},
+{
+"qid": "5e30b870fbd6abf43b000038",
+"cond": "gold",
+"job": "4e537a87b7c06f22",
+"gold": [
+"Neo4j"
+]
+},
+{
+"qid": "5e36a718b5b409ea53000004",
+"cond": "gold",
+"job": "5cf2a2f1765e9063",
+"gold": [
+"Uc.63+"
+]
+},
+{
+"qid": "5e36cf8eb5b409ea53000007",
+"cond": "gold",
+"job": "7394097d7fff4db9",
+"gold": [
+"melanocytes"
+]
+},
+{
+"qid": "5e36d5b9b5b409ea53000009",
+"cond": "gold",
+"job": "e20bfa8b911d9526",
+"gold": [
+"ExpansionHunter"
+]
+},
+{
+"qid": "5e3ab4f8b5b409ea5300001b",
+"cond": "gold",
+"job": "6095d5a8806837cc",
+"gold": [
+"Layman's term vocabulary for health related terms"
+]
+},
+{
+"qid": "5e3da25848dab47f26000004",
+"cond": "gold",
+"job": "1f532ea37f32a742",
+"gold": [
+"omodysplasia"
+]
+},
+{
+"qid": "5e4565c63f54159529000001",
+"cond": "gold",
+"job": "a17d140279d58136",
+"gold": [
+"elbow dysplasia"
+]
+},
+{
+"qid": "5e48edb1f8b2df0d49000002",
+"cond": "gold",
+"job": "3a8c1a76019c5e90",
+"gold": [
+"Proton beams"
+]
+},
+{
+"qid": "5e499e266d0a27794100000c",
+"cond": "gold",
+"job": "38a1821aa5a5ea13",
+"gold": [
+"Viagra"
+]
+},
+{
+"qid": "5e4adb486d0a277941000015",
+"cond": "gold",
+"job": "f6eaebe577cf942e",
+"gold": [
+"Cytoscape (version 3)"
+]
+},
+{
+"qid": "5e4bed1c6d0a27794100002b",
+"cond": "gold",
+"job": "52579ad27af5beac",
+"gold": [
+"butterfly rash associated with SLE"
+]
+},
+{
+"qid": "5e50123e6d0a277941000036",
+"cond": "gold",
+"job": "fa571a2ff90ec12f",
+"gold": [
+"Stata"
+]
+},
+{
+"qid": "5e5286036d0a277941000040",
+"cond": "gold",
+"job": "16a9bc526a06de6e",
+"gold": [
+"Chromosome 15"
+]
+},
+{
+"qid": "5e52a4ec6d0a277941000044",
+"cond": "gold",
+"job": "a05ab48ee4d6d159",
+"gold": [
+"Phosphonormalizer"
+]
+},
+{
+"qid": "5e52a7b66d0a277941000045",
+"cond": "gold",
+"job": "ad894eb29a2d1753",
+"gold": [
+"DeepCpG"
+]
+},
+{
+"qid": "5e52add36d0a277941000047",
+"cond": "gold",
+"job": "a0dd2ec0182c4c2b",
+"gold": [
+"easyGWAS"
+]
+},
+{
+"qid": "5e5409776d0a277941000051",
+"cond": "gold",
+"job": "86b24fdf779a5e6d",
+"gold": [
+"dual Src/Abl kinase"
+]
+},
+{
+"qid": "5e5b626fb761aafe0900000c",
+"cond": "gold",
+"job": "5bbd9643f0424a1d",
+"gold": [
+"Multidrug-resistant P-glycoprotein 3 (MDR3) is a phospholipid translocator"
+]
+},
+{
+"qid": "5e5b6f04b761aafe0900000e",
+"cond": "gold",
+"job": "3b65c82e8c169c76",
+"gold": [
+"The severe acute respiratory syndrome coronavirus (SARS-CoV) genome is predicted to encode 14 functional open reading frames, leading to the expression of up to 30 structural and non-structural protein products."
+]
+},
+{
+"qid": "5e5bab131af46fc130000001",
+"cond": "gold",
+"job": "f0dd0be56304eb3a",
+"gold": [
+"The GBA2 gene encodes the non-lysosomal glucosylceramidase (NLGase), an enzyme that catalyzes the conversion of glucosylceramide (GlcCer) to ceramide and glucose."
+]
+},
+{
+"qid": "5e5d24811af46fc130000006",
+"cond": "gold",
+"job": "83f7c3c81018016c",
+"gold": [
+"Romiplostim (ROM) is a thrombopoietin (TPO)-receptor-agonist"
+]
+},
+{
+"qid": "5e6de3f21af46fc130000022",
+"cond": "gold",
+"job": "7a44a866f1fdb258",
+"gold": [
+"polymerase"
+]
+},
+{
+"qid": "5e6df7887fc1ee872b000001",
+"cond": "gold",
+"job": "157a1c36227ee532",
+"gold": [
+"PTEN pseudogene (PTENp) acts as an endogenous RNA, which regulates its parental gene by competitively binding to the 3' UTR of PTEN gene in the human."
+]
+},
+{
+"qid": "5e6e487151b80c9423000001",
+"cond": "gold",
+"job": "0fd22fe9bdc6aa3b",
+"gold": [
+"lysine methyltransferase activity"
+]
+},
+{
+"qid": "5e763bd4c6a8763d2300000f",
+"cond": "gold",
+"job": "95064f9acf5b3c84",
+"gold": [
+"1983"
+]
+},
+{
+"qid": "5e76436cc6a8763d23000012",
+"cond": "gold",
+"job": "3b5fbf21eb9863a2",
+"gold": [
+"Oral"
+]
+},
+{
+"qid": "5e76452fc6a8763d23000015",
+"cond": "gold",
+"job": "4c8f1354393cfb25",
+"gold": [
+"80-100%"
+]
+},
+{
+"qid": "5e7667b1835f4e4777000004",
+"cond": "gold",
+"job": "f51b4a71d159a1d6",
+"gold": [
+"G1P[8]"
+]
+},
+{
+"qid": "5e7745ea835f4e4777000006",
+"cond": "gold",
+"job": "319b3fd98e5a3bae",
+"gold": [
+"Leuprorelin acetate"
+]
+},
+{
+"qid": "5e776443835f4e4777000008",
+"cond": "gold",
+"job": "4bde1472ab90a120",
+"gold": [
+"Astellas Pharma GmbH"
+]
+},
+{
+"qid": "5e776845835f4e477700000a",
+"cond": "gold",
+"job": "0065b1484be7cc79",
+"gold": [
+"Modified Vaccinia virus Ankara expressing Antigen 85A"
+]
+},
+{
+"qid": "5e776a75835f4e477700000d",
+"cond": "gold",
+"job": "d9a7c40425396a55",
+"gold": [
+"MannKind Corporation"
+]
+},
+{
+"qid": "5e776cfe835f4e4777000010",
+"cond": "gold",
+"job": "c99f338a9feb8f2b",
+"gold": [
+"June 2014"
+]
+},
+{
+"qid": "5e776db8835f4e4777000011",
+"cond": "gold",
+"job": "07100a509475c2c8",
+"gold": [
+"Sanofi"
+]
+},
+{
+"qid": "5e7f5d0d835f4e4777000016",
+"cond": "gold",
+"job": "bc79cef138761cb2",
+"gold": [
+"In advance of the 2015-2016 season"
+]
+},
+{
+"qid": "5e7f64d6835f4e477700001f",
+"cond": "gold",
+"job": "f619c716682abcc7",
+"gold": [
+"transdermal drug-coated microneedle patch system"
+]
+},
+{
+"qid": "5e920be42d3121100d00000c",
+"cond": "gold",
+"job": "c811447ed77001cc",
+"gold": [
+"Viral Polymerase"
+]
+},
+{
+"qid": "601bde6e1cb411341a000006",
+"cond": "gold",
+"job": "5d799e873c970daa",
+"gold": [
+"Multisystem disease with abnormal neurodevelopment"
+]
+},
+{
+"qid": "601bfa531cb411341a000008",
+"cond": "gold",
+"job": "1253c7c3a2345b7e",
+"gold": [
+"Primary microcephaly"
+]
+},
+{
+"qid": "601d2d001cb411341a00002c",
+"cond": "gold",
+"job": "200caf90b0dac6f3",
+"gold": [
+"Joubert syndrome"
+]
+},
+{
+"qid": "601d74681cb411341a000042",
+"cond": "gold",
+"job": "10f57177769846fd",
+"gold": [
+"KRASG12C"
+]
+},
+{
+"qid": "601d79e01cb411341a000047",
+"cond": "gold",
+"job": "30551a3a2f23bc0e",
+"gold": [
+"INDEED"
+]
+},
+{
+"qid": "601db60e1cb411341a000049",
+"cond": "gold",
+"job": "be3d6b90ea641af3",
+"gold": [
+"D2",
+"chromosome D2"
+]
+},
+{
+"qid": "601eafcd1cb411341a000056",
+"cond": "gold",
+"job": "6f51abb1fdd2929b",
+"gold": [
+"DeepCC"
+]
+},
+{
+"qid": "601eb56c1cb411341a000058",
+"cond": "gold",
+"job": "2b429720d824ffb1",
+"gold": [
+"20",
+"20p12",
+"mkks or bbs6 gene on chromosome 20p12",
+"20p12 between D20S162 and D20S894 markers"
+]
+},
+{
+"qid": "601ebba41cb411341a00005a",
+"cond": "gold",
+"job": "af45747f1d62601b",
+"gold": [
+"DagLogo"
+]
+},
+{
+"qid": "601ebde11cb411341a00005d",
+"cond": "gold",
+"job": "f5d08d7179b6bc79",
+"gold": [
+"SignatureSearch"
+]
+},
+{
+"qid": "6020a8431cb411341a00007f",
+"cond": "gold",
+"job": "f7b8cfb74fa96546",
+"gold": [
+"Daratumumab"
+]
+},
+{
+"qid": "60258edd1cb411341a0000a9",
+"cond": "gold",
+"job": "a1c11942fb5c6455",
+"gold": [
+"Rheumatoid arthritis"
+]
+},
+{
+"qid": "602593101cb411341a0000ab",
+"cond": "gold",
+"job": "728278df5acdff8e",
+"gold": [
+"disease-modifying antirheumatic drug"
+]
+},
+{
+"qid": "6026d8641cb411341a0000cd",
+"cond": "gold",
+"job": "61190d3619222557",
+"gold": [
+"ubrogepant"
+]
+},
+{
+"qid": "6026f0251cb411341a0000d6",
+"cond": "gold",
+"job": "540232d12a3fc918",
+"gold": [
+"Intravenously"
+]
+},
+{
+"qid": "6027f8ae1cb411341a0000ed",
+"cond": "gold",
+"job": "1803ebb910d90c5c",
+"gold": [
+"metPropagate"
+]
+},
+{
+"qid": "6028183e1cb411341a0000f1",
+"cond": "gold",
+"job": "a8f1bec6734c3840",
+"gold": [
+"Putamen"
+]
+},
+{
+"qid": "60281eb11cb411341a0000f5",
+"cond": "gold",
+"job": "8f3772923791d2ca",
+"gold": [
+"Hippocampal volume"
+]
+},
+{
+"qid": "6028f5851cb411341a0000ff",
+"cond": "gold",
+"job": "b1f3ea63f47ddc6c",
+"gold": [
+"1.1%"
+]
+},
+{
+"qid": "6028fad21cb411341a000101",
+"cond": "gold",
+"job": "8bbe4cf75bfa27a9",
+"gold": [
+"September 2018"
+]
+},
+{
+"qid": "602967de1cb411341a000113",
+"cond": "gold",
+"job": "17131fd6269f20b1",
+"gold": [
+"32"
+]
+},
+{
+"qid": "602a84ae1cb411341a000116",
+"cond": "gold",
+"job": "bbcb6ebddfd4f87a",
+"gold": [
+"Long noncoding RNAs",
+"lncRNAs"
+]
+},
+{
+"qid": "602c1d3b1cb411341a00011e",
+"cond": "gold",
+"job": "f4ab79e0e209ab65",
+"gold": [
+"activin type II receptors"
+]
+},
+{
+"qid": "6030fcb51cb411341a000127",
+"cond": "gold",
+"job": "8abc91c2256adb54",
+"gold": [
+"http://braineacv2.inf.um.es/"
+]
+},
+{
+"qid": "6030fe7a1cb411341a000128",
+"cond": "gold",
+"job": "5991609850b5b748",
+"gold": [
+"Neurodevelopmental disorders"
+]
+},
+{
+"qid": "6031287e1cb411341a00012d",
+"cond": "gold",
+"job": "64682f97e84dc588",
+"gold": [
+"ARID1B"
+]
+},
+{
+"qid": "603219c21cb411341a000133",
+"cond": "gold",
+"job": "64edee5f59cef745",
+"gold": [
+"'Vesiduction' as a fourth mode of intercellular DNA transfer."
+]
+},
+{
+"qid": "603251f81cb411341a00013a",
+"cond": "gold",
+"job": "fa0d3e6b934ab84f",
+"gold": [
+"c-Myc"
+]
+},
+{
+"qid": "6032a0e21cb411341a000148",
+"cond": "gold",
+"job": "70f4c43d3ff5c697",
+"gold": [
+"antimicrobial peptide of bacteria"
+]
+},
+{
+"qid": "6032b6661cb411341a00014a",
+"cond": "gold",
+"job": "ffc6d571e990b166",
+"gold": [
+"liver"
+]
+},
+{
+"qid": "6032ba631cb411341a00014b",
+"cond": "gold",
+"job": "80785008a7058e39",
+"gold": [
+"lysozyme is an antimicrobial enzyme."
+]
+},
+{
+"qid": "6048ff3e1cb411341a000160",
+"cond": "gold",
+"job": "c59bc4401d2c5c5f",
+"gold": [
+"Mast cells"
+]
+},
+{
+"qid": "604911661cb411341a000169",
+"cond": "gold",
+"job": "fe75eab916dbd2e7",
+"gold": [
+"osteogenic growth factor"
+]
+},
+{
+"qid": "6049173d1cb411341a00016b",
+"cond": "gold",
+"job": "5f42e8004154d871",
+"gold": [
+"Ivermectin is used to treat parasitic diseases"
+]
+},
+{
+"qid": "605271d994d57fd87900000f",
+"cond": "gold",
+"job": "9c4b4cbbd5d1ba97",
+"gold": [
+"multiple sclerosis"
+]
+},
+{
+"qid": "605281cf94d57fd879000015",
+"cond": "gold",
+"job": "a400a1f461714dd2",
+"gold": [
+"1,272"
+]
+},
+{
+"qid": "6053ba5b94d57fd879000017",
+"cond": "gold",
+"job": "47ca549c3ded468f",
+"gold": [
+"FTY720",
+"Fingolimod"
+]
+},
+{
+"qid": "60579cb394d57fd87900002e",
+"cond": "gold",
+"job": "a4358681925f5eef",
+"gold": [
+"MIENTURNET"
+]
+},
+{
+"qid": "6057bf0694d57fd879000031",
+"cond": "gold",
+"job": "a848e4c5979c4c27",
+"gold": [
+"apoE4-165"
+]
+},
+{
+"qid": "6057c0cd94d57fd879000032",
+"cond": "gold",
+"job": "93a06bca0c9bbebb",
+"gold": [
+"a susceptibility locus on chromosome 13"
+]
+},
+{
+"qid": "6057c2f894d57fd879000033",
+"cond": "gold",
+"job": "f7c1f389b6a5c845",
+"gold": [
+"EpiMethylTag"
+]
+},
+{
+"qid": "605cc21d94d57fd879000036",
+"cond": "gold",
+"job": "238157452889482d",
+"gold": [
+"Promotion of T helper cell differentiation by resolving secretory stress and accelerating proliferation"
+]
+},
+{
+"qid": "605fb19794d57fd879000038",
+"cond": "gold",
+"job": "904fa3b556362116",
+"gold": [
+"Protein Contacts Atlas"
+]
+},
+{
+"qid": "605fb41094d57fd879000039",
+"cond": "gold",
+"job": "d49abc1c10ce93e8",
+"gold": [
+"Primary aldosteronism"
+]
+},
+{
+"qid": "606074ab94d57fd87900003e",
+"cond": "gold",
+"job": "6854d1b770e28e65",
+"gold": [
+"Rtpca"
+]
+},
+{
+"qid": "606081e594d57fd879000041",
+"cond": "gold",
+"job": "f656da61164a0fdc",
+"gold": [
+"regutools"
+]
+},
+{
+"qid": "606ab57394d57fd87900004f",
+"cond": "gold",
+"job": "84ef94524c5ecf33",
+"gold": [
+"Induces",
+"inducer",
+"induction"
+]
+},
+{
+"qid": "606ad16594d57fd879000051",
+"cond": "gold",
+"job": "4e20254893ad0160",
+"gold": [
+"CYP2C19"
+]
+},
+{
+"qid": "606b2bf594d57fd87900005d",
+"cond": "gold",
+"job": "5445f0634e2682c4",
+"gold": [
+"Thiazovivin is a selective small molecule that directly targets Rho-associated kinase (ROCK) and increases expression of pluripotency factors."
+]
+},
+{
+"qid": "606b32af94d57fd879000060",
+"cond": "gold",
+"job": "243bf406cbd92c85",
+"gold": [
+"for the detachment of cells"
+]
+},
+{
+"qid": "606b75c194d57fd87900006c",
+"cond": "gold",
+"job": "0e77f111488d482a",
+"gold": [
+"2017"
+]
+},
+{
+"qid": "606b800994d57fd879000071",
+"cond": "gold",
+"job": "c6e3766664f10acd",
+"gold": [
+"next generation sequencing",
+"NGS"
+]
+},
+{
+"qid": "6081b64d4e6a4cf63000000a",
+"cond": "gold",
+"job": "f47ddd5ea5b5601d",
+"gold": [
+"HSJ1 are chaperones."
+]
+},
+{
+"qid": "6082f0ec4e6a4cf63000000e",
+"cond": "gold",
+"job": "22d4b4813111468c",
+"gold": [
+"carboxyglutamateis a  a post-translational glutamic acidof"
+]
+},
+{
+"qid": "60853db94e6a4cf630000010",
+"cond": "gold",
+"job": "b04e944099858167",
+"gold": [
+"Circular RNAs (circRNAs) are a new class of non-coding RNA with a stable structure formed by special loop splicing."
+]
+},
+{
+"qid": "61f52f22882a024a10000002",
+"cond": "gold",
+"job": "4032151c14df487c",
+"gold": [
+"Bosch-Boonstra-Schaaf optic atrophy syndrome",
+"BBSOAS"
+]
+},
+{
+"qid": "61f56284882a024a10000005",
+"cond": "gold",
+"job": "312160323c8eb1d4",
+"gold": [
+"Alport syndrome"
+]
+},
+{
+"qid": "61f563f7882a024a10000006",
+"cond": "gold",
+"job": "100ecd9a9208c8b4",
+"gold": [
+"A novel neurodevelopmental syndrome with progressive microcephaly, seizures, and joint anomalies"
+]
+},
+{
+"qid": "61f5ee57882a024a10000012",
+"cond": "gold",
+"job": "cae4cdaf1797a4ca",
+"gold": [
+"pulmonary embolism"
+]
+},
+{
+"qid": "61f810a5882a024a1000003e",
+"cond": "gold",
+"job": "52d6cd07d9708922",
+"gold": [
+"A syndromic form of thoracic aortic aneurysm (TAA) with clinical overlap with Loeys-Dietz and Shprintzen-Goldberg syndromes"
+]
+},
+{
+"qid": "61f81857882a024a10000040",
+"cond": "gold",
+"job": "2f76889436a020ef",
+"gold": [
+"Retinal dystrophy"
+]
+},
+{
+"qid": "61f919cc882a024a10000048",
+"cond": "gold",
+"job": "e4a068716e27b625",
+"gold": [
+"2183"
+]
+},
+{
+"qid": "61f95f9f882a024a1000004e",
+"cond": "gold",
+"job": "7d43735ea123eb31",
+"gold": [
+"Oguchi disease"
+]
+},
+{
+"qid": "6200411cc9dfcb9c09000014",
+"cond": "gold",
+"job": "efbcac9af801a186",
+"gold": [
+"JUCHMME"
+]
+},
+{
+"qid": "6202f600c9dfcb9c0900002b",
+"cond": "gold",
+"job": "8ba582bf21c3d380",
+"gold": [
+"9th"
+]
+},
+{
+"qid": "6206b740c9dfcb9c0900003b",
+"cond": "gold",
+"job": "0c1a793c77cfaf4c",
+"gold": [
+"Improves"
+]
+},
+{
+"qid": "6206bf3cc9dfcb9c0900003d",
+"cond": "gold",
+"job": "778fa4b663ca416c",
+"gold": [
+"MEK"
+]
+},
+{
+"qid": "6206c22ac9dfcb9c0900003e",
+"cond": "gold",
+"job": "b3b4e3ed5898d416",
+"gold": [
+"PI3K/AKT"
+]
+},
+{
+"qid": "6206d06ec9dfcb9c09000041",
+"cond": "gold",
+"job": "8a5c2502f07e8929",
+"gold": [
+"Ammi visnaga"
+]
+},
+{
+"qid": "620c28d03a8413c653000007",
+"cond": "gold",
+"job": "9d140e1d7fd5ca94",
+"gold": [
+"myeloid leukaemia"
+]
+},
+{
+"qid": "621142713a8413c65300000a",
+"cond": "gold",
+"job": "40c20be943819d9d",
+"gold": [
+"50%"
+]
+},
+{
+"qid": "621145c63a8413c65300000c",
+"cond": "gold",
+"job": "aa2d32dd7046ab9c",
+"gold": [
+"26 March 2021"
+]
+},
+{
+"qid": "6217bf6a3a8413c65300001d",
+"cond": "gold",
+"job": "4ff1dedc3d35a3f8",
+"gold": [
+"MTH1"
+]
+},
+{
+"qid": "62190bac3a8413c653000034",
+"cond": "gold",
+"job": "ed1cf2e7b2d09470",
+"gold": [
+"critical COVID-19 pneumonia"
+]
+},
+{
+"qid": "621e59ce3a8413c65300004c",
+"cond": "gold",
+"job": "6df7a0c56ab23442",
+"gold": [
+"GLYCO"
+]
+},
+{
+"qid": "62265b4a3a8413c653000083",
+"cond": "gold",
+"job": "ed6a8f2ed585b30f",
+"gold": [
+"runt-related transcription factor 1"
+]
+},
+{
+"qid": "622b99f73a8413c653000093",
+"cond": "gold",
+"job": "22accb0972bf5c47",
+"gold": [
+"Her2"
+]
+},
+{
+"qid": "622d1ed13a8413c6530000a3",
+"cond": "gold",
+"job": "86ffbe97f12989b2",
+"gold": [
+"The daughterless (da) gene in Drosophila encodes a broadly expressed transcriptional regulator whose specific functions in the control of sex determination and neurogenesis have been extensively examined."
+]
+},
+{
+"qid": "622dfb133a8413c6530000a8",
+"cond": "gold",
+"job": "9a7e88ee9a5840cd",
+"gold": [
+"Gantenerumab significantly reduced amyloid plaques, cerebrospinal fluid total tau, and phospho-tau181 and attenuated increases of neurofilament light chain."
+]
+},
+{
+"qid": "6237a8343a8413c6530000b2",
+"cond": "gold",
+"job": "b5504317870eb806",
+"gold": [
+"epidermal growth factor family"
+]
+},
+{
+"qid": "6237ac143a8413c6530000b7",
+"cond": "gold",
+"job": "d1d6cd6f96244093",
+"gold": [
+"EGFR/MAPK pathway"
+]
+},
+{
+"qid": "6252f496e764a53204000020",
+"cond": "gold",
+"job": "577ddc8564fae9d9",
+"gold": [
+"ATP binding cassette (ABC) transporter"
+]
+},
+{
+"qid": "626aab13e764a5320400003b",
+"cond": "gold",
+"job": "836c574eb7abfbe2",
+"gold": [
+"25 times greater than DNA sequence changes"
+]
+},
+{
+"qid": "626ae803e764a5320400003c",
+"cond": "gold",
+"job": "2f5f8410e0e18407",
+"gold": [
+"Typically 2-3 generations. Sometimes >10 generations."
+]
+},
+{
+"qid": "626aeb2fe764a5320400003f",
+"cond": "gold",
+"job": "4040039947d52af7",
+"gold": [
+"APPROACH and COMPASS"
+]
+},
+{
+"qid": "626aeba1e764a53204000040",
+"cond": "gold",
+"job": "23ab70a9dbdd7686",
+"gold": [
+"Ionis Pharmaceuticals",
+"Akcea Therapeutics"
+]
+},
+{
+"qid": "626aef83e764a53204000044",
+"cond": "gold",
+"job": "c200a40b2346c2c6",
+"gold": [
+"1999"
+]
+},
+{
+"qid": "6278ca4a56bf9aee6f00000c",
+"cond": "gold",
+"job": "57233ac0b313f29b",
+"gold": [
+"L124",
+"Omega-1 (\u03a91) loop"
+]
+}
+]

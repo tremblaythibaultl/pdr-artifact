@@ -1,0 +1,100 @@
+{
+  "dataset": "scifact_chunks",
+  "model": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "k": 10,
+  "clip_percentile": 99.0,
+  "generated_at": "2026-09-10T20:16:47.622537+00:00",
+  "records": [
+    {
+      "dataset": "scifact_chunks",
+      "model": "Snowflake/snowflake-arctic-embed-l-v2.0",
+      "k": 10,
+      "bits": 2,
+      "n_queries": 300,
+      "s_A": 0.08575439453125,
+      "ndcg_quantized": 0.6294982213110433,
+      "recall_quantized": 0.7238571428571429,
+      "ndcg_float": 0.6800899170047582,
+      "recall_float": 0.7801666666666667,
+      "top1_agreement": 0.6233333333333333
+    },
+    {
+      "dataset": "scifact_chunks",
+      "model": "Snowflake/snowflake-arctic-embed-l-v2.0",
+      "k": 10,
+      "bits": 3,
+      "n_queries": 300,
+      "s_A": 0.028584798177083332,
+      "ndcg_quantized": 0.6744437716049176,
+      "recall_quantized": 0.7786190476190477,
+      "ndcg_float": 0.6800899170047582,
+      "recall_float": 0.7801666666666667,
+      "top1_agreement": 0.8866666666666667
+    },
+    {
+      "dataset": "scifact_chunks",
+      "model": "Snowflake/snowflake-arctic-embed-l-v2.0",
+      "k": 10,
+      "bits": 4,
+      "n_queries": 300,
+      "s_A": 0.012250627790178572,
+      "ndcg_quantized": 0.6818666503329086,
+      "recall_quantized": 0.7852460317460318,
+      "ndcg_float": 0.6800899170047582,
+      "recall_float": 0.7801666666666667,
+      "top1_agreement": 0.9266666666666666
+    },
+    {
+      "dataset": "scifact_chunks",
+      "model": "Snowflake/snowflake-arctic-embed-l-v2.0",
+      "k": 10,
+      "bits": 5,
+      "n_queries": 300,
+      "s_A": 0.005716959635416667,
+      "ndcg_quantized": 0.6777402487801292,
+      "recall_quantized": 0.7769126984126984,
+      "ndcg_float": 0.6800899170047582,
+      "recall_float": 0.7801666666666667,
+      "top1_agreement": 0.9633333333333334
+    },
+    {
+      "dataset": "scifact_chunks",
+      "model": "Snowflake/snowflake-arctic-embed-l-v2.0",
+      "k": 10,
+      "bits": 6,
+      "n_queries": 300,
+      "s_A": 0.002766270791330645,
+      "ndcg_quantized": 0.6769891501935802,
+      "recall_quantized": 0.7769126984126984,
+      "ndcg_float": 0.6800899170047582,
+      "recall_float": 0.7801666666666667,
+      "top1_agreement": 0.9633333333333334
+    },
+    {
+      "dataset": "scifact_chunks",
+      "model": "Snowflake/snowflake-arctic-embed-l-v2.0",
+      "k": 10,
+      "bits": 7,
+      "n_queries": 300,
+      "s_A": 0.0013611808655753968,
+      "ndcg_quantized": 0.6779249195611546,
+      "recall_quantized": 0.7769126984126984,
+      "ndcg_float": 0.6800899170047582,
+      "recall_float": 0.7801666666666667,
+      "top1_agreement": 0.9766666666666667
+    },
+    {
+      "dataset": "scifact_chunks",
+      "model": "Snowflake/snowflake-arctic-embed-l-v2.0",
+      "k": 10,
+      "bits": 8,
+      "n_queries": 300,
+      "s_A": 0.0006752314530019685,
+      "ndcg_quantized": 0.676914913366787,
+      "recall_quantized": 0.7769126984126984,
+      "ndcg_float": 0.6800899170047582,
+      "recall_float": 0.7801666666666667,
+      "top1_agreement": 0.9733333333333334
+    }
+  ]
+}

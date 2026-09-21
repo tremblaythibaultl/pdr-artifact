@@ -1,0 +1,101 @@
+{
+  "dataset": "nfcorpus_chunks",
+  "model": "mixedbread-ai/mxbai-embed-large-v1",
+  "k": 10,
+  "clip_percentile": 99.0,
+  "collapsed_to_documents": true,
+  "generated_at": "2026-09-10T23:10:30.994758+00:00",
+  "records": [
+    {
+      "dataset": "nfcorpus_chunks",
+      "model": "mixedbread-ai/mxbai-embed-large-v1",
+      "k": 10,
+      "bits": 2,
+      "n_queries": 323,
+      "s_A": 0.07733154296875,
+      "ndcg_quantized": 0.3362837416596499,
+      "recall_quantized": 0.16583475789473495,
+      "ndcg_float": 0.38866409661592066,
+      "recall_float": 0.1965158192989801,
+      "top1_agreement": 0.5046439628482973
+    },
+    {
+      "dataset": "nfcorpus_chunks",
+      "model": "mixedbread-ai/mxbai-embed-large-v1",
+      "k": 10,
+      "bits": 3,
+      "n_queries": 323,
+      "s_A": 0.025777180989583332,
+      "ndcg_quantized": 0.37871680242748984,
+      "recall_quantized": 0.1914366241585956,
+      "ndcg_float": 0.38866409661592066,
+      "recall_float": 0.1965158192989801,
+      "top1_agreement": 0.7987616099071208
+    },
+    {
+      "dataset": "nfcorpus_chunks",
+      "model": "mixedbread-ai/mxbai-embed-large-v1",
+      "k": 10,
+      "bits": 4,
+      "n_queries": 323,
+      "s_A": 0.01104736328125,
+      "ndcg_quantized": 0.38440110187064064,
+      "recall_quantized": 0.19152672588706882,
+      "ndcg_float": 0.38866409661592066,
+      "recall_float": 0.1965158192989801,
+      "top1_agreement": 0.8699690402476781
+    },
+    {
+      "dataset": "nfcorpus_chunks",
+      "model": "mixedbread-ai/mxbai-embed-large-v1",
+      "k": 10,
+      "bits": 5,
+      "n_queries": 323,
+      "s_A": 0.005155436197916667,
+      "ndcg_quantized": 0.3835774452603964,
+      "recall_quantized": 0.1923198192004514,
+      "ndcg_float": 0.38866409661592066,
+      "recall_float": 0.1965158192989801,
+      "top1_agreement": 0.8978328173374613
+    },
+    {
+      "dataset": "nfcorpus_chunks",
+      "model": "mixedbread-ai/mxbai-embed-large-v1",
+      "k": 10,
+      "bits": 6,
+      "n_queries": 323,
+      "s_A": 0.0024945659022177417,
+      "ndcg_quantized": 0.38813326220437694,
+      "recall_quantized": 0.19613397761013487,
+      "ndcg_float": 0.38866409661592066,
+      "recall_float": 0.1965158192989801,
+      "top1_agreement": 0.9195046439628483
+    },
+    {
+      "dataset": "nfcorpus_chunks",
+      "model": "mixedbread-ai/mxbai-embed-large-v1",
+      "k": 10,
+      "bits": 7,
+      "n_queries": 323,
+      "s_A": 0.0012274848090277778,
+      "ndcg_quantized": 0.3876523521985733,
+      "recall_quantized": 0.1955501886198309,
+      "ndcg_float": 0.38866409661592066,
+      "recall_float": 0.1965158192989801,
+      "top1_agreement": 0.913312693498452
+    },
+    {
+      "dataset": "nfcorpus_chunks",
+      "model": "mixedbread-ai/mxbai-embed-large-v1",
+      "k": 10,
+      "bits": 8,
+      "n_queries": 323,
+      "s_A": 0.0006089097871555118,
+      "ndcg_quantized": 0.3885143957059766,
+      "recall_quantized": 0.19633996654602096,
+      "ndcg_float": 0.38866409661592066,
+      "recall_float": 0.1965158192989801,
+      "top1_agreement": 0.913312693498452
+    }
+  ]
+}

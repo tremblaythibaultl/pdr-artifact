@@ -1,0 +1,78 @@
+paper_bench: D=1024 K=1 sigma=2^40.9 t=1 h=64 P=2^13 entry_bound=2 onehot=false threads=48
+  rep 0: enc 0.000s  matvec 0.001s  prove 0.078s  verify 0.006s  decrypt 0.001s
+paper_bench: D=2048 K=1 sigma=2^37.5 t=1 h=64 P=2^15 entry_bound=4 onehot=false threads=48
+  rep 0: enc 0.000s  matvec 0.002s  prove 0.126s  verify 0.009s  decrypt 0.001s
+paper_bench: D=4096 K=1 sigma=2^5.3 t=2 h=64 P=2^24 entry_bound=16777216 onehot=true threads=48
+  rep 0: enc 0.001s  matvec 0.004s  prove 0.156s  verify 0.017s  decrypt 0.002s
+paper_bench: D=1024 K=1 sigma=2^40.9 t=1 h=4096 P=2^13 entry_bound=2 onehot=false threads=48
+  rep 0: enc 0.000s  matvec 0.022s  prove 0.650s  verify 0.180s  decrypt 0.038s
+  rep 1: enc 0.000s  matvec 0.006s  prove 0.621s  verify 0.164s  decrypt 0.034s
+  rep 2: enc 0.000s  matvec 0.007s  prove 0.605s  verify 0.178s  decrypt 0.034s
+  rep 3: enc 0.000s  matvec 0.008s  prove 0.601s  verify 0.163s  decrypt 0.034s
+  rep 4: enc 0.000s  matvec 0.006s  prove 0.615s  verify 0.172s  decrypt 0.034s
+paper_bench: D=2048 K=1 sigma=2^37.5 t=1 h=4096 P=2^15 entry_bound=4 onehot=false threads=48
+  rep 0: enc 0.000s  matvec 0.044s  prove 1.190s  verify 0.340s  decrypt 0.066s
+  rep 1: enc 0.000s  matvec 0.017s  prove 1.182s  verify 0.330s  decrypt 0.067s
+  rep 2: enc 0.000s  matvec 0.015s  prove 1.158s  verify 0.328s  decrypt 0.067s
+  rep 3: enc 0.000s  matvec 0.014s  prove 1.152s  verify 0.326s  decrypt 0.068s
+  rep 4: enc 0.000s  matvec 0.012s  prove 1.144s  verify 0.333s  decrypt 0.067s
+paper_bench: D=1024 K=1 sigma=2^40.9 t=1 h=8192 P=2^13 entry_bound=2 onehot=false threads=48
+  rep 0: enc 0.000s  matvec 0.048s  prove 1.181s  verify 0.330s  decrypt 0.065s
+  rep 1: enc 0.000s  matvec 0.016s  prove 1.190s  verify 0.329s  decrypt 0.067s
+  rep 2: enc 0.000s  matvec 0.015s  prove 1.140s  verify 0.328s  decrypt 0.067s
+  rep 3: enc 0.000s  matvec 0.012s  prove 1.136s  verify 0.338s  decrypt 0.068s
+  rep 4: enc 0.000s  matvec 0.013s  prove 1.210s  verify 0.328s  decrypt 0.068s
+paper_bench: D=2048 K=1 sigma=2^37.5 t=1 h=8192 P=2^15 entry_bound=4 onehot=false threads=48
+  rep 0: enc 0.000s  matvec 0.088s  prove 1.909s  verify 0.679s  decrypt 0.137s
+  rep 1: enc 0.000s  matvec 0.028s  prove 1.996s  verify 0.670s  decrypt 0.140s
+  rep 2: enc 0.000s  matvec 0.029s  prove 1.986s  verify 0.656s  decrypt 0.133s
+  rep 3: enc 0.000s  matvec 0.026s  prove 1.933s  verify 0.663s  decrypt 0.138s
+  rep 4: enc 0.000s  matvec 0.026s  prove 1.996s  verify 0.653s  decrypt 0.136s
+paper_bench: D=1024 K=1 sigma=2^40.9 t=1 h=16384 P=2^13 entry_bound=2 onehot=false threads=48
+  rep 0: enc 0.000s  matvec 0.125s  prove 1.977s  verify 0.664s  decrypt 0.133s
+  rep 1: enc 0.000s  matvec 0.027s  prove 1.984s  verify 0.670s  decrypt 0.140s
+  rep 2: enc 0.000s  matvec 0.028s  prove 1.922s  verify 0.662s  decrypt 0.134s
+  rep 3: enc 0.000s  matvec 0.023s  prove 1.942s  verify 0.671s  decrypt 0.135s
+  rep 4: enc 0.000s  matvec 0.024s  prove 1.889s  verify 0.662s  decrypt 0.142s
+paper_bench: D=2048 K=1 sigma=2^37.5 t=1 h=16384 P=2^15 entry_bound=4 onehot=false threads=48
+  rep 0: enc 0.000s  matvec 0.177s  prove 4.240s  verify 1.326s  decrypt 0.281s
+  rep 1: enc 0.000s  matvec 0.051s  prove 4.193s  verify 1.279s  decrypt 0.266s
+  rep 2: enc 0.000s  matvec 0.049s  prove 3.944s  verify 1.281s  decrypt 0.267s
+  rep 3: enc 0.000s  matvec 0.047s  prove 3.911s  verify 1.298s  decrypt 0.274s
+  rep 4: enc 0.000s  matvec 0.047s  prove 3.959s  verify 1.284s  decrypt 0.260s
+paper_bench: D=1024 K=1 sigma=2^40.9 t=1 h=131072 P=2^13 entry_bound=2 onehot=false threads=48
+  rep 0: enc 0.000s  matvec 1.274s  prove 15.323s  verify 5.175s  decrypt 1.100s
+  rep 1: enc 0.000s  matvec 0.191s  prove 16.837s  verify 5.122s  decrypt 1.070s
+  rep 2: enc 0.000s  matvec 0.183s  prove 16.639s  verify 5.100s  decrypt 1.083s
+  rep 3: enc 0.000s  matvec 0.178s  prove 14.840s  verify 5.127s  decrypt 1.049s
+  rep 4: enc 0.000s  matvec 0.187s  prove 15.176s  verify 5.131s  decrypt 1.041s
+paper_bench: D=2048 K=1 sigma=2^37.5 t=1 h=131072 P=2^15 entry_bound=4 onehot=false threads=48
+  rep 0: enc 0.000s  matvec 1.600s  prove 28.553s  verify 10.365s  decrypt 2.178s
+  rep 1: enc 0.000s  matvec 0.389s  prove 27.993s  verify 10.347s  decrypt 2.201s
+  rep 2: enc 0.000s  matvec 0.386s  prove 26.264s  verify 10.148s  decrypt 2.111s
+  rep 3: enc 0.000s  matvec 0.372s  prove 26.595s  verify 10.094s  decrypt 2.136s
+  rep 4: enc 0.000s  matvec 0.389s  prove 27.466s  verify 10.237s  decrypt 2.199s
+paper_bench: D=4096 K=1 sigma=2^5.3 t=1 h=4096 P=2^24 entry_bound=16777216 onehot=true threads=48
+  rep 0: enc 0.000s  matvec 0.071s  prove 1.973s  verify 0.658s  decrypt 0.135s
+  rep 1: enc 0.000s  matvec 0.029s  prove 2.065s  verify 0.652s  decrypt 0.140s
+  rep 2: enc 0.000s  matvec 0.029s  prove 1.976s  verify 0.639s  decrypt 0.136s
+  rep 3: enc 0.000s  matvec 0.027s  prove 1.965s  verify 0.652s  decrypt 0.136s
+  rep 4: enc 0.000s  matvec 0.027s  prove 1.984s  verify 0.649s  decrypt 0.137s
+paper_bench: D=4096 K=1 sigma=2^5.3 t=2 h=4096 P=2^24 entry_bound=16777216 onehot=true threads=48
+  rep 0: enc 0.001s  matvec 0.119s  prove 3.986s  verify 0.670s  decrypt 0.137s
+  rep 1: enc 0.001s  matvec 0.059s  prove 4.202s  verify 0.642s  decrypt 0.137s
+  rep 2: enc 0.001s  matvec 0.054s  prove 4.014s  verify 0.642s  decrypt 0.136s
+  rep 3: enc 0.001s  matvec 0.053s  prove 4.050s  verify 0.645s  decrypt 0.135s
+  rep 4: enc 0.001s  matvec 0.051s  prove 3.982s  verify 0.647s  decrypt 0.137s
+paper_bench: D=4096 K=1 sigma=2^5.3 t=4 h=4096 P=2^24 entry_bound=16777216 onehot=true threads=48
+  rep 0: enc 0.001s  matvec 0.193s  prove 6.899s  verify 0.635s  decrypt 0.136s
+  rep 1: enc 0.001s  matvec 0.110s  prove 6.957s  verify 0.654s  decrypt 0.135s
+  rep 2: enc 0.001s  matvec 0.107s  prove 6.909s  verify 0.641s  decrypt 0.139s
+  rep 3: enc 0.001s  matvec 0.100s  prove 6.934s  verify 0.654s  decrypt 0.135s
+  rep 4: enc 0.001s  matvec 0.102s  prove 7.171s  verify 0.658s  decrypt 0.139s
+paper_bench: D=4096 K=1 sigma=2^5.3 t=32 h=4096 P=2^24 entry_bound=16777216 onehot=true threads=48
+  rep 0: enc 0.009s  matvec 1.031s  prove 64.228s  verify 0.655s  decrypt 0.134s
+  rep 1: enc 0.008s  matvec 0.865s  prove 60.566s  verify 0.650s  decrypt 0.139s
+  rep 2: enc 0.008s  matvec 0.848s  prove 69.194s  verify 0.642s  decrypt 0.139s
+  rep 3: enc 0.008s  matvec 0.828s  prove 60.739s  verify 0.642s  decrypt 0.135s
+  rep 4: enc 0.008s  matvec 0.813s  prove 66.534s  verify 0.646s  decrypt 0.134s

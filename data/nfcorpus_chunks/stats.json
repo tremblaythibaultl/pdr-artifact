@@ -1,0 +1,11 @@
+{
+  "source": ".beir-data/nfcorpus",
+  "max_bytes": 1536,
+  "docs": 3633,
+  "chunks": 5761,
+  "chunks_per_doc_mean": 1.586,
+  "chunks_per_doc_max": 8,
+  "docs_single_chunk": 1585,
+  "chunk_bytes_mean": 1042,
+  "chunk_bytes_max": 1536
+}

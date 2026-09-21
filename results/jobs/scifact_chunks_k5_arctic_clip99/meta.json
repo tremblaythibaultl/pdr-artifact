@@ -1,0 +1,18 @@
+{
+  "endpoint": "scifact",
+  "model": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "k": 5,
+  "conds": [
+    "float",
+    "8",
+    "6",
+    "4",
+    "3",
+    "2"
+  ],
+  "clip": 99.0,
+  "n_queries": 300,
+  "n_jobs": 1130,
+  "chunked": true,
+  "template": "one-word"
+}

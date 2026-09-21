@@ -1,0 +1,101 @@
+{
+  "dataset": "scifact_chunks",
+  "model": "BAAI/bge-large-en-v1.5",
+  "k": 10,
+  "clip_percentile": 99.0,
+  "collapsed_to_documents": true,
+  "generated_at": "2026-09-10T21:55:23.798654+00:00",
+  "records": [
+    {
+      "dataset": "scifact_chunks",
+      "model": "BAAI/bge-large-en-v1.5",
+      "k": 10,
+      "bits": 2,
+      "n_queries": 300,
+      "s_A": 0.07696533203125,
+      "ndcg_quantized": 0.6458417439157829,
+      "recall_quantized": 0.7663333333333333,
+      "ndcg_float": 0.7478029390750887,
+      "recall_float": 0.869888888888889,
+      "top1_agreement": 0.62
+    },
+    {
+      "dataset": "scifact_chunks",
+      "model": "BAAI/bge-large-en-v1.5",
+      "k": 10,
+      "bits": 3,
+      "n_queries": 300,
+      "s_A": 0.025655110677083332,
+      "ndcg_quantized": 0.7283298767993238,
+      "recall_quantized": 0.8618888888888889,
+      "ndcg_float": 0.7478029390750887,
+      "recall_float": 0.869888888888889,
+      "top1_agreement": 0.87
+    },
+    {
+      "dataset": "scifact_chunks",
+      "model": "BAAI/bge-large-en-v1.5",
+      "k": 10,
+      "bits": 4,
+      "n_queries": 300,
+      "s_A": 0.010995047433035714,
+      "ndcg_quantized": 0.7456026102786403,
+      "recall_quantized": 0.8732222222222223,
+      "ndcg_float": 0.7478029390750887,
+      "recall_float": 0.869888888888889,
+      "top1_agreement": 0.94
+    },
+    {
+      "dataset": "scifact_chunks",
+      "model": "BAAI/bge-large-en-v1.5",
+      "k": 10,
+      "bits": 5,
+      "n_queries": 300,
+      "s_A": 0.0051310221354166664,
+      "ndcg_quantized": 0.7456684855598451,
+      "recall_quantized": 0.8798888888888889,
+      "ndcg_float": 0.7478029390750887,
+      "recall_float": 0.869888888888889,
+      "top1_agreement": 0.9433333333333334
+    },
+    {
+      "dataset": "scifact_chunks",
+      "model": "BAAI/bge-large-en-v1.5",
+      "k": 10,
+      "bits": 6,
+      "n_queries": 300,
+      "s_A": 0.002482752646169355,
+      "ndcg_quantized": 0.7487038073052336,
+      "recall_quantized": 0.8798888888888889,
+      "ndcg_float": 0.7478029390750887,
+      "recall_float": 0.869888888888889,
+      "top1_agreement": 0.9466666666666667
+    },
+    {
+      "dataset": "scifact_chunks",
+      "model": "BAAI/bge-large-en-v1.5",
+      "k": 10,
+      "bits": 7,
+      "n_queries": 300,
+      "s_A": 0.0012216719370039683,
+      "ndcg_quantized": 0.7472763034342687,
+      "recall_quantized": 0.869888888888889,
+      "ndcg_float": 0.7478029390750887,
+      "recall_float": 0.869888888888889,
+      "top1_agreement": 0.9466666666666667
+    },
+    {
+      "dataset": "scifact_chunks",
+      "model": "BAAI/bge-large-en-v1.5",
+      "k": 10,
+      "bits": 8,
+      "n_queries": 300,
+      "s_A": 0.0006060262364665354,
+      "ndcg_quantized": 0.7468442616504026,
+      "recall_quantized": 0.8732222222222223,
+      "ndcg_float": 0.7478029390750887,
+      "recall_float": 0.869888888888889,
+      "top1_agreement": 0.9466666666666667
+    }
+  ]
+}

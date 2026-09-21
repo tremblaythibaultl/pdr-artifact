@@ -1,0 +1,11 @@
+dataset,model,dim,k,n_queries,ndcg_float,recall_float,query_prefix,doc_prefix
+nfcorpus,BAAI/bge-large-en-v1.5,1024,10,323,0.3813346137904187,0.1928872066843847,Represent this sentence for searching relevant passages: ,
+nfcorpus,Snowflake/snowflake-arctic-embed-l-v2.0,1024,10,323,0.35439717364475265,0.16966937827685202,query: ,
+nfcorpus,intfloat/e5-large-v2,1024,10,323,0.3720816778817662,0.18906529313177226,query: ,passage: 
+nfcorpus,mixedbread-ai/mxbai-embed-large-v1,1024,10,323,0.38720400279610573,0.19655213176217423,Represent this sentence for searching relevant passages: ,
+nfcorpus,thenlper/gte-large,1024,10,323,0.38297762317844414,0.1907651939645223,,
+scifact,BAAI/bge-large-en-v1.5,1024,10,300,0.7463048928208306,0.8732222222222223,Represent this sentence for searching relevant passages: ,
+scifact,Snowflake/snowflake-arctic-embed-l-v2.0,1024,10,300,0.70585979934306,0.8317222222222221,query: ,
+scifact,intfloat/e5-large-v2,1024,10,300,0.7221519907613544,0.8438333333333332,query: ,passage: 
+scifact,mixedbread-ai/mxbai-embed-large-v1,1024,10,300,0.7387743349425984,0.8715555555555556,Represent this sentence for searching relevant passages: ,
+scifact,thenlper/gte-large,1024,10,300,0.7425552153208612,0.8715555555555556,,

@@ -1,0 +1,100 @@
+{
+  "dataset": "nfcorpus",
+  "model": "mixedbread-ai/mxbai-embed-large-v1",
+  "k": 10,
+  "clip_percentile": 99.0,
+  "generated_at": "2026-09-04T14:52:44.967667+00:00",
+  "records": [
+    {
+      "dataset": "nfcorpus",
+      "model": "mixedbread-ai/mxbai-embed-large-v1",
+      "k": 10,
+      "bits": 2,
+      "n_queries": 323,
+      "s_A": 0.07708740234375,
+      "ndcg_quantized": 0.3383994494897883,
+      "recall_quantized": 0.1645765476083488,
+      "ndcg_float": 0.38720400279610573,
+      "recall_float": 0.19655213176217423,
+      "top1_agreement": 0.49226006191950467
+    },
+    {
+      "dataset": "nfcorpus",
+      "model": "mixedbread-ai/mxbai-embed-large-v1",
+      "k": 10,
+      "bits": 3,
+      "n_queries": 323,
+      "s_A": 0.02569580078125,
+      "ndcg_quantized": 0.38304837150605947,
+      "recall_quantized": 0.1935114748491767,
+      "ndcg_float": 0.38720400279610573,
+      "recall_float": 0.19655213176217423,
+      "top1_agreement": 0.7306501547987616
+    },
+    {
+      "dataset": "nfcorpus",
+      "model": "mixedbread-ai/mxbai-embed-large-v1",
+      "k": 10,
+      "bits": 4,
+      "n_queries": 323,
+      "s_A": 0.011012486049107142,
+      "ndcg_quantized": 0.3877238254633733,
+      "recall_quantized": 0.19530133881486886,
+      "ndcg_float": 0.38720400279610573,
+      "recall_float": 0.19655213176217423,
+      "top1_agreement": 0.8421052631578947
+    },
+    {
+      "dataset": "nfcorpus",
+      "model": "mixedbread-ai/mxbai-embed-large-v1",
+      "k": 10,
+      "bits": 5,
+      "n_queries": 323,
+      "s_A": 0.00513916015625,
+      "ndcg_quantized": 0.3899153719815122,
+      "recall_quantized": 0.19731110712960875,
+      "ndcg_float": 0.38720400279610573,
+      "recall_float": 0.19655213176217423,
+      "top1_agreement": 0.8699690402476781
+    },
+    {
+      "dataset": "nfcorpus",
+      "model": "mixedbread-ai/mxbai-embed-large-v1",
+      "k": 10,
+      "bits": 6,
+      "n_queries": 323,
+      "s_A": 0.002486690398185484,
+      "ndcg_quantized": 0.3912567430786421,
+      "recall_quantized": 0.19931083209148281,
+      "ndcg_float": 0.38720400279610573,
+      "recall_float": 0.19655213176217423,
+      "top1_agreement": 0.8823529411764706
+    },
+    {
+      "dataset": "nfcorpus",
+      "model": "mixedbread-ai/mxbai-embed-large-v1",
+      "k": 10,
+      "bits": 7,
+      "n_queries": 323,
+      "s_A": 0.0012236095610119048,
+      "ndcg_quantized": 0.38984232627549986,
+      "recall_quantized": 0.19732163503482794,
+      "ndcg_float": 0.38720400279610573,
+      "recall_float": 0.19655213176217423,
+      "top1_agreement": 0.8699690402476781
+    },
+    {
+      "dataset": "nfcorpus",
+      "model": "mixedbread-ai/mxbai-embed-large-v1",
+      "k": 10,
+      "bits": 8,
+      "n_queries": 323,
+      "s_A": 0.0006069874200295276,
+      "ndcg_quantized": 0.3901091605518662,
+      "recall_quantized": 0.19767928182123484,
+      "ndcg_float": 0.38720400279610573,
+      "recall_float": 0.19655213176217423,
+      "top1_agreement": 0.8730650154798761
+    }
+  ]
+}

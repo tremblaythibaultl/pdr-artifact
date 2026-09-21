@@ -1,0 +1,11 @@
+{
+  "source": ".beir-data/scifact",
+  "max_bytes": 1536,
+  "docs": 5183,
+  "chunks": 7510,
+  "chunks_per_doc_mean": 1.449,
+  "chunks_per_doc_max": 8,
+  "docs_single_chunk": 2996,
+  "chunk_bytes_mean": 1070,
+  "chunk_bytes_max": 1536
+}

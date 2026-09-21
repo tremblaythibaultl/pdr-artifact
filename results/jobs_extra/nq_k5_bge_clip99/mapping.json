@@ -1,0 +1,5188 @@
+[
+{
+"qid": "test1",
+"cond": "closed",
+"job": "8b810f6f15c96047",
+"gold": [
+"23"
+]
+},
+{
+"qid": "test1005",
+"cond": "closed",
+"job": "ccf58d48a2f787bb",
+"gold": [
+"2010"
+]
+},
+{
+"qid": "test1006",
+"cond": "closed",
+"job": "7dd5b7143704e346",
+"gold": [
+"October 17, 2017"
+]
+},
+{
+"qid": "test101",
+"cond": "closed",
+"job": "211fe0fa9fa982fb",
+"gold": [
+"Tim Duncan"
+]
+},
+{
+"qid": "test1014",
+"cond": "closed",
+"job": "e14dfa09abdbb2ae",
+"gold": [
+"Maginot Line",
+"The Maginot Line"
+]
+},
+{
+"qid": "test1022",
+"cond": "closed",
+"job": "fd9e006fcded2001",
+"gold": [
+"Staci Keanan"
+]
+},
+{
+"qid": "test105",
+"cond": "closed",
+"job": "55ac6ec5723dd6b4",
+"gold": [
+"Peter Greene"
+]
+},
+{
+"qid": "test1068",
+"cond": "closed",
+"job": "9b4ddbe37355b555",
+"gold": [
+"6"
+]
+},
+{
+"qid": "test1076",
+"cond": "closed",
+"job": "a529feda908002dc",
+"gold": [
+"US$11,770"
+]
+},
+{
+"qid": "test1081",
+"cond": "closed",
+"job": "8afba491d2392c9a",
+"gold": [
+"New England Patriots"
+]
+},
+{
+"qid": "test1084",
+"cond": "closed",
+"job": "1e2a9cf6b220f83e",
+"gold": [
+"James Martin Lafferty"
+]
+},
+{
+"qid": "test1085",
+"cond": "closed",
+"job": "a46c1dbece2d6743",
+"gold": [
+"Connor and Owen Fielding",
+"Wyatt and Dylan Walters"
+]
+},
+{
+"qid": "test1097",
+"cond": "closed",
+"job": "dc55d836fb528bf1",
+"gold": [
+"Liam Cunningham"
+]
+},
+{
+"qid": "test1098",
+"cond": "closed",
+"job": "6d80f5235666ff59",
+"gold": [
+"Mickey Mantle"
+]
+},
+{
+"qid": "test1114",
+"cond": "closed",
+"job": "736be58b9a56f9e9",
+"gold": [
+"September 19, 2017"
+]
+},
+{
+"qid": "test1127",
+"cond": "closed",
+"job": "31aca687a348e5c5",
+"gold": [
+"Shirley Mae Jones"
+]
+},
+{
+"qid": "test1135",
+"cond": "closed",
+"job": "85375f4cceb0dac0",
+"gold": [
+"1930s",
+"during the 1930s",
+"sometime during the 1930s"
+]
+},
+{
+"qid": "test1150",
+"cond": "closed",
+"job": "9590893604f0afbd",
+"gold": [
+"Justices"
+]
+},
+{
+"qid": "test1167",
+"cond": "closed",
+"job": "cb77e3027f46ea33",
+"gold": [
+"Real Madrid"
+]
+},
+{
+"qid": "test1196",
+"cond": "closed",
+"job": "539c323b5036e047",
+"gold": [
+"Hamilcar Barca",
+"Hanno the Great",
+"Hasdrubal the Fair",
+"Xanthippus"
+]
+},
+{
+"qid": "test1200",
+"cond": "closed",
+"job": "9090c6c9e55ec362",
+"gold": [
+"Ummah",
+"ummat al-Islamiyah"
+]
+},
+{
+"qid": "test1215",
+"cond": "closed",
+"job": "11d13316e9265af2",
+"gold": [
+"four"
+]
+},
+{
+"qid": "test1220",
+"cond": "closed",
+"job": "861e2279d13c4395",
+"gold": [
+"Jackson County, Missouri"
+]
+},
+{
+"qid": "test1227",
+"cond": "closed",
+"job": "f7691164447ef108",
+"gold": [
+"Aaron Harrison",
+"Andrew Michael Harrison"
+]
+},
+{
+"qid": "test1229",
+"cond": "closed",
+"job": "d7e9ff90ca4724db",
+"gold": [
+"Meri"
+]
+},
+{
+"qid": "test1231",
+"cond": "closed",
+"job": "3116f3f14df1e922",
+"gold": [
+"American rock band Eagles",
+"Eagles",
+"the American rock band Eagles"
+]
+},
+{
+"qid": "test1238",
+"cond": "closed",
+"job": "605b81c906b2ad1e",
+"gold": [
+"Rich Mullins"
+]
+},
+{
+"qid": "test124",
+"cond": "closed",
+"job": "da6fe3b678270635",
+"gold": [
+"10\u00a0October\u00a02015",
+"2015"
+]
+},
+{
+"qid": "test1257",
+"cond": "closed",
+"job": "ea8db9e8462d5bce",
+"gold": [
+"$205,700",
+"$205,700 annually"
+]
+},
+{
+"qid": "test127",
+"cond": "closed",
+"job": "c6120749583716ff",
+"gold": [
+"Sohrai"
+]
+},
+{
+"qid": "test1276",
+"cond": "closed",
+"job": "5bd30a8320f7b8f5",
+"gold": [
+"four"
+]
+},
+{
+"qid": "test1280",
+"cond": "closed",
+"job": "586bb03dc0452c9e",
+"gold": [
+"During the last Ice Age"
+]
+},
+{
+"qid": "test1287",
+"cond": "closed",
+"job": "83f384ff22f7ccd3",
+"gold": [
+"Sylvester Stallone"
+]
+},
+{
+"qid": "test13",
+"cond": "closed",
+"job": "f58f43d50a67f578",
+"gold": [
+"1970",
+"January 2, 1971"
+]
+},
+{
+"qid": "test1345",
+"cond": "closed",
+"job": "a18950a7f143ea31",
+"gold": [
+"Glynis Johns",
+"the actress Glynis Johns"
+]
+},
+{
+"qid": "test1363",
+"cond": "closed",
+"job": "5100a1ebeb97456f",
+"gold": [
+"Cleveland Indians",
+"the Indians"
+]
+},
+{
+"qid": "test1367",
+"cond": "closed",
+"job": "f48157a0f4eca181",
+"gold": [
+"\"Fix You\""
+]
+},
+{
+"qid": "test1368",
+"cond": "closed",
+"job": "d9b5e1a98e486913",
+"gold": [
+"Alicia Vikander as Lara Croft"
+]
+},
+{
+"qid": "test1370",
+"cond": "closed",
+"job": "593a5acb35004db0",
+"gold": [
+"Myllokunmingia",
+"believed to be the Myllokunmingia",
+"the Myllokunmingia"
+]
+},
+{
+"qid": "test1374",
+"cond": "closed",
+"job": "e596aaf972f0735a",
+"gold": [
+"1945"
+]
+},
+{
+"qid": "test1376",
+"cond": "closed",
+"job": "e2227e95943caaa4",
+"gold": [
+"the Indo-Greek kings"
+]
+},
+{
+"qid": "test1398",
+"cond": "closed",
+"job": "4fb32448373833f3",
+"gold": [
+"\"M\u00e9nage \u00e0 Troi\""
+]
+},
+{
+"qid": "test1401",
+"cond": "closed",
+"job": "8f7aee92b9b110a0",
+"gold": [
+"Rihanna"
+]
+},
+{
+"qid": "test1402",
+"cond": "closed",
+"job": "d97545d02cdce040",
+"gold": [
+"1918",
+"30 October 1918"
+]
+},
+{
+"qid": "test1412",
+"cond": "closed",
+"job": "46760a5868e9d6a8",
+"gold": [
+"Badminton House",
+"Corsham Court",
+"Dyrham Park",
+"Limpley Stoke",
+"Powderham Castle",
+"Weston-super-Mare"
+]
+},
+{
+"qid": "test1421",
+"cond": "closed",
+"job": "221ef88e0fe66dc1",
+"gold": [
+"1954",
+"Flag Day in 1954",
+"on Flag Day in 1954"
+]
+},
+{
+"qid": "test1424",
+"cond": "closed",
+"job": "dde75508b7759df8",
+"gold": [
+"senators"
+]
+},
+{
+"qid": "test1450",
+"cond": "closed",
+"job": "ed385422d707ab5b",
+"gold": [
+"Manhattan"
+]
+},
+{
+"qid": "test1456",
+"cond": "closed",
+"job": "f2a9c1ea1cee422f",
+"gold": [
+"1952"
+]
+},
+{
+"qid": "test1459",
+"cond": "closed",
+"job": "14c0fc3f07eac698",
+"gold": [
+"Akbar the Great",
+"Babur"
+]
+},
+{
+"qid": "test146",
+"cond": "closed",
+"job": "ef64f6abbd8b1e77",
+"gold": [
+"the Rolling Stones"
+]
+},
+{
+"qid": "test1472",
+"cond": "closed",
+"job": "683e9a533fdd5aa8",
+"gold": [
+"autonomic nervous system",
+"somatic nervous system"
+]
+},
+{
+"qid": "test1515",
+"cond": "closed",
+"job": "d6a84d7a6e9b5cb2",
+"gold": [
+"the Indian Ocean"
+]
+},
+{
+"qid": "test1520",
+"cond": "closed",
+"job": "356f50fc3efa7c51",
+"gold": [
+"Destiny's Child",
+"Solange Knowles"
+]
+},
+{
+"qid": "test1521",
+"cond": "closed",
+"job": "3f2ab2d2427a376f",
+"gold": [
+"Cathy Dennis",
+"Cathy Dennis and Rob Davis",
+"Rob Davis"
+]
+},
+{
+"qid": "test1533",
+"cond": "closed",
+"job": "2cd8a2f9a7167750",
+"gold": [
+"never made"
+]
+},
+{
+"qid": "test1536",
+"cond": "closed",
+"job": "825b31d0c811178e",
+"gold": [
+"Lisa Stelly"
+]
+},
+{
+"qid": "test1537",
+"cond": "closed",
+"job": "c84c875a3d2c0cbf",
+"gold": [
+"animal-themed Ninja Zords"
+]
+},
+{
+"qid": "test1550",
+"cond": "closed",
+"job": "7ecff9ee87b40789",
+"gold": [
+"Roger Federer"
+]
+},
+{
+"qid": "test1558",
+"cond": "closed",
+"job": "8a5751ab79c45951",
+"gold": [
+"Orangeville, Ontario, Canada",
+"Sudbury, Parry Sound"
+]
+},
+{
+"qid": "test1578",
+"cond": "closed",
+"job": "a07250da0d2daa5f",
+"gold": [
+"6ft 1in"
+]
+},
+{
+"qid": "test1587",
+"cond": "closed",
+"job": "3b998b295715f6b5",
+"gold": [
+"Christopher Norris",
+"Gary Grimes",
+"Jennifer O'Neill",
+"Jerry Houser",
+"Katherine Allentuck",
+"Maureen Stapleton",
+"Oliver Conant",
+"Robert Mulligan"
+]
+},
+{
+"qid": "test1588",
+"cond": "closed",
+"job": "0595256f35175309",
+"gold": [
+"Sleeping with the Past",
+"Sleeping with the Past."
+]
+},
+{
+"qid": "test159",
+"cond": "closed",
+"job": "2aef907cc28cee2a",
+"gold": [
+"Valinor"
+]
+},
+{
+"qid": "test163",
+"cond": "closed",
+"job": "557d5b947f83520c",
+"gold": [
+"James Zeebo",
+"Zeebo"
+]
+},
+{
+"qid": "test1659",
+"cond": "closed",
+"job": "f63d491cdb4c34e6",
+"gold": [
+"tenderness of meat"
+]
+},
+{
+"qid": "test1661",
+"cond": "closed",
+"job": "d815e4b62d8ef0f2",
+"gold": [
+"Richard Parker"
+]
+},
+{
+"qid": "test1665",
+"cond": "closed",
+"job": "bac38308570dcd5e",
+"gold": [
+"Lady Gaga"
+]
+},
+{
+"qid": "test1667",
+"cond": "closed",
+"job": "3068821157e74397",
+"gold": [
+"R2E Micral CCMC",
+"September 1980"
+]
+},
+{
+"qid": "test1679",
+"cond": "closed",
+"job": "405ce41fb3b5b7a4",
+"gold": [
+"Geoffrey Dyson Palmer",
+"Geoffrey Dyson Palmer, OBE"
+]
+},
+{
+"qid": "test1684",
+"cond": "closed",
+"job": "c565ae0e2329a0c0",
+"gold": [
+"Federico Zuccari",
+"Giorgio Vasari",
+"Giorgio Vasari and Federico Zuccari"
+]
+},
+{
+"qid": "test1706",
+"cond": "closed",
+"job": "7329ab98c154eb0b",
+"gold": [
+"Frank Zappa",
+"Frank Zappa's"
+]
+},
+{
+"qid": "test1708",
+"cond": "closed",
+"job": "deb73d3059e299cd",
+"gold": [
+"I Write Sins Not Tragedies"
+]
+},
+{
+"qid": "test1711",
+"cond": "closed",
+"job": "6a537dd310317eb7",
+"gold": [
+"more than 200",
+"more than 200 strong"
+]
+},
+{
+"qid": "test1745",
+"cond": "closed",
+"job": "ac24a8722bad020b",
+"gold": [
+"consistency"
+]
+},
+{
+"qid": "test1760",
+"cond": "closed",
+"job": "ded224cfd484b180",
+"gold": [
+"John Roulstone",
+"Sarah Josepha Hale"
+]
+},
+{
+"qid": "test177",
+"cond": "closed",
+"job": "bdc0280195696043",
+"gold": [
+"Ariana Clarice Richards"
+]
+},
+{
+"qid": "test1771",
+"cond": "closed",
+"job": "26a3cda930cbdf90",
+"gold": [
+"Giancarlo Stanton",
+"Stanton, Giancarlo"
+]
+},
+{
+"qid": "test1779",
+"cond": "closed",
+"job": "208b9f3305354b1f",
+"gold": [
+"Hugo & Luigi"
+]
+},
+{
+"qid": "test1792",
+"cond": "closed",
+"job": "58953636aeb8a3ae",
+"gold": [
+"Connecticut"
+]
+},
+{
+"qid": "test1806",
+"cond": "closed",
+"job": "8610a5cb82f17707",
+"gold": [
+"D\u00e1in",
+"his cousin D\u00e1in"
+]
+},
+{
+"qid": "test1810",
+"cond": "closed",
+"job": "7beda908f8d3b79e",
+"gold": [
+"Austria-Hungary",
+"Germany"
+]
+},
+{
+"qid": "test1811",
+"cond": "closed",
+"job": "00e6318c1b4177d3",
+"gold": [
+"\"Acid rain\"",
+"Acid rain"
+]
+},
+{
+"qid": "test1828",
+"cond": "closed",
+"job": "e7aa56fec405fbf8",
+"gold": [
+"trunk"
+]
+},
+{
+"qid": "test1831",
+"cond": "closed",
+"job": "69d996d4db1e26dc",
+"gold": [
+"Sir Henry Cole"
+]
+},
+{
+"qid": "test185",
+"cond": "closed",
+"job": "2f1e09548741a9ad",
+"gold": [
+"November 17, 2017"
+]
+},
+{
+"qid": "test1852",
+"cond": "closed",
+"job": "90296470f8858d85",
+"gold": [
+"Napoleon",
+"Napoleon Bonaparte"
+]
+},
+{
+"qid": "test1871",
+"cond": "closed",
+"job": "08cb3cfb48bd6248",
+"gold": [
+"FaZe Rug"
+]
+},
+{
+"qid": "test1891",
+"cond": "closed",
+"job": "622ec0058b150b57",
+"gold": [
+"Michael Moriarty"
+]
+},
+{
+"qid": "test19",
+"cond": "closed",
+"job": "5553b08f322e14b8",
+"gold": [
+"midpiece"
+]
+},
+{
+"qid": "test191",
+"cond": "closed",
+"job": "936429aa33ba0f9e",
+"gold": [
+"Alfred Russel Wallace",
+"Charles Darwin"
+]
+},
+{
+"qid": "test1915",
+"cond": "closed",
+"job": "e0ab66aecc0c683f",
+"gold": [
+"1780\u20131830"
+]
+},
+{
+"qid": "test1919",
+"cond": "closed",
+"job": "855c63cce075ebd0",
+"gold": [
+"Hodel"
+]
+},
+{
+"qid": "test193",
+"cond": "closed",
+"job": "47bf9bcb0b2923ce",
+"gold": [
+"Serous Membrane",
+"the visceral membrane"
+]
+},
+{
+"qid": "test1942",
+"cond": "closed",
+"job": "becd33514cc12f93",
+"gold": [
+"You are a Puzzle"
+]
+},
+{
+"qid": "test1946",
+"cond": "closed",
+"job": "80fe48ccd067a36c",
+"gold": [
+"John Hancock"
+]
+},
+{
+"qid": "test1962",
+"cond": "closed",
+"job": "1b6fbc37955a1dd4",
+"gold": [
+"smen"
+]
+},
+{
+"qid": "test1982",
+"cond": "closed",
+"job": "c3784d079820e42f",
+"gold": [
+"2000",
+"2003"
+]
+},
+{
+"qid": "test1984",
+"cond": "closed",
+"job": "5a06523aef5f0666",
+"gold": [
+"nearly all living cells"
+]
+},
+{
+"qid": "test1991",
+"cond": "closed",
+"job": "293d1f714aba24cc",
+"gold": [
+"62"
+]
+},
+{
+"qid": "test2005",
+"cond": "closed",
+"job": "bfb57d0e924cc44f",
+"gold": [
+"St. Ignatius of Loyola"
+]
+},
+{
+"qid": "test2014",
+"cond": "closed",
+"job": "213e12c037c445e4",
+"gold": [
+"a little warmth",
+"warmth"
+]
+},
+{
+"qid": "test2035",
+"cond": "closed",
+"job": "b860ad7b9a0e6590",
+"gold": [
+"Michael Christopher McDowell"
+]
+},
+{
+"qid": "test2048",
+"cond": "closed",
+"job": "32a6223658eba099",
+"gold": [
+"Stanford Cardinal"
+]
+},
+{
+"qid": "test2062",
+"cond": "closed",
+"job": "d3e7a84df4559068",
+"gold": [
+"31 December 1600"
+]
+},
+{
+"qid": "test2067",
+"cond": "closed",
+"job": "a41966ef90a6b1f0",
+"gold": [
+"Ajay Tyagi"
+]
+},
+{
+"qid": "test2078",
+"cond": "closed",
+"job": "869adb3751493995",
+"gold": [
+"Martin Graetz",
+"Spacewar!",
+"Steve Russell",
+"Wayne Wiitanen"
+]
+},
+{
+"qid": "test2088",
+"cond": "closed",
+"job": "22cd5486214d7a27",
+"gold": [
+"shared"
+]
+},
+{
+"qid": "test2093",
+"cond": "closed",
+"job": "961466fb0dc7abbb",
+"gold": [
+"alcohol",
+"biological agents",
+"chemicals",
+"disease conditions in defined populations",
+"smoking",
+"stress"
+]
+},
+{
+"qid": "test2099",
+"cond": "closed",
+"job": "85981895f032cb06",
+"gold": [
+"1985",
+"February 15, 1985",
+"February\u00a015,\u00a01985"
+]
+},
+{
+"qid": "test2103",
+"cond": "closed",
+"job": "1949833dbf0aa642",
+"gold": [
+"approximately 5 liters"
+]
+},
+{
+"qid": "test2106",
+"cond": "closed",
+"job": "40dfcd5cfab0dcb7",
+"gold": [
+"Psychological fiction",
+"novella"
+]
+},
+{
+"qid": "test2111",
+"cond": "closed",
+"job": "0bf45b20d2fb9c1d",
+"gold": [
+"The season seven premiere",
+"season seven premiere"
+]
+},
+{
+"qid": "test2127",
+"cond": "closed",
+"job": "239e69641f2c7948",
+"gold": [
+"The Lightning Thief"
+]
+},
+{
+"qid": "test2137",
+"cond": "closed",
+"job": "4936a4bb00c0b56e",
+"gold": [
+"Jason Paige"
+]
+},
+{
+"qid": "test2141",
+"cond": "closed",
+"job": "77656fc7d56adc23",
+"gold": [
+"Zoroastrian",
+"the Zoroastrian religion"
+]
+},
+{
+"qid": "test2151",
+"cond": "closed",
+"job": "21e3c27499631cd6",
+"gold": [
+"Jim Justice",
+"the Governor of West Virginia",
+"the governor of West Virginia"
+]
+},
+{
+"qid": "test2155",
+"cond": "closed",
+"job": "f8ca48ce68692ed5",
+"gold": [
+"Lulu"
+]
+},
+{
+"qid": "test2157",
+"cond": "closed",
+"job": "b706874f1c457de0",
+"gold": [
+"5%"
+]
+},
+{
+"qid": "test2166",
+"cond": "closed",
+"job": "1593661b8313b48d",
+"gold": [
+"Noel Harrison"
+]
+},
+{
+"qid": "test2172",
+"cond": "closed",
+"job": "c675ec1ae1b24edd",
+"gold": [
+"Kate Warne"
+]
+},
+{
+"qid": "test2182",
+"cond": "closed",
+"job": "458ce0760ac4613e",
+"gold": [
+"Davos"
+]
+},
+{
+"qid": "test2183",
+"cond": "closed",
+"job": "78efde5c65a3777c",
+"gold": [
+"Del Norte County",
+"Humboldt County",
+"the coast of northern California"
+]
+},
+{
+"qid": "test2189",
+"cond": "closed",
+"job": "0b64f38bab760268",
+"gold": [
+"2008",
+"September 14, 2008"
+]
+},
+{
+"qid": "test2198",
+"cond": "closed",
+"job": "7315fdc1b6cb39cf",
+"gold": [
+"Muhammad",
+"the Islamic prophet Muhammad"
+]
+},
+{
+"qid": "test2207",
+"cond": "closed",
+"job": "d944db7246963d95",
+"gold": [
+"The Republic of Tecala"
+]
+},
+{
+"qid": "test2229",
+"cond": "closed",
+"job": "d35056ca314ad2ce",
+"gold": [
+"Stephen Foster"
+]
+},
+{
+"qid": "test2257",
+"cond": "closed",
+"job": "90193c976b962491",
+"gold": [
+"4-inch screen size",
+"4\u00a0in"
+]
+},
+{
+"qid": "test2271",
+"cond": "closed",
+"job": "94655dd9bb2c3add",
+"gold": [
+"Eukarya"
+]
+},
+{
+"qid": "test228",
+"cond": "closed",
+"job": "756ff7a1bda4eb1b",
+"gold": [
+"111",
+"111 straight wins",
+"90"
+]
+},
+{
+"qid": "test2281",
+"cond": "closed",
+"job": "6ccd986f04a4cc8d",
+"gold": [
+"Aten"
+]
+},
+{
+"qid": "test229",
+"cond": "closed",
+"job": "8b0f9f0d3d82cd0a",
+"gold": [
+"1998"
+]
+},
+{
+"qid": "test2290",
+"cond": "closed",
+"job": "1f4a7b4a651e482f",
+"gold": [
+"Andrew Moray",
+"Scottish victory",
+"William Wallace"
+]
+},
+{
+"qid": "test2291",
+"cond": "closed",
+"job": "101932a89510770f",
+"gold": [
+"Ark of the Covenant"
+]
+},
+{
+"qid": "test2301",
+"cond": "closed",
+"job": "e166bbb588d2865d",
+"gold": [
+"Llanrhaeadr-ym-Mochnant",
+"Llansilin in Powys"
+]
+},
+{
+"qid": "test231",
+"cond": "closed",
+"job": "594611267a6193bf",
+"gold": [
+"Andrew Garfield"
+]
+},
+{
+"qid": "test2379",
+"cond": "closed",
+"job": "fb73041b2008c615",
+"gold": [
+"digestive systems"
+]
+},
+{
+"qid": "test2393",
+"cond": "closed",
+"job": "439b59d82ea615c1",
+"gold": [
+"Panzerkampfwagen VIII Maus"
+]
+},
+{
+"qid": "test2394",
+"cond": "closed",
+"job": "1d54ef84c2bc1791",
+"gold": [
+"Can't Change Me"
+]
+},
+{
+"qid": "test2397",
+"cond": "closed",
+"job": "d1fbf07e2b3252aa",
+"gold": [
+"Christopher Columbus"
+]
+},
+{
+"qid": "test2400",
+"cond": "closed",
+"job": "27124d143d8ed1b8",
+"gold": [
+"New Orleans"
+]
+},
+{
+"qid": "test2411",
+"cond": "closed",
+"job": "7f6daf12723ed239",
+"gold": [
+"James Rodr\u00edguez"
+]
+},
+{
+"qid": "test2417",
+"cond": "closed",
+"job": "1d3e46118a70076f",
+"gold": [
+"ingredients"
+]
+},
+{
+"qid": "test2422",
+"cond": "closed",
+"job": "031b4488dae51cf9",
+"gold": [
+"Wales",
+"Wales and Yorkshire",
+"Yorkshire"
+]
+},
+{
+"qid": "test2447",
+"cond": "closed",
+"job": "62832b440b1f6733",
+"gold": [
+"Rigg"
+]
+},
+{
+"qid": "test2468",
+"cond": "closed",
+"job": "1bd572281aa50cce",
+"gold": [
+"August 18, 1998"
+]
+},
+{
+"qid": "test2469",
+"cond": "closed",
+"job": "3c9a9306c8421acd",
+"gold": [
+"Howard Ellsworth Rollins Jr."
+]
+},
+{
+"qid": "test249",
+"cond": "closed",
+"job": "c2e9bd9f9ebfe134",
+"gold": [
+"slavery"
+]
+},
+{
+"qid": "test2499",
+"cond": "closed",
+"job": "98f401683fc7c645",
+"gold": [
+"Kris Kristofferson"
+]
+},
+{
+"qid": "test2512",
+"cond": "closed",
+"job": "0a846f626735a5b3",
+"gold": [
+"Eddie Perfect",
+"Ian \"Dicko\" Dickson",
+"Ian Dickson",
+"Kelly Osbourne",
+"Sophie Monk"
+]
+},
+{
+"qid": "test2515",
+"cond": "closed",
+"job": "c0818db054ea7b53",
+"gold": [
+"Nashville Predators",
+"Pittsburgh Penguins"
+]
+},
+{
+"qid": "test2516",
+"cond": "closed",
+"job": "d6056cc9ed6b822b",
+"gold": [
+"Olivia d'Abo"
+]
+},
+{
+"qid": "test2522",
+"cond": "closed",
+"job": "757f28a393387fa7",
+"gold": [
+"\"beloved\"",
+"beloved"
+]
+},
+{
+"qid": "test2523",
+"cond": "closed",
+"job": "160580d0c2b0a1a5",
+"gold": [
+"Bush",
+"George W. Bush"
+]
+},
+{
+"qid": "test2525",
+"cond": "closed",
+"job": "76670b6392dedc53",
+"gold": [
+"Lansdowne",
+"Ridley Park",
+"Upper Darby",
+"just outside Philadelphia, Pennsylvania"
+]
+},
+{
+"qid": "test2558",
+"cond": "closed",
+"job": "5d79d35bcc509fda",
+"gold": [
+"a color marker",
+"a dye",
+"a pH indicator",
+"as a pH indicator"
+]
+},
+{
+"qid": "test2596",
+"cond": "closed",
+"job": "0b1b936e19f4e83b",
+"gold": [
+"Michael Moriarty"
+]
+},
+{
+"qid": "test2597",
+"cond": "closed",
+"job": "39fa910148f5565b",
+"gold": [
+"Cree Summer",
+"Macy Gray",
+"Melissa Disney",
+"R&B artist Macy Gray"
+]
+},
+{
+"qid": "test2612",
+"cond": "closed",
+"job": "f69521937b9719d3",
+"gold": [
+"1,350",
+"1,461"
+]
+},
+{
+"qid": "test2629",
+"cond": "closed",
+"job": "8255921a72ef6b55",
+"gold": [
+"Conquest",
+"Conquest-class cruise ship"
+]
+},
+{
+"qid": "test263",
+"cond": "closed",
+"job": "669b43b61d9ba5ca",
+"gold": [
+"the hardships of growing older"
+]
+},
+{
+"qid": "test2637",
+"cond": "closed",
+"job": "498ef0db0e1a93f8",
+"gold": [
+"an anembryonic gestation"
+]
+},
+{
+"qid": "test2642",
+"cond": "closed",
+"job": "37487765c9fdcefc",
+"gold": [
+"two",
+"two parallel planes"
+]
+},
+{
+"qid": "test2644",
+"cond": "closed",
+"job": "beefb736fda83afe",
+"gold": [
+"London",
+"Wimbledon, London"
+]
+},
+{
+"qid": "test2665",
+"cond": "closed",
+"job": "123be994fb61e2b0",
+"gold": [
+"\"Autumn\""
+]
+},
+{
+"qid": "test2669",
+"cond": "closed",
+"job": "2ac384d958444e44",
+"gold": [
+"life",
+"life imprisonment"
+]
+},
+{
+"qid": "test2672",
+"cond": "closed",
+"job": "67e1693e6a801064",
+"gold": [
+"Irsay",
+"Robert Irsay"
+]
+},
+{
+"qid": "test2683",
+"cond": "closed",
+"job": "9d868ee0ae18fbf2",
+"gold": [
+"Burj Khalifa",
+"Burj Khalifa in Dubai"
+]
+},
+{
+"qid": "test2701",
+"cond": "closed",
+"job": "fd1dd9822a4adc94",
+"gold": [
+"Dr. Rajendra Prasad"
+]
+},
+{
+"qid": "test2703",
+"cond": "closed",
+"job": "da6cc52f1e532d09",
+"gold": [
+"2001"
+]
+},
+{
+"qid": "test2717",
+"cond": "closed",
+"job": "abce3734ea83e43a",
+"gold": [
+"Pre-evaluation",
+"implementation",
+"operative planning",
+"post-evaluation",
+"strategic planning"
+]
+},
+{
+"qid": "test2720",
+"cond": "closed",
+"job": "03d747834619b0e6",
+"gold": [
+"36 months"
+]
+},
+{
+"qid": "test2770",
+"cond": "closed",
+"job": "7b9f1899ddc54e8e",
+"gold": [
+"Los Angeles"
+]
+},
+{
+"qid": "test2783",
+"cond": "closed",
+"job": "3f4d6a724ee06c29",
+"gold": [
+"inorganic molecules such as water"
+]
+},
+{
+"qid": "test2785",
+"cond": "closed",
+"job": "2a04484f14461053",
+"gold": [
+"Skat"
+]
+},
+{
+"qid": "test2786",
+"cond": "closed",
+"job": "8192055cab9e03a5",
+"gold": [
+"2%"
+]
+},
+{
+"qid": "test2797",
+"cond": "closed",
+"job": "4f76f52bf0fa5a3c",
+"gold": [
+"Herbert Hoover"
+]
+},
+{
+"qid": "test282",
+"cond": "closed",
+"job": "ddefdf76223c12c1",
+"gold": [
+"the Tennessee Titans"
+]
+},
+{
+"qid": "test2835",
+"cond": "closed",
+"job": "126717594d35f707",
+"gold": [
+"a convergent plate boundary"
+]
+},
+{
+"qid": "test2844",
+"cond": "closed",
+"job": "be9329eec97b8f7b",
+"gold": [
+"the Chicago metropolitan area"
+]
+},
+{
+"qid": "test2845",
+"cond": "closed",
+"job": "3ee5f7d50534e48d",
+"gold": [
+"two"
+]
+},
+{
+"qid": "test2849",
+"cond": "closed",
+"job": "a37c74fdcf9c680f",
+"gold": [
+"1960"
+]
+},
+{
+"qid": "test2875",
+"cond": "closed",
+"job": "e8712b5a0154afb4",
+"gold": [
+"Argon",
+"Carbon\u00a0dioxide",
+"Helium",
+"Methane",
+"Neon",
+"Nitrogen",
+"Oxygen",
+"Water vapor",
+"argon",
+"carbon dioxide",
+"nitrogen",
+"oxygen",
+"small amounts of other gases"
+]
+},
+{
+"qid": "test2880",
+"cond": "closed",
+"job": "b8789b722702efb0",
+"gold": [
+"Neil Young"
+]
+},
+{
+"qid": "test2881",
+"cond": "closed",
+"job": "3ee3ef6197bd426f",
+"gold": [
+"Mel Gibson"
+]
+},
+{
+"qid": "test2897",
+"cond": "closed",
+"job": "1dc4addf49c3ea75",
+"gold": [
+"Amerigo Vespucci"
+]
+},
+{
+"qid": "test2903",
+"cond": "closed",
+"job": "de22e1124368b41c",
+"gold": [
+"January 1, 2016"
+]
+},
+{
+"qid": "test2920",
+"cond": "closed",
+"job": "e4b90387559a4ac9",
+"gold": [
+"separationism"
+]
+},
+{
+"qid": "test2924",
+"cond": "closed",
+"job": "ee3358166ec90a1b",
+"gold": [
+"Albany",
+"Edgar",
+"Kent"
+]
+},
+{
+"qid": "test2928",
+"cond": "closed",
+"job": "32d95d8034e331d0",
+"gold": [
+"\"Mirror Image\""
+]
+},
+{
+"qid": "test2937",
+"cond": "closed",
+"job": "31d34ba9c53afbb1",
+"gold": [
+"the Saudi Arab kingdom"
+]
+},
+{
+"qid": "test2944",
+"cond": "closed",
+"job": "8289273c5ae63361",
+"gold": [
+"dorsally on the forearm",
+"located dorsally on the forearm"
+]
+},
+{
+"qid": "test2956",
+"cond": "closed",
+"job": "2949b8de585ddb2e",
+"gold": [
+"Gap 0",
+"Interphase"
+]
+},
+{
+"qid": "test2969",
+"cond": "closed",
+"job": "832b907182ca48f3",
+"gold": [
+"October 20, 1977"
+]
+},
+{
+"qid": "test2970",
+"cond": "closed",
+"job": "2a28132cec5ae969",
+"gold": [
+"2003",
+"at age 18 in 2003"
+]
+},
+{
+"qid": "test2971",
+"cond": "closed",
+"job": "36f51f5cc2e8be17",
+"gold": [
+"1994",
+"1994 season",
+"for the 1994 season",
+"the 1994 season"
+]
+},
+{
+"qid": "test2976",
+"cond": "closed",
+"job": "5d59976f19f37cae",
+"gold": [
+"January 2018"
+]
+},
+{
+"qid": "test2980",
+"cond": "closed",
+"job": "cd0dbef87f75fcf5",
+"gold": [
+"South America",
+"the plant species Stevia rebaudiana"
+]
+},
+{
+"qid": "test2983",
+"cond": "closed",
+"job": "ae0c81d521cb39da",
+"gold": [
+"Bear McCreary",
+"Raya Yarbrough"
+]
+},
+{
+"qid": "test2986",
+"cond": "closed",
+"job": "80aecb62dcbde73c",
+"gold": [
+"Atomic Power"
+]
+},
+{
+"qid": "test3016",
+"cond": "closed",
+"job": "c043192443253e4c",
+"gold": [
+"\"Goodbye Toby\"",
+"Goodbye Toby",
+"In \"A.A.R.M.\""
+]
+},
+{
+"qid": "test3027",
+"cond": "closed",
+"job": "1f6f7fe2b57dd407",
+"gold": [
+"December 1, 2017"
+]
+},
+{
+"qid": "test304",
+"cond": "closed",
+"job": "d32eb74fbcc9e9c9",
+"gold": [
+"19 July 1990"
+]
+},
+{
+"qid": "test3072",
+"cond": "closed",
+"job": "56ae1f22c8e22361",
+"gold": [
+"Ethel \"Edy\" Proctor"
+]
+},
+{
+"qid": "test3081",
+"cond": "closed",
+"job": "01d184dc0321bc10",
+"gold": [
+"New Orleans"
+]
+},
+{
+"qid": "test3090",
+"cond": "closed",
+"job": "8e78ef71f0925350",
+"gold": [
+"Help!"
+]
+},
+{
+"qid": "test3098",
+"cond": "closed",
+"job": "64f791caab0e8353",
+"gold": [
+"August 23, 1998",
+"August\u00a023,\u00a01998"
+]
+},
+{
+"qid": "test310",
+"cond": "closed",
+"job": "ce919745e99a635b",
+"gold": [
+"Mercedes-Benz Stadium"
+]
+},
+{
+"qid": "test3110",
+"cond": "closed",
+"job": "5d050592631488b8",
+"gold": [
+"a political ideology",
+"ideology",
+"political ideology"
+]
+},
+{
+"qid": "test3114",
+"cond": "closed",
+"job": "25c11988bf621671",
+"gold": [
+"1966",
+"in 1966"
+]
+},
+{
+"qid": "test3115",
+"cond": "closed",
+"job": "9cb79b2adb509b62",
+"gold": [
+"5,534",
+"5,534 registered hospitals"
+]
+},
+{
+"qid": "test3120",
+"cond": "closed",
+"job": "3a2a9f4746b36bbe",
+"gold": [
+"Dalveer Bhandari"
+]
+},
+{
+"qid": "test3122",
+"cond": "closed",
+"job": "81803664e365709c",
+"gold": [
+"James Arthur"
+]
+},
+{
+"qid": "test3125",
+"cond": "closed",
+"job": "1368a4491eaa7d57",
+"gold": [
+"Merry Clayton"
+]
+},
+{
+"qid": "test3158",
+"cond": "closed",
+"job": "cd6b8b374cdfe30b",
+"gold": [
+"Automobile drivetrains"
+]
+},
+{
+"qid": "test3188",
+"cond": "closed",
+"job": "38927707e4e19bd2",
+"gold": [
+"Vincent Price",
+"actor Vincent Price"
+]
+},
+{
+"qid": "test3190",
+"cond": "closed",
+"job": "acd536e4601b6f8a",
+"gold": [
+"UTC\u221209:00"
+]
+},
+{
+"qid": "test32",
+"cond": "closed",
+"job": "c9013bbc41f9936b",
+"gold": [
+"as work oxen",
+"breeding",
+"herd maintenance",
+"slaughtered for meat",
+"work oxen for haulage"
+]
+},
+{
+"qid": "test320",
+"cond": "closed",
+"job": "2eb38b9df168e698",
+"gold": [
+"Ashoka"
+]
+},
+{
+"qid": "test3211",
+"cond": "closed",
+"job": "73beabbde111e06d",
+"gold": [
+"the court"
+]
+},
+{
+"qid": "test3212",
+"cond": "closed",
+"job": "055b24610abcabce",
+"gold": [
+"Afonso IV of Portugal",
+"King Dinis of Portugal",
+"Prince Henry"
+]
+},
+{
+"qid": "test3215",
+"cond": "closed",
+"job": "3ddd3e4a57b31589",
+"gold": [
+"Michael Grimm",
+"Soul singer Michael Grimm"
+]
+},
+{
+"qid": "test3225",
+"cond": "closed",
+"job": "dfbb715f0253cd80",
+"gold": [
+"2020"
+]
+},
+{
+"qid": "test3250",
+"cond": "closed",
+"job": "4d9b5e15e30e2bc3",
+"gold": [
+"10",
+"ten"
+]
+},
+{
+"qid": "test3290",
+"cond": "closed",
+"job": "9b29888fb3bb5c9f",
+"gold": [
+"joins two or more vertebrae"
+]
+},
+{
+"qid": "test3291",
+"cond": "closed",
+"job": "a313d30f36b4e54c",
+"gold": [
+"Australia"
+]
+},
+{
+"qid": "test3309",
+"cond": "closed",
+"job": "15d6ea9ffeba7103",
+"gold": [
+"Buckwheat Boyz",
+"The Buckwheat Boyz"
+]
+},
+{
+"qid": "test3313",
+"cond": "closed",
+"job": "153ca06f2be0f7c6",
+"gold": [
+"advisory speed limits"
+]
+},
+{
+"qid": "test3322",
+"cond": "closed",
+"job": "5ebc7785534b237d",
+"gold": [
+"physical layer or layer 1"
+]
+},
+{
+"qid": "test3336",
+"cond": "closed",
+"job": "e2f0ffe4c511ae16",
+"gold": [
+"Eyjafjallaj\u00f6kull"
+]
+},
+{
+"qid": "test3344",
+"cond": "closed",
+"job": "03dc8f9636166175",
+"gold": [
+"Atlanta",
+"Covington, Georgia",
+"Decatur in Dekalb County",
+"Hammond, Louisiana"
+]
+},
+{
+"qid": "test3376",
+"cond": "closed",
+"job": "2e2db548875e84fd",
+"gold": [
+"1890",
+"Poems: Series 1"
+]
+},
+{
+"qid": "test3381",
+"cond": "closed",
+"job": "00150f83ec28e258",
+"gold": [
+"1978",
+"November 10, 1978",
+"in 1978"
+]
+},
+{
+"qid": "test3400",
+"cond": "closed",
+"job": "4c3c91f7abbfc3f0",
+"gold": [
+"1038"
+]
+},
+{
+"qid": "test3418",
+"cond": "closed",
+"job": "03f94a1e7ccc94de",
+"gold": [
+"Glen Miller Road in Trenton"
+]
+},
+{
+"qid": "test3449",
+"cond": "closed",
+"job": "b5e6a45d1aec18b4",
+"gold": [
+"Donna"
+]
+},
+{
+"qid": "test347",
+"cond": "closed",
+"job": "1ed1ff2431d6d068",
+"gold": [
+"1934",
+"August 15, 1971",
+"October 1976"
+]
+},
+{
+"qid": "test371",
+"cond": "closed",
+"job": "6a923ce0077f9eec",
+"gold": [
+"Angel Island Immigration Station",
+"San Francisco Bay"
+]
+},
+{
+"qid": "test373",
+"cond": "closed",
+"job": "de9404fb82b037d3",
+"gold": [
+"163"
+]
+},
+{
+"qid": "test375",
+"cond": "closed",
+"job": "7bdb801f2b2636f3",
+"gold": [
+"Aaron Lewis"
+]
+},
+{
+"qid": "test396",
+"cond": "closed",
+"job": "4fd0ffb69077aa0a",
+"gold": [
+"19 June 2018",
+"2019"
+]
+},
+{
+"qid": "test4",
+"cond": "closed",
+"job": "a439c58462b8256d",
+"gold": [
+"Hold On"
+]
+},
+{
+"qid": "test405",
+"cond": "closed",
+"job": "059614f92b48625e",
+"gold": [
+"Lex Luger",
+"Ric Flair"
+]
+},
+{
+"qid": "test429",
+"cond": "closed",
+"job": "b806d8162b3ca802",
+"gold": [
+"1898"
+]
+},
+{
+"qid": "test432",
+"cond": "closed",
+"job": "4782331685d5e410",
+"gold": [
+"Caucasus Mountains",
+"The Caucasus Mountains"
+]
+},
+{
+"qid": "test441",
+"cond": "closed",
+"job": "e39003fa8a9d4e2d",
+"gold": [
+"Development of Substitute Materials",
+"Manhattan",
+"The Manhattan Project"
+]
+},
+{
+"qid": "test467",
+"cond": "closed",
+"job": "2b91b4d6f866c414",
+"gold": [
+"twice"
+]
+},
+{
+"qid": "test48",
+"cond": "closed",
+"job": "f7eef801ffea0e6b",
+"gold": [
+"Utah"
+]
+},
+{
+"qid": "test480",
+"cond": "closed",
+"job": "059e009964cd520a",
+"gold": [
+"1998"
+]
+},
+{
+"qid": "test487",
+"cond": "closed",
+"job": "a720eca026ad7c69",
+"gold": [
+"1546"
+]
+},
+{
+"qid": "test49",
+"cond": "closed",
+"job": "f40542c497cbb259",
+"gold": [
+"Entropy",
+"Seeing Red"
+]
+},
+{
+"qid": "test496",
+"cond": "closed",
+"job": "3334698f1a83faeb",
+"gold": [
+"role theory",
+"sociological",
+"versions of Identity Theory"
+]
+},
+{
+"qid": "test499",
+"cond": "closed",
+"job": "9267fad944f0cba4",
+"gold": [
+"Max Martin"
+]
+},
+{
+"qid": "test509",
+"cond": "closed",
+"job": "be67e9dab0fba1b3",
+"gold": [
+"1904",
+"October 27, 1904"
+]
+},
+{
+"qid": "test523",
+"cond": "closed",
+"job": "3ff1fae80b7e4213",
+"gold": [
+"1996"
+]
+},
+{
+"qid": "test527",
+"cond": "closed",
+"job": "7b6b0ca422d04ef8",
+"gold": [
+"\u20b9 39.97 lakh"
+]
+},
+{
+"qid": "test541",
+"cond": "closed",
+"job": "8bf1839dddd15794",
+"gold": [
+"1901"
+]
+},
+{
+"qid": "test543",
+"cond": "closed",
+"job": "e86e2ce90c235635",
+"gold": [
+"Gustav Bauer",
+"President Friedrich Ebert"
+]
+},
+{
+"qid": "test547",
+"cond": "closed",
+"job": "d674200776b44602",
+"gold": [
+"Mercedes-Benz"
+]
+},
+{
+"qid": "test554",
+"cond": "closed",
+"job": "3d9ec00d3f158817",
+"gold": [
+"14 and 15 August 1945",
+"September 2, 1945"
+]
+},
+{
+"qid": "test558",
+"cond": "closed",
+"job": "b6da5e6596315801",
+"gold": [
+"8",
+"eight"
+]
+},
+{
+"qid": "test568",
+"cond": "closed",
+"job": "52c3c8919f170675",
+"gold": [
+"ILO",
+"UNESCO"
+]
+},
+{
+"qid": "test580",
+"cond": "closed",
+"job": "b28b21d1fcc1ff8d",
+"gold": [
+"2010"
+]
+},
+{
+"qid": "test61",
+"cond": "closed",
+"job": "530b136344a268f4",
+"gold": [
+"across a membrane",
+"mitochondrial membrane"
+]
+},
+{
+"qid": "test627",
+"cond": "closed",
+"job": "8bcf3ff62b48a1c2",
+"gold": [
+"eight",
+"six"
+]
+},
+{
+"qid": "test639",
+"cond": "closed",
+"job": "7621ec201d01cc31",
+"gold": [
+"English language patronymic surname"
+]
+},
+{
+"qid": "test657",
+"cond": "closed",
+"job": "6a75467d85878f8f",
+"gold": [
+"Pete Maravich"
+]
+},
+{
+"qid": "test661",
+"cond": "closed",
+"job": "eba042938e32b124",
+"gold": [
+"non-partisan"
+]
+},
+{
+"qid": "test662",
+"cond": "closed",
+"job": "9f7166c0376351ae",
+"gold": [
+"Rufus and Chaka Khan"
+]
+},
+{
+"qid": "test682",
+"cond": "closed",
+"job": "299d385bbb2975f8",
+"gold": [
+"Massillon, Ohio",
+"Toledo"
+]
+},
+{
+"qid": "test689",
+"cond": "closed",
+"job": "0b80afa676ae9115",
+"gold": [
+"France"
+]
+},
+{
+"qid": "test691",
+"cond": "closed",
+"job": "2aa3f725bdc05915",
+"gold": [
+"at each place"
+]
+},
+{
+"qid": "test701",
+"cond": "closed",
+"job": "9c8381de85041cd7",
+"gold": [
+"Air Canada Centre",
+"the Air Canada Centre"
+]
+},
+{
+"qid": "test718",
+"cond": "closed",
+"job": "2b5602160469102d",
+"gold": [
+"1951\u201352"
+]
+},
+{
+"qid": "test719",
+"cond": "closed",
+"job": "382300845d775afd",
+"gold": [
+"Representatives",
+"Speaker of the House",
+"Two years",
+"two-year"
+]
+},
+{
+"qid": "test72",
+"cond": "closed",
+"job": "ab739505cfe54ee2",
+"gold": [
+"September 21, 2017",
+"September\u00a021,\u00a02017"
+]
+},
+{
+"qid": "test731",
+"cond": "closed",
+"job": "e31fc1cd452ab253",
+"gold": [
+"gets relocated to Miami",
+"relocated to Miami"
+]
+},
+{
+"qid": "test742",
+"cond": "closed",
+"job": "8fc3d5e213d7648c",
+"gold": [
+"up to 100,000"
+]
+},
+{
+"qid": "test77",
+"cond": "closed",
+"job": "41e04670ad122707",
+"gold": [
+"Thespis"
+]
+},
+{
+"qid": "test772",
+"cond": "closed",
+"job": "c6de0fe29330cfa9",
+"gold": [
+"Hanna Alstr\u00f6m"
+]
+},
+{
+"qid": "test773",
+"cond": "closed",
+"job": "f7643f68df8380bf",
+"gold": [
+"1886",
+"1933",
+"c.1886",
+"first published in 1890"
+]
+},
+{
+"qid": "test777",
+"cond": "closed",
+"job": "47c81f487a43d880",
+"gold": [
+"June 22, 2018"
+]
+},
+{
+"qid": "test788",
+"cond": "closed",
+"job": "ee7e29bd4120e0de",
+"gold": [
+"Haikou",
+"Hainan International Exhibition Center"
+]
+},
+{
+"qid": "test794",
+"cond": "closed",
+"job": "3f69b07546848ed4",
+"gold": [
+"Richard Stallman"
+]
+},
+{
+"qid": "test798",
+"cond": "closed",
+"job": "fa8323225bb14908",
+"gold": [
+"126 PYG to 1 USD"
+]
+},
+{
+"qid": "test808",
+"cond": "closed",
+"job": "b66c4f83ff905616",
+"gold": [
+"Montesquieu in the Enlightenment"
+]
+},
+{
+"qid": "test812",
+"cond": "closed",
+"job": "5ded1a7af8942d53",
+"gold": [
+"Idaho"
+]
+},
+{
+"qid": "test818",
+"cond": "closed",
+"job": "e521f5f05806a5fe",
+"gold": [
+"ethanol",
+"volume of blood"
+]
+},
+{
+"qid": "test869",
+"cond": "closed",
+"job": "262b894182ea680b",
+"gold": [
+"Dadra and Nagar Haveli",
+"Meghalaya"
+]
+},
+{
+"qid": "test876",
+"cond": "closed",
+"job": "52f18404b20e12df",
+"gold": [
+"Karen Gillan"
+]
+},
+{
+"qid": "test884",
+"cond": "closed",
+"job": "af6810cc0b95baa3",
+"gold": [
+"Egyptian hieroglyphs",
+"hieroglyphs"
+]
+},
+{
+"qid": "test889",
+"cond": "closed",
+"job": "d99485b986684668",
+"gold": [
+"American artist Sheryl Crow",
+"Kidz Bop Kids",
+"Sheryl Crow",
+"backing vocals by Liz Phair"
+]
+},
+{
+"qid": "test896",
+"cond": "closed",
+"job": "2e1efaf8db17d5ed",
+"gold": [
+"1997"
+]
+},
+{
+"qid": "test90",
+"cond": "closed",
+"job": "28735149b29d73c2",
+"gold": [
+"Numbers 22:28"
+]
+},
+{
+"qid": "test913",
+"cond": "closed",
+"job": "66f2c641c3ce3106",
+"gold": [
+"Georgia Groome",
+"Georgia Groome as Georgia Nicolson"
+]
+},
+{
+"qid": "test930",
+"cond": "closed",
+"job": "851400c5e5433d1a",
+"gold": [
+"District Judge"
+]
+},
+{
+"qid": "test969",
+"cond": "closed",
+"job": "7813e5684e8002f2",
+"gold": [
+"Guy Boucher"
+]
+},
+{
+"qid": "test975",
+"cond": "closed",
+"job": "1666e545de880e35",
+"gold": [
+"Judy Collins",
+"singer/songwriter Judy Collins"
+]
+},
+{
+"qid": "test977",
+"cond": "closed",
+"job": "bdcb4b940f5ed085",
+"gold": [
+"blue"
+]
+},
+{
+"qid": "test990",
+"cond": "closed",
+"job": "8ec52cb0d20ba0e0",
+"gold": [
+"Triple threat"
+]
+},
+{
+"qid": "test1",
+"cond": "gold",
+"job": "6e8e46b65ff5f234",
+"gold": [
+"23"
+]
+},
+{
+"qid": "test1005",
+"cond": "gold",
+"job": "22f2924e8948548c",
+"gold": [
+"2010"
+]
+},
+{
+"qid": "test1006",
+"cond": "gold",
+"job": "c2ca44c7603a7680",
+"gold": [
+"October 17, 2017"
+]
+},
+{
+"qid": "test101",
+"cond": "gold",
+"job": "071a83f6c8e48baa",
+"gold": [
+"Tim Duncan"
+]
+},
+{
+"qid": "test1014",
+"cond": "gold",
+"job": "165afa11802c2c73",
+"gold": [
+"Maginot Line",
+"The Maginot Line"
+]
+},
+{
+"qid": "test1022",
+"cond": "gold",
+"job": "5225c34cb80dfb2a",
+"gold": [
+"Staci Keanan"
+]
+},
+{
+"qid": "test105",
+"cond": "gold",
+"job": "497aaeb738fbc3a1",
+"gold": [
+"Peter Greene"
+]
+},
+{
+"qid": "test1068",
+"cond": "gold",
+"job": "86f556fa61a53c37",
+"gold": [
+"6"
+]
+},
+{
+"qid": "test1076",
+"cond": "gold",
+"job": "aeefbe80179c1025",
+"gold": [
+"US$11,770"
+]
+},
+{
+"qid": "test1081",
+"cond": "gold",
+"job": "26ef21ec306b8ad6",
+"gold": [
+"New England Patriots"
+]
+},
+{
+"qid": "test1084",
+"cond": "gold",
+"job": "9b8add60d219b10b",
+"gold": [
+"James Martin Lafferty"
+]
+},
+{
+"qid": "test1085",
+"cond": "gold",
+"job": "da6121e5961346a0",
+"gold": [
+"Connor and Owen Fielding",
+"Wyatt and Dylan Walters"
+]
+},
+{
+"qid": "test1097",
+"cond": "gold",
+"job": "7855ca5b717068ff",
+"gold": [
+"Liam Cunningham"
+]
+},
+{
+"qid": "test1098",
+"cond": "gold",
+"job": "eb27368827bdf8aa",
+"gold": [
+"Mickey Mantle"
+]
+},
+{
+"qid": "test1114",
+"cond": "gold",
+"job": "4c050d28cdee30f2",
+"gold": [
+"September 19, 2017"
+]
+},
+{
+"qid": "test1127",
+"cond": "gold",
+"job": "78b2d8a6c732ee82",
+"gold": [
+"Shirley Mae Jones"
+]
+},
+{
+"qid": "test1135",
+"cond": "gold",
+"job": "0cdc76eb45b3f209",
+"gold": [
+"1930s",
+"during the 1930s",
+"sometime during the 1930s"
+]
+},
+{
+"qid": "test1150",
+"cond": "gold",
+"job": "0c1ec36122c9136e",
+"gold": [
+"Justices"
+]
+},
+{
+"qid": "test1167",
+"cond": "gold",
+"job": "415af3e78380dd10",
+"gold": [
+"Real Madrid"
+]
+},
+{
+"qid": "test1196",
+"cond": "gold",
+"job": "71c35ecadf4f534d",
+"gold": [
+"Hamilcar Barca",
+"Hanno the Great",
+"Hasdrubal the Fair",
+"Xanthippus"
+]
+},
+{
+"qid": "test1200",
+"cond": "gold",
+"job": "f293128cde109e7d",
+"gold": [
+"Ummah",
+"ummat al-Islamiyah"
+]
+},
+{
+"qid": "test1215",
+"cond": "gold",
+"job": "7fa8743698b2e3dc",
+"gold": [
+"four"
+]
+},
+{
+"qid": "test1220",
+"cond": "gold",
+"job": "d7239063549fb512",
+"gold": [
+"Jackson County, Missouri"
+]
+},
+{
+"qid": "test1227",
+"cond": "gold",
+"job": "02a8f00287c47867",
+"gold": [
+"Aaron Harrison",
+"Andrew Michael Harrison"
+]
+},
+{
+"qid": "test1229",
+"cond": "gold",
+"job": "82ca9e1724668e54",
+"gold": [
+"Meri"
+]
+},
+{
+"qid": "test1231",
+"cond": "gold",
+"job": "2bae6589ec4f318a",
+"gold": [
+"American rock band Eagles",
+"Eagles",
+"the American rock band Eagles"
+]
+},
+{
+"qid": "test1238",
+"cond": "gold",
+"job": "7cf23916f58440ff",
+"gold": [
+"Rich Mullins"
+]
+},
+{
+"qid": "test124",
+"cond": "gold",
+"job": "53232fbd3899ec5b",
+"gold": [
+"10\u00a0October\u00a02015",
+"2015"
+]
+},
+{
+"qid": "test1257",
+"cond": "gold",
+"job": "54fa1930715da42b",
+"gold": [
+"$205,700",
+"$205,700 annually"
+]
+},
+{
+"qid": "test127",
+"cond": "gold",
+"job": "285caf0f695259af",
+"gold": [
+"Sohrai"
+]
+},
+{
+"qid": "test1276",
+"cond": "gold",
+"job": "4c5c356adff5954b",
+"gold": [
+"four"
+]
+},
+{
+"qid": "test1280",
+"cond": "gold",
+"job": "f508e5e7136e9c73",
+"gold": [
+"During the last Ice Age"
+]
+},
+{
+"qid": "test1287",
+"cond": "gold",
+"job": "9db0914efd5ebf88",
+"gold": [
+"Sylvester Stallone"
+]
+},
+{
+"qid": "test13",
+"cond": "gold",
+"job": "3a9846ddba517461",
+"gold": [
+"1970",
+"January 2, 1971"
+]
+},
+{
+"qid": "test1345",
+"cond": "gold",
+"job": "6c689f10ebb89a1e",
+"gold": [
+"Glynis Johns",
+"the actress Glynis Johns"
+]
+},
+{
+"qid": "test1363",
+"cond": "gold",
+"job": "9bc314fb13c62ff1",
+"gold": [
+"Cleveland Indians",
+"the Indians"
+]
+},
+{
+"qid": "test1367",
+"cond": "gold",
+"job": "8ffbec2fae3288e2",
+"gold": [
+"\"Fix You\""
+]
+},
+{
+"qid": "test1368",
+"cond": "gold",
+"job": "e5937b7a1cbeb0bf",
+"gold": [
+"Alicia Vikander as Lara Croft"
+]
+},
+{
+"qid": "test1370",
+"cond": "gold",
+"job": "c0b72cda3959ee98",
+"gold": [
+"Myllokunmingia",
+"believed to be the Myllokunmingia",
+"the Myllokunmingia"
+]
+},
+{
+"qid": "test1374",
+"cond": "gold",
+"job": "03f2d211d62d3bb8",
+"gold": [
+"1945"
+]
+},
+{
+"qid": "test1376",
+"cond": "gold",
+"job": "1eeb97e41ef9fcb9",
+"gold": [
+"the Indo-Greek kings"
+]
+},
+{
+"qid": "test1398",
+"cond": "gold",
+"job": "a37c61ff382c6df9",
+"gold": [
+"\"M\u00e9nage \u00e0 Troi\""
+]
+},
+{
+"qid": "test1401",
+"cond": "gold",
+"job": "c84e2083beb93aa9",
+"gold": [
+"Rihanna"
+]
+},
+{
+"qid": "test1402",
+"cond": "gold",
+"job": "d1339137d8ccbdd2",
+"gold": [
+"1918",
+"30 October 1918"
+]
+},
+{
+"qid": "test1412",
+"cond": "gold",
+"job": "8d584d3ea49cdf48",
+"gold": [
+"Badminton House",
+"Corsham Court",
+"Dyrham Park",
+"Limpley Stoke",
+"Powderham Castle",
+"Weston-super-Mare"
+]
+},
+{
+"qid": "test1421",
+"cond": "gold",
+"job": "3d3a897669fb83f5",
+"gold": [
+"1954",
+"Flag Day in 1954",
+"on Flag Day in 1954"
+]
+},
+{
+"qid": "test1424",
+"cond": "gold",
+"job": "3b0457b0a644feff",
+"gold": [
+"senators"
+]
+},
+{
+"qid": "test1450",
+"cond": "gold",
+"job": "edd315763960ddd7",
+"gold": [
+"Manhattan"
+]
+},
+{
+"qid": "test1456",
+"cond": "gold",
+"job": "acef64e2a40d3258",
+"gold": [
+"1952"
+]
+},
+{
+"qid": "test1459",
+"cond": "gold",
+"job": "5ca26cef9d7035d2",
+"gold": [
+"Akbar the Great",
+"Babur"
+]
+},
+{
+"qid": "test146",
+"cond": "gold",
+"job": "ae45016fe6d12e11",
+"gold": [
+"the Rolling Stones"
+]
+},
+{
+"qid": "test1472",
+"cond": "gold",
+"job": "a52554c40bb000cd",
+"gold": [
+"autonomic nervous system",
+"somatic nervous system"
+]
+},
+{
+"qid": "test1515",
+"cond": "gold",
+"job": "84a78d1917538160",
+"gold": [
+"the Indian Ocean"
+]
+},
+{
+"qid": "test1520",
+"cond": "gold",
+"job": "a1835c3d79b60ece",
+"gold": [
+"Destiny's Child",
+"Solange Knowles"
+]
+},
+{
+"qid": "test1521",
+"cond": "gold",
+"job": "85b38baf7d7e03ff",
+"gold": [
+"Cathy Dennis",
+"Cathy Dennis and Rob Davis",
+"Rob Davis"
+]
+},
+{
+"qid": "test1533",
+"cond": "gold",
+"job": "8626e95aed4f248c",
+"gold": [
+"never made"
+]
+},
+{
+"qid": "test1536",
+"cond": "gold",
+"job": "b5a4e693de9ffff1",
+"gold": [
+"Lisa Stelly"
+]
+},
+{
+"qid": "test1537",
+"cond": "gold",
+"job": "b9f30c7ac5014c0b",
+"gold": [
+"animal-themed Ninja Zords"
+]
+},
+{
+"qid": "test1550",
+"cond": "gold",
+"job": "e75b232bbc140725",
+"gold": [
+"Roger Federer"
+]
+},
+{
+"qid": "test1558",
+"cond": "gold",
+"job": "fe92aabedb446895",
+"gold": [
+"Orangeville, Ontario, Canada",
+"Sudbury, Parry Sound"
+]
+},
+{
+"qid": "test1578",
+"cond": "gold",
+"job": "a94e475486c1b615",
+"gold": [
+"6ft 1in"
+]
+},
+{
+"qid": "test1587",
+"cond": "gold",
+"job": "aae4f511ba8312b7",
+"gold": [
+"Christopher Norris",
+"Gary Grimes",
+"Jennifer O'Neill",
+"Jerry Houser",
+"Katherine Allentuck",
+"Maureen Stapleton",
+"Oliver Conant",
+"Robert Mulligan"
+]
+},
+{
+"qid": "test1588",
+"cond": "gold",
+"job": "919de78d2382a6ca",
+"gold": [
+"Sleeping with the Past",
+"Sleeping with the Past."
+]
+},
+{
+"qid": "test159",
+"cond": "gold",
+"job": "bcb2f114ab5597fa",
+"gold": [
+"Valinor"
+]
+},
+{
+"qid": "test163",
+"cond": "gold",
+"job": "342b30576999c089",
+"gold": [
+"James Zeebo",
+"Zeebo"
+]
+},
+{
+"qid": "test1659",
+"cond": "gold",
+"job": "0d8d5004498991f0",
+"gold": [
+"tenderness of meat"
+]
+},
+{
+"qid": "test1661",
+"cond": "gold",
+"job": "486649e380a1f54b",
+"gold": [
+"Richard Parker"
+]
+},
+{
+"qid": "test1665",
+"cond": "gold",
+"job": "af9d843e28d3e34a",
+"gold": [
+"Lady Gaga"
+]
+},
+{
+"qid": "test1667",
+"cond": "gold",
+"job": "0b5cd5581505ecc4",
+"gold": [
+"R2E Micral CCMC",
+"September 1980"
+]
+},
+{
+"qid": "test1679",
+"cond": "gold",
+"job": "ccf75edaeddefc2c",
+"gold": [
+"Geoffrey Dyson Palmer",
+"Geoffrey Dyson Palmer, OBE"
+]
+},
+{
+"qid": "test1684",
+"cond": "gold",
+"job": "cdc5a29d4d66f3d9",
+"gold": [
+"Federico Zuccari",
+"Giorgio Vasari",
+"Giorgio Vasari and Federico Zuccari"
+]
+},
+{
+"qid": "test1706",
+"cond": "gold",
+"job": "a770942cb625a46a",
+"gold": [
+"Frank Zappa",
+"Frank Zappa's"
+]
+},
+{
+"qid": "test1708",
+"cond": "gold",
+"job": "1cc6092c0ec66c6c",
+"gold": [
+"I Write Sins Not Tragedies"
+]
+},
+{
+"qid": "test1711",
+"cond": "gold",
+"job": "74e0db4e72262f62",
+"gold": [
+"more than 200",
+"more than 200 strong"
+]
+},
+{
+"qid": "test1745",
+"cond": "gold",
+"job": "2e3c22fde7eb3dec",
+"gold": [
+"consistency"
+]
+},
+{
+"qid": "test1760",
+"cond": "gold",
+"job": "693c1c0c2fb84ed0",
+"gold": [
+"John Roulstone",
+"Sarah Josepha Hale"
+]
+},
+{
+"qid": "test177",
+"cond": "gold",
+"job": "3e9109deb2350710",
+"gold": [
+"Ariana Clarice Richards"
+]
+},
+{
+"qid": "test1771",
+"cond": "gold",
+"job": "08a3b03bcaf1c2c5",
+"gold": [
+"Giancarlo Stanton",
+"Stanton, Giancarlo"
+]
+},
+{
+"qid": "test1779",
+"cond": "gold",
+"job": "ff27051d5ba05ed9",
+"gold": [
+"Hugo & Luigi"
+]
+},
+{
+"qid": "test1792",
+"cond": "gold",
+"job": "0e6db78f05ad0f03",
+"gold": [
+"Connecticut"
+]
+},
+{
+"qid": "test1806",
+"cond": "gold",
+"job": "dcb57caa320fd8c3",
+"gold": [
+"D\u00e1in",
+"his cousin D\u00e1in"
+]
+},
+{
+"qid": "test1810",
+"cond": "gold",
+"job": "a0f48fc65ac2ecb3",
+"gold": [
+"Austria-Hungary",
+"Germany"
+]
+},
+{
+"qid": "test1811",
+"cond": "gold",
+"job": "b91091a042b05b8a",
+"gold": [
+"\"Acid rain\"",
+"Acid rain"
+]
+},
+{
+"qid": "test1828",
+"cond": "gold",
+"job": "668ba09a725c670e",
+"gold": [
+"trunk"
+]
+},
+{
+"qid": "test1831",
+"cond": "gold",
+"job": "357a3dc688c590e3",
+"gold": [
+"Sir Henry Cole"
+]
+},
+{
+"qid": "test185",
+"cond": "gold",
+"job": "590c63c43e3325e3",
+"gold": [
+"November 17, 2017"
+]
+},
+{
+"qid": "test1852",
+"cond": "gold",
+"job": "67f575faeb4a1e6f",
+"gold": [
+"Napoleon",
+"Napoleon Bonaparte"
+]
+},
+{
+"qid": "test1871",
+"cond": "gold",
+"job": "a575f0dd59242e5a",
+"gold": [
+"FaZe Rug"
+]
+},
+{
+"qid": "test1891",
+"cond": "gold",
+"job": "f1a19871bfa62130",
+"gold": [
+"Michael Moriarty"
+]
+},
+{
+"qid": "test19",
+"cond": "gold",
+"job": "3ce62b3b720b9657",
+"gold": [
+"midpiece"
+]
+},
+{
+"qid": "test191",
+"cond": "gold",
+"job": "0d32613c17676d11",
+"gold": [
+"Alfred Russel Wallace",
+"Charles Darwin"
+]
+},
+{
+"qid": "test1915",
+"cond": "gold",
+"job": "561cf561bd62d612",
+"gold": [
+"1780\u20131830"
+]
+},
+{
+"qid": "test1919",
+"cond": "gold",
+"job": "520a772b0a1fdfe1",
+"gold": [
+"Hodel"
+]
+},
+{
+"qid": "test193",
+"cond": "gold",
+"job": "e1a7ed2bda2c1539",
+"gold": [
+"Serous Membrane",
+"the visceral membrane"
+]
+},
+{
+"qid": "test1942",
+"cond": "gold",
+"job": "1f49e83f01b46448",
+"gold": [
+"You are a Puzzle"
+]
+},
+{
+"qid": "test1946",
+"cond": "gold",
+"job": "7ad704fc66f93787",
+"gold": [
+"John Hancock"
+]
+},
+{
+"qid": "test1962",
+"cond": "gold",
+"job": "36b9dc8dc0b9e654",
+"gold": [
+"smen"
+]
+},
+{
+"qid": "test1982",
+"cond": "gold",
+"job": "954fdd489b8f849a",
+"gold": [
+"2000",
+"2003"
+]
+},
+{
+"qid": "test1984",
+"cond": "gold",
+"job": "b096e424c19aa3bc",
+"gold": [
+"nearly all living cells"
+]
+},
+{
+"qid": "test1991",
+"cond": "gold",
+"job": "1859dd0b8dad5139",
+"gold": [
+"62"
+]
+},
+{
+"qid": "test2005",
+"cond": "gold",
+"job": "c879f51270e8a88a",
+"gold": [
+"St. Ignatius of Loyola"
+]
+},
+{
+"qid": "test2014",
+"cond": "gold",
+"job": "d80ed69b011d1577",
+"gold": [
+"a little warmth",
+"warmth"
+]
+},
+{
+"qid": "test2035",
+"cond": "gold",
+"job": "7321d15ad33ce715",
+"gold": [
+"Michael Christopher McDowell"
+]
+},
+{
+"qid": "test2048",
+"cond": "gold",
+"job": "46efdab15445796e",
+"gold": [
+"Stanford Cardinal"
+]
+},
+{
+"qid": "test2062",
+"cond": "gold",
+"job": "7965e18863792865",
+"gold": [
+"31 December 1600"
+]
+},
+{
+"qid": "test2067",
+"cond": "gold",
+"job": "9fcf671fb5e76e71",
+"gold": [
+"Ajay Tyagi"
+]
+},
+{
+"qid": "test2078",
+"cond": "gold",
+"job": "5aa1facad6edb0ff",
+"gold": [
+"Martin Graetz",
+"Spacewar!",
+"Steve Russell",
+"Wayne Wiitanen"
+]
+},
+{
+"qid": "test2088",
+"cond": "gold",
+"job": "ec571d6e5f209ec1",
+"gold": [
+"shared"
+]
+},
+{
+"qid": "test2093",
+"cond": "gold",
+"job": "5b2d99f746452638",
+"gold": [
+"alcohol",
+"biological agents",
+"chemicals",
+"disease conditions in defined populations",
+"smoking",
+"stress"
+]
+},
+{
+"qid": "test2099",
+"cond": "gold",
+"job": "a04585b32bbbd785",
+"gold": [
+"1985",
+"February 15, 1985",
+"February\u00a015,\u00a01985"
+]
+},
+{
+"qid": "test2103",
+"cond": "gold",
+"job": "c9f9b3e8ef836960",
+"gold": [
+"approximately 5 liters"
+]
+},
+{
+"qid": "test2106",
+"cond": "gold",
+"job": "101c63c10c12f41e",
+"gold": [
+"Psychological fiction",
+"novella"
+]
+},
+{
+"qid": "test2111",
+"cond": "gold",
+"job": "5101a62aa266dd55",
+"gold": [
+"The season seven premiere",
+"season seven premiere"
+]
+},
+{
+"qid": "test2127",
+"cond": "gold",
+"job": "702c5ee034565060",
+"gold": [
+"The Lightning Thief"
+]
+},
+{
+"qid": "test2137",
+"cond": "gold",
+"job": "7b49591f7a0e4245",
+"gold": [
+"Jason Paige"
+]
+},
+{
+"qid": "test2141",
+"cond": "gold",
+"job": "2496d799aeb0ac62",
+"gold": [
+"Zoroastrian",
+"the Zoroastrian religion"
+]
+},
+{
+"qid": "test2151",
+"cond": "gold",
+"job": "8290853021c42d3d",
+"gold": [
+"Jim Justice",
+"the Governor of West Virginia",
+"the governor of West Virginia"
+]
+},
+{
+"qid": "test2155",
+"cond": "gold",
+"job": "88a1ddcfd7a5e693",
+"gold": [
+"Lulu"
+]
+},
+{
+"qid": "test2157",
+"cond": "gold",
+"job": "70f8a2d7f61e54dc",
+"gold": [
+"5%"
+]
+},
+{
+"qid": "test2166",
+"cond": "gold",
+"job": "100661fcbcf42588",
+"gold": [
+"Noel Harrison"
+]
+},
+{
+"qid": "test2172",
+"cond": "gold",
+"job": "c2cde09abe7c7591",
+"gold": [
+"Kate Warne"
+]
+},
+{
+"qid": "test2182",
+"cond": "gold",
+"job": "9e683c1ec124d547",
+"gold": [
+"Davos"
+]
+},
+{
+"qid": "test2183",
+"cond": "gold",
+"job": "839e41c61c7c7be7",
+"gold": [
+"Del Norte County",
+"Humboldt County",
+"the coast of northern California"
+]
+},
+{
+"qid": "test2189",
+"cond": "gold",
+"job": "414e3852920ed228",
+"gold": [
+"2008",
+"September 14, 2008"
+]
+},
+{
+"qid": "test2198",
+"cond": "gold",
+"job": "f6909ed592df2c36",
+"gold": [
+"Muhammad",
+"the Islamic prophet Muhammad"
+]
+},
+{
+"qid": "test2207",
+"cond": "gold",
+"job": "4ced56edd4c825c3",
+"gold": [
+"The Republic of Tecala"
+]
+},
+{
+"qid": "test2229",
+"cond": "gold",
+"job": "4c6944c39e2ddd64",
+"gold": [
+"Stephen Foster"
+]
+},
+{
+"qid": "test2257",
+"cond": "gold",
+"job": "2d4014b14e124cfe",
+"gold": [
+"4-inch screen size",
+"4\u00a0in"
+]
+},
+{
+"qid": "test2271",
+"cond": "gold",
+"job": "554553573e14c8d1",
+"gold": [
+"Eukarya"
+]
+},
+{
+"qid": "test228",
+"cond": "gold",
+"job": "89a5917a5d74ec92",
+"gold": [
+"111",
+"111 straight wins",
+"90"
+]
+},
+{
+"qid": "test2281",
+"cond": "gold",
+"job": "bff53a0c09bf9a55",
+"gold": [
+"Aten"
+]
+},
+{
+"qid": "test229",
+"cond": "gold",
+"job": "88dae3b6774ba876",
+"gold": [
+"1998"
+]
+},
+{
+"qid": "test2290",
+"cond": "gold",
+"job": "f0e539b7af12890c",
+"gold": [
+"Andrew Moray",
+"Scottish victory",
+"William Wallace"
+]
+},
+{
+"qid": "test2291",
+"cond": "gold",
+"job": "bba5c86065ed32b9",
+"gold": [
+"Ark of the Covenant"
+]
+},
+{
+"qid": "test2301",
+"cond": "gold",
+"job": "a37039667ed738e8",
+"gold": [
+"Llanrhaeadr-ym-Mochnant",
+"Llansilin in Powys"
+]
+},
+{
+"qid": "test231",
+"cond": "gold",
+"job": "834388ecd253c62c",
+"gold": [
+"Andrew Garfield"
+]
+},
+{
+"qid": "test2379",
+"cond": "gold",
+"job": "ea0cd9b2ebef1543",
+"gold": [
+"digestive systems"
+]
+},
+{
+"qid": "test2393",
+"cond": "gold",
+"job": "d0650fd0c0a38dc7",
+"gold": [
+"Panzerkampfwagen VIII Maus"
+]
+},
+{
+"qid": "test2394",
+"cond": "gold",
+"job": "08925b32d6dab50e",
+"gold": [
+"Can't Change Me"
+]
+},
+{
+"qid": "test2397",
+"cond": "gold",
+"job": "cc2c2442f9e137cf",
+"gold": [
+"Christopher Columbus"
+]
+},
+{
+"qid": "test2400",
+"cond": "gold",
+"job": "7a68bd520c9d3479",
+"gold": [
+"New Orleans"
+]
+},
+{
+"qid": "test2411",
+"cond": "gold",
+"job": "e604ce9a59ae81c8",
+"gold": [
+"James Rodr\u00edguez"
+]
+},
+{
+"qid": "test2417",
+"cond": "gold",
+"job": "86465509954e45df",
+"gold": [
+"ingredients"
+]
+},
+{
+"qid": "test2422",
+"cond": "gold",
+"job": "0f111d557c25f97e",
+"gold": [
+"Wales",
+"Wales and Yorkshire",
+"Yorkshire"
+]
+},
+{
+"qid": "test2447",
+"cond": "gold",
+"job": "befbee81ff619613",
+"gold": [
+"Rigg"
+]
+},
+{
+"qid": "test2468",
+"cond": "gold",
+"job": "3f449a1d65524540",
+"gold": [
+"August 18, 1998"
+]
+},
+{
+"qid": "test2469",
+"cond": "gold",
+"job": "e17b856b9e2ab2e6",
+"gold": [
+"Howard Ellsworth Rollins Jr."
+]
+},
+{
+"qid": "test249",
+"cond": "gold",
+"job": "d68e3c8030611ecd",
+"gold": [
+"slavery"
+]
+},
+{
+"qid": "test2499",
+"cond": "gold",
+"job": "23bd83bb3ecce026",
+"gold": [
+"Kris Kristofferson"
+]
+},
+{
+"qid": "test2512",
+"cond": "gold",
+"job": "62da5fd4f26c7320",
+"gold": [
+"Eddie Perfect",
+"Ian \"Dicko\" Dickson",
+"Ian Dickson",
+"Kelly Osbourne",
+"Sophie Monk"
+]
+},
+{
+"qid": "test2515",
+"cond": "gold",
+"job": "5ddfc9f51969f04f",
+"gold": [
+"Nashville Predators",
+"Pittsburgh Penguins"
+]
+},
+{
+"qid": "test2516",
+"cond": "gold",
+"job": "756667ac291b106a",
+"gold": [
+"Olivia d'Abo"
+]
+},
+{
+"qid": "test2522",
+"cond": "gold",
+"job": "6f6ea8a4f8e29d74",
+"gold": [
+"\"beloved\"",
+"beloved"
+]
+},
+{
+"qid": "test2523",
+"cond": "gold",
+"job": "838190ecdb3ed25c",
+"gold": [
+"Bush",
+"George W. Bush"
+]
+},
+{
+"qid": "test2525",
+"cond": "gold",
+"job": "8a7d628267c2265f",
+"gold": [
+"Lansdowne",
+"Ridley Park",
+"Upper Darby",
+"just outside Philadelphia, Pennsylvania"
+]
+},
+{
+"qid": "test2558",
+"cond": "gold",
+"job": "2e71e523f4f62eb9",
+"gold": [
+"a color marker",
+"a dye",
+"a pH indicator",
+"as a pH indicator"
+]
+},
+{
+"qid": "test2596",
+"cond": "gold",
+"job": "75d601d9d52925ad",
+"gold": [
+"Michael Moriarty"
+]
+},
+{
+"qid": "test2597",
+"cond": "gold",
+"job": "a15c26556577ab17",
+"gold": [
+"Cree Summer",
+"Macy Gray",
+"Melissa Disney",
+"R&B artist Macy Gray"
+]
+},
+{
+"qid": "test2612",
+"cond": "gold",
+"job": "bc20a7d66f1294ab",
+"gold": [
+"1,350",
+"1,461"
+]
+},
+{
+"qid": "test2629",
+"cond": "gold",
+"job": "5b1ce02d47b68436",
+"gold": [
+"Conquest",
+"Conquest-class cruise ship"
+]
+},
+{
+"qid": "test263",
+"cond": "gold",
+"job": "1dfcd73a9cbdc27e",
+"gold": [
+"the hardships of growing older"
+]
+},
+{
+"qid": "test2637",
+"cond": "gold",
+"job": "9b2de5367276e36b",
+"gold": [
+"an anembryonic gestation"
+]
+},
+{
+"qid": "test2642",
+"cond": "gold",
+"job": "68fd455a1c70188f",
+"gold": [
+"two",
+"two parallel planes"
+]
+},
+{
+"qid": "test2644",
+"cond": "gold",
+"job": "c4580e23d553a0c5",
+"gold": [
+"London",
+"Wimbledon, London"
+]
+},
+{
+"qid": "test2665",
+"cond": "gold",
+"job": "397dd59ce032443c",
+"gold": [
+"\"Autumn\""
+]
+},
+{
+"qid": "test2669",
+"cond": "gold",
+"job": "8c45b38e7ff59be8",
+"gold": [
+"life",
+"life imprisonment"
+]
+},
+{
+"qid": "test2672",
+"cond": "gold",
+"job": "3dca0b123eeedcef",
+"gold": [
+"Irsay",
+"Robert Irsay"
+]
+},
+{
+"qid": "test2683",
+"cond": "gold",
+"job": "d996c5873ad61776",
+"gold": [
+"Burj Khalifa",
+"Burj Khalifa in Dubai"
+]
+},
+{
+"qid": "test2701",
+"cond": "gold",
+"job": "53830fffcfa1f01f",
+"gold": [
+"Dr. Rajendra Prasad"
+]
+},
+{
+"qid": "test2703",
+"cond": "gold",
+"job": "78c88ea1798b366f",
+"gold": [
+"2001"
+]
+},
+{
+"qid": "test2717",
+"cond": "gold",
+"job": "63d237104a1a5ca0",
+"gold": [
+"Pre-evaluation",
+"implementation",
+"operative planning",
+"post-evaluation",
+"strategic planning"
+]
+},
+{
+"qid": "test2720",
+"cond": "gold",
+"job": "d165afbbb3cb1581",
+"gold": [
+"36 months"
+]
+},
+{
+"qid": "test2770",
+"cond": "gold",
+"job": "2e656f5ee7667ecc",
+"gold": [
+"Los Angeles"
+]
+},
+{
+"qid": "test2783",
+"cond": "gold",
+"job": "73250d1dd8e3e723",
+"gold": [
+"inorganic molecules such as water"
+]
+},
+{
+"qid": "test2785",
+"cond": "gold",
+"job": "778508ef35a37d87",
+"gold": [
+"Skat"
+]
+},
+{
+"qid": "test2786",
+"cond": "gold",
+"job": "e1bf1130e0129a3f",
+"gold": [
+"2%"
+]
+},
+{
+"qid": "test2797",
+"cond": "gold",
+"job": "45da53a8adbd4614",
+"gold": [
+"Herbert Hoover"
+]
+},
+{
+"qid": "test282",
+"cond": "gold",
+"job": "dbd93b2bff72e979",
+"gold": [
+"the Tennessee Titans"
+]
+},
+{
+"qid": "test2835",
+"cond": "gold",
+"job": "9cdfad2d93a49ca5",
+"gold": [
+"a convergent plate boundary"
+]
+},
+{
+"qid": "test2844",
+"cond": "gold",
+"job": "abeeee35609d066d",
+"gold": [
+"the Chicago metropolitan area"
+]
+},
+{
+"qid": "test2845",
+"cond": "gold",
+"job": "e407c89eb7f2ffa7",
+"gold": [
+"two"
+]
+},
+{
+"qid": "test2849",
+"cond": "gold",
+"job": "3e1887988ebf1dcb",
+"gold": [
+"1960"
+]
+},
+{
+"qid": "test2875",
+"cond": "gold",
+"job": "1130216a7a05567c",
+"gold": [
+"Argon",
+"Carbon\u00a0dioxide",
+"Helium",
+"Methane",
+"Neon",
+"Nitrogen",
+"Oxygen",
+"Water vapor",
+"argon",
+"carbon dioxide",
+"nitrogen",
+"oxygen",
+"small amounts of other gases"
+]
+},
+{
+"qid": "test2880",
+"cond": "gold",
+"job": "f042784b76620cea",
+"gold": [
+"Neil Young"
+]
+},
+{
+"qid": "test2881",
+"cond": "gold",
+"job": "15861cc2656189c6",
+"gold": [
+"Mel Gibson"
+]
+},
+{
+"qid": "test2897",
+"cond": "gold",
+"job": "fa534f4696f26d95",
+"gold": [
+"Amerigo Vespucci"
+]
+},
+{
+"qid": "test2903",
+"cond": "gold",
+"job": "27233d7ab4a9d917",
+"gold": [
+"January 1, 2016"
+]
+},
+{
+"qid": "test2920",
+"cond": "gold",
+"job": "f17772efb13450df",
+"gold": [
+"separationism"
+]
+},
+{
+"qid": "test2924",
+"cond": "gold",
+"job": "37ac10a87558bdba",
+"gold": [
+"Albany",
+"Edgar",
+"Kent"
+]
+},
+{
+"qid": "test2928",
+"cond": "gold",
+"job": "ea70df46062e4a95",
+"gold": [
+"\"Mirror Image\""
+]
+},
+{
+"qid": "test2937",
+"cond": "gold",
+"job": "fcdff56859a02d5d",
+"gold": [
+"the Saudi Arab kingdom"
+]
+},
+{
+"qid": "test2944",
+"cond": "gold",
+"job": "9bea7440bcca1b54",
+"gold": [
+"dorsally on the forearm",
+"located dorsally on the forearm"
+]
+},
+{
+"qid": "test2956",
+"cond": "gold",
+"job": "35d96a5b20bdcc66",
+"gold": [
+"Gap 0",
+"Interphase"
+]
+},
+{
+"qid": "test2969",
+"cond": "gold",
+"job": "02e4404240b57930",
+"gold": [
+"October 20, 1977"
+]
+},
+{
+"qid": "test2970",
+"cond": "gold",
+"job": "d23441436dc09558",
+"gold": [
+"2003",
+"at age 18 in 2003"
+]
+},
+{
+"qid": "test2971",
+"cond": "gold",
+"job": "f7b5c928b9440280",
+"gold": [
+"1994",
+"1994 season",
+"for the 1994 season",
+"the 1994 season"
+]
+},
+{
+"qid": "test2976",
+"cond": "gold",
+"job": "ff18c4bff8f1e86d",
+"gold": [
+"January 2018"
+]
+},
+{
+"qid": "test2980",
+"cond": "gold",
+"job": "75530ca2ed0c9922",
+"gold": [
+"South America",
+"the plant species Stevia rebaudiana"
+]
+},
+{
+"qid": "test2983",
+"cond": "gold",
+"job": "3b70ac457a7bace8",
+"gold": [
+"Bear McCreary",
+"Raya Yarbrough"
+]
+},
+{
+"qid": "test2986",
+"cond": "gold",
+"job": "d8ad5066d8de41eb",
+"gold": [
+"Atomic Power"
+]
+},
+{
+"qid": "test3016",
+"cond": "gold",
+"job": "cc6a6339de237783",
+"gold": [
+"\"Goodbye Toby\"",
+"Goodbye Toby",
+"In \"A.A.R.M.\""
+]
+},
+{
+"qid": "test3027",
+"cond": "gold",
+"job": "e5d3cecaf7f4b9f5",
+"gold": [
+"December 1, 2017"
+]
+},
+{
+"qid": "test304",
+"cond": "gold",
+"job": "a9d490454df431cb",
+"gold": [
+"19 July 1990"
+]
+},
+{
+"qid": "test3072",
+"cond": "gold",
+"job": "5cc1de55e00e32b6",
+"gold": [
+"Ethel \"Edy\" Proctor"
+]
+},
+{
+"qid": "test3081",
+"cond": "gold",
+"job": "14c4184816cf014b",
+"gold": [
+"New Orleans"
+]
+},
+{
+"qid": "test3090",
+"cond": "gold",
+"job": "cfb19165a0461f47",
+"gold": [
+"Help!"
+]
+},
+{
+"qid": "test3098",
+"cond": "gold",
+"job": "2af758e9509c4094",
+"gold": [
+"August 23, 1998",
+"August\u00a023,\u00a01998"
+]
+},
+{
+"qid": "test310",
+"cond": "gold",
+"job": "aaa270bba719d06f",
+"gold": [
+"Mercedes-Benz Stadium"
+]
+},
+{
+"qid": "test3110",
+"cond": "gold",
+"job": "12a6cdd950795711",
+"gold": [
+"a political ideology",
+"ideology",
+"political ideology"
+]
+},
+{
+"qid": "test3114",
+"cond": "gold",
+"job": "0b595b650a90c0c6",
+"gold": [
+"1966",
+"in 1966"
+]
+},
+{
+"qid": "test3115",
+"cond": "gold",
+"job": "51731a75b952bb3b",
+"gold": [
+"5,534",
+"5,534 registered hospitals"
+]
+},
+{
+"qid": "test3120",
+"cond": "gold",
+"job": "ee5289d52bf8f3b3",
+"gold": [
+"Dalveer Bhandari"
+]
+},
+{
+"qid": "test3122",
+"cond": "gold",
+"job": "d9a1f95bcda53f7e",
+"gold": [
+"James Arthur"
+]
+},
+{
+"qid": "test3125",
+"cond": "gold",
+"job": "1658053414a37c6b",
+"gold": [
+"Merry Clayton"
+]
+},
+{
+"qid": "test3158",
+"cond": "gold",
+"job": "e73e2dcd59508fcb",
+"gold": [
+"Automobile drivetrains"
+]
+},
+{
+"qid": "test3188",
+"cond": "gold",
+"job": "7942dafaeb2e3ec3",
+"gold": [
+"Vincent Price",
+"actor Vincent Price"
+]
+},
+{
+"qid": "test3190",
+"cond": "gold",
+"job": "881e551edbd9aab6",
+"gold": [
+"UTC\u221209:00"
+]
+},
+{
+"qid": "test32",
+"cond": "gold",
+"job": "13f6c33b38750d31",
+"gold": [
+"as work oxen",
+"breeding",
+"herd maintenance",
+"slaughtered for meat",
+"work oxen for haulage"
+]
+},
+{
+"qid": "test320",
+"cond": "gold",
+"job": "2bfced234d9b6eb4",
+"gold": [
+"Ashoka"
+]
+},
+{
+"qid": "test3211",
+"cond": "gold",
+"job": "584afde935b2ea9c",
+"gold": [
+"the court"
+]
+},
+{
+"qid": "test3212",
+"cond": "gold",
+"job": "0ec2784bbee1c1bd",
+"gold": [
+"Afonso IV of Portugal",
+"King Dinis of Portugal",
+"Prince Henry"
+]
+},
+{
+"qid": "test3215",
+"cond": "gold",
+"job": "17f964a811cb4001",
+"gold": [
+"Michael Grimm",
+"Soul singer Michael Grimm"
+]
+},
+{
+"qid": "test3225",
+"cond": "gold",
+"job": "caf350c09c53fd84",
+"gold": [
+"2020"
+]
+},
+{
+"qid": "test3250",
+"cond": "gold",
+"job": "366848633b62f6f9",
+"gold": [
+"10",
+"ten"
+]
+},
+{
+"qid": "test3290",
+"cond": "gold",
+"job": "3addc4cbd28d67c8",
+"gold": [
+"joins two or more vertebrae"
+]
+},
+{
+"qid": "test3291",
+"cond": "gold",
+"job": "1b9e29025e089bfe",
+"gold": [
+"Australia"
+]
+},
+{
+"qid": "test3309",
+"cond": "gold",
+"job": "05346e564d0b44b3",
+"gold": [
+"Buckwheat Boyz",
+"The Buckwheat Boyz"
+]
+},
+{
+"qid": "test3313",
+"cond": "gold",
+"job": "c33acc11769c7007",
+"gold": [
+"advisory speed limits"
+]
+},
+{
+"qid": "test3322",
+"cond": "gold",
+"job": "a2a5e5deb23187e9",
+"gold": [
+"physical layer or layer 1"
+]
+},
+{
+"qid": "test3336",
+"cond": "gold",
+"job": "d5cfb11977601e4d",
+"gold": [
+"Eyjafjallaj\u00f6kull"
+]
+},
+{
+"qid": "test3344",
+"cond": "gold",
+"job": "ab5c4a03febc47bb",
+"gold": [
+"Atlanta",
+"Covington, Georgia",
+"Decatur in Dekalb County",
+"Hammond, Louisiana"
+]
+},
+{
+"qid": "test3376",
+"cond": "gold",
+"job": "708008409abc6e51",
+"gold": [
+"1890",
+"Poems: Series 1"
+]
+},
+{
+"qid": "test3381",
+"cond": "gold",
+"job": "2ed91375227d3435",
+"gold": [
+"1978",
+"November 10, 1978",
+"in 1978"
+]
+},
+{
+"qid": "test3400",
+"cond": "gold",
+"job": "6e32798ee05ecb16",
+"gold": [
+"1038"
+]
+},
+{
+"qid": "test3418",
+"cond": "gold",
+"job": "a9ab110e22041084",
+"gold": [
+"Glen Miller Road in Trenton"
+]
+},
+{
+"qid": "test3449",
+"cond": "gold",
+"job": "af44cdd81ce82cd8",
+"gold": [
+"Donna"
+]
+},
+{
+"qid": "test347",
+"cond": "gold",
+"job": "4d4790403a281a64",
+"gold": [
+"1934",
+"August 15, 1971",
+"October 1976"
+]
+},
+{
+"qid": "test371",
+"cond": "gold",
+"job": "80335b1a61638da9",
+"gold": [
+"Angel Island Immigration Station",
+"San Francisco Bay"
+]
+},
+{
+"qid": "test373",
+"cond": "gold",
+"job": "d9458c7abf32a591",
+"gold": [
+"163"
+]
+},
+{
+"qid": "test375",
+"cond": "gold",
+"job": "1df9b4d5fe904ed3",
+"gold": [
+"Aaron Lewis"
+]
+},
+{
+"qid": "test396",
+"cond": "gold",
+"job": "7b1166cc23b38eb2",
+"gold": [
+"19 June 2018",
+"2019"
+]
+},
+{
+"qid": "test4",
+"cond": "gold",
+"job": "d3a3dd510cad95db",
+"gold": [
+"Hold On"
+]
+},
+{
+"qid": "test405",
+"cond": "gold",
+"job": "c00c80ef83bc328c",
+"gold": [
+"Lex Luger",
+"Ric Flair"
+]
+},
+{
+"qid": "test429",
+"cond": "gold",
+"job": "577960fbebd3e2eb",
+"gold": [
+"1898"
+]
+},
+{
+"qid": "test432",
+"cond": "gold",
+"job": "e69966c48d9ea31d",
+"gold": [
+"Caucasus Mountains",
+"The Caucasus Mountains"
+]
+},
+{
+"qid": "test441",
+"cond": "gold",
+"job": "43ed0ce7e339e4eb",
+"gold": [
+"Development of Substitute Materials",
+"Manhattan",
+"The Manhattan Project"
+]
+},
+{
+"qid": "test467",
+"cond": "gold",
+"job": "614a94f1c40d1f9b",
+"gold": [
+"twice"
+]
+},
+{
+"qid": "test48",
+"cond": "gold",
+"job": "1d49977655857933",
+"gold": [
+"Utah"
+]
+},
+{
+"qid": "test480",
+"cond": "gold",
+"job": "2f466877f3343ab3",
+"gold": [
+"1998"
+]
+},
+{
+"qid": "test487",
+"cond": "gold",
+"job": "81bd8047e5f2e18f",
+"gold": [
+"1546"
+]
+},
+{
+"qid": "test49",
+"cond": "gold",
+"job": "4e84bcec12ae1143",
+"gold": [
+"Entropy",
+"Seeing Red"
+]
+},
+{
+"qid": "test496",
+"cond": "gold",
+"job": "2142a5afbcc5dd30",
+"gold": [
+"role theory",
+"sociological",
+"versions of Identity Theory"
+]
+},
+{
+"qid": "test499",
+"cond": "gold",
+"job": "c6f0053a1c0cbfea",
+"gold": [
+"Max Martin"
+]
+},
+{
+"qid": "test509",
+"cond": "gold",
+"job": "43f046b6e569716b",
+"gold": [
+"1904",
+"October 27, 1904"
+]
+},
+{
+"qid": "test523",
+"cond": "gold",
+"job": "8111845ca3d3fd68",
+"gold": [
+"1996"
+]
+},
+{
+"qid": "test527",
+"cond": "gold",
+"job": "e6acedc71a095683",
+"gold": [
+"\u20b9 39.97 lakh"
+]
+},
+{
+"qid": "test541",
+"cond": "gold",
+"job": "e84ff810ad55de82",
+"gold": [
+"1901"
+]
+},
+{
+"qid": "test543",
+"cond": "gold",
+"job": "bdaeabdc79b26c5f",
+"gold": [
+"Gustav Bauer",
+"President Friedrich Ebert"
+]
+},
+{
+"qid": "test547",
+"cond": "gold",
+"job": "476457c8302d4a06",
+"gold": [
+"Mercedes-Benz"
+]
+},
+{
+"qid": "test554",
+"cond": "gold",
+"job": "cae2f33c54696e47",
+"gold": [
+"14 and 15 August 1945",
+"September 2, 1945"
+]
+},
+{
+"qid": "test558",
+"cond": "gold",
+"job": "efd541afc82f2ad0",
+"gold": [
+"8",
+"eight"
+]
+},
+{
+"qid": "test568",
+"cond": "gold",
+"job": "2870febddd18ec9e",
+"gold": [
+"ILO",
+"UNESCO"
+]
+},
+{
+"qid": "test580",
+"cond": "gold",
+"job": "619f74cf43a605b6",
+"gold": [
+"2010"
+]
+},
+{
+"qid": "test61",
+"cond": "gold",
+"job": "349d9a575928f1aa",
+"gold": [
+"across a membrane",
+"mitochondrial membrane"
+]
+},
+{
+"qid": "test627",
+"cond": "gold",
+"job": "d3d99e88de0e26d6",
+"gold": [
+"eight",
+"six"
+]
+},
+{
+"qid": "test639",
+"cond": "gold",
+"job": "3e013122fe42f2dd",
+"gold": [
+"English language patronymic surname"
+]
+},
+{
+"qid": "test657",
+"cond": "gold",
+"job": "d019a2ee5bc8afea",
+"gold": [
+"Pete Maravich"
+]
+},
+{
+"qid": "test661",
+"cond": "gold",
+"job": "03f304663882003d",
+"gold": [
+"non-partisan"
+]
+},
+{
+"qid": "test662",
+"cond": "gold",
+"job": "00a83572a8574794",
+"gold": [
+"Rufus and Chaka Khan"
+]
+},
+{
+"qid": "test682",
+"cond": "gold",
+"job": "8b2b519592aa6b85",
+"gold": [
+"Massillon, Ohio",
+"Toledo"
+]
+},
+{
+"qid": "test689",
+"cond": "gold",
+"job": "c898f418f61356ff",
+"gold": [
+"France"
+]
+},
+{
+"qid": "test691",
+"cond": "gold",
+"job": "37c553c3387111bd",
+"gold": [
+"at each place"
+]
+},
+{
+"qid": "test701",
+"cond": "gold",
+"job": "4c151b9015d9e885",
+"gold": [
+"Air Canada Centre",
+"the Air Canada Centre"
+]
+},
+{
+"qid": "test718",
+"cond": "gold",
+"job": "d1813098579b01bf",
+"gold": [
+"1951\u201352"
+]
+},
+{
+"qid": "test719",
+"cond": "gold",
+"job": "f7ee0b82d09ca8c6",
+"gold": [
+"Representatives",
+"Speaker of the House",
+"Two years",
+"two-year"
+]
+},
+{
+"qid": "test72",
+"cond": "gold",
+"job": "aedaebe48c83b273",
+"gold": [
+"September 21, 2017",
+"September\u00a021,\u00a02017"
+]
+},
+{
+"qid": "test731",
+"cond": "gold",
+"job": "e58f141429bcde9e",
+"gold": [
+"gets relocated to Miami",
+"relocated to Miami"
+]
+},
+{
+"qid": "test742",
+"cond": "gold",
+"job": "d7023999c06ba523",
+"gold": [
+"up to 100,000"
+]
+},
+{
+"qid": "test77",
+"cond": "gold",
+"job": "28db5e835f76dbb2",
+"gold": [
+"Thespis"
+]
+},
+{
+"qid": "test772",
+"cond": "gold",
+"job": "5f4c62c1e89ac2c7",
+"gold": [
+"Hanna Alstr\u00f6m"
+]
+},
+{
+"qid": "test773",
+"cond": "gold",
+"job": "4ed3b54b0b60e81b",
+"gold": [
+"1886",
+"1933",
+"c.1886",
+"first published in 1890"
+]
+},
+{
+"qid": "test777",
+"cond": "gold",
+"job": "08afd04b1e0ede94",
+"gold": [
+"June 22, 2018"
+]
+},
+{
+"qid": "test788",
+"cond": "gold",
+"job": "05b8e797cdf5b13b",
+"gold": [
+"Haikou",
+"Hainan International Exhibition Center"
+]
+},
+{
+"qid": "test794",
+"cond": "gold",
+"job": "963e902e8a2144f3",
+"gold": [
+"Richard Stallman"
+]
+},
+{
+"qid": "test798",
+"cond": "gold",
+"job": "ae2f3efb8650ae88",
+"gold": [
+"126 PYG to 1 USD"
+]
+},
+{
+"qid": "test808",
+"cond": "gold",
+"job": "60fc4403b8011944",
+"gold": [
+"Montesquieu in the Enlightenment"
+]
+},
+{
+"qid": "test812",
+"cond": "gold",
+"job": "f7d0aa2ef8dd38d5",
+"gold": [
+"Idaho"
+]
+},
+{
+"qid": "test818",
+"cond": "gold",
+"job": "e1c40ef635182c87",
+"gold": [
+"ethanol",
+"volume of blood"
+]
+},
+{
+"qid": "test869",
+"cond": "gold",
+"job": "d9ce81a334660389",
+"gold": [
+"Dadra and Nagar Haveli",
+"Meghalaya"
+]
+},
+{
+"qid": "test876",
+"cond": "gold",
+"job": "feccae942d1e080b",
+"gold": [
+"Karen Gillan"
+]
+},
+{
+"qid": "test884",
+"cond": "gold",
+"job": "7063e842ad2d08db",
+"gold": [
+"Egyptian hieroglyphs",
+"hieroglyphs"
+]
+},
+{
+"qid": "test889",
+"cond": "gold",
+"job": "0791bf1842e6a00b",
+"gold": [
+"American artist Sheryl Crow",
+"Kidz Bop Kids",
+"Sheryl Crow",
+"backing vocals by Liz Phair"
+]
+},
+{
+"qid": "test896",
+"cond": "gold",
+"job": "86b24274182c3c62",
+"gold": [
+"1997"
+]
+},
+{
+"qid": "test90",
+"cond": "gold",
+"job": "0a9097c1e2fd6d62",
+"gold": [
+"Numbers 22:28"
+]
+},
+{
+"qid": "test913",
+"cond": "gold",
+"job": "4c34107a7eb95675",
+"gold": [
+"Georgia Groome",
+"Georgia Groome as Georgia Nicolson"
+]
+},
+{
+"qid": "test930",
+"cond": "gold",
+"job": "faca97d8b2201b55",
+"gold": [
+"District Judge"
+]
+},
+{
+"qid": "test969",
+"cond": "gold",
+"job": "ff3ac777bfa0ed2c",
+"gold": [
+"Guy Boucher"
+]
+},
+{
+"qid": "test975",
+"cond": "gold",
+"job": "53fd494f786d9c72",
+"gold": [
+"Judy Collins",
+"singer/songwriter Judy Collins"
+]
+},
+{
+"qid": "test977",
+"cond": "gold",
+"job": "5337adb14ae548ad",
+"gold": [
+"blue"
+]
+},
+{
+"qid": "test990",
+"cond": "gold",
+"job": "80b1669b34028252",
+"gold": [
+"Triple threat"
+]
+}
+]

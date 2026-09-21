@@ -1,0 +1,300 @@
+{"_id": "512d0e635274a5fb07000005", "text": "Which is the most widely used anti-TNF drug?", "metadata": {"exact_answer": ["Etanercept"], "type": "factoid"}}
+{"_id": "515df063298dcd4e51000029", "text": "What is the indication for prophylactic use of antibiotics in COPD?", "metadata": {"exact_answer": ["Reduction of number of exacerbations"], "type": "factoid"}}
+{"_id": "516545a8298dcd4e51000056", "text": "Which is the protein (antigen) targeted by anti-Vel antibodies in the Vel blood group?", "metadata": {"exact_answer": ["SMIM1"], "type": "factoid"}}
+{"_id": "5178d6be8ed59a060a000038", "text": "What is a popular mesaure of gene expression in RNA-seq experiments?", "metadata": {"exact_answer": ["Reads Per Kilobase per Million mapped reads (RPKM)"], "type": "factoid"}}
+{"_id": "52b2e409f828ad283c00000e", "text": "What disease in Loxapine prominently used for?", "metadata": {"exact_answer": ["schizophrenia"], "type": "factoid"}}
+{"_id": "52bf19f703868f1b06000002", "text": "What is the inheritance pattern of Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT) caused by RYR2 mutations?", "metadata": {"exact_answer": ["autosomal dominant"], "type": "factoid"}}
+{"_id": "52e92c6e98d0239505000024", "text": "Which gene is associated with the Mitchell-Riley syndrome?", "metadata": {"exact_answer": ["RFX6"], "type": "factoid"}}
+{"_id": "52f21e8f2059c6d71c00000c", "text": "What is the most probable defect underlying triple negative breast cancer?", "metadata": {"exact_answer": ["BRCA1 dysfunction"], "type": "factoid"}}
+{"_id": "530c7f52970c65fa6b000010", "text": "Oxantel is used for periodontitis treatment. How does it work?", "metadata": {"exact_answer": ["Oxantel disrupts polymicrobial biofilm"], "type": "factoid"}}
+{"_id": "530cf4e0c8a0b4a00c000002", "text": "How is connected \"isolated Non-compaction cardiomyopathy\" with dilated cardiomyopathy?", "metadata": {"exact_answer": ["via mutations in beta-MHC and alpha-TPM1"], "type": "factoid"}}
+{"_id": "53161545b166e2b806000002", "text": "Which DNA repair system is involved in HNPCC?", "metadata": {"exact_answer": ["In HNPCC, the mismatch DNA repair system is involved."], "type": "factoid"}}
+{"_id": "5319a6e9b166e2b806000023", "text": "Which is the genetic lesion associated with Huntington\u2019s disease?", "metadata": {"exact_answer": ["A CAG trinucleotide repeat expansion in the HD gene"], "type": "factoid"}}
+{"_id": "531e2695267d7dd05300000f", "text": "What is the localization of the protein encoded by the gene DNAJC11?", "metadata": {"exact_answer": ["mitochondrial inner membrane"], "type": "factoid"}}
+{"_id": "532206819b2d7acc7e00000f", "text": "Name a method for enrichment of arginine-methylated peptides.", "metadata": {"exact_answer": ["Immunoaffinity purification"], "type": "factoid"}}
+{"_id": "532f1452d6d3ac6a34000030", "text": "What is the ubiquitin proteome?", "metadata": {"exact_answer": ["The ubiquitin proteome is the entire set ubiquitinated proteins and of their respective ubiquitination sites."], "type": "factoid"}}
+{"_id": "53318685d6d3ac6a3400003d", "text": "What is the mode of inheritance of Acromicric dysplasia?", "metadata": {"exact_answer": ["autosomal dominant"], "type": "factoid"}}
+{"_id": "533c38b3c45e133714000009", "text": "What is an approximate number of CTCF binding sites in the human genome?", "metadata": {"exact_answer": ["30,000-50,000"], "type": "factoid"}}
+{"_id": "53442ca9aeec6fbd0700000b", "text": "Which is the  subcellular localization of ERAP2?", "metadata": {"exact_answer": ["luminal side of the endoplasmic reticulum"], "type": "factoid"}}
+{"_id": "5348307daeec6fbd07000011", "text": "What does iBAQ stand for in proteomic analysis?", "metadata": {"exact_answer": ["intensity-based absolute quantification"], "type": "factoid"}}
+{"_id": "534e364e288f4dae47000001", "text": "Approximately how many recombination hotspots have been found in the yeast genome?", "metadata": {"exact_answer": ["Approximately 200", "200", "~200"], "type": "factoid"}}
+{"_id": "53592c1e9a4572de6f000002", "text": "Which value of nuchal translucency thickness is set as the threshold for high-risk for Down Syndrome?", "metadata": {"exact_answer": ["3mm"], "type": "factoid"}}
+{"_id": "535d2cf09a4572de6f000004", "text": "What is the number of long non coding RNAs in the human genome", "metadata": {"exact_answer": ["between 10,000 and 20,000"], "type": "factoid"}}
+{"_id": "535d35779a4572de6f000005", "text": "What is the proportion of non canonical splice sites in the human genome?", "metadata": {"exact_answer": ["Between 1% and 2% "], "type": "factoid"}}
+{"_id": "53617eeb7d100faa0900000a", "text": "What is the name for anorexia in gymnasts?", "metadata": {"exact_answer": ["Anorexia Athletica"], "type": "factoid"}}
+{"_id": "54ede76294afd61504000008", "text": "What is the risk of developing acute myelogenous leukemia in Fanconi anemia?", "metadata": {"exact_answer": ["At least 15%, based on the International Fanconi Anemia Registry (IFAR)"], "type": "factoid"}}
+{"_id": "54edf81f94afd61504000014", "text": "Which SWI/SNF protein complex subunit has been demonstrated to interact with the FANCA gene product?", "metadata": {"exact_answer": ["BRG1"], "type": "factoid"}}
+{"_id": "54ff5197e9bde69634000001", "text": "How long, in kb (kilobases),  is a \"Long interspersed nuclear element\"?", "metadata": {"exact_answer": ["6-7 kb"], "type": "factoid"}}
+{"_id": "5506ce078e1671127b00000b", "text": "Which protein phosphatase has been found to interact with the heat shock protein, HSP20?", "metadata": {"exact_answer": ["Protein phosphatase 1", "PP1"], "type": "factoid"}}
+{"_id": "55376663bc4f83e82800000a", "text": "Which biomarker is widely used in the diagnosis of Ewing sarcoma?", "metadata": {"exact_answer": ["CD99"], "type": "factoid"}}
+{"_id": "554140ad182542114d000003", "text": "Which is the database of molecular recognition features in membrane proteins?", "metadata": {"exact_answer": ["mpMoRFsDB"], "type": "factoid"}}
+{"_id": "554148c23f2354b713000001", "text": "Which database is available for the identification of chorion proteins in Lepidopteran proteomes?", "metadata": {"exact_answer": ["LepChorionDB"], "type": "factoid"}}
+{"_id": "5545e65bd355485447000001", "text": "Patients of which disease could be treated by utilizing knowledge obtained from experiments suppressing TDP-43 toxicity in yeast?", "metadata": {"exact_answer": ["Amyotrophic lateral sclerosis (ALS)"], "type": "factoid"}}
+{"_id": "569e79ecceceede94d000002", "text": "What was the purpose of the FANTOM3 project?", "metadata": {"exact_answer": ["The comprehensive characterization of the mouse transcriptome."], "type": "factoid"}}
+{"_id": "56a39d60496b62f23f000006", "text": "Which package is available for analysing genomic interactions in R/Bioconductor?", "metadata": {"exact_answer": ["r3Cseq"], "type": "factoid"}}
+{"_id": "56ae57350a360a5e4500000a", "text": "Which is the physiological target for LeuRS translational quality control?", "metadata": {"exact_answer": ["Norvaline"], "type": "factoid"}}
+{"_id": "56ae70050a360a5e4500000f", "text": "What is the role of the RUNX1-MYEF2 complex?", "metadata": {"exact_answer": ["The repression of hematopoietic genes in erythroid cells."], "type": "factoid"}}
+{"_id": "56b1f4300a360a5e4500001b", "text": "Which peptide plays a pivotal role in human cystatin C fibrillization?", "metadata": {"exact_answer": ["LQVVR"], "type": "factoid"}}
+{"_id": "56b330bb39c782df06000001", "text": "Which R/bioconductor package is used for integrative genomics visualizations?", "metadata": {"exact_answer": ["Sushi.R"], "type": "factoid"}}
+{"_id": "56b76d916e3f8eaf4c000001", "text": "To which family does the Zika virus belong?", "metadata": {"exact_answer": ["Flaviviridae"], "type": "factoid"}}
+{"_id": "56c073fcef6e394741000020", "text": "What is the association of spermidine with \u03b1-synuclein neurotoxicity?", "metadata": {"exact_answer": ["Spermidine protects against \u03b1-synuclein neurotoxicity"], "type": "factoid"}}
+{"_id": "56c8f4615795f9a73e00001a", "text": "Which genome browser database for DNA shape annotations is available?", "metadata": {"exact_answer": ["GBshape"], "type": "factoid"}}
+{"_id": "56caea805795f9a73e00002c", "text": "Which protein interacts with the Ragulator-RAG GTPases to control mTOR activity?", "metadata": {"exact_answer": ["Amino Acid-DepeLysosomal Membrane Protein SLC38A9"], "type": "factoid"}}
+{"_id": "56cafa845795f9a73e00002e", "text": "Which protein pathway is regulating SGK1-mediated phosphorylation of FOXO3a to control cell proliferation?", "metadata": {"exact_answer": ["The mTOR pathway"], "type": "factoid"}}
+{"_id": "56cdf5195795f9a73e000045", "text": "Which protein is required for Argonaute 2 recruitment to stress granules and P-bodies?", "metadata": {"exact_answer": ["Hsp90"], "type": "factoid"}}
+{"_id": "56cf3f4f3975bb303a000008", "text": "Which is the chromosomal location of the gene MAOA?", "metadata": {"exact_answer": ["Xp21-p11"], "type": "factoid"}}
+{"_id": "56d06e043975bb303a000011", "text": "In which breast cancer patients can palbociclib be used?", "metadata": {"exact_answer": ["hormone receptor-positive, human epidermal growth factor receptor 2-negative"], "type": "factoid"}}
+{"_id": "56d860ad51531f7e33000002", "text": "Which syndrome is NHE6 associated with?", "metadata": {"exact_answer": ["Christianson syndrome"], "type": "factoid"}}
+{"_id": "56f6c11109dd18d46b00000e", "text": "Which is the receptor for the immunosuppressive drug cyclosporin A (CsA)?", "metadata": {"exact_answer": ["cyclophilin"], "type": "factoid"}}
+{"_id": "56f961b3cf1c325851000003", "text": "What is the color of the protein Ranasmurfin?", "metadata": {"exact_answer": ["Blue"], "type": "factoid"}}
+{"_id": "56fcf1b8cf1c325851000005", "text": "Which type of genes are modulated by SATB1?", "metadata": {"exact_answer": ["it supresses cell cytokines and differentiation genes"], "type": "factoid"}}
+{"_id": "571e4293bb137a4b0c00000b", "text": "What is the cause of episodic ataxia type 6?", "metadata": {"exact_answer": ["EAAT1 mutations"], "type": "factoid"}}
+{"_id": "587e07023ec846c24f000001", "text": "Which software package is available for the analysis of conserved genomic loci?", "metadata": {"exact_answer": ["PHYLUCE"], "type": "factoid"}}
+{"_id": "587e1a01fc7e8dd84f000001", "text": "Which annotated database of A-to-I RNA editing is available?", "metadata": {"exact_answer": ["RADAR"], "type": "factoid"}}
+{"_id": "587e1bfdfc7e8dd84f000002", "text": "Which is the genome browser database for DNA shape annotations?", "metadata": {"exact_answer": ["GBshape"], "type": "factoid"}}
+{"_id": "587e3129c32c812009000002", "text": "Which R / bioconductor package is used for performing SNP enrichment analysis?", "metadata": {"exact_answer": ["traseR"], "type": "factoid"}}
+{"_id": "587e3e302420191125000002", "text": "Which R / bioconductor package is used for enrichment analysis of genomic regions?", "metadata": {"exact_answer": ["LOLA"], "type": "factoid"}}
+{"_id": "587f760792a5b8ad44000005", "text": "Which peak calling algorithm employs mixture model clustering under the hood?", "metadata": {"exact_answer": ["JAMM"], "type": "factoid"}}
+{"_id": "587f795d92a5b8ad44000007", "text": "What is formin associated with in the snail?", "metadata": {"exact_answer": ["Left-Right Asymmetry"], "type": "factoid"}}
+{"_id": "587f7a69d8d850a152000001", "text": "Which library is used for fixed-length approximate string matching?", "metadata": {"exact_answer": ["libFLASM"], "type": "factoid"}}
+{"_id": "5880a8ec0a76a87357000001", "text": "Which R package is used for the detection of chromosomal abnormalities from microarray data?", "metadata": {"exact_answer": ["CAFE"], "type": "factoid"}}
+{"_id": "5883a727e56acf5176000001", "text": "What is the function of R-spondin 1 and noggin in non-damaged gallbladders?", "metadata": {"exact_answer": ["The expansion of resident stem cells."], "type": "factoid"}}
+{"_id": "58853667e56acf5176000015", "text": "What is the effect of the direct interaction of Ikaros and Foxp1 in B-lymphocytes?", "metadata": {"exact_answer": ["Modulation of expression of the G protein-coupled receptor G2A."], "type": "factoid"}}
+{"_id": "588f341594c1512c50000002", "text": "What is the applicability of the No Promoter Left Behind method?", "metadata": {"exact_answer": ["Learning de novo promoter architectures from genome-wide transcription start sites."], "type": "factoid"}}
+{"_id": "589185cc621ea6ff7e00000b", "text": "Which disease is treated with Nusinersen?", "metadata": {"exact_answer": ["Spinal Muscular Atrophy", "SMA"], "type": "factoid"}}
+{"_id": "5891c90949702f2e01000001", "text": "Which tool employs self organizing maps for analyzing synonymous codon usage?", "metadata": {"exact_answer": ["INCA"], "type": "factoid"}}
+{"_id": "589317e849702f2e01000005", "text": "Which server is used for generating modes of pseudo components of DNA, RNA and protein sequences?", "metadata": {"exact_answer": ["Pse-in-One"], "type": "factoid"}}
+{"_id": "589480b47d9090f353000007", "text": "Which server is used for simulation of macromolecular diffusional association?", "metadata": {"exact_answer": ["webSDA"], "type": "factoid"}}
+{"_id": "5895f18ce370baff39000001", "text": "Which method is used for prediction of novel microRNA genes in cancer-associated genomic regions?", "metadata": {"exact_answer": ["SSCprofiler"], "type": "factoid"}}
+{"_id": "58a2df9c60087bc10a000006", "text": "What is the incidence of beta-thalassemia in Greek population?", "metadata": {"exact_answer": ["8%"], "type": "factoid"}}
+{"_id": "58a877cf38c171fb5b000004", "text": "What type of mutation is causing the industrial melanism phenotype in peppered moths?", "metadata": {"exact_answer": ["transposable element insertion"], "type": "factoid"}}
+{"_id": "58a9d8a1396a458e50000005", "text": "Where is the respirasome located?", "metadata": {"exact_answer": ["In the inner mitochondrial membrane"], "type": "factoid"}}
+{"_id": "58bc363622d300530900001f", "text": "Where is Akkermansia muciniphila found?", "metadata": {"exact_answer": ["Akkermansia muciniphila resides in the gastrointestinal tracts of humans and animals."], "type": "factoid"}}
+{"_id": "58c27b7102b8c60953000021", "text": "Which effects create neighborhoods of transcriptional regulation in eukaryotes?", "metadata": {"exact_answer": ["the sharing of enhancer elements", "enhancer sharing"], "type": "factoid"}}
+{"_id": "58d0dc878acda34529000004", "text": "Which is the largest metabolic gene cluster in yeast?", "metadata": {"exact_answer": ["The DAL cluster"], "type": "factoid"}}
+{"_id": "58df47f08acda3452900002f", "text": "What is the indication of ARCALYST?", "metadata": {"exact_answer": ["cryopyrin-associated periodic syndromes (CAPS) disorders"], "type": "factoid"}}
+{"_id": "58e79e703e8b6dc87c00000a", "text": "What percentage of rheumatoid arthritis patients are responsive to anti-TNF therapy?", "metadata": {"exact_answer": ["50-60%"], "type": "factoid"}}
+{"_id": "58e9f0ba3e8b6dc87c00000e", "text": "Which bacterium has the smallest genome in base pairs yet found?", "metadata": {"exact_answer": ["Nasuia deltocephalinicola"], "type": "factoid"}}
+{"_id": "58ea7248eda5a57672000002", "text": "What is the phenotype of people carrying mutations in the gene PRDM12?", "metadata": {"exact_answer": ["congenital insensitivity to pain", "CIP"], "type": "factoid"}}
+{"_id": "58f0b0c070f9fc6f0f000006", "text": "What is the indication for valbenazine?", "metadata": {"exact_answer": ["Valbenazine granted breakthrough drug status for treating tardive dyskinesia."], "type": "factoid"}}
+{"_id": "58f4b1a170f9fc6f0f000010", "text": "Which mushroom is poisonous, Amanita phalloides or Agaricus Bisporus", "metadata": {"exact_answer": ["Amanita phalloides"], "type": "factoid"}}
+{"_id": "593fe7f970f9fc6f0f000022", "text": "How many of the human PML isoforms are cytosolic?", "metadata": {"exact_answer": ["3", "three"], "type": "factoid"}}
+{"_id": "5a551a8fb750ff4455000002", "text": "What is a potential side effect for Tymlos?", "metadata": {"exact_answer": ["Osteosarcoma"], "type": "factoid"}}
+{"_id": "5a67c497b750ff4455000012", "text": "Which method is available for whole genome identification of pathogenic regulatory variants in mendelian disease?", "metadata": {"exact_answer": ["Genomiser"], "type": "factoid"}}
+{"_id": "5a6d1733b750ff4455000030", "text": "Which resource contains accurate enhancer predictions in the developing limb?", "metadata": {"exact_answer": ["Limb-Enhancer Genie (LEG)"], "type": "factoid"}}
+{"_id": "5a6d196db750ff4455000032", "text": "Which resource has been developed in order to study the transcriptional regulation of GABAergic cell fate?", "metadata": {"exact_answer": ["Subpallial Enhancer Transgenic Lines"], "type": "factoid"}}
+{"_id": "5a6e472ab750ff4455000048", "text": "What is the function of the TMEM132 genes?", "metadata": {"exact_answer": ["Cellular adhesion function"], "type": "factoid"}}
+{"_id": "5a70ce82b750ff4455000065", "text": "What is the mode of action of the drug Prolia?", "metadata": {"exact_answer": ["Anti-RANKL antibody which prevents bone catabolism in osteoporosis"], "type": "factoid"}}
+{"_id": "5a72302b2dc08e987e000005", "text": "Treatment of which disease was studied in the Gore REDUCE Clinical Study?", "metadata": {"exact_answer": ["patent foramen ovale"], "type": "factoid"}}
+{"_id": "5a735cdc3b9d13c708000004", "text": "In November 2017,  in what phase  was  the clinical trial for the drug SYL040012?", "metadata": {"exact_answer": ["Phase 3"], "type": "factoid"}}
+{"_id": "5a75f6e083b0d9ea66000009", "text": "Which data simulator is available for CLIP-SEQ experiments?", "metadata": {"exact_answer": ["Cseq-Simulator"], "type": "factoid"}}
+{"_id": "5a76160a83b0d9ea66000020", "text": "Which sequence-based algorithm for branch point prediction has been proposed?", "metadata": {"exact_answer": ["BPP"], "type": "factoid"}}
+{"_id": "5a76179d83b0d9ea66000021", "text": "Which algorithm has been proposed for efficient storage of WGS variant calls?", "metadata": {"exact_answer": ["SeqArray"], "type": "factoid"}}
+{"_id": "5a774fdcfaa1ab7d2e000008", "text": "Which protein is regulated by Tudor interacting repair regulator (TIRR)?", "metadata": {"exact_answer": ["P53-binding protein 1", "53BP1"], "type": "factoid"}}
+{"_id": "5a7d4721faa1ab7d2e000012", "text": "What does davunetide do to microtubules?", "metadata": {"exact_answer": ["Stabilizes", "Protects"], "type": "factoid"}}
+{"_id": "5a7d4e9afaa1ab7d2e000013", "text": "How many amino acids does davunetide consist of?", "metadata": {"exact_answer": ["eight"], "type": "factoid"}}
+{"_id": "5a7d51dafaa1ab7d2e000017", "text": "What is the administration route of IVIG in Alzheimer's disease patients?", "metadata": {"exact_answer": ["Intravenous"], "type": "factoid"}}
+{"_id": "5a7d5ce0faa1ab7d2e00001b", "text": "How does increased GDF15 affect body weight?", "metadata": {"exact_answer": ["Reduces body weight"], "type": "factoid"}}
+{"_id": "5a89800efcd1d6a10c00000c", "text": "Where is the enzyme PM20D1 localized?", "metadata": {"exact_answer": ["UCP1+ adipocytes"], "type": "factoid"}}
+{"_id": "5a9ac4e81d1251d03b000011", "text": "Which brain tumors does neuroligin-3 promote?", "metadata": {"exact_answer": ["high-grade gliomas"], "type": "factoid"}}
+{"_id": "5a9d29571d1251d03b000018", "text": "What effect does azeliragon have on RAGE?", "metadata": {"exact_answer": ["Inhibitory"], "type": "factoid"}}
+{"_id": "5a9d8d691d1251d03b000020", "text": "What is the association of the protein RAB10 and Alzheimers disease?", "metadata": {"exact_answer": ["RAB10 may be potential biomarkers of AD"], "type": "factoid"}}
+{"_id": "5aacd487fcf4565872000007", "text": "Which human gene encode for DNA polymerase \u03b8?", "metadata": {"exact_answer": ["DNA polymerase theta (pol \u03b8) is an evolutionarily conserved protein encoded by the POLQ gene in mammalian genomes"], "type": "factoid"}}
+{"_id": "5abd13e1fcf4565872000029", "text": "Where in the body would the navicular bone be found?", "metadata": {"exact_answer": ["foot"], "type": "factoid"}}
+{"_id": "5ac0a82d19833b0d7b000003", "text": "In what percentage of skeletal muscle fibers is dystrophin expression restored after PPMO- mediated exon skipping?", "metadata": {"exact_answer": ["100%"], "type": "factoid"}}
+{"_id": "5ac24c9495d0062724000002", "text": "What is the ChIP-exo method used for?", "metadata": {"exact_answer": ["location of DNA binding proteins at high resolution"], "type": "factoid"}}
+{"_id": "5ac716810340b9f058000003", "text": "Name an lncRNA associated with dilated cardiomyopathy.", "metadata": {"exact_answer": ["lncRNA H19"], "type": "factoid"}}
+{"_id": "5ace17c30340b9f058000009", "text": "Which olfactory gene senses androsterone?", "metadata": {"exact_answer": ["OR7D4"], "type": "factoid"}}
+{"_id": "5acf74460340b9f058000013", "text": "Which gene controls the consistency of cerumen (ear wax)?", "metadata": {"exact_answer": ["ABCC11"], "type": "factoid"}}
+{"_id": "5ad4dd93133db5eb78000008", "text": "What is the clathrin triskelia structure?", "metadata": {"exact_answer": ["A three-legged pinwheel-shaped heteropolymer."], "type": "factoid"}}
+{"_id": "5be44ed3133db5eb78000016", "text": "What is the origin of human breast milk bacteria?", "metadata": {"exact_answer": ["Bacterial endero-mammary pathway"], "type": "factoid"}}
+{"_id": "5be48c39133db5eb7800001d", "text": "What does the pembrolizumab companion diagnostic test assess?", "metadata": {"exact_answer": ["PD-L1 status"], "type": "factoid"}}
+{"_id": "5be494a0133db5eb7800001f", "text": "Which cancer has the kynureninase pathway been associated to?", "metadata": {"exact_answer": ["Glioma"], "type": "factoid"}}
+{"_id": "5c0112dd133db5eb78000026", "text": "For which disease is sutezolid developed?", "metadata": {"exact_answer": ["Tuberculosis"], "type": "factoid"}}
+{"_id": "5c011448133db5eb78000027", "text": "What does gepotidacin do to bacteria?", "metadata": {"exact_answer": ["Inhibits bacterial DNA replication"], "type": "factoid"}}
+{"_id": "5c0115e0133db5eb78000029", "text": "What type of topoisomerase inhibitor is gepotidacin?", "metadata": {"exact_answer": ["type IIA"], "type": "factoid"}}
+{"_id": "5c0117fd133db5eb7800002a", "text": "When did delafloxacin receive its first approval in the USA for acute bacterial skin and skin structure infections?", "metadata": {"exact_answer": ["2017"], "type": "factoid"}}
+{"_id": "5c2cf051133db5eb78000030", "text": "How many pseudogenes are contained in the C. elegans genome?", "metadata": {"exact_answer": ["3600"], "type": "factoid"}}
+{"_id": "5c51f01e07ef653866000002", "text": "Which algorithm has been developed for finding conserved non-coding elements (CNEs) in genomes?", "metadata": {"exact_answer": ["CNEFinder"], "type": "factoid"}}
+{"_id": "5c51f9dd07ef653866000005", "text": "Which random forest method has been developed for detecting Copy Numbers Variants (CNVs)?", "metadata": {"exact_answer": ["CNV-RF"], "type": "factoid"}}
+{"_id": "5c51fb7a07ef653866000006", "text": "Which deep learning algorithm has been developed for variant calling?", "metadata": {"exact_answer": ["DeepVariant"], "type": "factoid"}}
+{"_id": "5c5219f67e3cb0e231000006", "text": "As of September 2018, what machine learning algorithm is used to for cardiac arrhythmia detection from a  short single-lead ECG recorded by a wearable device?", "metadata": {"exact_answer": ["SVM OR Support Vector Machine"], "type": "factoid"}}
+{"_id": "5c5312097e3cb0e231000011", "text": "Where, in what US state, was there a measles outbreak in an Amish community", "metadata": {"exact_answer": ["Ohio"], "type": "factoid"}}
+{"_id": "5c53191a7e3cb0e231000016", "text": "What periodontal disease associated bacteria is also associated with Alzheimer's disease?", "metadata": {"exact_answer": ["Porphyromonas gingivalis"], "type": "factoid"}}
+{"_id": "5c532ad97e3cb0e23100001a", "text": "Which database associates human noncoding SNPs with their three-dimensional interacting genes?", "metadata": {"exact_answer": ["3DSNP"], "type": "factoid"}}
+{"_id": "5c56b96e07647bbc4b000010", "text": "Which tool has been developed for tagging biomedical concepts via interactive learning?", "metadata": {"exact_answer": ["ezTag"], "type": "factoid"}}
+{"_id": "5c58962286df2b9174000007", "text": "Which intoxication is associated with Burton's line?", "metadata": {"exact_answer": ["lead"], "type": "factoid"}}
+{"_id": "5c5b4a941a4c55d80b000002", "text": "Mutations in which gene have been found in patients with the CLAPO syndrome?", "metadata": {"exact_answer": ["PIK3CA"], "type": "factoid"}}
+{"_id": "5c5f10791a4c55d80b000014", "text": "What is the function of PAPOLA/PAP?", "metadata": {"exact_answer": ["PolyA polymerase (PAP) adds a polyA tail onto the 3'-end of RNAs without a nucleic acid template, using adenosine-5'-triphosphate (ATP) as a substrate."], "type": "factoid"}}
+{"_id": "5c5f2c0c1a4c55d80b000021", "text": "What is gingipain?", "metadata": {"exact_answer": ["A keystone periodontal pathogen. "], "type": "factoid"}}
+{"_id": "5c5f30c91a4c55d80b000025", "text": "Which cells produce Interleukin 17A?", "metadata": {"exact_answer": ["T helper type 17 (TH17) cells."], "type": "factoid"}}
+{"_id": "5c5f3a1f1a4c55d80b000028", "text": "What is the role of fucokinase?", "metadata": {"exact_answer": ["The convertion of L-fucose to fucose-1-phosphate."], "type": "factoid"}}
+{"_id": "5c5f56501a4c55d80b00002a", "text": "What is the combined effect of Nfat and miR-25?", "metadata": {"exact_answer": ["Re-express the basic helix-loop-helix (bHLH) transcription factor dHAND (also known as Hand2) in the diseased human and mouse myocardium."], "type": "factoid"}}
+{"_id": "5c630666e842deac6700000c", "text": "Which microRNA is the mediator of the obesity phenotype of patients carrying 1p21.3 microdeletions?", "metadata": {"exact_answer": ["MIR137"], "type": "factoid"}}
+{"_id": "5c6545bae842deac6700001d", "text": "Which molecular does daratumumab target?", "metadata": {"exact_answer": ["CD38"], "type": "factoid"}}
+{"_id": "5c65468ce842deac6700001e", "text": "Name one CCR4 targeted drug.", "metadata": {"exact_answer": ["Mogamulizumab"], "type": "factoid"}}
+{"_id": "5c65897a7c78d69471000006", "text": "Which was the first mutant IDH2 inhibitor to be approved for patients with acute myeloid leukemia?", "metadata": {"exact_answer": ["Enasidenib"], "type": "factoid"}}
+{"_id": "5c65abd17c78d69471000009", "text": "What is the predicted function for TMEM132 family?", "metadata": {"exact_answer": ["Cellular adhesion function"], "type": "factoid"}}
+{"_id": "5c65b7657c78d6947100000c", "text": "Which Lisp framework has been developed for image processing?", "metadata": {"exact_answer": ["FunImageJ"], "type": "factoid"}}
+{"_id": "5c6ab4c17c78d6947100001d", "text": "Under which environment does SELANSI run?", "metadata": {"exact_answer": ["MATLAB"], "type": "factoid"}}
+{"_id": "5c6acb107c78d6947100001f", "text": "Which tool is used to visualise the junction sites of chloroplast genomes?", "metadata": {"exact_answer": ["IRscope"], "type": "factoid"}}
+{"_id": "5c6ad2997c78d69471000020", "text": "Which Python tool has been developed for network-based stratification of tumor mutations?", "metadata": {"exact_answer": ["PyNBS"], "type": "factoid"}}
+{"_id": "5c6d65637c78d69471000038", "text": "Which tool has been developed for visualization of non-covalent contacts?", "metadata": {"exact_answer": ["Protein Contacts Atlas"], "type": "factoid"}}
+{"_id": "5c7d5ae9d774d04240000010", "text": "Which tissue secretes vaspin?", "metadata": {"exact_answer": ["Adipose Tissue"], "type": "factoid"}}
+{"_id": "5c85234775a4a5d219000007", "text": "What antibiotic is currently used as the standard of care for Clostridium Difficile infection as of 2018", "metadata": {"exact_answer": ["Fidaxomicin"], "type": "factoid"}}
+{"_id": "5c890ad575a4a5d21900000d", "text": "Which plant does oleuropein originate from?", "metadata": {"exact_answer": ["Olive tree"], "type": "factoid"}}
+{"_id": "5c890e6d75a4a5d21900000f", "text": "What is another name for the plant Sideritis scardica?", "metadata": {"exact_answer": ["Mountain tea", "Ironwort"], "type": "factoid"}}
+{"_id": "5c896f60d558e5f232000003", "text": "What is the indication for KYMRIAH?", "metadata": {"exact_answer": ["children and young adults with refractory or relapse B cell precursor acute lymphoblastic leukemia"], "type": "factoid"}}
+{"_id": "5c897082d558e5f232000004", "text": "What is the price of KYMRIAH treatment in 2019?", "metadata": {"exact_answer": ["475,000 USD"], "type": "factoid"}}
+{"_id": "5c8973f3d558e5f232000007", "text": "Which was the first gene therapy to receive marketing authorization in the European Union?", "metadata": {"exact_answer": ["Glybera", "Alipogene tiparvovec"], "type": "factoid"}}
+{"_id": "5c897555d558e5f232000009", "text": "Which was the first adeno-associated virus vector gene therapy product approved in the United States?", "metadata": {"exact_answer": ["Luxturna"], "type": "factoid"}}
+{"_id": "5c8fe1f10101eac87000000a", "text": "What is the effect of NFIA on astrocyte differentiation?", "metadata": {"exact_answer": ["Promotes", "Induces"], "type": "factoid"}}
+{"_id": "5c8fe7cb0101eac87000000c", "text": "What does RUNX2 stand for?", "metadata": {"exact_answer": ["Runt related factor-2"], "type": "factoid"}}
+{"_id": "5c8fee200101eac87000000f", "text": "What is the difference between CRISPR-Cas12a and CRISPR-Cpf1?", "metadata": {"exact_answer": ["None"], "type": "factoid"}}
+{"_id": "5c8fef490101eac870000010", "text": "Through which protein interaction does MLP regulate F-actin dynamics?", "metadata": {"exact_answer": ["Cofilin 2"], "type": "factoid"}}
+{"_id": "5c915a8becadf2e73f000009", "text": "Which was the first approved tumor treatment using a common biomarker rather than specified tumor locations in the body?", "metadata": {"exact_answer": ["Keytruda"], "type": "factoid"}}
+{"_id": "5c920df7ecadf2e73f00000f", "text": "What is the route of administration of apixaban?", "metadata": {"exact_answer": ["Oral"], "type": "factoid"}}
+{"_id": "5c920f13ecadf2e73f000010", "text": "What type of drug is apixaban?", "metadata": {"exact_answer": ["anticoagulant"], "type": "factoid"}}
+{"_id": "5c920fc3ecadf2e73f000011", "text": "What is the tradename of apixaban?", "metadata": {"exact_answer": ["Eliquis"], "type": "factoid"}}
+{"_id": "5c92869aecadf2e73f000015", "text": "What is the function of the protein Magt1?", "metadata": {"exact_answer": ["Magnesium transporter"], "type": "factoid"}}
+{"_id": "5c93e8bdecadf2e73f00001c", "text": "Which syndrome is associated to SAMHD1 gene mutations?", "metadata": {"exact_answer": ["Aicardi-Goutieres syndrome"], "type": "factoid"}}
+{"_id": "5c9e6e99ecadf2e73f000036", "text": "What is the aim of the MitoCeption protocol?", "metadata": {"exact_answer": ["Mitochondrial transfer"], "type": "factoid"}}
+{"_id": "5c9efde8ecadf2e73f000039", "text": "What is the cause of Krabbe disease?", "metadata": {"exact_answer": ["deficiency of \u03b2-galactocerebrosidase"], "type": "factoid"}}
+{"_id": "5caa0247ecadf2e73f000055", "text": "What protein is recruited by Crumbs to regulate tracheal development?", "metadata": {"exact_answer": ["moesin (Moe)"], "type": "factoid"}}
+{"_id": "5d35e421b3a638076300000d", "text": "For how long do Drosophila embryos use maternal genome mRNA?", "metadata": {"exact_answer": ["14 cell divisions"], "type": "factoid"}}
+{"_id": "5d36b8a37bc3fee31f000009", "text": "What is the effect of Satb1 knock-out in mice?", "metadata": {"exact_answer": ["apoptosis"], "type": "factoid"}}
+{"_id": "5d38577b7bc3fee31f000017", "text": "What is the main difference between nascent and mature chromatin?", "metadata": {"exact_answer": ["lack of H1"], "type": "factoid"}}
+{"_id": "5d387c20a1e1595105000010", "text": "Approximately how many genes are contained in the X chromosome's non-pseudoautosomal region (non-PAR)?", "metadata": {"exact_answer": ["783"], "type": "factoid"}}
+{"_id": "5e29fb27aa19d74431000005", "text": "How does LB-100 affect the DDR proteins (BRCA1, Chk2, and \u03b3H2AX)?", "metadata": {"exact_answer": ["Hyperphosphorylation", "Hyperphosphorylates"], "type": "factoid"}}
+{"_id": "5e2a046caa19d74431000008", "text": "How many different miRNAs can be upregulated by LB-100?", "metadata": {"exact_answer": ["One"], "type": "factoid"}}
+{"_id": "5e2a080caa19d7443100000a", "text": "Through which molecular pathway does LB-100 reduce hepatic steatosis?", "metadata": {"exact_answer": ["AMPK/Sirt1 pathway"], "type": "factoid"}}
+{"_id": "5e2b00bc76af173751000004", "text": "Which tool exist for predicting drug synergy with deep learning?", "metadata": {"exact_answer": ["DeepSynergy"], "type": "factoid"}}
+{"_id": "5e2deb35fbd6abf43b00001c", "text": "Which method has been developed for mapping of Transcription Start Sites (TSS) starting from nanograms of RNA?", "metadata": {"exact_answer": ["SLIC-CAGE"], "type": "factoid"}}
+{"_id": "5e2e11a1fbd6abf43b000021", "text": "Which de novo mutation in FGFR cause achondroplasia?", "metadata": {"exact_answer": ["G380R"], "type": "factoid"}}
+{"_id": "5e2e136bfbd6abf43b000023", "text": "Which portal has been developed to explore protein-protein interactions in cancer cell lines?", "metadata": {"exact_answer": ["The OncoPPi Portal"], "type": "factoid"}}
+{"_id": "5e2e1986fbd6abf43b000025", "text": "Which loss-of-function ABCC8 mutation is associated with Pulmonary Arterial Hypertension (PAH)?", "metadata": {"exact_answer": ["c.G2873A", "p.R958H"], "type": "factoid"}}
+{"_id": "5e30b870fbd6abf43b000038", "text": "Which graph database is used by the Reactome graph database?", "metadata": {"exact_answer": ["Neo4j"], "type": "factoid"}}
+{"_id": "5e36a718b5b409ea53000004", "text": "Which T-UCR has been implicated in prostate cancer?", "metadata": {"exact_answer": ["Uc.63+"], "type": "factoid"}}
+{"_id": "5e36cf8eb5b409ea53000007", "text": "Which type of cells protect Haematopoietic stem and progenitor cells (HSPCs) from ultraviolet-light-induced DNA damage in aquatic vertebrates?", "metadata": {"exact_answer": ["melanocytes"], "type": "factoid"}}
+{"_id": "5e36d5b9b5b409ea53000009", "text": "Which algorithm has been developed for detecting expansions of tandem repeats?", "metadata": {"exact_answer": ["ExpansionHunter"], "type": "factoid"}}
+{"_id": "5e3ab4f8b5b409ea5300001b", "text": "What is OAC CHV?", "metadata": {"exact_answer": ["Layman's term vocabulary for health related terms"], "type": "factoid"}}
+{"_id": "5e3da25848dab47f26000004", "text": "What rare disease is associated with a mutation in the GPC6 gene on chromosome 13?", "metadata": {"exact_answer": ["omodysplasia"], "type": "factoid"}}
+{"_id": "5e4565c63f54159529000001", "text": "What is the main manifestation of Liebenberg syndrome?", "metadata": {"exact_answer": ["elbow dysplasia"], "type": "factoid"}}
+{"_id": "5e48edb1f8b2df0d49000002", "text": "What particles is Hadron therapy using?", "metadata": {"exact_answer": ["Proton beams"], "type": "factoid"}}
+{"_id": "5e499e266d0a27794100000c", "text": "What is the trade name of sildenafil?", "metadata": {"exact_answer": ["Viagra"], "type": "factoid"}}
+{"_id": "5e4adb486d0a277941000015", "text": "Which application is the backbone of BioPAXViz?", "metadata": {"exact_answer": ["Cytoscape (version 3)"], "type": "factoid"}}
+{"_id": "5e4bed1c6d0a27794100002b", "text": "What disease is associated with a Malar rash?", "metadata": {"exact_answer": ["butterfly rash associated with SLE"], "type": "factoid"}}
+{"_id": "5e50123e6d0a277941000036", "text": "Which programming language has been used for implementing GWAR?", "metadata": {"exact_answer": ["Stata"], "type": "factoid"}}
+{"_id": "5e5286036d0a277941000040", "text": "In which chromosome are transgenes inserted in the case of the LiPS-A3S line?", "metadata": {"exact_answer": ["Chromosome 15"], "type": "factoid"}}
+{"_id": "5e52a4ec6d0a277941000044", "text": "Which R package has been developed for MS-based label-free phosphoproteomics?", "metadata": {"exact_answer": ["Phosphonormalizer"], "type": "factoid"}}
+{"_id": "5e52a7b66d0a277941000045", "text": "Which tool has been developed for prediction of single-cell DNA methylation states using deep learning?", "metadata": {"exact_answer": ["DeepCpG"], "type": "factoid"}}
+{"_id": "5e52add36d0a277941000047", "text": "Which cloud-based platform has been developed for comparing GWAS?", "metadata": {"exact_answer": ["easyGWAS"], "type": "factoid"}}
+{"_id": "5e5409776d0a277941000051", "text": "What is AZD0530 an inhibitor of?", "metadata": {"exact_answer": ["dual Src/Abl kinase"], "type": "factoid"}}
+{"_id": "5e5b626fb761aafe0900000c", "text": "What molecules are the multidrug transporter MDR3 targeting?", "metadata": {"exact_answer": ["Multidrug-resistant P-glycoprotein 3 (MDR3) is a phospholipid translocator"], "type": "factoid"}}
+{"_id": "5e5b6f04b761aafe0900000e", "text": "How large is the SARS-CoV  proteome?", "metadata": {"exact_answer": ["The severe acute respiratory syndrome coronavirus (SARS-CoV) genome is predicted to encode 14 functional open reading frames, leading to the expression of up to 30 structural and non-structural protein products."], "type": "factoid"}}
+{"_id": "5e5bab131af46fc130000001", "text": "What is the protein product of the gene GBA2?", "metadata": {"exact_answer": ["The GBA2 gene encodes the non-lysosomal glucosylceramidase (NLGase), an enzyme that catalyzes the conversion of glucosylceramide (GlcCer) to ceramide and glucose."], "type": "factoid"}}
+{"_id": "5e5d24811af46fc130000006", "text": "What is romiplostim targeting?", "metadata": {"exact_answer": ["Romiplostim (ROM) is a thrombopoietin (TPO)-receptor-agonist"], "type": "factoid"}}
+{"_id": "5e6de3f21af46fc130000022", "text": "What is the target of the drug remdesivir?", "metadata": {"exact_answer": ["polymerase"], "type": "factoid"}}
+{"_id": "5e6df7887fc1ee872b000001", "text": "What is the gene PTENP?", "metadata": {"exact_answer": ["PTEN pseudogene (PTENp) acts as an endogenous RNA, which regulates its parental gene by competitively binding to the 3' UTR of PTEN gene in the human."], "type": "factoid"}}
+{"_id": "5e6e487151b80c9423000001", "text": "Which is the catalytic activity of the protein encoded by the gene KMT2C? ", "metadata": {"exact_answer": ["lysine methyltransferase activity"], "type": "factoid"}}
+{"_id": "5e763bd4c6a8763d2300000f", "text": "When was vivotif first licenced in Europe?", "metadata": {"exact_answer": ["1983"], "type": "factoid"}}
+{"_id": "5e76436cc6a8763d23000012", "text": "What is the route of administration of vaxchora?", "metadata": {"exact_answer": ["Oral"], "type": "factoid"}}
+{"_id": "5e76452fc6a8763d23000015", "text": "What is the protective efficacy of vaxchora against moderate to severe cholera?", "metadata": {"exact_answer": ["80-100%"], "type": "factoid"}}
+{"_id": "5e7667b1835f4e4777000004", "text": "What was the predominant rotavirus genotype in the pre-vaccine era, in Australia?", "metadata": {"exact_answer": ["G1P[8]"], "type": "factoid"}}
+{"_id": "5e7745ea835f4e4777000006", "text": "What is the active ingredient of Eligard?", "metadata": {"exact_answer": ["Leuprorelin acetate"], "type": "factoid"}}
+{"_id": "5e776443835f4e4777000008", "text": "Which company produces Eligard?", "metadata": {"exact_answer": ["Astellas Pharma GmbH"], "type": "factoid"}}
+{"_id": "5e776845835f4e477700000a", "text": "What does MVA85A stand for?", "metadata": {"exact_answer": ["Modified Vaccinia virus Ankara expressing Antigen 85A"], "type": "factoid"}}
+{"_id": "5e776a75835f4e477700000d", "text": "Which company originally developed the drug Afrezza?", "metadata": {"exact_answer": ["MannKind Corporation"], "type": "factoid"}}
+{"_id": "5e776cfe835f4e4777000010", "text": "When was Afrezza approved by the FDA?", "metadata": {"exact_answer": ["June 2014"], "type": "factoid"}}
+{"_id": "5e776db8835f4e4777000011", "text": "Which company sells the drug Afrezza since 2015?", "metadata": {"exact_answer": ["Sanofi"], "type": "factoid"}}
+{"_id": "5e7f5d0d835f4e4777000016", "text": "When was Fluzone Intradermal replaced with Fluzone Intradermal Quadrivalent?", "metadata": {"exact_answer": ["In advance of the 2015-2016 season"], "type": "factoid"}}
+{"_id": "5e7f64d6835f4e477700001f", "text": "How is ZP-PTH delivered to patients?", "metadata": {"exact_answer": ["transdermal drug-coated microneedle patch system"], "type": "factoid"}}
+{"_id": "5e920be42d3121100d00000c", "text": "Which main viral protein is targeted by the drug remdesivir?", "metadata": {"exact_answer": ["Viral Polymerase"], "type": "factoid"}}
+{"_id": "601bde6e1cb411341a000006", "text": "Which disease is caused by de novo VPS4A mutations?", "metadata": {"exact_answer": ["Multisystem disease with abnormal neurodevelopment"], "type": "factoid"}}
+{"_id": "601bfa531cb411341a000008", "text": "What is caused by heterozygous lamin B1 and lamin B2 variants?", "metadata": {"exact_answer": ["Primary microcephaly"], "type": "factoid"}}
+{"_id": "601d2d001cb411341a00002c", "text": "Which syndrome is caused by dysfunction of the ciliary ARMC9/TOGARAM1 protein?", "metadata": {"exact_answer": ["Joubert syndrome"], "type": "factoid"}}
+{"_id": "601d74681cb411341a000042", "text": "Which mutation is targeted by Sotorasib?", "metadata": {"exact_answer": ["KRASG12C"], "type": "factoid"}}
+{"_id": "601d79e01cb411341a000047", "text": "Which R/Bioconductor package has been developed for network-based differential expression analysis?", "metadata": {"exact_answer": ["INDEED"], "type": "factoid"}}
+{"_id": "601db60e1cb411341a000049", "text": "On what chromosome is the gene for \"SILVER\" coat color found for the domestic cat?", "metadata": {"exact_answer": ["D2", "chromosome D2"], "type": "factoid"}}
+{"_id": "601eafcd1cb411341a000056", "text": "Which deep learning framework has been developed for cancer molecular subtype classification?", "metadata": {"exact_answer": ["DeepCC"], "type": "factoid"}}
+{"_id": "601eb56c1cb411341a000058", "text": "On what chromosome would the MKKS gene for McKusick-Kaufman(AKA Kaufman-McKusick) syndrome be found?", "metadata": {"exact_answer": ["20", "20p12", "mkks or bbs6 gene on chromosome 20p12", "20p12 between D20S162 and D20S894 markers"], "type": "factoid"}}
+{"_id": "601ebba41cb411341a00005a", "text": "Which R/Bioconductor package has been developed for visualizing differential amino acid group usage in proteomics?", "metadata": {"exact_answer": ["DagLogo"], "type": "factoid"}}
+{"_id": "601ebde11cb411341a00005d", "text": "Which R/Bioconductor package has been developed for gene expression signature searching?", "metadata": {"exact_answer": ["SignatureSearch"], "type": "factoid"}}
+{"_id": "6020a8431cb411341a00007f", "text": "Which CD38 antibody has been shown to be effective for Lupus Erythematosus?", "metadata": {"exact_answer": ["Daratumumab"], "type": "factoid"}}
+{"_id": "60258edd1cb411341a0000a9", "text": "What is the primary indication of tocilizumab?", "metadata": {"exact_answer": ["Rheumatoid arthritis"], "type": "factoid"}}
+{"_id": "602593101cb411341a0000ab", "text": "What does DMARD stand for?", "metadata": {"exact_answer": ["disease-modifying antirheumatic drug"], "type": "factoid"}}
+{"_id": "6026d8641cb411341a0000cd", "text": "What is the synonym of MK-1602?", "metadata": {"exact_answer": ["ubrogepant"], "type": "factoid"}}
+{"_id": "6026f0251cb411341a0000d6", "text": "What is the route of administration of eptinezumab?", "metadata": {"exact_answer": ["Intravenously"], "type": "factoid"}}
+{"_id": "6027f8ae1cb411341a0000ed", "text": "Which network analysis method can you use for prioritization of metabolic disease genes?", "metadata": {"exact_answer": ["metPropagate"], "type": "factoid"}}
+{"_id": "6028183e1cb411341a0000f1", "text": "Which subcortical brain structure is influenced the most by common genetic variants?", "metadata": {"exact_answer": ["Putamen"], "type": "factoid"}}
+{"_id": "60281eb11cb411341a0000f5", "text": "What are common variants at 12q14 and 12q24 associated with?", "metadata": {"exact_answer": ["Hippocampal volume"], "type": "factoid"}}
+{"_id": "6028f5851cb411341a0000ff", "text": "What is the prevalence of the inactivating AKT variant p.Pro50Thr in the Finnish population?", "metadata": {"exact_answer": ["1.1%"], "type": "factoid"}}
+{"_id": "6028fad21cb411341a000101", "text": "When was galcanezumab approved by FDA?", "metadata": {"exact_answer": ["September 2018"], "type": "factoid"}}
+{"_id": "602967de1cb411341a000113", "text": "How many nucleotides long is the HOTAIR CNE?", "metadata": {"exact_answer": ["32"], "type": "factoid"}}
+{"_id": "602a84ae1cb411341a000116", "text": "Which class of genomic elements was assessed as part of the FANTOM6 project?", "metadata": {"exact_answer": ["Long noncoding RNAs", "lncRNAs"], "type": "factoid"}}
+{"_id": "602c1d3b1cb411341a00011e", "text": "Which receptors does bimagrumab block?", "metadata": {"exact_answer": ["activin type II receptors"], "type": "factoid"}}
+{"_id": "6030fcb51cb411341a000127", "text": "Which database exists that contains regulatory sites for splicing in human basal ganglia?", "metadata": {"exact_answer": ["http://braineacv2.inf.um.es/"], "type": "factoid"}}
+{"_id": "6030fe7a1cb411341a000128", "text": "Which class of disorders are caused by AMPA receptor GluA2 subunit defects?", "metadata": {"exact_answer": ["Neurodevelopmental disorders"], "type": "factoid"}}
+{"_id": "6031287e1cb411341a00012d", "text": "Which key gene is involved in interstitial 6q25 microdeletion syndrome?", "metadata": {"exact_answer": ["ARID1B"], "type": "factoid"}}
+{"_id": "603219c21cb411341a000133", "text": "What is vesiduction?", "metadata": {"exact_answer": ["'Vesiduction' as a fourth mode of intercellular DNA transfer."], "type": "factoid"}}
+{"_id": "603251f81cb411341a00013a", "text": "Interaction of WDR5 with which gene has a critical role in pancreatic cancer?", "metadata": {"exact_answer": ["c-Myc"], "type": "factoid"}}
+{"_id": "6032a0e21cb411341a000148", "text": "What is a bacteriocin?", "metadata": {"exact_answer": ["antimicrobial peptide of bacteria"], "type": "factoid"}}
+{"_id": "6032b6661cb411341a00014a", "text": "Which human tissue synthesize CRP?", "metadata": {"exact_answer": ["liver"], "type": "factoid"}}
+{"_id": "6032ba631cb411341a00014b", "text": "What is the function of lysozyme?", "metadata": {"exact_answer": ["lysozyme is an antimicrobial enzyme."], "type": "factoid"}}
+{"_id": "6048ff3e1cb411341a000160", "text": "Which cell secretes the enzyme tryptase?", "metadata": {"exact_answer": ["Mast cells"], "type": "factoid"}}
+{"_id": "604911661cb411341a000169", "text": "What is the function of osteolectin?", "metadata": {"exact_answer": ["osteogenic growth factor"], "type": "factoid"}}
+{"_id": "6049173d1cb411341a00016b", "text": "When is the drug Ivermectin used?", "metadata": {"exact_answer": ["Ivermectin is used to treat parasitic diseases"], "type": "factoid"}}
+{"_id": "605271d994d57fd87900000f", "text": "What indication has FTY720 been approved for by the FDA?", "metadata": {"exact_answer": ["multiple sclerosis"], "type": "factoid"}}
+{"_id": "605281cf94d57fd879000015", "text": "How many patients were enrolled in the FREEDOMS clinical trial?", "metadata": {"exact_answer": ["1,272"], "type": "factoid"}}
+{"_id": "6053ba5b94d57fd879000017", "text": "Which was  the first oral drug for the treatment of multiple sclerosis by the US Food and Drug Administration (FDA)?", "metadata": {"exact_answer": ["FTY720", "Fingolimod"], "type": "factoid"}}
+{"_id": "60579cb394d57fd87900002e", "text": "Which tool has been developed for microRNA-target enrichment and network-based analysis?", "metadata": {"exact_answer": ["MIENTURNET"], "type": "factoid"}}
+{"_id": "6057bf0694d57fd879000031", "text": "What promotes amyloid-peptide beta 42 (A\u03b242) accumulation in neuroblastoma cells?", "metadata": {"exact_answer": ["apoE4-165"], "type": "factoid"}}
+{"_id": "6057c0cd94d57fd879000032", "text": "What impacts stability of genomic imprinting in mouse pluripotent stem cells?", "metadata": {"exact_answer": ["a susceptibility locus on chromosome 13"], "type": "factoid"}}
+{"_id": "6057c2f894d57fd879000033", "text": "Which method has been developed for detection of ATAC-seq or ChIP-seq signals with DNA methylation?", "metadata": {"exact_answer": ["EpiMethylTag"], "type": "factoid"}}
+{"_id": "605cc21d94d57fd879000036", "text": "What is the role of the IRE1a-XBP1 pathway?", "metadata": {"exact_answer": ["Promotion of T helper cell differentiation by resolving secretory stress and accelerating proliferation"], "type": "factoid"}}
+{"_id": "605fb19794d57fd879000038", "text": "Which resource is used for visualisation of non-covalent contacts?", "metadata": {"exact_answer": ["Protein Contacts Atlas"], "type": "factoid"}}
+{"_id": "605fb41094d57fd879000039", "text": "What is caused by a gain-of-function mutation in CLCN2?", "metadata": {"exact_answer": ["Primary aldosteronism"], "type": "factoid"}}
+{"_id": "606074ab94d57fd87900003e", "text": "Which R package can infer protein-protein interactions via thermal proximity coaggregation (TPCA)?", "metadata": {"exact_answer": ["Rtpca"], "type": "factoid"}}
+{"_id": "606081e594d57fd879000041", "text": "Which bioconductor tool has been developed for accessing bacterial regulatory networks?", "metadata": {"exact_answer": ["regutools"], "type": "factoid"}}
+{"_id": "606ab57394d57fd87900004f", "text": "What is the effect of carbamazepine on CYP3A4?", "metadata": {"exact_answer": ["Induces", "inducer", "induction"], "type": "factoid"}}
+{"_id": "606ad16594d57fd879000051", "text": "Which is the primary enzyme metabolizing esomeprazole?", "metadata": {"exact_answer": ["CYP2C19"], "type": "factoid"}}
+{"_id": "606b2bf594d57fd87900005d", "text": "What is the mode of action of Thiazovivin?", "metadata": {"exact_answer": ["Thiazovivin is a selective small molecule that directly targets Rho-associated kinase (ROCK) and increases expression of pluripotency factors."], "type": "factoid"}}
+{"_id": "606b32af94d57fd879000060", "text": "What is the Versene Solution used for?", "metadata": {"exact_answer": ["for the detachment of cells"], "type": "factoid"}}
+{"_id": "606b75c194d57fd87900006c", "text": "When was dupilumab approved by EMA?", "metadata": {"exact_answer": ["2017"], "type": "factoid"}}
+{"_id": "606b800994d57fd879000071", "text": "What methodology does the FoundationOne CDx test use?", "metadata": {"exact_answer": ["next generation sequencing", "NGS"], "type": "factoid"}}
+{"_id": "6081b64d4e6a4cf63000000a", "text": "What is the function of the HSJ1 proteins?", "metadata": {"exact_answer": ["HSJ1 are chaperones."], "type": "factoid"}}
+{"_id": "6082f0ec4e6a4cf63000000e", "text": "What is carboxyglutamate?", "metadata": {"exact_answer": ["carboxyglutamateis a  a post-translational glutamic acidof"], "type": "factoid"}}
+{"_id": "60853db94e6a4cf630000010", "text": "What is a circRNA?", "metadata": {"exact_answer": ["Circular RNAs (circRNAs) are a new class of non-coding RNA with a stable structure formed by special loop splicing."], "type": "factoid"}}
+{"_id": "61f52f22882a024a10000002", "text": "Which disease do pathogenic NR2F1 variants cause?", "metadata": {"exact_answer": ["Bosch-Boonstra-Schaaf optic atrophy syndrome", "BBSOAS"], "type": "factoid"}}
+{"_id": "61f56284882a024a10000005", "text": "Which syndrome is caused by pathogenic COL4A3-COL4A5 variants?", "metadata": {"exact_answer": ["Alport syndrome"], "type": "factoid"}}
+{"_id": "61f563f7882a024a10000006", "text": "What is caused by biallelic variants in PCDHGC4?", "metadata": {"exact_answer": ["A novel neurodevelopmental syndrome with progressive microcephaly, seizures, and joint anomalies"], "type": "factoid"}}
+{"_id": "61f5ee57882a024a10000012", "text": "Hampton\u2019s hump is characteristic to which disease?", "metadata": {"exact_answer": ["pulmonary embolism"], "type": "factoid"}}
+{"_id": "61f810a5882a024a1000003e", "text": "What is caused by bi-allelic loss-of-function variants in IPO8?", "metadata": {"exact_answer": ["A syndromic form of thoracic aortic aneurysm (TAA) with clinical overlap with Loeys-Dietz and Shprintzen-Goldberg syndromes"], "type": "factoid"}}
+{"_id": "61f81857882a024a10000040", "text": "Which is the major clinical feature observed in FDXR-associated disease?", "metadata": {"exact_answer": ["Retinal dystrophy"], "type": "factoid"}}
+{"_id": "61f919cc882a024a10000048", "text": "How many families did the 100,000 Genomes Pilot enrol?", "metadata": {"exact_answer": ["2183"], "type": "factoid"}}
+{"_id": "61f95f9f882a024a1000004e", "text": "Which disorder is caused by biallelic mutations in G-Protein coupled receptor kinase 1 (GRK1)?", "metadata": {"exact_answer": ["Oguchi disease"], "type": "factoid"}}
+{"_id": "6200411cc9dfcb9c09000014", "text": "Which java utility has been developed for class hidden markov models?", "metadata": {"exact_answer": ["JUCHMME"], "type": "factoid"}}
+{"_id": "6202f600c9dfcb9c0900002b", "text": "Which JASPAR release is JASPAR 2022?", "metadata": {"exact_answer": ["9th"], "type": "factoid"}}
+{"_id": "6206b740c9dfcb9c0900003b", "text": "What is the effect of rHDL-apoE3 on vascular permeability?", "metadata": {"exact_answer": ["Improves"], "type": "factoid"}}
+{"_id": "6206bf3cc9dfcb9c0900003d", "text": "Which kinase does PD98059 inhibit?", "metadata": {"exact_answer": ["MEK"], "type": "factoid"}}
+{"_id": "6206c22ac9dfcb9c0900003e", "text": "Which signaling pathway does LY294002 inhibit?", "metadata": {"exact_answer": ["PI3K/AKT"], "type": "factoid"}}
+{"_id": "6206d06ec9dfcb9c09000041", "text": "Which plant is khellin extracted from?", "metadata": {"exact_answer": ["Ammi visnaga"], "type": "factoid"}}
+{"_id": "620c28d03a8413c653000007", "text": "Which type of cancer has been suggested as a strategy for potential small-molecule inhibition of METTL3?", "metadata": {"exact_answer": ["myeloid leukaemia"], "type": "factoid"}}
+{"_id": "621142713a8413c65300000a", "text": "What percentage of currently available drugs are metabolized by CYP3A4?", "metadata": {"exact_answer": ["50%"], "type": "factoid"}}
+{"_id": "621145c63a8413c65300000c", "text": "When did FDA approve the first B-cell maturation antigen-targeted CAR-T cell therapy?", "metadata": {"exact_answer": ["26 March 2021"], "type": "factoid"}}
+{"_id": "6217bf6a3a8413c65300001d", "text": "What is inhibited by TH1579?", "metadata": {"exact_answer": ["MTH1"], "type": "factoid"}}
+{"_id": "62190bac3a8413c653000034", "text": "Which disease is associated with X-linked recessive TLR7 deficiency?", "metadata": {"exact_answer": ["critical COVID-19 pneumonia"], "type": "factoid"}}
+{"_id": "621e59ce3a8413c65300004c", "text": "Which tool has been developed to identify the glycan shielding of glycosylated proteins?", "metadata": {"exact_answer": ["GLYCO"], "type": "factoid"}}
+{"_id": "62265b4a3a8413c653000083", "text": "What does RUNX1T1 stand for?", "metadata": {"exact_answer": ["runt-related transcription factor 1"], "type": "factoid"}}
+{"_id": "622b99f73a8413c653000093", "text": "Which protein is targeted by Herceptin?", "metadata": {"exact_answer": ["Her2"], "type": "factoid"}}
+{"_id": "622d1ed13a8413c6530000a3", "text": "What is the Daughterless gene?", "metadata": {"exact_answer": ["The daughterless (da) gene in Drosophila encodes a broadly expressed transcriptional regulator whose specific functions in the control of sex determination and neurogenesis have been extensively examined."], "type": "factoid"}}
+{"_id": "622dfb133a8413c6530000a8", "text": "What is the drug  gantenerumab targeting?", "metadata": {"exact_answer": ["Gantenerumab significantly reduced amyloid plaques, cerebrospinal fluid total tau, and phospho-tau181 and attenuated increases of neurofilament light chain."], "type": "factoid"}}
+{"_id": "6237a8343a8413c6530000b2", "text": "Which protein family is epiregulin a member of?", "metadata": {"exact_answer": ["epidermal growth factor family"], "type": "factoid"}}
+{"_id": "6237ac143a8413c6530000b7", "text": "Through which pathway does epiregulin promote leptin secretion?", "metadata": {"exact_answer": ["EGFR/MAPK pathway"], "type": "factoid"}}
+{"_id": "6252f496e764a53204000020", "text": "What is the gene ABCG1 encoding?", "metadata": {"exact_answer": ["ATP binding cassette (ABC) transporter"], "type": "factoid"}}
+{"_id": "626aab13e764a5320400003b", "text": "What is the rate of epimutations in C. elegans?", "metadata": {"exact_answer": ["25 times greater than DNA sequence changes"], "type": "factoid"}}
+{"_id": "626ae803e764a5320400003c", "text": "What is the half-life of epimutations across generations of C. elegans?", "metadata": {"exact_answer": ["Typically 2-3 generations. Sometimes >10 generations."], "type": "factoid"}}
+{"_id": "626aeb2fe764a5320400003f", "text": "Which clinical trials led to the first approval of Volanesorsen by the EU?", "metadata": {"exact_answer": ["APPROACH and COMPASS"], "type": "factoid"}}
+{"_id": "626aeba1e764a53204000040", "text": "Which company developed Waylivra?", "metadata": {"exact_answer": ["Ionis Pharmaceuticals", "Akcea Therapeutics"], "type": "factoid"}}
+{"_id": "626aef83e764a53204000044", "text": "When was Vitravene approved in Brazil?", "metadata": {"exact_answer": ["1999"], "type": "factoid"}}
+{"_id": "6278ca4a56bf9aee6f00000c", "text": "Which is the protein-membrane interface of the Cholesterol-regulated Start protein 4 protein (STARD4)?", "metadata": {"exact_answer": ["L124", "Omega-1 (\u03a91) loop"], "type": "factoid"}}

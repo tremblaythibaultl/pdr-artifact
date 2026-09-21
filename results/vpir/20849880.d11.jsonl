@@ -1,0 +1,1 @@
+{"D":2048,"K":1,"log2_sigma":37.5,"t":1,"h":1048576,"log2_p":15,"entry_bound":4,"onehot":false,"threads":48,"reps":2,"preprocess_s":164.4821,"keygen_encrypt_s":0.00044,"matvec_s":10.22657,"prove_s":518.5451,"verify_s":96.28922,"decrypt_s":17.14438,"proof_bytes":125252,"upload_bytes":32768,"response_bytes":17188257792}

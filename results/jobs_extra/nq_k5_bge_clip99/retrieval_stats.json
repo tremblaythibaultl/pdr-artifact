@@ -1,0 +1,10 @@
+{
+  "closed": {
+    "topk_overlap_vs_float": NaN,
+    "gold_in_topk": 0.0
+  },
+  "gold": {
+    "topk_overlap_vs_float": NaN,
+    "gold_in_topk": 1.0
+  }
+}

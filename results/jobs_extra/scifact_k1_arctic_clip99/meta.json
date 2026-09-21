@@ -1,0 +1,14 @@
+{
+  "endpoint": "scifact",
+  "model": "Snowflake/snowflake-arctic-embed-l-v2.0",
+  "k": 1,
+  "conds": [
+    "closed",
+    "gold"
+  ],
+  "clip": 99.0,
+  "n_queries": 300,
+  "n_jobs": 600,
+  "chunked": false,
+  "template": "one-word"
+}

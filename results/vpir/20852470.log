@@ -1,0 +1,4 @@
+paper_bench: D=2048 K=1 sigma=2^37.5 t=1 h=1048576 P=2^15 entry_bound=4 onehot=false threads=48
+  rep 0: enc 0.000s  matvec 6.317s  prove 270.336s  verify 82.339s  decrypt 17.261s
+paper_bench: D=1024 K=1 sigma=2^40.9 t=1 h=1048576 P=2^13 entry_bound=2 onehot=false threads=48
+  rep 0: enc 0.000s  matvec 5.727s  prove 127.264s  verify 41.321s  decrypt 8.824s

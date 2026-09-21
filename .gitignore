@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Downloaded corpora and embedding caches (regenerable: pdr.data downloads, pdr.cli re-encodes)
+.beir-data/
+.pdr-cache/
+data/bioasq_raw/
+results/emb/
+
+# Extracted reader outputs (results/reader_outputs.tar.gz) and legacy raw verdicts (raw_verdicts.tgz)
+results/out/out_*/
+results/legacy_maxabs/jobs*/
+results/legacy_maxabs/out*/
+results/legacy_maxabs/pilot_v3_out/
+results/legacy_maxabs/nq/
+results/legacy_maxabs/nq_*.npy
+results/legacy_maxabs/nq_docs.jsonl
+results/legacy_maxabs/nq_emb_parts/
+
+# Lattice estimator checkout for analysis/glwe_params.sage
+lattice-estimator/
+
+# LaTeX by-products of the standalone figures
+figures/*.aux
+figures/*.log
+figures/*.fdb_latexmk
+figures/*.fls
+figures/*.synctex.gz
+
+# SLURM logs
+*.out
+
+.DS_Store

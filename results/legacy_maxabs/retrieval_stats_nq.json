@@ -1,0 +1,26 @@
+{
+  "float": {
+    "topk_overlap_vs_float": 1.0,
+    "gold_in_topk": 0.98
+  },
+  "8": {
+    "topk_overlap_vs_float": 0.9839999999999999,
+    "gold_in_topk": 0.98
+  },
+  "6": {
+    "topk_overlap_vs_float": 0.95,
+    "gold_in_topk": 0.98
+  },
+  "4": {
+    "topk_overlap_vs_float": 0.7939999999999999,
+    "gold_in_topk": 0.96
+  },
+  "3": {
+    "topk_overlap_vs_float": 0.472,
+    "gold_in_topk": 0.9
+  },
+  "2": {
+    "topk_overlap_vs_float": 0.002,
+    "gold_in_topk": 0.01
+  }
+}

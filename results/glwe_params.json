@@ -1,0 +1,89 @@
+{
+ "2": {
+  "b": 2,
+  "log2_p": 13,
+  "log2_sigma_max": 40.8,
+  "lambda_k1": 137.5,
+  "attack_k1": "dual_hybrid",
+  "lambda_k2": 284.5,
+  "attack_k2": "dual_hybrid"
+ },
+ "3": {
+  "b": 3,
+  "log2_p": 15,
+  "log2_sigma_max": 37.8,
+  "lambda_k1": 122.4,
+  "attack_k1": "dual_hybrid",
+  "lambda_k2": 252.9,
+  "attack_k2": "dual_hybrid"
+ },
+ "4": {
+  "b": 4,
+  "log2_p": 17,
+  "log2_sigma_max": 34.8,
+  "lambda_k1": 110.4,
+  "attack_k1": "bdd",
+  "lambda_k2": 227.0,
+  "attack_k2": "dual_hybrid"
+ },
+ "5": {
+  "b": 5,
+  "log2_p": 19,
+  "log2_sigma_max": 31.8,
+  "lambda_k1": 100.4,
+  "attack_k1": "bdd",
+  "lambda_k2": 206.1,
+  "attack_k2": "dual_hybrid"
+ },
+ "6": {
+  "b": 6,
+  "log2_p": 21,
+  "log2_sigma_max": 28.8,
+  "lambda_k1": 92.1,
+  "attack_k1": "bdd",
+  "lambda_k2": 188.5,
+  "attack_k2": "dual_hybrid"
+ },
+ "7": {
+  "b": 7,
+  "log2_p": 23,
+  "log2_sigma_max": 25.8,
+  "lambda_k1": 85.2,
+  "attack_k1": "bdd",
+  "lambda_k2": 173.6,
+  "attack_k2": "dual_hybrid"
+ },
+ "8": {
+  "b": 8,
+  "log2_p": 25,
+  "log2_sigma_max": 22.8,
+  "lambda_k1": 79.4,
+  "attack_k1": "bdd",
+  "lambda_k2": 160.8,
+  "attack_k2": "dual_hybrid"
+ },
+ "round2_d11": {
+  "log2_sigma": 5.3,
+  "lambda": 112.3,
+  "attack": "bdd"
+ },
+ "round2_d12": {
+  "log2_sigma": 5.3,
+  "lambda": 237.5,
+  "attack": "dual_hybrid"
+ },
+ "_meta": {
+  "date": "2026-09-10",
+  "secret": "ternary UniformMod(3)",
+  "q": "2^64-2^32+1",
+  "d": 1024,
+  "pfail_per_coeff": "2^-64 (r=9.16)",
+  "estimator_commit": "cc8494d",
+  "deny": [
+   "arora-gb",
+   "bkw",
+   "bdd_mitm_hybrid",
+   "dual_mitm_hybrid"
+  ]
+ }
+}

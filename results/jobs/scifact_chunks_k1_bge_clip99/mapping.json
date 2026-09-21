@@ -1,0 +1,10802 @@
+[
+{
+"qid": "1",
+"cond": "float",
+"job": "d41e25dc9f509c05",
+"gold": "NOINFO"
+},
+{
+"qid": "100",
+"cond": "float",
+"job": "74c9ba0504ca3122",
+"gold": "SUPPORT"
+},
+{
+"qid": "1012",
+"cond": "float",
+"job": "70271bacaf0dfd6d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1014",
+"cond": "float",
+"job": "39397408c5ec0aa2",
+"gold": "NOINFO"
+},
+{
+"qid": "1019",
+"cond": "float",
+"job": "0404ccc0d4523e92",
+"gold": "SUPPORT"
+},
+{
+"qid": "1020",
+"cond": "float",
+"job": "3e0a7f80e84a7a11",
+"gold": "SUPPORT"
+},
+{
+"qid": "1021",
+"cond": "float",
+"job": "a8a1d1c0468ee2e3",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1024",
+"cond": "float",
+"job": "1e8443c334bb651e",
+"gold": "SUPPORT"
+},
+{
+"qid": "1029",
+"cond": "float",
+"job": "37920185125cb939",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1041",
+"cond": "float",
+"job": "df84bfe8a7a9fe0a",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1049",
+"cond": "float",
+"job": "b929669fcdc7cb59",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1062",
+"cond": "float",
+"job": "2ace7ff8721957c8",
+"gold": "SUPPORT"
+},
+{
+"qid": "1086",
+"cond": "float",
+"job": "65cb6ebaf7c61476",
+"gold": "SUPPORT"
+},
+{
+"qid": "1088",
+"cond": "float",
+"job": "fae872ee86ecaf89",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1089",
+"cond": "float",
+"job": "c731fdb25d9bbb40",
+"gold": "SUPPORT"
+},
+{
+"qid": "1099",
+"cond": "float",
+"job": "3ec8694b2c758884",
+"gold": "NOINFO"
+},
+{
+"qid": "1100",
+"cond": "float",
+"job": "999742887d240b94",
+"gold": "NOINFO"
+},
+{
+"qid": "1104",
+"cond": "float",
+"job": "a86fca7652af0e9e",
+"gold": "SUPPORT"
+},
+{
+"qid": "1107",
+"cond": "float",
+"job": "c846355e4123d2c7",
+"gold": "SUPPORT"
+},
+{
+"qid": "1110",
+"cond": "float",
+"job": "6201a3b085faf5d6",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1121",
+"cond": "float",
+"job": "02913df02145f8fa",
+"gold": "SUPPORT"
+},
+{
+"qid": "113",
+"cond": "float",
+"job": "b9caaea3b2ff2d72",
+"gold": "SUPPORT"
+},
+{
+"qid": "1130",
+"cond": "float",
+"job": "7bf9fde810ec5840",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1132",
+"cond": "float",
+"job": "48b919e3138a2583",
+"gold": "SUPPORT"
+},
+{
+"qid": "1137",
+"cond": "float",
+"job": "cd5b732c055d4209",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1140",
+"cond": "float",
+"job": "5e3a7f13c0475f36",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1144",
+"cond": "float",
+"job": "2ba23d1658cc23d4",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1146",
+"cond": "float",
+"job": "90a8a9e2e6f1ce21",
+"gold": "SUPPORT"
+},
+{
+"qid": "115",
+"cond": "float",
+"job": "1c00b1c0ea54c3a5",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1150",
+"cond": "float",
+"job": "73953970c7657766",
+"gold": "SUPPORT"
+},
+{
+"qid": "1163",
+"cond": "float",
+"job": "3bfe6ac300e377ec",
+"gold": "SUPPORT"
+},
+{
+"qid": "1175",
+"cond": "float",
+"job": "fb5c3573953bcd51",
+"gold": "NOINFO"
+},
+{
+"qid": "1179",
+"cond": "float",
+"job": "84bc006ac4b98989",
+"gold": "NOINFO"
+},
+{
+"qid": "118",
+"cond": "float",
+"job": "cffd0af0c10e7ae3",
+"gold": "SUPPORT"
+},
+{
+"qid": "1180",
+"cond": "float",
+"job": "791b63716606214d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1185",
+"cond": "float",
+"job": "633e06495ba0ee01",
+"gold": "SUPPORT"
+},
+{
+"qid": "1187",
+"cond": "float",
+"job": "5857c8c8cbe33561",
+"gold": "SUPPORT"
+},
+{
+"qid": "1191",
+"cond": "float",
+"job": "ee85a94e45067285",
+"gold": "NOINFO"
+},
+{
+"qid": "1194",
+"cond": "float",
+"job": "d7de98c48bc9daf3",
+"gold": "NOINFO"
+},
+{
+"qid": "1196",
+"cond": "float",
+"job": "7613eebb6ba2a9ea",
+"gold": "NOINFO"
+},
+{
+"qid": "1197",
+"cond": "float",
+"job": "bc1dcb7850ddfb07",
+"gold": "NOINFO"
+},
+{
+"qid": "1199",
+"cond": "float",
+"job": "7e83aba21ef9cca5",
+"gold": "NOINFO"
+},
+{
+"qid": "1200",
+"cond": "float",
+"job": "97684fa4711a1937",
+"gold": "NOINFO"
+},
+{
+"qid": "1202",
+"cond": "float",
+"job": "f2708088e47f2b89",
+"gold": "SUPPORT"
+},
+{
+"qid": "1204",
+"cond": "float",
+"job": "1cc43fa52f72140e",
+"gold": "NOINFO"
+},
+{
+"qid": "1207",
+"cond": "float",
+"job": "40384e0092da1c23",
+"gold": "NOINFO"
+},
+{
+"qid": "1213",
+"cond": "float",
+"job": "35192b85f813602a",
+"gold": "NOINFO"
+},
+{
+"qid": "1216",
+"cond": "float",
+"job": "d7a40822a7da7e3b",
+"gold": "SUPPORT"
+},
+{
+"qid": "1221",
+"cond": "float",
+"job": "fdb359a6e4270162",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1225",
+"cond": "float",
+"job": "e9ffbb23d941723c",
+"gold": "SUPPORT"
+},
+{
+"qid": "1226",
+"cond": "float",
+"job": "3e456dd2115ba89b",
+"gold": "NOINFO"
+},
+{
+"qid": "1232",
+"cond": "float",
+"job": "51bdae00b87a2476",
+"gold": "CONTRADICT"
+},
+{
+"qid": "124",
+"cond": "float",
+"job": "a425ed7f5ba9b5c1",
+"gold": "SUPPORT"
+},
+{
+"qid": "1241",
+"cond": "float",
+"job": "72c7740edf19c8f2",
+"gold": "SUPPORT"
+},
+{
+"qid": "1245",
+"cond": "float",
+"job": "04ce7847963e247f",
+"gold": "NOINFO"
+},
+{
+"qid": "1259",
+"cond": "float",
+"job": "6e14504c29cb883d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1262",
+"cond": "float",
+"job": "435fcd60cbd85840",
+"gold": "SUPPORT"
+},
+{
+"qid": "1266",
+"cond": "float",
+"job": "e359d88390ab69d8",
+"gold": "SUPPORT"
+},
+{
+"qid": "127",
+"cond": "float",
+"job": "a97c8ce1b57939e4",
+"gold": "NOINFO"
+},
+{
+"qid": "1270",
+"cond": "float",
+"job": "a6fbf1fd11eff69a",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1271",
+"cond": "float",
+"job": "8a51b50b0416d5c0",
+"gold": "SUPPORT"
+},
+{
+"qid": "1272",
+"cond": "float",
+"job": "8aa483a43acb968c",
+"gold": "NOINFO"
+},
+{
+"qid": "1273",
+"cond": "float",
+"job": "b80ce9963278008a",
+"gold": "SUPPORT"
+},
+{
+"qid": "1274",
+"cond": "float",
+"job": "a77e9a10e2911063",
+"gold": "SUPPORT"
+},
+{
+"qid": "1278",
+"cond": "float",
+"job": "fd746646506b2808",
+"gold": "NOINFO"
+},
+{
+"qid": "1279",
+"cond": "float",
+"job": "bb6c1be9169b7813",
+"gold": "NOINFO"
+},
+{
+"qid": "128",
+"cond": "float",
+"job": "c4d9168a95c233d3",
+"gold": "NOINFO"
+},
+{
+"qid": "1280",
+"cond": "float",
+"job": "7efccc26c7150c12",
+"gold": "NOINFO"
+},
+{
+"qid": "1281",
+"cond": "float",
+"job": "4c3aa1be9453d74a",
+"gold": "NOINFO"
+},
+{
+"qid": "1282",
+"cond": "float",
+"job": "9c1f49620ea5764b",
+"gold": "NOINFO"
+},
+{
+"qid": "129",
+"cond": "float",
+"job": "b53ff076b0327174",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1290",
+"cond": "float",
+"job": "eb570fdf852ba8f9",
+"gold": "SUPPORT"
+},
+{
+"qid": "1292",
+"cond": "float",
+"job": "05163b646ca3a18a",
+"gold": "NOINFO"
+},
+{
+"qid": "1298",
+"cond": "float",
+"job": "665fc0d45a36b8cc",
+"gold": "SUPPORT"
+},
+{
+"qid": "13",
+"cond": "float",
+"job": "a2db5d225f3a0bb3",
+"gold": "NOINFO"
+},
+{
+"qid": "130",
+"cond": "float",
+"job": "5c0eeae384847a70",
+"gold": "SUPPORT"
+},
+{
+"qid": "1303",
+"cond": "float",
+"job": "5c7fe131162e1511",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1316",
+"cond": "float",
+"job": "edce1c34cd1a3db7",
+"gold": "NOINFO"
+},
+{
+"qid": "1319",
+"cond": "float",
+"job": "5949ad3b0f776a26",
+"gold": "SUPPORT"
+},
+{
+"qid": "132",
+"cond": "float",
+"job": "9ec1e25c367bbf64",
+"gold": "NOINFO"
+},
+{
+"qid": "1320",
+"cond": "float",
+"job": "4c68e0a9ffea4336",
+"gold": "CONTRADICT"
+},
+{
+"qid": "133",
+"cond": "float",
+"job": "4fbcec153488c9b6",
+"gold": "SUPPORT"
+},
+{
+"qid": "1332",
+"cond": "float",
+"job": "f45cd76cb3d90f2a",
+"gold": "NOINFO"
+},
+{
+"qid": "1335",
+"cond": "float",
+"job": "6992e72496467199",
+"gold": "SUPPORT"
+},
+{
+"qid": "1336",
+"cond": "float",
+"job": "4cffe7f2e6acb748",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1337",
+"cond": "float",
+"job": "b71c6bf0ff6cf84c",
+"gold": "SUPPORT"
+},
+{
+"qid": "1339",
+"cond": "float",
+"job": "9273168be8829836",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1344",
+"cond": "float",
+"job": "1527cb708f5bdaa8",
+"gold": "NOINFO"
+},
+{
+"qid": "1352",
+"cond": "float",
+"job": "3502ac9155a59fb7",
+"gold": "SUPPORT"
+},
+{
+"qid": "1359",
+"cond": "float",
+"job": "ffa50f0296637aa1",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1362",
+"cond": "float",
+"job": "9ac83e41a195c36e",
+"gold": "NOINFO"
+},
+{
+"qid": "1363",
+"cond": "float",
+"job": "19a25aaec4e82083",
+"gold": "NOINFO"
+},
+{
+"qid": "1368",
+"cond": "float",
+"job": "1554500a12c7d765",
+"gold": "SUPPORT"
+},
+{
+"qid": "137",
+"cond": "float",
+"job": "6e0e6ca219174c5d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1370",
+"cond": "float",
+"job": "a5fe91d19e531515",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1379",
+"cond": "float",
+"job": "b89c64140c93e7ec",
+"gold": "SUPPORT"
+},
+{
+"qid": "1382",
+"cond": "float",
+"job": "50baeaa3c36b189e",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1385",
+"cond": "float",
+"job": "4f86f3f7a77f620c",
+"gold": "SUPPORT"
+},
+{
+"qid": "1389",
+"cond": "float",
+"job": "9fc6f55bfa4124f7",
+"gold": "SUPPORT"
+},
+{
+"qid": "1395",
+"cond": "float",
+"job": "e55674073e398ada",
+"gold": "NOINFO"
+},
+{
+"qid": "141",
+"cond": "float",
+"job": "b9f8fafa63628bea",
+"gold": "SUPPORT"
+},
+{
+"qid": "142",
+"cond": "float",
+"job": "f0e4925fe09f9d7b",
+"gold": "CONTRADICT"
+},
+{
+"qid": "143",
+"cond": "float",
+"job": "05c0b31b7f745f12",
+"gold": "SUPPORT"
+},
+{
+"qid": "146",
+"cond": "float",
+"job": "4cf0fd55ee9e2ea2",
+"gold": "SUPPORT"
+},
+{
+"qid": "148",
+"cond": "float",
+"job": "f019ca7af96c2f3b",
+"gold": "SUPPORT"
+},
+{
+"qid": "163",
+"cond": "float",
+"job": "b5e6a2959028b4f0",
+"gold": "SUPPORT"
+},
+{
+"qid": "171",
+"cond": "float",
+"job": "5059e2e7a359bbc9",
+"gold": "CONTRADICT"
+},
+{
+"qid": "179",
+"cond": "float",
+"job": "7f707d2fbc65d707",
+"gold": "SUPPORT"
+},
+{
+"qid": "180",
+"cond": "float",
+"job": "40a74cda79dd08fc",
+"gold": "CONTRADICT"
+},
+{
+"qid": "183",
+"cond": "float",
+"job": "b90ec12b77974328",
+"gold": "CONTRADICT"
+},
+{
+"qid": "185",
+"cond": "float",
+"job": "6a33dbed642fc274",
+"gold": "CONTRADICT"
+},
+{
+"qid": "198",
+"cond": "float",
+"job": "f68bee5c0754e5e6",
+"gold": "NOINFO"
+},
+{
+"qid": "208",
+"cond": "float",
+"job": "e31983ca7c132dd9",
+"gold": "SUPPORT"
+},
+{
+"qid": "212",
+"cond": "float",
+"job": "8e471a7127287d08",
+"gold": "CONTRADICT"
+},
+{
+"qid": "213",
+"cond": "float",
+"job": "faec2d3fd8f4588a",
+"gold": "NOINFO"
+},
+{
+"qid": "216",
+"cond": "float",
+"job": "7a02d810215c6760",
+"gold": "CONTRADICT"
+},
+{
+"qid": "217",
+"cond": "float",
+"job": "053ae84822deda48",
+"gold": "SUPPORT"
+},
+{
+"qid": "218",
+"cond": "float",
+"job": "e92861ce91729e65",
+"gold": "SUPPORT"
+},
+{
+"qid": "219",
+"cond": "float",
+"job": "9198194ca37d4075",
+"gold": "CONTRADICT"
+},
+{
+"qid": "230",
+"cond": "float",
+"job": "1dc85766739d1342",
+"gold": "SUPPORT"
+},
+{
+"qid": "232",
+"cond": "float",
+"job": "629327fc992593d5",
+"gold": "NOINFO"
+},
+{
+"qid": "233",
+"cond": "float",
+"job": "53a51552188d13f6",
+"gold": "CONTRADICT"
+},
+{
+"qid": "236",
+"cond": "float",
+"job": "1bd93b0005307d5a",
+"gold": "SUPPORT"
+},
+{
+"qid": "237",
+"cond": "float",
+"job": "21f5dc1d7851ec1c",
+"gold": "NOINFO"
+},
+{
+"qid": "238",
+"cond": "float",
+"job": "2b62114d7fdae972",
+"gold": "NOINFO"
+},
+{
+"qid": "239",
+"cond": "float",
+"job": "365ab41a0ce27ec4",
+"gold": "SUPPORT"
+},
+{
+"qid": "248",
+"cond": "float",
+"job": "d6fb66b00c6cc278",
+"gold": "SUPPORT"
+},
+{
+"qid": "249",
+"cond": "float",
+"job": "0b8bd1dd6b99bf9b",
+"gold": "CONTRADICT"
+},
+{
+"qid": "261",
+"cond": "float",
+"job": "b72788b68eca0645",
+"gold": "SUPPORT"
+},
+{
+"qid": "268",
+"cond": "float",
+"job": "5f9049f97c07ef04",
+"gold": "NOINFO"
+},
+{
+"qid": "269",
+"cond": "float",
+"job": "163ba36afe49ba00",
+"gold": "NOINFO"
+},
+{
+"qid": "274",
+"cond": "float",
+"job": "1b9de4737bb6c00a",
+"gold": "CONTRADICT"
+},
+{
+"qid": "275",
+"cond": "float",
+"job": "bb7d9d7c19bcd74e",
+"gold": "SUPPORT"
+},
+{
+"qid": "279",
+"cond": "float",
+"job": "dd755c54151d65e1",
+"gold": "SUPPORT"
+},
+{
+"qid": "294",
+"cond": "float",
+"job": "8b64150a72d7326d",
+"gold": "NOINFO"
+},
+{
+"qid": "295",
+"cond": "float",
+"job": "11d31c946bc57287",
+"gold": "SUPPORT"
+},
+{
+"qid": "298",
+"cond": "float",
+"job": "ac255efd223db2ef",
+"gold": "SUPPORT"
+},
+{
+"qid": "3",
+"cond": "float",
+"job": "79cd727cc22134fe",
+"gold": "SUPPORT"
+},
+{
+"qid": "300",
+"cond": "float",
+"job": "0bcae29b2634e97f",
+"gold": "NOINFO"
+},
+{
+"qid": "303",
+"cond": "float",
+"job": "cce0f8a21998126e",
+"gold": "NOINFO"
+},
+{
+"qid": "312",
+"cond": "float",
+"job": "76e89ebc11a254ed",
+"gold": "NOINFO"
+},
+{
+"qid": "314",
+"cond": "float",
+"job": "7ac3e4d6a03864a6",
+"gold": "SUPPORT"
+},
+{
+"qid": "324",
+"cond": "float",
+"job": "482e68f83ccae7ba",
+"gold": "NOINFO"
+},
+{
+"qid": "327",
+"cond": "float",
+"job": "f63e0c3f675a45e7",
+"gold": "SUPPORT"
+},
+{
+"qid": "338",
+"cond": "float",
+"job": "16962ae8973c88c8",
+"gold": "CONTRADICT"
+},
+{
+"qid": "343",
+"cond": "float",
+"job": "220a1e6a102d8374",
+"gold": "SUPPORT"
+},
+{
+"qid": "350",
+"cond": "float",
+"job": "d61480053ac38f6e",
+"gold": "NOINFO"
+},
+{
+"qid": "354",
+"cond": "float",
+"job": "73f17d1810a359be",
+"gold": "NOINFO"
+},
+{
+"qid": "36",
+"cond": "float",
+"job": "2707cbb71a4fe9da",
+"gold": "NOINFO"
+},
+{
+"qid": "362",
+"cond": "float",
+"job": "a6c26011f80d494c",
+"gold": "NOINFO"
+},
+{
+"qid": "380",
+"cond": "float",
+"job": "30fa6644a509be29",
+"gold": "SUPPORT"
+},
+{
+"qid": "384",
+"cond": "float",
+"job": "73a9b474062162be",
+"gold": "NOINFO"
+},
+{
+"qid": "385",
+"cond": "float",
+"job": "068421d96e941f91",
+"gold": "SUPPORT"
+},
+{
+"qid": "386",
+"cond": "float",
+"job": "ddb1f3556010d764",
+"gold": "SUPPORT"
+},
+{
+"qid": "388",
+"cond": "float",
+"job": "9a7151c3b0fb33ae",
+"gold": "NOINFO"
+},
+{
+"qid": "399",
+"cond": "float",
+"job": "7ce8f2fae55cfa0a",
+"gold": "SUPPORT"
+},
+{
+"qid": "410",
+"cond": "float",
+"job": "d7778f746c77ab7c",
+"gold": "NOINFO"
+},
+{
+"qid": "411",
+"cond": "float",
+"job": "449bd20ff75fa078",
+"gold": "NOINFO"
+},
+{
+"qid": "415",
+"cond": "float",
+"job": "173889959c5c56f5",
+"gold": "SUPPORT"
+},
+{
+"qid": "42",
+"cond": "float",
+"job": "780fb61dfdb1854e",
+"gold": "CONTRADICT"
+},
+{
+"qid": "421",
+"cond": "float",
+"job": "71f19ce19bb12bb6",
+"gold": "NOINFO"
+},
+{
+"qid": "431",
+"cond": "float",
+"job": "4c742dfb30c13db3",
+"gold": "SUPPORT"
+},
+{
+"qid": "436",
+"cond": "float",
+"job": "83b463d64110506b",
+"gold": "SUPPORT"
+},
+{
+"qid": "437",
+"cond": "float",
+"job": "d56d99b91d298ce3",
+"gold": "NOINFO"
+},
+{
+"qid": "439",
+"cond": "float",
+"job": "eea77fd6cb6d5a5e",
+"gold": "NOINFO"
+},
+{
+"qid": "440",
+"cond": "float",
+"job": "4cdcb3b8ede53fc2",
+"gold": "NOINFO"
+},
+{
+"qid": "443",
+"cond": "float",
+"job": "5f2eeed1eee1f310",
+"gold": "SUPPORT"
+},
+{
+"qid": "452",
+"cond": "float",
+"job": "6603021d53b71e9e",
+"gold": "CONTRADICT"
+},
+{
+"qid": "475",
+"cond": "float",
+"job": "03770f8f081386bd",
+"gold": "SUPPORT"
+},
+{
+"qid": "478",
+"cond": "float",
+"job": "06ce1c6c33028a4b",
+"gold": "NOINFO"
+},
+{
+"qid": "48",
+"cond": "float",
+"job": "6019e3c0737affe3",
+"gold": "CONTRADICT"
+},
+{
+"qid": "49",
+"cond": "float",
+"job": "6e2ed7e1ef06a094",
+"gold": "SUPPORT"
+},
+{
+"qid": "491",
+"cond": "float",
+"job": "5c1f1c4dbcb747ca",
+"gold": "NOINFO"
+},
+{
+"qid": "5",
+"cond": "float",
+"job": "62aa54a038e4f00d",
+"gold": "SUPPORT"
+},
+{
+"qid": "50",
+"cond": "float",
+"job": "75278aa7bc07d643",
+"gold": "SUPPORT"
+},
+{
+"qid": "501",
+"cond": "float",
+"job": "00bd07e2dd713f2a",
+"gold": "SUPPORT"
+},
+{
+"qid": "502",
+"cond": "float",
+"job": "d287d41aee565ae3",
+"gold": "NOINFO"
+},
+{
+"qid": "507",
+"cond": "float",
+"job": "b0ec118648fef25b",
+"gold": "NOINFO"
+},
+{
+"qid": "508",
+"cond": "float",
+"job": "66bde531bbc9959a",
+"gold": "NOINFO"
+},
+{
+"qid": "51",
+"cond": "float",
+"job": "ba37b98a76851677",
+"gold": "CONTRADICT"
+},
+{
+"qid": "513",
+"cond": "float",
+"job": "c5688e04aa0662b5",
+"gold": "CONTRADICT"
+},
+{
+"qid": "514",
+"cond": "float",
+"job": "425459c84b83e254",
+"gold": "NOINFO"
+},
+{
+"qid": "516",
+"cond": "float",
+"job": "460f75c0d3fb21dc",
+"gold": "CONTRADICT"
+},
+{
+"qid": "517",
+"cond": "float",
+"job": "741e79bf6478dbbd",
+"gold": "NOINFO"
+},
+{
+"qid": "521",
+"cond": "float",
+"job": "d7409933378770ba",
+"gold": "SUPPORT"
+},
+{
+"qid": "525",
+"cond": "float",
+"job": "14fc26b0684dc485",
+"gold": "SUPPORT"
+},
+{
+"qid": "527",
+"cond": "float",
+"job": "21a4782797cae60f",
+"gold": "NOINFO"
+},
+{
+"qid": "528",
+"cond": "float",
+"job": "88834b34b44535f8",
+"gold": "SUPPORT"
+},
+{
+"qid": "53",
+"cond": "float",
+"job": "876d06aac92691cf",
+"gold": "SUPPORT"
+},
+{
+"qid": "532",
+"cond": "float",
+"job": "0f6faea4a91d9cc8",
+"gold": "CONTRADICT"
+},
+{
+"qid": "533",
+"cond": "float",
+"job": "56326e94a92972f6",
+"gold": "SUPPORT"
+},
+{
+"qid": "535",
+"cond": "float",
+"job": "64e0dbd996fec21f",
+"gold": "NOINFO"
+},
+{
+"qid": "536",
+"cond": "float",
+"job": "5a610545827b3cf9",
+"gold": "SUPPORT"
+},
+{
+"qid": "539",
+"cond": "float",
+"job": "3962edf7f2b6cbe0",
+"gold": "SUPPORT"
+},
+{
+"qid": "54",
+"cond": "float",
+"job": "9ba9b4fd98eedd57",
+"gold": "CONTRADICT"
+},
+{
+"qid": "540",
+"cond": "float",
+"job": "2d2fa7f014d0e9b7",
+"gold": "SUPPORT"
+},
+{
+"qid": "544",
+"cond": "float",
+"job": "11ff77ccd27ff6e4",
+"gold": "NOINFO"
+},
+{
+"qid": "549",
+"cond": "float",
+"job": "74da3d5b64589bc0",
+"gold": "SUPPORT"
+},
+{
+"qid": "551",
+"cond": "float",
+"job": "317755ba0df52acf",
+"gold": "NOINFO"
+},
+{
+"qid": "552",
+"cond": "float",
+"job": "4ac48ed81590377e",
+"gold": "NOINFO"
+},
+{
+"qid": "554",
+"cond": "float",
+"job": "c173752f43274a8d",
+"gold": "NOINFO"
+},
+{
+"qid": "56",
+"cond": "float",
+"job": "bebcbc493db69cc3",
+"gold": "SUPPORT"
+},
+{
+"qid": "560",
+"cond": "float",
+"job": "6b9b84c9abe33720",
+"gold": "NOINFO"
+},
+{
+"qid": "569",
+"cond": "float",
+"job": "77add018c51fa41f",
+"gold": "SUPPORT"
+},
+{
+"qid": "57",
+"cond": "float",
+"job": "d2fbb8df091c5e41",
+"gold": "CONTRADICT"
+},
+{
+"qid": "575",
+"cond": "float",
+"job": "72ed00f1922a725d",
+"gold": "NOINFO"
+},
+{
+"qid": "577",
+"cond": "float",
+"job": "8749789aa12f1d3e",
+"gold": "NOINFO"
+},
+{
+"qid": "578",
+"cond": "float",
+"job": "6bb52b499f4026c5",
+"gold": "CONTRADICT"
+},
+{
+"qid": "587",
+"cond": "float",
+"job": "5ce18907f97de888",
+"gold": "NOINFO"
+},
+{
+"qid": "589",
+"cond": "float",
+"job": "36a7a5c32ed24196",
+"gold": "SUPPORT"
+},
+{
+"qid": "593",
+"cond": "float",
+"job": "99fb091df94feae4",
+"gold": "SUPPORT"
+},
+{
+"qid": "597",
+"cond": "float",
+"job": "2ff0152ca809d571",
+"gold": "SUPPORT"
+},
+{
+"qid": "598",
+"cond": "float",
+"job": "a4f3b08142f1fb8c",
+"gold": "CONTRADICT"
+},
+{
+"qid": "613",
+"cond": "float",
+"job": "35156403fe85e159",
+"gold": "SUPPORT"
+},
+{
+"qid": "619",
+"cond": "float",
+"job": "4e8f29f3341ad58f",
+"gold": "CONTRADICT"
+},
+{
+"qid": "623",
+"cond": "float",
+"job": "6fefecb3f3584570",
+"gold": "NOINFO"
+},
+{
+"qid": "628",
+"cond": "float",
+"job": "c9e4b3568acb5d3b",
+"gold": "NOINFO"
+},
+{
+"qid": "636",
+"cond": "float",
+"job": "a89dd3b1cddb864a",
+"gold": "SUPPORT"
+},
+{
+"qid": "637",
+"cond": "float",
+"job": "fce9e1411875d4ba",
+"gold": "NOINFO"
+},
+{
+"qid": "641",
+"cond": "float",
+"job": "efd307827f114511",
+"gold": "SUPPORT"
+},
+{
+"qid": "644",
+"cond": "float",
+"job": "94262c7a47d0ac97",
+"gold": "NOINFO"
+},
+{
+"qid": "649",
+"cond": "float",
+"job": "fb952537a3de24d4",
+"gold": "NOINFO"
+},
+{
+"qid": "659",
+"cond": "float",
+"job": "484c1c2591aaac78",
+"gold": "NOINFO"
+},
+{
+"qid": "660",
+"cond": "float",
+"job": "bbb2d385dc498090",
+"gold": "NOINFO"
+},
+{
+"qid": "674",
+"cond": "float",
+"job": "7dddb408c21d70f2",
+"gold": "CONTRADICT"
+},
+{
+"qid": "684",
+"cond": "float",
+"job": "3d0e8690076c4a73",
+"gold": "NOINFO"
+},
+{
+"qid": "690",
+"cond": "float",
+"job": "cd98ba9401d8c674",
+"gold": "NOINFO"
+},
+{
+"qid": "691",
+"cond": "float",
+"job": "81244381b3daecdf",
+"gold": "NOINFO"
+},
+{
+"qid": "692",
+"cond": "float",
+"job": "450935a3e45001e9",
+"gold": "CONTRADICT"
+},
+{
+"qid": "693",
+"cond": "float",
+"job": "06a9de6d75231cab",
+"gold": "SUPPORT"
+},
+{
+"qid": "70",
+"cond": "float",
+"job": "8e54ac5d062275a2",
+"gold": "SUPPORT"
+},
+{
+"qid": "700",
+"cond": "float",
+"job": "823184c9a9bf3979",
+"gold": "NOINFO"
+},
+{
+"qid": "702",
+"cond": "float",
+"job": "c8c6d70af3182f1b",
+"gold": "NOINFO"
+},
+{
+"qid": "715",
+"cond": "float",
+"job": "acd58985f037476e",
+"gold": "NOINFO"
+},
+{
+"qid": "716",
+"cond": "float",
+"job": "1b696df86d74490b",
+"gold": "NOINFO"
+},
+{
+"qid": "718",
+"cond": "float",
+"job": "306a3fb716419b3f",
+"gold": "CONTRADICT"
+},
+{
+"qid": "72",
+"cond": "float",
+"job": "10403b4535c8691c",
+"gold": "NOINFO"
+},
+{
+"qid": "721",
+"cond": "float",
+"job": "af376f9105819bc0",
+"gold": "SUPPORT"
+},
+{
+"qid": "723",
+"cond": "float",
+"job": "afea8ac9e1cc9896",
+"gold": "SUPPORT"
+},
+{
+"qid": "727",
+"cond": "float",
+"job": "247db493b7da8ac8",
+"gold": "NOINFO"
+},
+{
+"qid": "728",
+"cond": "float",
+"job": "5df6a0c986bd33a8",
+"gold": "CONTRADICT"
+},
+{
+"qid": "729",
+"cond": "float",
+"job": "06a949466ecfeff8",
+"gold": "SUPPORT"
+},
+{
+"qid": "742",
+"cond": "float",
+"job": "62220423c80c5a53",
+"gold": "SUPPORT"
+},
+{
+"qid": "743",
+"cond": "float",
+"job": "7efbf61b40f35fec",
+"gold": "CONTRADICT"
+},
+{
+"qid": "744",
+"cond": "float",
+"job": "f76d2f99764d09c8",
+"gold": "SUPPORT"
+},
+{
+"qid": "75",
+"cond": "float",
+"job": "8e2d88879a37161c",
+"gold": "NOINFO"
+},
+{
+"qid": "756",
+"cond": "float",
+"job": "20d6b13f44115c7d",
+"gold": "SUPPORT"
+},
+{
+"qid": "759",
+"cond": "float",
+"job": "9288696e49e49e06",
+"gold": "CONTRADICT"
+},
+{
+"qid": "768",
+"cond": "float",
+"job": "267c320f61b88b99",
+"gold": "NOINFO"
+},
+{
+"qid": "770",
+"cond": "float",
+"job": "de03162e8a498678",
+"gold": "SUPPORT"
+},
+{
+"qid": "775",
+"cond": "float",
+"job": "281df57e44d08908",
+"gold": "NOINFO"
+},
+{
+"qid": "781",
+"cond": "float",
+"job": "28026eddfc17c6ba",
+"gold": "CONTRADICT"
+},
+{
+"qid": "783",
+"cond": "float",
+"job": "a55ec88e9b6499d3",
+"gold": "NOINFO"
+},
+{
+"qid": "784",
+"cond": "float",
+"job": "947a6800d7148666",
+"gold": "SUPPORT"
+},
+{
+"qid": "785",
+"cond": "float",
+"job": "37469699bbcc00a3",
+"gold": "NOINFO"
+},
+{
+"qid": "793",
+"cond": "float",
+"job": "5ef84f89c4741a02",
+"gold": "CONTRADICT"
+},
+{
+"qid": "800",
+"cond": "float",
+"job": "730de6158dca6d42",
+"gold": "NOINFO"
+},
+{
+"qid": "805",
+"cond": "float",
+"job": "fc1c82bbde1bc8db",
+"gold": "SUPPORT"
+},
+{
+"qid": "808",
+"cond": "float",
+"job": "9d2217d01f6e29b0",
+"gold": "SUPPORT"
+},
+{
+"qid": "811",
+"cond": "float",
+"job": "501ae3fd4ab02554",
+"gold": "CONTRADICT"
+},
+{
+"qid": "814",
+"cond": "float",
+"job": "9a3417df96cb4417",
+"gold": "NOINFO"
+},
+{
+"qid": "820",
+"cond": "float",
+"job": "5a92c55e22e8942a",
+"gold": "NOINFO"
+},
+{
+"qid": "821",
+"cond": "float",
+"job": "f8de60e9cb8942b0",
+"gold": "NOINFO"
+},
+{
+"qid": "823",
+"cond": "float",
+"job": "39e4e72b2423c1d5",
+"gold": "SUPPORT"
+},
+{
+"qid": "830",
+"cond": "float",
+"job": "7236491134b95b8c",
+"gold": "NOINFO"
+},
+{
+"qid": "831",
+"cond": "float",
+"job": "66103392aa01ee06",
+"gold": "NOINFO"
+},
+{
+"qid": "832",
+"cond": "float",
+"job": "f2905ec41a97b9f1",
+"gold": "SUPPORT"
+},
+{
+"qid": "834",
+"cond": "float",
+"job": "f649df684a2ed98a",
+"gold": "NOINFO"
+},
+{
+"qid": "837",
+"cond": "float",
+"job": "42b9774e6f9287ba",
+"gold": "SUPPORT"
+},
+{
+"qid": "839",
+"cond": "float",
+"job": "d0f61214452471ec",
+"gold": "SUPPORT"
+},
+{
+"qid": "845",
+"cond": "float",
+"job": "0645523b35ea269a",
+"gold": "SUPPORT"
+},
+{
+"qid": "847",
+"cond": "float",
+"job": "15ab945a5e8da7db",
+"gold": "CONTRADICT"
+},
+{
+"qid": "852",
+"cond": "float",
+"job": "eafa9dd941667a06",
+"gold": "CONTRADICT"
+},
+{
+"qid": "859",
+"cond": "float",
+"job": "3c450722db6d9d30",
+"gold": "CONTRADICT"
+},
+{
+"qid": "870",
+"cond": "float",
+"job": "e6bf6a3ceb7c7c72",
+"gold": "NOINFO"
+},
+{
+"qid": "873",
+"cond": "float",
+"job": "4d1dcd3e5f839751",
+"gold": "CONTRADICT"
+},
+{
+"qid": "879",
+"cond": "float",
+"job": "caf5b65e42945cec",
+"gold": "CONTRADICT"
+},
+{
+"qid": "880",
+"cond": "float",
+"job": "4c490a83e426622f",
+"gold": "SUPPORT"
+},
+{
+"qid": "882",
+"cond": "float",
+"job": "df88c45e6af58024",
+"gold": "CONTRADICT"
+},
+{
+"qid": "887",
+"cond": "float",
+"job": "c354ede789e21847",
+"gold": "NOINFO"
+},
+{
+"qid": "903",
+"cond": "float",
+"job": "6af8a269f6387c06",
+"gold": "CONTRADICT"
+},
+{
+"qid": "904",
+"cond": "float",
+"job": "926a3468ed7f6cb3",
+"gold": "SUPPORT"
+},
+{
+"qid": "907",
+"cond": "float",
+"job": "27d656bde14369cc",
+"gold": "NOINFO"
+},
+{
+"qid": "911",
+"cond": "float",
+"job": "7d1b7bb1683d7cb8",
+"gold": "SUPPORT"
+},
+{
+"qid": "913",
+"cond": "float",
+"job": "d78353677ff61f53",
+"gold": "NOINFO"
+},
+{
+"qid": "914",
+"cond": "float",
+"job": "1bc66da79611d852",
+"gold": "NOINFO"
+},
+{
+"qid": "921",
+"cond": "float",
+"job": "fa1e1fb6b7e9e6b3",
+"gold": "SUPPORT"
+},
+{
+"qid": "922",
+"cond": "float",
+"job": "be6022ddf7d5970f",
+"gold": "CONTRADICT"
+},
+{
+"qid": "936",
+"cond": "float",
+"job": "92b1a6207a810087",
+"gold": "SUPPORT"
+},
+{
+"qid": "94",
+"cond": "float",
+"job": "f9b8a7512f50f056",
+"gold": "NOINFO"
+},
+{
+"qid": "956",
+"cond": "float",
+"job": "99a2a9b6a1d0ff47",
+"gold": "NOINFO"
+},
+{
+"qid": "957",
+"cond": "float",
+"job": "198d741c4db7249a",
+"gold": "SUPPORT"
+},
+{
+"qid": "960",
+"cond": "float",
+"job": "03598933057c8281",
+"gold": "SUPPORT"
+},
+{
+"qid": "967",
+"cond": "float",
+"job": "7317d90f3ac45812",
+"gold": "SUPPORT"
+},
+{
+"qid": "971",
+"cond": "float",
+"job": "515308dfdd737e97",
+"gold": "SUPPORT"
+},
+{
+"qid": "975",
+"cond": "float",
+"job": "203965778d15af9b",
+"gold": "NOINFO"
+},
+{
+"qid": "982",
+"cond": "float",
+"job": "4d3f5ca008c961e1",
+"gold": "SUPPORT"
+},
+{
+"qid": "985",
+"cond": "float",
+"job": "c672149095976f34",
+"gold": "SUPPORT"
+},
+{
+"qid": "99",
+"cond": "float",
+"job": "396b3808cda476db",
+"gold": "NOINFO"
+},
+{
+"qid": "993",
+"cond": "float",
+"job": "42f161de0bae9a48",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1",
+"cond": "8",
+"job": "01e3235f32a9f362",
+"gold": "NOINFO"
+},
+{
+"qid": "100",
+"cond": "8",
+"job": "74c9ba0504ca3122",
+"gold": "SUPPORT"
+},
+{
+"qid": "1012",
+"cond": "8",
+"job": "70271bacaf0dfd6d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1014",
+"cond": "8",
+"job": "39397408c5ec0aa2",
+"gold": "NOINFO"
+},
+{
+"qid": "1019",
+"cond": "8",
+"job": "0404ccc0d4523e92",
+"gold": "SUPPORT"
+},
+{
+"qid": "1020",
+"cond": "8",
+"job": "3e0a7f80e84a7a11",
+"gold": "SUPPORT"
+},
+{
+"qid": "1021",
+"cond": "8",
+"job": "a8a1d1c0468ee2e3",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1024",
+"cond": "8",
+"job": "1e8443c334bb651e",
+"gold": "SUPPORT"
+},
+{
+"qid": "1029",
+"cond": "8",
+"job": "37920185125cb939",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1041",
+"cond": "8",
+"job": "df84bfe8a7a9fe0a",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1049",
+"cond": "8",
+"job": "b929669fcdc7cb59",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1062",
+"cond": "8",
+"job": "2ace7ff8721957c8",
+"gold": "SUPPORT"
+},
+{
+"qid": "1086",
+"cond": "8",
+"job": "65cb6ebaf7c61476",
+"gold": "SUPPORT"
+},
+{
+"qid": "1088",
+"cond": "8",
+"job": "fae872ee86ecaf89",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1089",
+"cond": "8",
+"job": "c731fdb25d9bbb40",
+"gold": "SUPPORT"
+},
+{
+"qid": "1099",
+"cond": "8",
+"job": "3ec8694b2c758884",
+"gold": "NOINFO"
+},
+{
+"qid": "1100",
+"cond": "8",
+"job": "999742887d240b94",
+"gold": "NOINFO"
+},
+{
+"qid": "1104",
+"cond": "8",
+"job": "a86fca7652af0e9e",
+"gold": "SUPPORT"
+},
+{
+"qid": "1107",
+"cond": "8",
+"job": "c846355e4123d2c7",
+"gold": "SUPPORT"
+},
+{
+"qid": "1110",
+"cond": "8",
+"job": "6201a3b085faf5d6",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1121",
+"cond": "8",
+"job": "02913df02145f8fa",
+"gold": "SUPPORT"
+},
+{
+"qid": "113",
+"cond": "8",
+"job": "b9caaea3b2ff2d72",
+"gold": "SUPPORT"
+},
+{
+"qid": "1130",
+"cond": "8",
+"job": "7bf9fde810ec5840",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1132",
+"cond": "8",
+"job": "48b919e3138a2583",
+"gold": "SUPPORT"
+},
+{
+"qid": "1137",
+"cond": "8",
+"job": "cd5b732c055d4209",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1140",
+"cond": "8",
+"job": "5e3a7f13c0475f36",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1144",
+"cond": "8",
+"job": "2ba23d1658cc23d4",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1146",
+"cond": "8",
+"job": "90a8a9e2e6f1ce21",
+"gold": "SUPPORT"
+},
+{
+"qid": "115",
+"cond": "8",
+"job": "1c00b1c0ea54c3a5",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1150",
+"cond": "8",
+"job": "73953970c7657766",
+"gold": "SUPPORT"
+},
+{
+"qid": "1163",
+"cond": "8",
+"job": "3bfe6ac300e377ec",
+"gold": "SUPPORT"
+},
+{
+"qid": "1175",
+"cond": "8",
+"job": "fb5c3573953bcd51",
+"gold": "NOINFO"
+},
+{
+"qid": "1179",
+"cond": "8",
+"job": "84bc006ac4b98989",
+"gold": "NOINFO"
+},
+{
+"qid": "118",
+"cond": "8",
+"job": "cffd0af0c10e7ae3",
+"gold": "SUPPORT"
+},
+{
+"qid": "1180",
+"cond": "8",
+"job": "791b63716606214d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1185",
+"cond": "8",
+"job": "633e06495ba0ee01",
+"gold": "SUPPORT"
+},
+{
+"qid": "1187",
+"cond": "8",
+"job": "4408f2027d43dc0d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1191",
+"cond": "8",
+"job": "ee85a94e45067285",
+"gold": "NOINFO"
+},
+{
+"qid": "1194",
+"cond": "8",
+"job": "d7de98c48bc9daf3",
+"gold": "NOINFO"
+},
+{
+"qid": "1196",
+"cond": "8",
+"job": "d09e0657756fd4d7",
+"gold": "NOINFO"
+},
+{
+"qid": "1197",
+"cond": "8",
+"job": "bc1dcb7850ddfb07",
+"gold": "NOINFO"
+},
+{
+"qid": "1199",
+"cond": "8",
+"job": "7e83aba21ef9cca5",
+"gold": "NOINFO"
+},
+{
+"qid": "1200",
+"cond": "8",
+"job": "a9413b8a062e30a5",
+"gold": "NOINFO"
+},
+{
+"qid": "1202",
+"cond": "8",
+"job": "f2708088e47f2b89",
+"gold": "SUPPORT"
+},
+{
+"qid": "1204",
+"cond": "8",
+"job": "1cc43fa52f72140e",
+"gold": "NOINFO"
+},
+{
+"qid": "1207",
+"cond": "8",
+"job": "40384e0092da1c23",
+"gold": "NOINFO"
+},
+{
+"qid": "1213",
+"cond": "8",
+"job": "35192b85f813602a",
+"gold": "NOINFO"
+},
+{
+"qid": "1216",
+"cond": "8",
+"job": "d7a40822a7da7e3b",
+"gold": "SUPPORT"
+},
+{
+"qid": "1221",
+"cond": "8",
+"job": "2e0718c9aadc4173",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1225",
+"cond": "8",
+"job": "e9ffbb23d941723c",
+"gold": "SUPPORT"
+},
+{
+"qid": "1226",
+"cond": "8",
+"job": "3e456dd2115ba89b",
+"gold": "NOINFO"
+},
+{
+"qid": "1232",
+"cond": "8",
+"job": "51bdae00b87a2476",
+"gold": "CONTRADICT"
+},
+{
+"qid": "124",
+"cond": "8",
+"job": "a425ed7f5ba9b5c1",
+"gold": "SUPPORT"
+},
+{
+"qid": "1241",
+"cond": "8",
+"job": "72c7740edf19c8f2",
+"gold": "SUPPORT"
+},
+{
+"qid": "1245",
+"cond": "8",
+"job": "04ce7847963e247f",
+"gold": "NOINFO"
+},
+{
+"qid": "1259",
+"cond": "8",
+"job": "6e14504c29cb883d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1262",
+"cond": "8",
+"job": "435fcd60cbd85840",
+"gold": "SUPPORT"
+},
+{
+"qid": "1266",
+"cond": "8",
+"job": "e359d88390ab69d8",
+"gold": "SUPPORT"
+},
+{
+"qid": "127",
+"cond": "8",
+"job": "a97c8ce1b57939e4",
+"gold": "NOINFO"
+},
+{
+"qid": "1270",
+"cond": "8",
+"job": "a6fbf1fd11eff69a",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1271",
+"cond": "8",
+"job": "8a51b50b0416d5c0",
+"gold": "SUPPORT"
+},
+{
+"qid": "1272",
+"cond": "8",
+"job": "8aa483a43acb968c",
+"gold": "NOINFO"
+},
+{
+"qid": "1273",
+"cond": "8",
+"job": "b80ce9963278008a",
+"gold": "SUPPORT"
+},
+{
+"qid": "1274",
+"cond": "8",
+"job": "a77e9a10e2911063",
+"gold": "SUPPORT"
+},
+{
+"qid": "1278",
+"cond": "8",
+"job": "fd746646506b2808",
+"gold": "NOINFO"
+},
+{
+"qid": "1279",
+"cond": "8",
+"job": "bb6c1be9169b7813",
+"gold": "NOINFO"
+},
+{
+"qid": "128",
+"cond": "8",
+"job": "c4d9168a95c233d3",
+"gold": "NOINFO"
+},
+{
+"qid": "1280",
+"cond": "8",
+"job": "7efccc26c7150c12",
+"gold": "NOINFO"
+},
+{
+"qid": "1281",
+"cond": "8",
+"job": "4c3aa1be9453d74a",
+"gold": "NOINFO"
+},
+{
+"qid": "1282",
+"cond": "8",
+"job": "9c1f49620ea5764b",
+"gold": "NOINFO"
+},
+{
+"qid": "129",
+"cond": "8",
+"job": "b53ff076b0327174",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1290",
+"cond": "8",
+"job": "eb570fdf852ba8f9",
+"gold": "SUPPORT"
+},
+{
+"qid": "1292",
+"cond": "8",
+"job": "05163b646ca3a18a",
+"gold": "NOINFO"
+},
+{
+"qid": "1298",
+"cond": "8",
+"job": "665fc0d45a36b8cc",
+"gold": "SUPPORT"
+},
+{
+"qid": "13",
+"cond": "8",
+"job": "a2db5d225f3a0bb3",
+"gold": "NOINFO"
+},
+{
+"qid": "130",
+"cond": "8",
+"job": "5c0eeae384847a70",
+"gold": "SUPPORT"
+},
+{
+"qid": "1303",
+"cond": "8",
+"job": "5c7fe131162e1511",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1316",
+"cond": "8",
+"job": "edce1c34cd1a3db7",
+"gold": "NOINFO"
+},
+{
+"qid": "1319",
+"cond": "8",
+"job": "5949ad3b0f776a26",
+"gold": "SUPPORT"
+},
+{
+"qid": "132",
+"cond": "8",
+"job": "9ec1e25c367bbf64",
+"gold": "NOINFO"
+},
+{
+"qid": "1320",
+"cond": "8",
+"job": "4c68e0a9ffea4336",
+"gold": "CONTRADICT"
+},
+{
+"qid": "133",
+"cond": "8",
+"job": "28f777e32fc32c40",
+"gold": "SUPPORT"
+},
+{
+"qid": "1332",
+"cond": "8",
+"job": "f45cd76cb3d90f2a",
+"gold": "NOINFO"
+},
+{
+"qid": "1335",
+"cond": "8",
+"job": "6992e72496467199",
+"gold": "SUPPORT"
+},
+{
+"qid": "1336",
+"cond": "8",
+"job": "4cffe7f2e6acb748",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1337",
+"cond": "8",
+"job": "b71c6bf0ff6cf84c",
+"gold": "SUPPORT"
+},
+{
+"qid": "1339",
+"cond": "8",
+"job": "9273168be8829836",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1344",
+"cond": "8",
+"job": "1527cb708f5bdaa8",
+"gold": "NOINFO"
+},
+{
+"qid": "1352",
+"cond": "8",
+"job": "3502ac9155a59fb7",
+"gold": "SUPPORT"
+},
+{
+"qid": "1359",
+"cond": "8",
+"job": "ffa50f0296637aa1",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1362",
+"cond": "8",
+"job": "9ac83e41a195c36e",
+"gold": "NOINFO"
+},
+{
+"qid": "1363",
+"cond": "8",
+"job": "19a25aaec4e82083",
+"gold": "NOINFO"
+},
+{
+"qid": "1368",
+"cond": "8",
+"job": "1554500a12c7d765",
+"gold": "SUPPORT"
+},
+{
+"qid": "137",
+"cond": "8",
+"job": "6e0e6ca219174c5d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1370",
+"cond": "8",
+"job": "a5fe91d19e531515",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1379",
+"cond": "8",
+"job": "b89c64140c93e7ec",
+"gold": "SUPPORT"
+},
+{
+"qid": "1382",
+"cond": "8",
+"job": "50baeaa3c36b189e",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1385",
+"cond": "8",
+"job": "4f86f3f7a77f620c",
+"gold": "SUPPORT"
+},
+{
+"qid": "1389",
+"cond": "8",
+"job": "9fc6f55bfa4124f7",
+"gold": "SUPPORT"
+},
+{
+"qid": "1395",
+"cond": "8",
+"job": "e55674073e398ada",
+"gold": "NOINFO"
+},
+{
+"qid": "141",
+"cond": "8",
+"job": "b9f8fafa63628bea",
+"gold": "SUPPORT"
+},
+{
+"qid": "142",
+"cond": "8",
+"job": "f0e4925fe09f9d7b",
+"gold": "CONTRADICT"
+},
+{
+"qid": "143",
+"cond": "8",
+"job": "05c0b31b7f745f12",
+"gold": "SUPPORT"
+},
+{
+"qid": "146",
+"cond": "8",
+"job": "4cf0fd55ee9e2ea2",
+"gold": "SUPPORT"
+},
+{
+"qid": "148",
+"cond": "8",
+"job": "f019ca7af96c2f3b",
+"gold": "SUPPORT"
+},
+{
+"qid": "163",
+"cond": "8",
+"job": "b5e6a2959028b4f0",
+"gold": "SUPPORT"
+},
+{
+"qid": "171",
+"cond": "8",
+"job": "5059e2e7a359bbc9",
+"gold": "CONTRADICT"
+},
+{
+"qid": "179",
+"cond": "8",
+"job": "7f707d2fbc65d707",
+"gold": "SUPPORT"
+},
+{
+"qid": "180",
+"cond": "8",
+"job": "40a74cda79dd08fc",
+"gold": "CONTRADICT"
+},
+{
+"qid": "183",
+"cond": "8",
+"job": "b90ec12b77974328",
+"gold": "CONTRADICT"
+},
+{
+"qid": "185",
+"cond": "8",
+"job": "6a33dbed642fc274",
+"gold": "CONTRADICT"
+},
+{
+"qid": "198",
+"cond": "8",
+"job": "f68bee5c0754e5e6",
+"gold": "NOINFO"
+},
+{
+"qid": "208",
+"cond": "8",
+"job": "e31983ca7c132dd9",
+"gold": "SUPPORT"
+},
+{
+"qid": "212",
+"cond": "8",
+"job": "8e471a7127287d08",
+"gold": "CONTRADICT"
+},
+{
+"qid": "213",
+"cond": "8",
+"job": "faec2d3fd8f4588a",
+"gold": "NOINFO"
+},
+{
+"qid": "216",
+"cond": "8",
+"job": "7a02d810215c6760",
+"gold": "CONTRADICT"
+},
+{
+"qid": "217",
+"cond": "8",
+"job": "053ae84822deda48",
+"gold": "SUPPORT"
+},
+{
+"qid": "218",
+"cond": "8",
+"job": "e92861ce91729e65",
+"gold": "SUPPORT"
+},
+{
+"qid": "219",
+"cond": "8",
+"job": "9198194ca37d4075",
+"gold": "CONTRADICT"
+},
+{
+"qid": "230",
+"cond": "8",
+"job": "1dc85766739d1342",
+"gold": "SUPPORT"
+},
+{
+"qid": "232",
+"cond": "8",
+"job": "65fc0e78b2fd76e2",
+"gold": "NOINFO"
+},
+{
+"qid": "233",
+"cond": "8",
+"job": "53a51552188d13f6",
+"gold": "CONTRADICT"
+},
+{
+"qid": "236",
+"cond": "8",
+"job": "1bd93b0005307d5a",
+"gold": "SUPPORT"
+},
+{
+"qid": "237",
+"cond": "8",
+"job": "21f5dc1d7851ec1c",
+"gold": "NOINFO"
+},
+{
+"qid": "238",
+"cond": "8",
+"job": "2b62114d7fdae972",
+"gold": "NOINFO"
+},
+{
+"qid": "239",
+"cond": "8",
+"job": "365ab41a0ce27ec4",
+"gold": "SUPPORT"
+},
+{
+"qid": "248",
+"cond": "8",
+"job": "d6fb66b00c6cc278",
+"gold": "SUPPORT"
+},
+{
+"qid": "249",
+"cond": "8",
+"job": "0b8bd1dd6b99bf9b",
+"gold": "CONTRADICT"
+},
+{
+"qid": "261",
+"cond": "8",
+"job": "b72788b68eca0645",
+"gold": "SUPPORT"
+},
+{
+"qid": "268",
+"cond": "8",
+"job": "5f9049f97c07ef04",
+"gold": "NOINFO"
+},
+{
+"qid": "269",
+"cond": "8",
+"job": "163ba36afe49ba00",
+"gold": "NOINFO"
+},
+{
+"qid": "274",
+"cond": "8",
+"job": "1b9de4737bb6c00a",
+"gold": "CONTRADICT"
+},
+{
+"qid": "275",
+"cond": "8",
+"job": "bb7d9d7c19bcd74e",
+"gold": "SUPPORT"
+},
+{
+"qid": "279",
+"cond": "8",
+"job": "dd755c54151d65e1",
+"gold": "SUPPORT"
+},
+{
+"qid": "294",
+"cond": "8",
+"job": "8b64150a72d7326d",
+"gold": "NOINFO"
+},
+{
+"qid": "295",
+"cond": "8",
+"job": "11d31c946bc57287",
+"gold": "SUPPORT"
+},
+{
+"qid": "298",
+"cond": "8",
+"job": "ac255efd223db2ef",
+"gold": "SUPPORT"
+},
+{
+"qid": "3",
+"cond": "8",
+"job": "79cd727cc22134fe",
+"gold": "SUPPORT"
+},
+{
+"qid": "300",
+"cond": "8",
+"job": "0bcae29b2634e97f",
+"gold": "NOINFO"
+},
+{
+"qid": "303",
+"cond": "8",
+"job": "cce0f8a21998126e",
+"gold": "NOINFO"
+},
+{
+"qid": "312",
+"cond": "8",
+"job": "76e89ebc11a254ed",
+"gold": "NOINFO"
+},
+{
+"qid": "314",
+"cond": "8",
+"job": "7ac3e4d6a03864a6",
+"gold": "SUPPORT"
+},
+{
+"qid": "324",
+"cond": "8",
+"job": "482e68f83ccae7ba",
+"gold": "NOINFO"
+},
+{
+"qid": "327",
+"cond": "8",
+"job": "f63e0c3f675a45e7",
+"gold": "SUPPORT"
+},
+{
+"qid": "338",
+"cond": "8",
+"job": "16962ae8973c88c8",
+"gold": "CONTRADICT"
+},
+{
+"qid": "343",
+"cond": "8",
+"job": "e8beccf319c2f18f",
+"gold": "SUPPORT"
+},
+{
+"qid": "350",
+"cond": "8",
+"job": "d61480053ac38f6e",
+"gold": "NOINFO"
+},
+{
+"qid": "354",
+"cond": "8",
+"job": "73f17d1810a359be",
+"gold": "NOINFO"
+},
+{
+"qid": "36",
+"cond": "8",
+"job": "2707cbb71a4fe9da",
+"gold": "NOINFO"
+},
+{
+"qid": "362",
+"cond": "8",
+"job": "a6c26011f80d494c",
+"gold": "NOINFO"
+},
+{
+"qid": "380",
+"cond": "8",
+"job": "30fa6644a509be29",
+"gold": "SUPPORT"
+},
+{
+"qid": "384",
+"cond": "8",
+"job": "73a9b474062162be",
+"gold": "NOINFO"
+},
+{
+"qid": "385",
+"cond": "8",
+"job": "068421d96e941f91",
+"gold": "SUPPORT"
+},
+{
+"qid": "386",
+"cond": "8",
+"job": "ddb1f3556010d764",
+"gold": "SUPPORT"
+},
+{
+"qid": "388",
+"cond": "8",
+"job": "9a7151c3b0fb33ae",
+"gold": "NOINFO"
+},
+{
+"qid": "399",
+"cond": "8",
+"job": "7ce8f2fae55cfa0a",
+"gold": "SUPPORT"
+},
+{
+"qid": "410",
+"cond": "8",
+"job": "d7778f746c77ab7c",
+"gold": "NOINFO"
+},
+{
+"qid": "411",
+"cond": "8",
+"job": "449bd20ff75fa078",
+"gold": "NOINFO"
+},
+{
+"qid": "415",
+"cond": "8",
+"job": "173889959c5c56f5",
+"gold": "SUPPORT"
+},
+{
+"qid": "42",
+"cond": "8",
+"job": "780fb61dfdb1854e",
+"gold": "CONTRADICT"
+},
+{
+"qid": "421",
+"cond": "8",
+"job": "71f19ce19bb12bb6",
+"gold": "NOINFO"
+},
+{
+"qid": "431",
+"cond": "8",
+"job": "4c742dfb30c13db3",
+"gold": "SUPPORT"
+},
+{
+"qid": "436",
+"cond": "8",
+"job": "83b463d64110506b",
+"gold": "SUPPORT"
+},
+{
+"qid": "437",
+"cond": "8",
+"job": "d56d99b91d298ce3",
+"gold": "NOINFO"
+},
+{
+"qid": "439",
+"cond": "8",
+"job": "eea77fd6cb6d5a5e",
+"gold": "NOINFO"
+},
+{
+"qid": "440",
+"cond": "8",
+"job": "4cdcb3b8ede53fc2",
+"gold": "NOINFO"
+},
+{
+"qid": "443",
+"cond": "8",
+"job": "5f2eeed1eee1f310",
+"gold": "SUPPORT"
+},
+{
+"qid": "452",
+"cond": "8",
+"job": "6603021d53b71e9e",
+"gold": "CONTRADICT"
+},
+{
+"qid": "475",
+"cond": "8",
+"job": "03770f8f081386bd",
+"gold": "SUPPORT"
+},
+{
+"qid": "478",
+"cond": "8",
+"job": "06ce1c6c33028a4b",
+"gold": "NOINFO"
+},
+{
+"qid": "48",
+"cond": "8",
+"job": "66556521fe0c3f40",
+"gold": "CONTRADICT"
+},
+{
+"qid": "49",
+"cond": "8",
+"job": "6e2ed7e1ef06a094",
+"gold": "SUPPORT"
+},
+{
+"qid": "491",
+"cond": "8",
+"job": "5c1f1c4dbcb747ca",
+"gold": "NOINFO"
+},
+{
+"qid": "5",
+"cond": "8",
+"job": "62aa54a038e4f00d",
+"gold": "SUPPORT"
+},
+{
+"qid": "50",
+"cond": "8",
+"job": "75278aa7bc07d643",
+"gold": "SUPPORT"
+},
+{
+"qid": "501",
+"cond": "8",
+"job": "ff347cf399b5fdfb",
+"gold": "SUPPORT"
+},
+{
+"qid": "502",
+"cond": "8",
+"job": "d287d41aee565ae3",
+"gold": "NOINFO"
+},
+{
+"qid": "507",
+"cond": "8",
+"job": "b0ec118648fef25b",
+"gold": "NOINFO"
+},
+{
+"qid": "508",
+"cond": "8",
+"job": "66bde531bbc9959a",
+"gold": "NOINFO"
+},
+{
+"qid": "51",
+"cond": "8",
+"job": "ba37b98a76851677",
+"gold": "CONTRADICT"
+},
+{
+"qid": "513",
+"cond": "8",
+"job": "c5688e04aa0662b5",
+"gold": "CONTRADICT"
+},
+{
+"qid": "514",
+"cond": "8",
+"job": "425459c84b83e254",
+"gold": "NOINFO"
+},
+{
+"qid": "516",
+"cond": "8",
+"job": "460f75c0d3fb21dc",
+"gold": "CONTRADICT"
+},
+{
+"qid": "517",
+"cond": "8",
+"job": "741e79bf6478dbbd",
+"gold": "NOINFO"
+},
+{
+"qid": "521",
+"cond": "8",
+"job": "d7409933378770ba",
+"gold": "SUPPORT"
+},
+{
+"qid": "525",
+"cond": "8",
+"job": "14fc26b0684dc485",
+"gold": "SUPPORT"
+},
+{
+"qid": "527",
+"cond": "8",
+"job": "21a4782797cae60f",
+"gold": "NOINFO"
+},
+{
+"qid": "528",
+"cond": "8",
+"job": "88834b34b44535f8",
+"gold": "SUPPORT"
+},
+{
+"qid": "53",
+"cond": "8",
+"job": "876d06aac92691cf",
+"gold": "SUPPORT"
+},
+{
+"qid": "532",
+"cond": "8",
+"job": "0f6faea4a91d9cc8",
+"gold": "CONTRADICT"
+},
+{
+"qid": "533",
+"cond": "8",
+"job": "56326e94a92972f6",
+"gold": "SUPPORT"
+},
+{
+"qid": "535",
+"cond": "8",
+"job": "64e0dbd996fec21f",
+"gold": "NOINFO"
+},
+{
+"qid": "536",
+"cond": "8",
+"job": "5a610545827b3cf9",
+"gold": "SUPPORT"
+},
+{
+"qid": "539",
+"cond": "8",
+"job": "3962edf7f2b6cbe0",
+"gold": "SUPPORT"
+},
+{
+"qid": "54",
+"cond": "8",
+"job": "9ba9b4fd98eedd57",
+"gold": "CONTRADICT"
+},
+{
+"qid": "540",
+"cond": "8",
+"job": "2d2fa7f014d0e9b7",
+"gold": "SUPPORT"
+},
+{
+"qid": "544",
+"cond": "8",
+"job": "6437a9e72d85106e",
+"gold": "NOINFO"
+},
+{
+"qid": "549",
+"cond": "8",
+"job": "74da3d5b64589bc0",
+"gold": "SUPPORT"
+},
+{
+"qid": "551",
+"cond": "8",
+"job": "317755ba0df52acf",
+"gold": "NOINFO"
+},
+{
+"qid": "552",
+"cond": "8",
+"job": "4ac48ed81590377e",
+"gold": "NOINFO"
+},
+{
+"qid": "554",
+"cond": "8",
+"job": "c173752f43274a8d",
+"gold": "NOINFO"
+},
+{
+"qid": "56",
+"cond": "8",
+"job": "bebcbc493db69cc3",
+"gold": "SUPPORT"
+},
+{
+"qid": "560",
+"cond": "8",
+"job": "6b9b84c9abe33720",
+"gold": "NOINFO"
+},
+{
+"qid": "569",
+"cond": "8",
+"job": "77add018c51fa41f",
+"gold": "SUPPORT"
+},
+{
+"qid": "57",
+"cond": "8",
+"job": "d2fbb8df091c5e41",
+"gold": "CONTRADICT"
+},
+{
+"qid": "575",
+"cond": "8",
+"job": "72ed00f1922a725d",
+"gold": "NOINFO"
+},
+{
+"qid": "577",
+"cond": "8",
+"job": "8749789aa12f1d3e",
+"gold": "NOINFO"
+},
+{
+"qid": "578",
+"cond": "8",
+"job": "6bb52b499f4026c5",
+"gold": "CONTRADICT"
+},
+{
+"qid": "587",
+"cond": "8",
+"job": "5ce18907f97de888",
+"gold": "NOINFO"
+},
+{
+"qid": "589",
+"cond": "8",
+"job": "36a7a5c32ed24196",
+"gold": "SUPPORT"
+},
+{
+"qid": "593",
+"cond": "8",
+"job": "99fb091df94feae4",
+"gold": "SUPPORT"
+},
+{
+"qid": "597",
+"cond": "8",
+"job": "2ff0152ca809d571",
+"gold": "SUPPORT"
+},
+{
+"qid": "598",
+"cond": "8",
+"job": "a4f3b08142f1fb8c",
+"gold": "CONTRADICT"
+},
+{
+"qid": "613",
+"cond": "8",
+"job": "35156403fe85e159",
+"gold": "SUPPORT"
+},
+{
+"qid": "619",
+"cond": "8",
+"job": "4e8f29f3341ad58f",
+"gold": "CONTRADICT"
+},
+{
+"qid": "623",
+"cond": "8",
+"job": "6fefecb3f3584570",
+"gold": "NOINFO"
+},
+{
+"qid": "628",
+"cond": "8",
+"job": "c9e4b3568acb5d3b",
+"gold": "NOINFO"
+},
+{
+"qid": "636",
+"cond": "8",
+"job": "a89dd3b1cddb864a",
+"gold": "SUPPORT"
+},
+{
+"qid": "637",
+"cond": "8",
+"job": "fce9e1411875d4ba",
+"gold": "NOINFO"
+},
+{
+"qid": "641",
+"cond": "8",
+"job": "efd307827f114511",
+"gold": "SUPPORT"
+},
+{
+"qid": "644",
+"cond": "8",
+"job": "94262c7a47d0ac97",
+"gold": "NOINFO"
+},
+{
+"qid": "649",
+"cond": "8",
+"job": "fb952537a3de24d4",
+"gold": "NOINFO"
+},
+{
+"qid": "659",
+"cond": "8",
+"job": "69877c1478e79258",
+"gold": "NOINFO"
+},
+{
+"qid": "660",
+"cond": "8",
+"job": "bbb2d385dc498090",
+"gold": "NOINFO"
+},
+{
+"qid": "674",
+"cond": "8",
+"job": "37b43d9e1200b613",
+"gold": "CONTRADICT"
+},
+{
+"qid": "684",
+"cond": "8",
+"job": "3d0e8690076c4a73",
+"gold": "NOINFO"
+},
+{
+"qid": "690",
+"cond": "8",
+"job": "cd98ba9401d8c674",
+"gold": "NOINFO"
+},
+{
+"qid": "691",
+"cond": "8",
+"job": "81244381b3daecdf",
+"gold": "NOINFO"
+},
+{
+"qid": "692",
+"cond": "8",
+"job": "450935a3e45001e9",
+"gold": "CONTRADICT"
+},
+{
+"qid": "693",
+"cond": "8",
+"job": "06a9de6d75231cab",
+"gold": "SUPPORT"
+},
+{
+"qid": "70",
+"cond": "8",
+"job": "3a53121d5494b8a9",
+"gold": "SUPPORT"
+},
+{
+"qid": "700",
+"cond": "8",
+"job": "823184c9a9bf3979",
+"gold": "NOINFO"
+},
+{
+"qid": "702",
+"cond": "8",
+"job": "c8c6d70af3182f1b",
+"gold": "NOINFO"
+},
+{
+"qid": "715",
+"cond": "8",
+"job": "acd58985f037476e",
+"gold": "NOINFO"
+},
+{
+"qid": "716",
+"cond": "8",
+"job": "1b696df86d74490b",
+"gold": "NOINFO"
+},
+{
+"qid": "718",
+"cond": "8",
+"job": "306a3fb716419b3f",
+"gold": "CONTRADICT"
+},
+{
+"qid": "72",
+"cond": "8",
+"job": "10403b4535c8691c",
+"gold": "NOINFO"
+},
+{
+"qid": "721",
+"cond": "8",
+"job": "af376f9105819bc0",
+"gold": "SUPPORT"
+},
+{
+"qid": "723",
+"cond": "8",
+"job": "afea8ac9e1cc9896",
+"gold": "SUPPORT"
+},
+{
+"qid": "727",
+"cond": "8",
+"job": "247db493b7da8ac8",
+"gold": "NOINFO"
+},
+{
+"qid": "728",
+"cond": "8",
+"job": "5df6a0c986bd33a8",
+"gold": "CONTRADICT"
+},
+{
+"qid": "729",
+"cond": "8",
+"job": "06a949466ecfeff8",
+"gold": "SUPPORT"
+},
+{
+"qid": "742",
+"cond": "8",
+"job": "62220423c80c5a53",
+"gold": "SUPPORT"
+},
+{
+"qid": "743",
+"cond": "8",
+"job": "7efbf61b40f35fec",
+"gold": "CONTRADICT"
+},
+{
+"qid": "744",
+"cond": "8",
+"job": "f76d2f99764d09c8",
+"gold": "SUPPORT"
+},
+{
+"qid": "75",
+"cond": "8",
+"job": "8e2d88879a37161c",
+"gold": "NOINFO"
+},
+{
+"qid": "756",
+"cond": "8",
+"job": "20d6b13f44115c7d",
+"gold": "SUPPORT"
+},
+{
+"qid": "759",
+"cond": "8",
+"job": "9288696e49e49e06",
+"gold": "CONTRADICT"
+},
+{
+"qid": "768",
+"cond": "8",
+"job": "267c320f61b88b99",
+"gold": "NOINFO"
+},
+{
+"qid": "770",
+"cond": "8",
+"job": "de03162e8a498678",
+"gold": "SUPPORT"
+},
+{
+"qid": "775",
+"cond": "8",
+"job": "281df57e44d08908",
+"gold": "NOINFO"
+},
+{
+"qid": "781",
+"cond": "8",
+"job": "28026eddfc17c6ba",
+"gold": "CONTRADICT"
+},
+{
+"qid": "783",
+"cond": "8",
+"job": "a55ec88e9b6499d3",
+"gold": "NOINFO"
+},
+{
+"qid": "784",
+"cond": "8",
+"job": "947a6800d7148666",
+"gold": "SUPPORT"
+},
+{
+"qid": "785",
+"cond": "8",
+"job": "37469699bbcc00a3",
+"gold": "NOINFO"
+},
+{
+"qid": "793",
+"cond": "8",
+"job": "5ef84f89c4741a02",
+"gold": "CONTRADICT"
+},
+{
+"qid": "800",
+"cond": "8",
+"job": "730de6158dca6d42",
+"gold": "NOINFO"
+},
+{
+"qid": "805",
+"cond": "8",
+"job": "fc1c82bbde1bc8db",
+"gold": "SUPPORT"
+},
+{
+"qid": "808",
+"cond": "8",
+"job": "9d2217d01f6e29b0",
+"gold": "SUPPORT"
+},
+{
+"qid": "811",
+"cond": "8",
+"job": "501ae3fd4ab02554",
+"gold": "CONTRADICT"
+},
+{
+"qid": "814",
+"cond": "8",
+"job": "9a3417df96cb4417",
+"gold": "NOINFO"
+},
+{
+"qid": "820",
+"cond": "8",
+"job": "12fae224f8291c38",
+"gold": "NOINFO"
+},
+{
+"qid": "821",
+"cond": "8",
+"job": "f8de60e9cb8942b0",
+"gold": "NOINFO"
+},
+{
+"qid": "823",
+"cond": "8",
+"job": "14be5f645f77dd2c",
+"gold": "SUPPORT"
+},
+{
+"qid": "830",
+"cond": "8",
+"job": "7236491134b95b8c",
+"gold": "NOINFO"
+},
+{
+"qid": "831",
+"cond": "8",
+"job": "af855f02f05062ca",
+"gold": "NOINFO"
+},
+{
+"qid": "832",
+"cond": "8",
+"job": "f2905ec41a97b9f1",
+"gold": "SUPPORT"
+},
+{
+"qid": "834",
+"cond": "8",
+"job": "f649df684a2ed98a",
+"gold": "NOINFO"
+},
+{
+"qid": "837",
+"cond": "8",
+"job": "42b9774e6f9287ba",
+"gold": "SUPPORT"
+},
+{
+"qid": "839",
+"cond": "8",
+"job": "d0f61214452471ec",
+"gold": "SUPPORT"
+},
+{
+"qid": "845",
+"cond": "8",
+"job": "0645523b35ea269a",
+"gold": "SUPPORT"
+},
+{
+"qid": "847",
+"cond": "8",
+"job": "15ab945a5e8da7db",
+"gold": "CONTRADICT"
+},
+{
+"qid": "852",
+"cond": "8",
+"job": "eafa9dd941667a06",
+"gold": "CONTRADICT"
+},
+{
+"qid": "859",
+"cond": "8",
+"job": "3c450722db6d9d30",
+"gold": "CONTRADICT"
+},
+{
+"qid": "870",
+"cond": "8",
+"job": "e6bf6a3ceb7c7c72",
+"gold": "NOINFO"
+},
+{
+"qid": "873",
+"cond": "8",
+"job": "4d1dcd3e5f839751",
+"gold": "CONTRADICT"
+},
+{
+"qid": "879",
+"cond": "8",
+"job": "caf5b65e42945cec",
+"gold": "CONTRADICT"
+},
+{
+"qid": "880",
+"cond": "8",
+"job": "4c490a83e426622f",
+"gold": "SUPPORT"
+},
+{
+"qid": "882",
+"cond": "8",
+"job": "df88c45e6af58024",
+"gold": "CONTRADICT"
+},
+{
+"qid": "887",
+"cond": "8",
+"job": "c354ede789e21847",
+"gold": "NOINFO"
+},
+{
+"qid": "903",
+"cond": "8",
+"job": "6af8a269f6387c06",
+"gold": "CONTRADICT"
+},
+{
+"qid": "904",
+"cond": "8",
+"job": "926a3468ed7f6cb3",
+"gold": "SUPPORT"
+},
+{
+"qid": "907",
+"cond": "8",
+"job": "27d656bde14369cc",
+"gold": "NOINFO"
+},
+{
+"qid": "911",
+"cond": "8",
+"job": "7d1b7bb1683d7cb8",
+"gold": "SUPPORT"
+},
+{
+"qid": "913",
+"cond": "8",
+"job": "d78353677ff61f53",
+"gold": "NOINFO"
+},
+{
+"qid": "914",
+"cond": "8",
+"job": "1bc66da79611d852",
+"gold": "NOINFO"
+},
+{
+"qid": "921",
+"cond": "8",
+"job": "fa1e1fb6b7e9e6b3",
+"gold": "SUPPORT"
+},
+{
+"qid": "922",
+"cond": "8",
+"job": "be6022ddf7d5970f",
+"gold": "CONTRADICT"
+},
+{
+"qid": "936",
+"cond": "8",
+"job": "92b1a6207a810087",
+"gold": "SUPPORT"
+},
+{
+"qid": "94",
+"cond": "8",
+"job": "f9b8a7512f50f056",
+"gold": "NOINFO"
+},
+{
+"qid": "956",
+"cond": "8",
+"job": "99a2a9b6a1d0ff47",
+"gold": "NOINFO"
+},
+{
+"qid": "957",
+"cond": "8",
+"job": "198d741c4db7249a",
+"gold": "SUPPORT"
+},
+{
+"qid": "960",
+"cond": "8",
+"job": "03598933057c8281",
+"gold": "SUPPORT"
+},
+{
+"qid": "967",
+"cond": "8",
+"job": "7317d90f3ac45812",
+"gold": "SUPPORT"
+},
+{
+"qid": "971",
+"cond": "8",
+"job": "5bca4ebce8d96613",
+"gold": "SUPPORT"
+},
+{
+"qid": "975",
+"cond": "8",
+"job": "203965778d15af9b",
+"gold": "NOINFO"
+},
+{
+"qid": "982",
+"cond": "8",
+"job": "4d3f5ca008c961e1",
+"gold": "SUPPORT"
+},
+{
+"qid": "985",
+"cond": "8",
+"job": "c672149095976f34",
+"gold": "SUPPORT"
+},
+{
+"qid": "99",
+"cond": "8",
+"job": "396b3808cda476db",
+"gold": "NOINFO"
+},
+{
+"qid": "993",
+"cond": "8",
+"job": "42f161de0bae9a48",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1",
+"cond": "6",
+"job": "01e3235f32a9f362",
+"gold": "NOINFO"
+},
+{
+"qid": "100",
+"cond": "6",
+"job": "74c9ba0504ca3122",
+"gold": "SUPPORT"
+},
+{
+"qid": "1012",
+"cond": "6",
+"job": "868887f744d5a3a7",
+"gold": "SUPPORT"
+},
+{
+"qid": "1014",
+"cond": "6",
+"job": "39397408c5ec0aa2",
+"gold": "NOINFO"
+},
+{
+"qid": "1019",
+"cond": "6",
+"job": "0404ccc0d4523e92",
+"gold": "SUPPORT"
+},
+{
+"qid": "1020",
+"cond": "6",
+"job": "3e0a7f80e84a7a11",
+"gold": "SUPPORT"
+},
+{
+"qid": "1021",
+"cond": "6",
+"job": "a8a1d1c0468ee2e3",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1024",
+"cond": "6",
+"job": "1e8443c334bb651e",
+"gold": "SUPPORT"
+},
+{
+"qid": "1029",
+"cond": "6",
+"job": "37920185125cb939",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1041",
+"cond": "6",
+"job": "df84bfe8a7a9fe0a",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1049",
+"cond": "6",
+"job": "b929669fcdc7cb59",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1062",
+"cond": "6",
+"job": "2ace7ff8721957c8",
+"gold": "SUPPORT"
+},
+{
+"qid": "1086",
+"cond": "6",
+"job": "65cb6ebaf7c61476",
+"gold": "SUPPORT"
+},
+{
+"qid": "1088",
+"cond": "6",
+"job": "fae872ee86ecaf89",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1089",
+"cond": "6",
+"job": "c731fdb25d9bbb40",
+"gold": "SUPPORT"
+},
+{
+"qid": "1099",
+"cond": "6",
+"job": "3ec8694b2c758884",
+"gold": "NOINFO"
+},
+{
+"qid": "1100",
+"cond": "6",
+"job": "999742887d240b94",
+"gold": "NOINFO"
+},
+{
+"qid": "1104",
+"cond": "6",
+"job": "a86fca7652af0e9e",
+"gold": "SUPPORT"
+},
+{
+"qid": "1107",
+"cond": "6",
+"job": "c846355e4123d2c7",
+"gold": "SUPPORT"
+},
+{
+"qid": "1110",
+"cond": "6",
+"job": "6201a3b085faf5d6",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1121",
+"cond": "6",
+"job": "02913df02145f8fa",
+"gold": "SUPPORT"
+},
+{
+"qid": "113",
+"cond": "6",
+"job": "b9caaea3b2ff2d72",
+"gold": "SUPPORT"
+},
+{
+"qid": "1130",
+"cond": "6",
+"job": "7bf9fde810ec5840",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1132",
+"cond": "6",
+"job": "48b919e3138a2583",
+"gold": "SUPPORT"
+},
+{
+"qid": "1137",
+"cond": "6",
+"job": "cd5b732c055d4209",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1140",
+"cond": "6",
+"job": "5e3a7f13c0475f36",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1144",
+"cond": "6",
+"job": "2ba23d1658cc23d4",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1146",
+"cond": "6",
+"job": "90a8a9e2e6f1ce21",
+"gold": "SUPPORT"
+},
+{
+"qid": "115",
+"cond": "6",
+"job": "1c00b1c0ea54c3a5",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1150",
+"cond": "6",
+"job": "73953970c7657766",
+"gold": "SUPPORT"
+},
+{
+"qid": "1163",
+"cond": "6",
+"job": "3bfe6ac300e377ec",
+"gold": "SUPPORT"
+},
+{
+"qid": "1175",
+"cond": "6",
+"job": "fb5c3573953bcd51",
+"gold": "NOINFO"
+},
+{
+"qid": "1179",
+"cond": "6",
+"job": "84bc006ac4b98989",
+"gold": "NOINFO"
+},
+{
+"qid": "118",
+"cond": "6",
+"job": "cffd0af0c10e7ae3",
+"gold": "SUPPORT"
+},
+{
+"qid": "1180",
+"cond": "6",
+"job": "791b63716606214d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1185",
+"cond": "6",
+"job": "633e06495ba0ee01",
+"gold": "SUPPORT"
+},
+{
+"qid": "1187",
+"cond": "6",
+"job": "4408f2027d43dc0d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1191",
+"cond": "6",
+"job": "ee85a94e45067285",
+"gold": "NOINFO"
+},
+{
+"qid": "1194",
+"cond": "6",
+"job": "d7de98c48bc9daf3",
+"gold": "NOINFO"
+},
+{
+"qid": "1196",
+"cond": "6",
+"job": "d09e0657756fd4d7",
+"gold": "NOINFO"
+},
+{
+"qid": "1197",
+"cond": "6",
+"job": "bc1dcb7850ddfb07",
+"gold": "NOINFO"
+},
+{
+"qid": "1199",
+"cond": "6",
+"job": "7e83aba21ef9cca5",
+"gold": "NOINFO"
+},
+{
+"qid": "1200",
+"cond": "6",
+"job": "a9413b8a062e30a5",
+"gold": "NOINFO"
+},
+{
+"qid": "1202",
+"cond": "6",
+"job": "f2708088e47f2b89",
+"gold": "SUPPORT"
+},
+{
+"qid": "1204",
+"cond": "6",
+"job": "1cc43fa52f72140e",
+"gold": "NOINFO"
+},
+{
+"qid": "1207",
+"cond": "6",
+"job": "40384e0092da1c23",
+"gold": "NOINFO"
+},
+{
+"qid": "1213",
+"cond": "6",
+"job": "35192b85f813602a",
+"gold": "NOINFO"
+},
+{
+"qid": "1216",
+"cond": "6",
+"job": "d7a40822a7da7e3b",
+"gold": "SUPPORT"
+},
+{
+"qid": "1221",
+"cond": "6",
+"job": "2e0718c9aadc4173",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1225",
+"cond": "6",
+"job": "e9ffbb23d941723c",
+"gold": "SUPPORT"
+},
+{
+"qid": "1226",
+"cond": "6",
+"job": "3e456dd2115ba89b",
+"gold": "NOINFO"
+},
+{
+"qid": "1232",
+"cond": "6",
+"job": "51bdae00b87a2476",
+"gold": "CONTRADICT"
+},
+{
+"qid": "124",
+"cond": "6",
+"job": "a425ed7f5ba9b5c1",
+"gold": "SUPPORT"
+},
+{
+"qid": "1241",
+"cond": "6",
+"job": "72c7740edf19c8f2",
+"gold": "SUPPORT"
+},
+{
+"qid": "1245",
+"cond": "6",
+"job": "04ce7847963e247f",
+"gold": "NOINFO"
+},
+{
+"qid": "1259",
+"cond": "6",
+"job": "6e14504c29cb883d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1262",
+"cond": "6",
+"job": "435fcd60cbd85840",
+"gold": "SUPPORT"
+},
+{
+"qid": "1266",
+"cond": "6",
+"job": "e359d88390ab69d8",
+"gold": "SUPPORT"
+},
+{
+"qid": "127",
+"cond": "6",
+"job": "a97c8ce1b57939e4",
+"gold": "NOINFO"
+},
+{
+"qid": "1270",
+"cond": "6",
+"job": "a6fbf1fd11eff69a",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1271",
+"cond": "6",
+"job": "8a51b50b0416d5c0",
+"gold": "SUPPORT"
+},
+{
+"qid": "1272",
+"cond": "6",
+"job": "8aa483a43acb968c",
+"gold": "NOINFO"
+},
+{
+"qid": "1273",
+"cond": "6",
+"job": "b80ce9963278008a",
+"gold": "SUPPORT"
+},
+{
+"qid": "1274",
+"cond": "6",
+"job": "a77e9a10e2911063",
+"gold": "SUPPORT"
+},
+{
+"qid": "1278",
+"cond": "6",
+"job": "fd746646506b2808",
+"gold": "NOINFO"
+},
+{
+"qid": "1279",
+"cond": "6",
+"job": "bb6c1be9169b7813",
+"gold": "NOINFO"
+},
+{
+"qid": "128",
+"cond": "6",
+"job": "c4d9168a95c233d3",
+"gold": "NOINFO"
+},
+{
+"qid": "1280",
+"cond": "6",
+"job": "7efccc26c7150c12",
+"gold": "NOINFO"
+},
+{
+"qid": "1281",
+"cond": "6",
+"job": "4c3aa1be9453d74a",
+"gold": "NOINFO"
+},
+{
+"qid": "1282",
+"cond": "6",
+"job": "9c1f49620ea5764b",
+"gold": "NOINFO"
+},
+{
+"qid": "129",
+"cond": "6",
+"job": "b53ff076b0327174",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1290",
+"cond": "6",
+"job": "eb570fdf852ba8f9",
+"gold": "SUPPORT"
+},
+{
+"qid": "1292",
+"cond": "6",
+"job": "05163b646ca3a18a",
+"gold": "NOINFO"
+},
+{
+"qid": "1298",
+"cond": "6",
+"job": "665fc0d45a36b8cc",
+"gold": "SUPPORT"
+},
+{
+"qid": "13",
+"cond": "6",
+"job": "a2db5d225f3a0bb3",
+"gold": "NOINFO"
+},
+{
+"qid": "130",
+"cond": "6",
+"job": "5c0eeae384847a70",
+"gold": "SUPPORT"
+},
+{
+"qid": "1303",
+"cond": "6",
+"job": "5c7fe131162e1511",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1316",
+"cond": "6",
+"job": "edce1c34cd1a3db7",
+"gold": "NOINFO"
+},
+{
+"qid": "1319",
+"cond": "6",
+"job": "5949ad3b0f776a26",
+"gold": "SUPPORT"
+},
+{
+"qid": "132",
+"cond": "6",
+"job": "9ec1e25c367bbf64",
+"gold": "NOINFO"
+},
+{
+"qid": "1320",
+"cond": "6",
+"job": "4c68e0a9ffea4336",
+"gold": "CONTRADICT"
+},
+{
+"qid": "133",
+"cond": "6",
+"job": "28f777e32fc32c40",
+"gold": "SUPPORT"
+},
+{
+"qid": "1332",
+"cond": "6",
+"job": "f45cd76cb3d90f2a",
+"gold": "NOINFO"
+},
+{
+"qid": "1335",
+"cond": "6",
+"job": "6992e72496467199",
+"gold": "SUPPORT"
+},
+{
+"qid": "1336",
+"cond": "6",
+"job": "4cffe7f2e6acb748",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1337",
+"cond": "6",
+"job": "b71c6bf0ff6cf84c",
+"gold": "SUPPORT"
+},
+{
+"qid": "1339",
+"cond": "6",
+"job": "9273168be8829836",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1344",
+"cond": "6",
+"job": "1527cb708f5bdaa8",
+"gold": "NOINFO"
+},
+{
+"qid": "1352",
+"cond": "6",
+"job": "3502ac9155a59fb7",
+"gold": "SUPPORT"
+},
+{
+"qid": "1359",
+"cond": "6",
+"job": "ffa50f0296637aa1",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1362",
+"cond": "6",
+"job": "9ac83e41a195c36e",
+"gold": "NOINFO"
+},
+{
+"qid": "1363",
+"cond": "6",
+"job": "19a25aaec4e82083",
+"gold": "NOINFO"
+},
+{
+"qid": "1368",
+"cond": "6",
+"job": "1554500a12c7d765",
+"gold": "SUPPORT"
+},
+{
+"qid": "137",
+"cond": "6",
+"job": "6e0e6ca219174c5d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1370",
+"cond": "6",
+"job": "a5fe91d19e531515",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1379",
+"cond": "6",
+"job": "b89c64140c93e7ec",
+"gold": "SUPPORT"
+},
+{
+"qid": "1382",
+"cond": "6",
+"job": "50baeaa3c36b189e",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1385",
+"cond": "6",
+"job": "4f86f3f7a77f620c",
+"gold": "SUPPORT"
+},
+{
+"qid": "1389",
+"cond": "6",
+"job": "9fc6f55bfa4124f7",
+"gold": "SUPPORT"
+},
+{
+"qid": "1395",
+"cond": "6",
+"job": "e55674073e398ada",
+"gold": "NOINFO"
+},
+{
+"qid": "141",
+"cond": "6",
+"job": "b9f8fafa63628bea",
+"gold": "SUPPORT"
+},
+{
+"qid": "142",
+"cond": "6",
+"job": "f0e4925fe09f9d7b",
+"gold": "CONTRADICT"
+},
+{
+"qid": "143",
+"cond": "6",
+"job": "05c0b31b7f745f12",
+"gold": "SUPPORT"
+},
+{
+"qid": "146",
+"cond": "6",
+"job": "4cf0fd55ee9e2ea2",
+"gold": "SUPPORT"
+},
+{
+"qid": "148",
+"cond": "6",
+"job": "f019ca7af96c2f3b",
+"gold": "SUPPORT"
+},
+{
+"qid": "163",
+"cond": "6",
+"job": "b5e6a2959028b4f0",
+"gold": "SUPPORT"
+},
+{
+"qid": "171",
+"cond": "6",
+"job": "5059e2e7a359bbc9",
+"gold": "CONTRADICT"
+},
+{
+"qid": "179",
+"cond": "6",
+"job": "7f707d2fbc65d707",
+"gold": "SUPPORT"
+},
+{
+"qid": "180",
+"cond": "6",
+"job": "40a74cda79dd08fc",
+"gold": "CONTRADICT"
+},
+{
+"qid": "183",
+"cond": "6",
+"job": "b90ec12b77974328",
+"gold": "CONTRADICT"
+},
+{
+"qid": "185",
+"cond": "6",
+"job": "6a33dbed642fc274",
+"gold": "CONTRADICT"
+},
+{
+"qid": "198",
+"cond": "6",
+"job": "f68bee5c0754e5e6",
+"gold": "NOINFO"
+},
+{
+"qid": "208",
+"cond": "6",
+"job": "e31983ca7c132dd9",
+"gold": "SUPPORT"
+},
+{
+"qid": "212",
+"cond": "6",
+"job": "8e471a7127287d08",
+"gold": "CONTRADICT"
+},
+{
+"qid": "213",
+"cond": "6",
+"job": "faec2d3fd8f4588a",
+"gold": "NOINFO"
+},
+{
+"qid": "216",
+"cond": "6",
+"job": "7a02d810215c6760",
+"gold": "CONTRADICT"
+},
+{
+"qid": "217",
+"cond": "6",
+"job": "053ae84822deda48",
+"gold": "SUPPORT"
+},
+{
+"qid": "218",
+"cond": "6",
+"job": "e92861ce91729e65",
+"gold": "SUPPORT"
+},
+{
+"qid": "219",
+"cond": "6",
+"job": "9198194ca37d4075",
+"gold": "CONTRADICT"
+},
+{
+"qid": "230",
+"cond": "6",
+"job": "1dc85766739d1342",
+"gold": "SUPPORT"
+},
+{
+"qid": "232",
+"cond": "6",
+"job": "65fc0e78b2fd76e2",
+"gold": "NOINFO"
+},
+{
+"qid": "233",
+"cond": "6",
+"job": "53a51552188d13f6",
+"gold": "CONTRADICT"
+},
+{
+"qid": "236",
+"cond": "6",
+"job": "1bd93b0005307d5a",
+"gold": "SUPPORT"
+},
+{
+"qid": "237",
+"cond": "6",
+"job": "21f5dc1d7851ec1c",
+"gold": "NOINFO"
+},
+{
+"qid": "238",
+"cond": "6",
+"job": "2b62114d7fdae972",
+"gold": "NOINFO"
+},
+{
+"qid": "239",
+"cond": "6",
+"job": "365ab41a0ce27ec4",
+"gold": "SUPPORT"
+},
+{
+"qid": "248",
+"cond": "6",
+"job": "d6fb66b00c6cc278",
+"gold": "SUPPORT"
+},
+{
+"qid": "249",
+"cond": "6",
+"job": "0b8bd1dd6b99bf9b",
+"gold": "CONTRADICT"
+},
+{
+"qid": "261",
+"cond": "6",
+"job": "b72788b68eca0645",
+"gold": "SUPPORT"
+},
+{
+"qid": "268",
+"cond": "6",
+"job": "5f9049f97c07ef04",
+"gold": "NOINFO"
+},
+{
+"qid": "269",
+"cond": "6",
+"job": "163ba36afe49ba00",
+"gold": "NOINFO"
+},
+{
+"qid": "274",
+"cond": "6",
+"job": "1b9de4737bb6c00a",
+"gold": "CONTRADICT"
+},
+{
+"qid": "275",
+"cond": "6",
+"job": "bb7d9d7c19bcd74e",
+"gold": "SUPPORT"
+},
+{
+"qid": "279",
+"cond": "6",
+"job": "dd755c54151d65e1",
+"gold": "SUPPORT"
+},
+{
+"qid": "294",
+"cond": "6",
+"job": "8b64150a72d7326d",
+"gold": "NOINFO"
+},
+{
+"qid": "295",
+"cond": "6",
+"job": "11d31c946bc57287",
+"gold": "SUPPORT"
+},
+{
+"qid": "298",
+"cond": "6",
+"job": "ac255efd223db2ef",
+"gold": "SUPPORT"
+},
+{
+"qid": "3",
+"cond": "6",
+"job": "79cd727cc22134fe",
+"gold": "SUPPORT"
+},
+{
+"qid": "300",
+"cond": "6",
+"job": "0bcae29b2634e97f",
+"gold": "NOINFO"
+},
+{
+"qid": "303",
+"cond": "6",
+"job": "cce0f8a21998126e",
+"gold": "NOINFO"
+},
+{
+"qid": "312",
+"cond": "6",
+"job": "76e89ebc11a254ed",
+"gold": "NOINFO"
+},
+{
+"qid": "314",
+"cond": "6",
+"job": "7ac3e4d6a03864a6",
+"gold": "SUPPORT"
+},
+{
+"qid": "324",
+"cond": "6",
+"job": "482e68f83ccae7ba",
+"gold": "NOINFO"
+},
+{
+"qid": "327",
+"cond": "6",
+"job": "f63e0c3f675a45e7",
+"gold": "SUPPORT"
+},
+{
+"qid": "338",
+"cond": "6",
+"job": "16962ae8973c88c8",
+"gold": "CONTRADICT"
+},
+{
+"qid": "343",
+"cond": "6",
+"job": "e8beccf319c2f18f",
+"gold": "SUPPORT"
+},
+{
+"qid": "350",
+"cond": "6",
+"job": "d61480053ac38f6e",
+"gold": "NOINFO"
+},
+{
+"qid": "354",
+"cond": "6",
+"job": "73f17d1810a359be",
+"gold": "NOINFO"
+},
+{
+"qid": "36",
+"cond": "6",
+"job": "2707cbb71a4fe9da",
+"gold": "NOINFO"
+},
+{
+"qid": "362",
+"cond": "6",
+"job": "a6c26011f80d494c",
+"gold": "NOINFO"
+},
+{
+"qid": "380",
+"cond": "6",
+"job": "30fa6644a509be29",
+"gold": "SUPPORT"
+},
+{
+"qid": "384",
+"cond": "6",
+"job": "73a9b474062162be",
+"gold": "NOINFO"
+},
+{
+"qid": "385",
+"cond": "6",
+"job": "068421d96e941f91",
+"gold": "SUPPORT"
+},
+{
+"qid": "386",
+"cond": "6",
+"job": "ddb1f3556010d764",
+"gold": "SUPPORT"
+},
+{
+"qid": "388",
+"cond": "6",
+"job": "9a7151c3b0fb33ae",
+"gold": "NOINFO"
+},
+{
+"qid": "399",
+"cond": "6",
+"job": "7ce8f2fae55cfa0a",
+"gold": "SUPPORT"
+},
+{
+"qid": "410",
+"cond": "6",
+"job": "d7778f746c77ab7c",
+"gold": "NOINFO"
+},
+{
+"qid": "411",
+"cond": "6",
+"job": "449bd20ff75fa078",
+"gold": "NOINFO"
+},
+{
+"qid": "415",
+"cond": "6",
+"job": "173889959c5c56f5",
+"gold": "SUPPORT"
+},
+{
+"qid": "42",
+"cond": "6",
+"job": "780fb61dfdb1854e",
+"gold": "CONTRADICT"
+},
+{
+"qid": "421",
+"cond": "6",
+"job": "71f19ce19bb12bb6",
+"gold": "NOINFO"
+},
+{
+"qid": "431",
+"cond": "6",
+"job": "4c742dfb30c13db3",
+"gold": "SUPPORT"
+},
+{
+"qid": "436",
+"cond": "6",
+"job": "83b463d64110506b",
+"gold": "SUPPORT"
+},
+{
+"qid": "437",
+"cond": "6",
+"job": "d56d99b91d298ce3",
+"gold": "NOINFO"
+},
+{
+"qid": "439",
+"cond": "6",
+"job": "eea77fd6cb6d5a5e",
+"gold": "NOINFO"
+},
+{
+"qid": "440",
+"cond": "6",
+"job": "4cdcb3b8ede53fc2",
+"gold": "NOINFO"
+},
+{
+"qid": "443",
+"cond": "6",
+"job": "5f2eeed1eee1f310",
+"gold": "SUPPORT"
+},
+{
+"qid": "452",
+"cond": "6",
+"job": "6603021d53b71e9e",
+"gold": "CONTRADICT"
+},
+{
+"qid": "475",
+"cond": "6",
+"job": "03770f8f081386bd",
+"gold": "SUPPORT"
+},
+{
+"qid": "478",
+"cond": "6",
+"job": "06ce1c6c33028a4b",
+"gold": "NOINFO"
+},
+{
+"qid": "48",
+"cond": "6",
+"job": "66556521fe0c3f40",
+"gold": "CONTRADICT"
+},
+{
+"qid": "49",
+"cond": "6",
+"job": "6e2ed7e1ef06a094",
+"gold": "SUPPORT"
+},
+{
+"qid": "491",
+"cond": "6",
+"job": "5c1f1c4dbcb747ca",
+"gold": "NOINFO"
+},
+{
+"qid": "5",
+"cond": "6",
+"job": "62aa54a038e4f00d",
+"gold": "SUPPORT"
+},
+{
+"qid": "50",
+"cond": "6",
+"job": "75278aa7bc07d643",
+"gold": "SUPPORT"
+},
+{
+"qid": "501",
+"cond": "6",
+"job": "00bd07e2dd713f2a",
+"gold": "SUPPORT"
+},
+{
+"qid": "502",
+"cond": "6",
+"job": "d287d41aee565ae3",
+"gold": "NOINFO"
+},
+{
+"qid": "507",
+"cond": "6",
+"job": "b0ec118648fef25b",
+"gold": "NOINFO"
+},
+{
+"qid": "508",
+"cond": "6",
+"job": "66bde531bbc9959a",
+"gold": "NOINFO"
+},
+{
+"qid": "51",
+"cond": "6",
+"job": "ba37b98a76851677",
+"gold": "CONTRADICT"
+},
+{
+"qid": "513",
+"cond": "6",
+"job": "c5688e04aa0662b5",
+"gold": "CONTRADICT"
+},
+{
+"qid": "514",
+"cond": "6",
+"job": "425459c84b83e254",
+"gold": "NOINFO"
+},
+{
+"qid": "516",
+"cond": "6",
+"job": "460f75c0d3fb21dc",
+"gold": "CONTRADICT"
+},
+{
+"qid": "517",
+"cond": "6",
+"job": "741e79bf6478dbbd",
+"gold": "NOINFO"
+},
+{
+"qid": "521",
+"cond": "6",
+"job": "d7409933378770ba",
+"gold": "SUPPORT"
+},
+{
+"qid": "525",
+"cond": "6",
+"job": "14fc26b0684dc485",
+"gold": "SUPPORT"
+},
+{
+"qid": "527",
+"cond": "6",
+"job": "21a4782797cae60f",
+"gold": "NOINFO"
+},
+{
+"qid": "528",
+"cond": "6",
+"job": "88834b34b44535f8",
+"gold": "SUPPORT"
+},
+{
+"qid": "53",
+"cond": "6",
+"job": "876d06aac92691cf",
+"gold": "SUPPORT"
+},
+{
+"qid": "532",
+"cond": "6",
+"job": "0f6faea4a91d9cc8",
+"gold": "CONTRADICT"
+},
+{
+"qid": "533",
+"cond": "6",
+"job": "56326e94a92972f6",
+"gold": "SUPPORT"
+},
+{
+"qid": "535",
+"cond": "6",
+"job": "64e0dbd996fec21f",
+"gold": "NOINFO"
+},
+{
+"qid": "536",
+"cond": "6",
+"job": "5a610545827b3cf9",
+"gold": "SUPPORT"
+},
+{
+"qid": "539",
+"cond": "6",
+"job": "3962edf7f2b6cbe0",
+"gold": "SUPPORT"
+},
+{
+"qid": "54",
+"cond": "6",
+"job": "9ba9b4fd98eedd57",
+"gold": "CONTRADICT"
+},
+{
+"qid": "540",
+"cond": "6",
+"job": "2d2fa7f014d0e9b7",
+"gold": "SUPPORT"
+},
+{
+"qid": "544",
+"cond": "6",
+"job": "11ff77ccd27ff6e4",
+"gold": "NOINFO"
+},
+{
+"qid": "549",
+"cond": "6",
+"job": "74da3d5b64589bc0",
+"gold": "SUPPORT"
+},
+{
+"qid": "551",
+"cond": "6",
+"job": "317755ba0df52acf",
+"gold": "NOINFO"
+},
+{
+"qid": "552",
+"cond": "6",
+"job": "4ac48ed81590377e",
+"gold": "NOINFO"
+},
+{
+"qid": "554",
+"cond": "6",
+"job": "c173752f43274a8d",
+"gold": "NOINFO"
+},
+{
+"qid": "56",
+"cond": "6",
+"job": "bebcbc493db69cc3",
+"gold": "SUPPORT"
+},
+{
+"qid": "560",
+"cond": "6",
+"job": "6b9b84c9abe33720",
+"gold": "NOINFO"
+},
+{
+"qid": "569",
+"cond": "6",
+"job": "77add018c51fa41f",
+"gold": "SUPPORT"
+},
+{
+"qid": "57",
+"cond": "6",
+"job": "d2fbb8df091c5e41",
+"gold": "CONTRADICT"
+},
+{
+"qid": "575",
+"cond": "6",
+"job": "72ed00f1922a725d",
+"gold": "NOINFO"
+},
+{
+"qid": "577",
+"cond": "6",
+"job": "8749789aa12f1d3e",
+"gold": "NOINFO"
+},
+{
+"qid": "578",
+"cond": "6",
+"job": "6bb52b499f4026c5",
+"gold": "CONTRADICT"
+},
+{
+"qid": "587",
+"cond": "6",
+"job": "5ce18907f97de888",
+"gold": "NOINFO"
+},
+{
+"qid": "589",
+"cond": "6",
+"job": "f5984c91e9feff0e",
+"gold": "SUPPORT"
+},
+{
+"qid": "593",
+"cond": "6",
+"job": "99fb091df94feae4",
+"gold": "SUPPORT"
+},
+{
+"qid": "597",
+"cond": "6",
+"job": "2ff0152ca809d571",
+"gold": "SUPPORT"
+},
+{
+"qid": "598",
+"cond": "6",
+"job": "a4f3b08142f1fb8c",
+"gold": "CONTRADICT"
+},
+{
+"qid": "613",
+"cond": "6",
+"job": "35156403fe85e159",
+"gold": "SUPPORT"
+},
+{
+"qid": "619",
+"cond": "6",
+"job": "4e8f29f3341ad58f",
+"gold": "CONTRADICT"
+},
+{
+"qid": "623",
+"cond": "6",
+"job": "6fefecb3f3584570",
+"gold": "NOINFO"
+},
+{
+"qid": "628",
+"cond": "6",
+"job": "c9e4b3568acb5d3b",
+"gold": "NOINFO"
+},
+{
+"qid": "636",
+"cond": "6",
+"job": "a89dd3b1cddb864a",
+"gold": "SUPPORT"
+},
+{
+"qid": "637",
+"cond": "6",
+"job": "fce9e1411875d4ba",
+"gold": "NOINFO"
+},
+{
+"qid": "641",
+"cond": "6",
+"job": "efd307827f114511",
+"gold": "SUPPORT"
+},
+{
+"qid": "644",
+"cond": "6",
+"job": "94262c7a47d0ac97",
+"gold": "NOINFO"
+},
+{
+"qid": "649",
+"cond": "6",
+"job": "fb952537a3de24d4",
+"gold": "NOINFO"
+},
+{
+"qid": "659",
+"cond": "6",
+"job": "69877c1478e79258",
+"gold": "NOINFO"
+},
+{
+"qid": "660",
+"cond": "6",
+"job": "bbb2d385dc498090",
+"gold": "NOINFO"
+},
+{
+"qid": "674",
+"cond": "6",
+"job": "37b43d9e1200b613",
+"gold": "CONTRADICT"
+},
+{
+"qid": "684",
+"cond": "6",
+"job": "3d0e8690076c4a73",
+"gold": "NOINFO"
+},
+{
+"qid": "690",
+"cond": "6",
+"job": "cd98ba9401d8c674",
+"gold": "NOINFO"
+},
+{
+"qid": "691",
+"cond": "6",
+"job": "81244381b3daecdf",
+"gold": "NOINFO"
+},
+{
+"qid": "692",
+"cond": "6",
+"job": "450935a3e45001e9",
+"gold": "CONTRADICT"
+},
+{
+"qid": "693",
+"cond": "6",
+"job": "06a9de6d75231cab",
+"gold": "SUPPORT"
+},
+{
+"qid": "70",
+"cond": "6",
+"job": "3a53121d5494b8a9",
+"gold": "SUPPORT"
+},
+{
+"qid": "700",
+"cond": "6",
+"job": "823184c9a9bf3979",
+"gold": "NOINFO"
+},
+{
+"qid": "702",
+"cond": "6",
+"job": "c8c6d70af3182f1b",
+"gold": "NOINFO"
+},
+{
+"qid": "715",
+"cond": "6",
+"job": "acd58985f037476e",
+"gold": "NOINFO"
+},
+{
+"qid": "716",
+"cond": "6",
+"job": "1b696df86d74490b",
+"gold": "NOINFO"
+},
+{
+"qid": "718",
+"cond": "6",
+"job": "306a3fb716419b3f",
+"gold": "CONTRADICT"
+},
+{
+"qid": "72",
+"cond": "6",
+"job": "10403b4535c8691c",
+"gold": "NOINFO"
+},
+{
+"qid": "721",
+"cond": "6",
+"job": "af376f9105819bc0",
+"gold": "SUPPORT"
+},
+{
+"qid": "723",
+"cond": "6",
+"job": "afea8ac9e1cc9896",
+"gold": "SUPPORT"
+},
+{
+"qid": "727",
+"cond": "6",
+"job": "247db493b7da8ac8",
+"gold": "NOINFO"
+},
+{
+"qid": "728",
+"cond": "6",
+"job": "5df6a0c986bd33a8",
+"gold": "CONTRADICT"
+},
+{
+"qid": "729",
+"cond": "6",
+"job": "06a949466ecfeff8",
+"gold": "SUPPORT"
+},
+{
+"qid": "742",
+"cond": "6",
+"job": "62220423c80c5a53",
+"gold": "SUPPORT"
+},
+{
+"qid": "743",
+"cond": "6",
+"job": "7efbf61b40f35fec",
+"gold": "CONTRADICT"
+},
+{
+"qid": "744",
+"cond": "6",
+"job": "f76d2f99764d09c8",
+"gold": "SUPPORT"
+},
+{
+"qid": "75",
+"cond": "6",
+"job": "8e2d88879a37161c",
+"gold": "NOINFO"
+},
+{
+"qid": "756",
+"cond": "6",
+"job": "20d6b13f44115c7d",
+"gold": "SUPPORT"
+},
+{
+"qid": "759",
+"cond": "6",
+"job": "9288696e49e49e06",
+"gold": "CONTRADICT"
+},
+{
+"qid": "768",
+"cond": "6",
+"job": "267c320f61b88b99",
+"gold": "NOINFO"
+},
+{
+"qid": "770",
+"cond": "6",
+"job": "de03162e8a498678",
+"gold": "SUPPORT"
+},
+{
+"qid": "775",
+"cond": "6",
+"job": "281df57e44d08908",
+"gold": "NOINFO"
+},
+{
+"qid": "781",
+"cond": "6",
+"job": "28026eddfc17c6ba",
+"gold": "CONTRADICT"
+},
+{
+"qid": "783",
+"cond": "6",
+"job": "a55ec88e9b6499d3",
+"gold": "NOINFO"
+},
+{
+"qid": "784",
+"cond": "6",
+"job": "947a6800d7148666",
+"gold": "SUPPORT"
+},
+{
+"qid": "785",
+"cond": "6",
+"job": "37469699bbcc00a3",
+"gold": "NOINFO"
+},
+{
+"qid": "793",
+"cond": "6",
+"job": "5ef84f89c4741a02",
+"gold": "CONTRADICT"
+},
+{
+"qid": "800",
+"cond": "6",
+"job": "730de6158dca6d42",
+"gold": "NOINFO"
+},
+{
+"qid": "805",
+"cond": "6",
+"job": "fc1c82bbde1bc8db",
+"gold": "SUPPORT"
+},
+{
+"qid": "808",
+"cond": "6",
+"job": "9d2217d01f6e29b0",
+"gold": "SUPPORT"
+},
+{
+"qid": "811",
+"cond": "6",
+"job": "501ae3fd4ab02554",
+"gold": "CONTRADICT"
+},
+{
+"qid": "814",
+"cond": "6",
+"job": "9a3417df96cb4417",
+"gold": "NOINFO"
+},
+{
+"qid": "820",
+"cond": "6",
+"job": "12fae224f8291c38",
+"gold": "NOINFO"
+},
+{
+"qid": "821",
+"cond": "6",
+"job": "f8de60e9cb8942b0",
+"gold": "NOINFO"
+},
+{
+"qid": "823",
+"cond": "6",
+"job": "14be5f645f77dd2c",
+"gold": "SUPPORT"
+},
+{
+"qid": "830",
+"cond": "6",
+"job": "323a14a0b4a7a3de",
+"gold": "NOINFO"
+},
+{
+"qid": "831",
+"cond": "6",
+"job": "af855f02f05062ca",
+"gold": "NOINFO"
+},
+{
+"qid": "832",
+"cond": "6",
+"job": "f2905ec41a97b9f1",
+"gold": "SUPPORT"
+},
+{
+"qid": "834",
+"cond": "6",
+"job": "f649df684a2ed98a",
+"gold": "NOINFO"
+},
+{
+"qid": "837",
+"cond": "6",
+"job": "42b9774e6f9287ba",
+"gold": "SUPPORT"
+},
+{
+"qid": "839",
+"cond": "6",
+"job": "d0f61214452471ec",
+"gold": "SUPPORT"
+},
+{
+"qid": "845",
+"cond": "6",
+"job": "0645523b35ea269a",
+"gold": "SUPPORT"
+},
+{
+"qid": "847",
+"cond": "6",
+"job": "15ab945a5e8da7db",
+"gold": "CONTRADICT"
+},
+{
+"qid": "852",
+"cond": "6",
+"job": "eafa9dd941667a06",
+"gold": "CONTRADICT"
+},
+{
+"qid": "859",
+"cond": "6",
+"job": "3c450722db6d9d30",
+"gold": "CONTRADICT"
+},
+{
+"qid": "870",
+"cond": "6",
+"job": "e6bf6a3ceb7c7c72",
+"gold": "NOINFO"
+},
+{
+"qid": "873",
+"cond": "6",
+"job": "4d1dcd3e5f839751",
+"gold": "CONTRADICT"
+},
+{
+"qid": "879",
+"cond": "6",
+"job": "caf5b65e42945cec",
+"gold": "CONTRADICT"
+},
+{
+"qid": "880",
+"cond": "6",
+"job": "4c490a83e426622f",
+"gold": "SUPPORT"
+},
+{
+"qid": "882",
+"cond": "6",
+"job": "df88c45e6af58024",
+"gold": "CONTRADICT"
+},
+{
+"qid": "887",
+"cond": "6",
+"job": "c354ede789e21847",
+"gold": "NOINFO"
+},
+{
+"qid": "903",
+"cond": "6",
+"job": "6af8a269f6387c06",
+"gold": "CONTRADICT"
+},
+{
+"qid": "904",
+"cond": "6",
+"job": "926a3468ed7f6cb3",
+"gold": "SUPPORT"
+},
+{
+"qid": "907",
+"cond": "6",
+"job": "27d656bde14369cc",
+"gold": "NOINFO"
+},
+{
+"qid": "911",
+"cond": "6",
+"job": "7d1b7bb1683d7cb8",
+"gold": "SUPPORT"
+},
+{
+"qid": "913",
+"cond": "6",
+"job": "d78353677ff61f53",
+"gold": "NOINFO"
+},
+{
+"qid": "914",
+"cond": "6",
+"job": "1bc66da79611d852",
+"gold": "NOINFO"
+},
+{
+"qid": "921",
+"cond": "6",
+"job": "fa1e1fb6b7e9e6b3",
+"gold": "SUPPORT"
+},
+{
+"qid": "922",
+"cond": "6",
+"job": "be6022ddf7d5970f",
+"gold": "CONTRADICT"
+},
+{
+"qid": "936",
+"cond": "6",
+"job": "92b1a6207a810087",
+"gold": "SUPPORT"
+},
+{
+"qid": "94",
+"cond": "6",
+"job": "f9b8a7512f50f056",
+"gold": "NOINFO"
+},
+{
+"qid": "956",
+"cond": "6",
+"job": "99a2a9b6a1d0ff47",
+"gold": "NOINFO"
+},
+{
+"qid": "957",
+"cond": "6",
+"job": "198d741c4db7249a",
+"gold": "SUPPORT"
+},
+{
+"qid": "960",
+"cond": "6",
+"job": "03598933057c8281",
+"gold": "SUPPORT"
+},
+{
+"qid": "967",
+"cond": "6",
+"job": "7317d90f3ac45812",
+"gold": "SUPPORT"
+},
+{
+"qid": "971",
+"cond": "6",
+"job": "5bca4ebce8d96613",
+"gold": "SUPPORT"
+},
+{
+"qid": "975",
+"cond": "6",
+"job": "203965778d15af9b",
+"gold": "NOINFO"
+},
+{
+"qid": "982",
+"cond": "6",
+"job": "4d3f5ca008c961e1",
+"gold": "SUPPORT"
+},
+{
+"qid": "985",
+"cond": "6",
+"job": "c672149095976f34",
+"gold": "SUPPORT"
+},
+{
+"qid": "99",
+"cond": "6",
+"job": "396b3808cda476db",
+"gold": "NOINFO"
+},
+{
+"qid": "993",
+"cond": "6",
+"job": "42f161de0bae9a48",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1",
+"cond": "4",
+"job": "01e3235f32a9f362",
+"gold": "NOINFO"
+},
+{
+"qid": "100",
+"cond": "4",
+"job": "74c9ba0504ca3122",
+"gold": "SUPPORT"
+},
+{
+"qid": "1012",
+"cond": "4",
+"job": "70271bacaf0dfd6d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1014",
+"cond": "4",
+"job": "39397408c5ec0aa2",
+"gold": "NOINFO"
+},
+{
+"qid": "1019",
+"cond": "4",
+"job": "0404ccc0d4523e92",
+"gold": "SUPPORT"
+},
+{
+"qid": "1020",
+"cond": "4",
+"job": "3e0a7f80e84a7a11",
+"gold": "SUPPORT"
+},
+{
+"qid": "1021",
+"cond": "4",
+"job": "a8a1d1c0468ee2e3",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1024",
+"cond": "4",
+"job": "1e8443c334bb651e",
+"gold": "SUPPORT"
+},
+{
+"qid": "1029",
+"cond": "4",
+"job": "37920185125cb939",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1041",
+"cond": "4",
+"job": "df84bfe8a7a9fe0a",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1049",
+"cond": "4",
+"job": "b929669fcdc7cb59",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1062",
+"cond": "4",
+"job": "2ace7ff8721957c8",
+"gold": "SUPPORT"
+},
+{
+"qid": "1086",
+"cond": "4",
+"job": "65cb6ebaf7c61476",
+"gold": "SUPPORT"
+},
+{
+"qid": "1088",
+"cond": "4",
+"job": "fae872ee86ecaf89",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1089",
+"cond": "4",
+"job": "c731fdb25d9bbb40",
+"gold": "SUPPORT"
+},
+{
+"qid": "1099",
+"cond": "4",
+"job": "3ec8694b2c758884",
+"gold": "NOINFO"
+},
+{
+"qid": "1100",
+"cond": "4",
+"job": "999742887d240b94",
+"gold": "NOINFO"
+},
+{
+"qid": "1104",
+"cond": "4",
+"job": "a86fca7652af0e9e",
+"gold": "SUPPORT"
+},
+{
+"qid": "1107",
+"cond": "4",
+"job": "1e58219db96d3463",
+"gold": "SUPPORT"
+},
+{
+"qid": "1110",
+"cond": "4",
+"job": "6201a3b085faf5d6",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1121",
+"cond": "4",
+"job": "02913df02145f8fa",
+"gold": "SUPPORT"
+},
+{
+"qid": "113",
+"cond": "4",
+"job": "b9caaea3b2ff2d72",
+"gold": "SUPPORT"
+},
+{
+"qid": "1130",
+"cond": "4",
+"job": "7bf9fde810ec5840",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1132",
+"cond": "4",
+"job": "48b919e3138a2583",
+"gold": "SUPPORT"
+},
+{
+"qid": "1137",
+"cond": "4",
+"job": "cd5b732c055d4209",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1140",
+"cond": "4",
+"job": "5e3a7f13c0475f36",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1144",
+"cond": "4",
+"job": "2ba23d1658cc23d4",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1146",
+"cond": "4",
+"job": "90a8a9e2e6f1ce21",
+"gold": "SUPPORT"
+},
+{
+"qid": "115",
+"cond": "4",
+"job": "1c00b1c0ea54c3a5",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1150",
+"cond": "4",
+"job": "73953970c7657766",
+"gold": "SUPPORT"
+},
+{
+"qid": "1163",
+"cond": "4",
+"job": "3bfe6ac300e377ec",
+"gold": "SUPPORT"
+},
+{
+"qid": "1175",
+"cond": "4",
+"job": "fb5c3573953bcd51",
+"gold": "NOINFO"
+},
+{
+"qid": "1179",
+"cond": "4",
+"job": "131fcd54d2e19494",
+"gold": "NOINFO"
+},
+{
+"qid": "118",
+"cond": "4",
+"job": "cffd0af0c10e7ae3",
+"gold": "SUPPORT"
+},
+{
+"qid": "1180",
+"cond": "4",
+"job": "791b63716606214d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1185",
+"cond": "4",
+"job": "633e06495ba0ee01",
+"gold": "SUPPORT"
+},
+{
+"qid": "1187",
+"cond": "4",
+"job": "4408f2027d43dc0d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1191",
+"cond": "4",
+"job": "ee85a94e45067285",
+"gold": "NOINFO"
+},
+{
+"qid": "1194",
+"cond": "4",
+"job": "d7de98c48bc9daf3",
+"gold": "NOINFO"
+},
+{
+"qid": "1196",
+"cond": "4",
+"job": "d09e0657756fd4d7",
+"gold": "NOINFO"
+},
+{
+"qid": "1197",
+"cond": "4",
+"job": "bc1dcb7850ddfb07",
+"gold": "NOINFO"
+},
+{
+"qid": "1199",
+"cond": "4",
+"job": "7e83aba21ef9cca5",
+"gold": "NOINFO"
+},
+{
+"qid": "1200",
+"cond": "4",
+"job": "97684fa4711a1937",
+"gold": "NOINFO"
+},
+{
+"qid": "1202",
+"cond": "4",
+"job": "f2708088e47f2b89",
+"gold": "SUPPORT"
+},
+{
+"qid": "1204",
+"cond": "4",
+"job": "1cc43fa52f72140e",
+"gold": "NOINFO"
+},
+{
+"qid": "1207",
+"cond": "4",
+"job": "40384e0092da1c23",
+"gold": "NOINFO"
+},
+{
+"qid": "1213",
+"cond": "4",
+"job": "35192b85f813602a",
+"gold": "NOINFO"
+},
+{
+"qid": "1216",
+"cond": "4",
+"job": "d7a40822a7da7e3b",
+"gold": "SUPPORT"
+},
+{
+"qid": "1221",
+"cond": "4",
+"job": "2e0718c9aadc4173",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1225",
+"cond": "4",
+"job": "e9ffbb23d941723c",
+"gold": "SUPPORT"
+},
+{
+"qid": "1226",
+"cond": "4",
+"job": "3e456dd2115ba89b",
+"gold": "NOINFO"
+},
+{
+"qid": "1232",
+"cond": "4",
+"job": "51bdae00b87a2476",
+"gold": "CONTRADICT"
+},
+{
+"qid": "124",
+"cond": "4",
+"job": "a425ed7f5ba9b5c1",
+"gold": "SUPPORT"
+},
+{
+"qid": "1241",
+"cond": "4",
+"job": "72c7740edf19c8f2",
+"gold": "SUPPORT"
+},
+{
+"qid": "1245",
+"cond": "4",
+"job": "04ce7847963e247f",
+"gold": "NOINFO"
+},
+{
+"qid": "1259",
+"cond": "4",
+"job": "6e14504c29cb883d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1262",
+"cond": "4",
+"job": "435fcd60cbd85840",
+"gold": "SUPPORT"
+},
+{
+"qid": "1266",
+"cond": "4",
+"job": "e359d88390ab69d8",
+"gold": "SUPPORT"
+},
+{
+"qid": "127",
+"cond": "4",
+"job": "a97c8ce1b57939e4",
+"gold": "NOINFO"
+},
+{
+"qid": "1270",
+"cond": "4",
+"job": "a6fbf1fd11eff69a",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1271",
+"cond": "4",
+"job": "8a51b50b0416d5c0",
+"gold": "SUPPORT"
+},
+{
+"qid": "1272",
+"cond": "4",
+"job": "8aa483a43acb968c",
+"gold": "NOINFO"
+},
+{
+"qid": "1273",
+"cond": "4",
+"job": "b80ce9963278008a",
+"gold": "SUPPORT"
+},
+{
+"qid": "1274",
+"cond": "4",
+"job": "a77e9a10e2911063",
+"gold": "SUPPORT"
+},
+{
+"qid": "1278",
+"cond": "4",
+"job": "fd746646506b2808",
+"gold": "NOINFO"
+},
+{
+"qid": "1279",
+"cond": "4",
+"job": "bb6c1be9169b7813",
+"gold": "NOINFO"
+},
+{
+"qid": "128",
+"cond": "4",
+"job": "c4d9168a95c233d3",
+"gold": "NOINFO"
+},
+{
+"qid": "1280",
+"cond": "4",
+"job": "7efccc26c7150c12",
+"gold": "NOINFO"
+},
+{
+"qid": "1281",
+"cond": "4",
+"job": "4c3aa1be9453d74a",
+"gold": "NOINFO"
+},
+{
+"qid": "1282",
+"cond": "4",
+"job": "9c1f49620ea5764b",
+"gold": "NOINFO"
+},
+{
+"qid": "129",
+"cond": "4",
+"job": "b53ff076b0327174",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1290",
+"cond": "4",
+"job": "02a3dc2745ee568c",
+"gold": "SUPPORT"
+},
+{
+"qid": "1292",
+"cond": "4",
+"job": "05163b646ca3a18a",
+"gold": "NOINFO"
+},
+{
+"qid": "1298",
+"cond": "4",
+"job": "665fc0d45a36b8cc",
+"gold": "SUPPORT"
+},
+{
+"qid": "13",
+"cond": "4",
+"job": "a2db5d225f3a0bb3",
+"gold": "NOINFO"
+},
+{
+"qid": "130",
+"cond": "4",
+"job": "5c0eeae384847a70",
+"gold": "SUPPORT"
+},
+{
+"qid": "1303",
+"cond": "4",
+"job": "5c7fe131162e1511",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1316",
+"cond": "4",
+"job": "edce1c34cd1a3db7",
+"gold": "NOINFO"
+},
+{
+"qid": "1319",
+"cond": "4",
+"job": "5949ad3b0f776a26",
+"gold": "SUPPORT"
+},
+{
+"qid": "132",
+"cond": "4",
+"job": "9ec1e25c367bbf64",
+"gold": "NOINFO"
+},
+{
+"qid": "1320",
+"cond": "4",
+"job": "4c68e0a9ffea4336",
+"gold": "CONTRADICT"
+},
+{
+"qid": "133",
+"cond": "4",
+"job": "28f777e32fc32c40",
+"gold": "SUPPORT"
+},
+{
+"qid": "1332",
+"cond": "4",
+"job": "f45cd76cb3d90f2a",
+"gold": "NOINFO"
+},
+{
+"qid": "1335",
+"cond": "4",
+"job": "6992e72496467199",
+"gold": "SUPPORT"
+},
+{
+"qid": "1336",
+"cond": "4",
+"job": "4cffe7f2e6acb748",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1337",
+"cond": "4",
+"job": "b71c6bf0ff6cf84c",
+"gold": "SUPPORT"
+},
+{
+"qid": "1339",
+"cond": "4",
+"job": "9273168be8829836",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1344",
+"cond": "4",
+"job": "1527cb708f5bdaa8",
+"gold": "NOINFO"
+},
+{
+"qid": "1352",
+"cond": "4",
+"job": "3502ac9155a59fb7",
+"gold": "SUPPORT"
+},
+{
+"qid": "1359",
+"cond": "4",
+"job": "ffa50f0296637aa1",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1362",
+"cond": "4",
+"job": "9ac83e41a195c36e",
+"gold": "NOINFO"
+},
+{
+"qid": "1363",
+"cond": "4",
+"job": "19a25aaec4e82083",
+"gold": "NOINFO"
+},
+{
+"qid": "1368",
+"cond": "4",
+"job": "1554500a12c7d765",
+"gold": "SUPPORT"
+},
+{
+"qid": "137",
+"cond": "4",
+"job": "6e0e6ca219174c5d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1370",
+"cond": "4",
+"job": "a5fe91d19e531515",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1379",
+"cond": "4",
+"job": "b89c64140c93e7ec",
+"gold": "SUPPORT"
+},
+{
+"qid": "1382",
+"cond": "4",
+"job": "50baeaa3c36b189e",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1385",
+"cond": "4",
+"job": "4f86f3f7a77f620c",
+"gold": "SUPPORT"
+},
+{
+"qid": "1389",
+"cond": "4",
+"job": "9fc6f55bfa4124f7",
+"gold": "SUPPORT"
+},
+{
+"qid": "1395",
+"cond": "4",
+"job": "e55674073e398ada",
+"gold": "NOINFO"
+},
+{
+"qid": "141",
+"cond": "4",
+"job": "b9f8fafa63628bea",
+"gold": "SUPPORT"
+},
+{
+"qid": "142",
+"cond": "4",
+"job": "f0e4925fe09f9d7b",
+"gold": "CONTRADICT"
+},
+{
+"qid": "143",
+"cond": "4",
+"job": "05c0b31b7f745f12",
+"gold": "SUPPORT"
+},
+{
+"qid": "146",
+"cond": "4",
+"job": "4cf0fd55ee9e2ea2",
+"gold": "SUPPORT"
+},
+{
+"qid": "148",
+"cond": "4",
+"job": "f019ca7af96c2f3b",
+"gold": "SUPPORT"
+},
+{
+"qid": "163",
+"cond": "4",
+"job": "b5e6a2959028b4f0",
+"gold": "SUPPORT"
+},
+{
+"qid": "171",
+"cond": "4",
+"job": "5059e2e7a359bbc9",
+"gold": "CONTRADICT"
+},
+{
+"qid": "179",
+"cond": "4",
+"job": "7f707d2fbc65d707",
+"gold": "SUPPORT"
+},
+{
+"qid": "180",
+"cond": "4",
+"job": "40a74cda79dd08fc",
+"gold": "CONTRADICT"
+},
+{
+"qid": "183",
+"cond": "4",
+"job": "b90ec12b77974328",
+"gold": "CONTRADICT"
+},
+{
+"qid": "185",
+"cond": "4",
+"job": "6a33dbed642fc274",
+"gold": "CONTRADICT"
+},
+{
+"qid": "198",
+"cond": "4",
+"job": "f68bee5c0754e5e6",
+"gold": "NOINFO"
+},
+{
+"qid": "208",
+"cond": "4",
+"job": "e31983ca7c132dd9",
+"gold": "SUPPORT"
+},
+{
+"qid": "212",
+"cond": "4",
+"job": "8e471a7127287d08",
+"gold": "CONTRADICT"
+},
+{
+"qid": "213",
+"cond": "4",
+"job": "faec2d3fd8f4588a",
+"gold": "NOINFO"
+},
+{
+"qid": "216",
+"cond": "4",
+"job": "7a02d810215c6760",
+"gold": "CONTRADICT"
+},
+{
+"qid": "217",
+"cond": "4",
+"job": "053ae84822deda48",
+"gold": "SUPPORT"
+},
+{
+"qid": "218",
+"cond": "4",
+"job": "e92861ce91729e65",
+"gold": "SUPPORT"
+},
+{
+"qid": "219",
+"cond": "4",
+"job": "9198194ca37d4075",
+"gold": "CONTRADICT"
+},
+{
+"qid": "230",
+"cond": "4",
+"job": "1dc85766739d1342",
+"gold": "SUPPORT"
+},
+{
+"qid": "232",
+"cond": "4",
+"job": "65fc0e78b2fd76e2",
+"gold": "NOINFO"
+},
+{
+"qid": "233",
+"cond": "4",
+"job": "53a51552188d13f6",
+"gold": "CONTRADICT"
+},
+{
+"qid": "236",
+"cond": "4",
+"job": "1bd93b0005307d5a",
+"gold": "SUPPORT"
+},
+{
+"qid": "237",
+"cond": "4",
+"job": "21f5dc1d7851ec1c",
+"gold": "NOINFO"
+},
+{
+"qid": "238",
+"cond": "4",
+"job": "2b62114d7fdae972",
+"gold": "NOINFO"
+},
+{
+"qid": "239",
+"cond": "4",
+"job": "365ab41a0ce27ec4",
+"gold": "SUPPORT"
+},
+{
+"qid": "248",
+"cond": "4",
+"job": "d6fb66b00c6cc278",
+"gold": "SUPPORT"
+},
+{
+"qid": "249",
+"cond": "4",
+"job": "0b8bd1dd6b99bf9b",
+"gold": "CONTRADICT"
+},
+{
+"qid": "261",
+"cond": "4",
+"job": "b72788b68eca0645",
+"gold": "SUPPORT"
+},
+{
+"qid": "268",
+"cond": "4",
+"job": "5f9049f97c07ef04",
+"gold": "NOINFO"
+},
+{
+"qid": "269",
+"cond": "4",
+"job": "163ba36afe49ba00",
+"gold": "NOINFO"
+},
+{
+"qid": "274",
+"cond": "4",
+"job": "7e74b900b499e5b8",
+"gold": "CONTRADICT"
+},
+{
+"qid": "275",
+"cond": "4",
+"job": "bb7d9d7c19bcd74e",
+"gold": "SUPPORT"
+},
+{
+"qid": "279",
+"cond": "4",
+"job": "dd755c54151d65e1",
+"gold": "SUPPORT"
+},
+{
+"qid": "294",
+"cond": "4",
+"job": "8b64150a72d7326d",
+"gold": "NOINFO"
+},
+{
+"qid": "295",
+"cond": "4",
+"job": "11d31c946bc57287",
+"gold": "SUPPORT"
+},
+{
+"qid": "298",
+"cond": "4",
+"job": "ac255efd223db2ef",
+"gold": "SUPPORT"
+},
+{
+"qid": "3",
+"cond": "4",
+"job": "79cd727cc22134fe",
+"gold": "SUPPORT"
+},
+{
+"qid": "300",
+"cond": "4",
+"job": "0bcae29b2634e97f",
+"gold": "NOINFO"
+},
+{
+"qid": "303",
+"cond": "4",
+"job": "cce0f8a21998126e",
+"gold": "NOINFO"
+},
+{
+"qid": "312",
+"cond": "4",
+"job": "76e89ebc11a254ed",
+"gold": "NOINFO"
+},
+{
+"qid": "314",
+"cond": "4",
+"job": "7ac3e4d6a03864a6",
+"gold": "SUPPORT"
+},
+{
+"qid": "324",
+"cond": "4",
+"job": "482e68f83ccae7ba",
+"gold": "NOINFO"
+},
+{
+"qid": "327",
+"cond": "4",
+"job": "f63e0c3f675a45e7",
+"gold": "SUPPORT"
+},
+{
+"qid": "338",
+"cond": "4",
+"job": "16962ae8973c88c8",
+"gold": "CONTRADICT"
+},
+{
+"qid": "343",
+"cond": "4",
+"job": "220a1e6a102d8374",
+"gold": "SUPPORT"
+},
+{
+"qid": "350",
+"cond": "4",
+"job": "d61480053ac38f6e",
+"gold": "NOINFO"
+},
+{
+"qid": "354",
+"cond": "4",
+"job": "73f17d1810a359be",
+"gold": "NOINFO"
+},
+{
+"qid": "36",
+"cond": "4",
+"job": "2707cbb71a4fe9da",
+"gold": "NOINFO"
+},
+{
+"qid": "362",
+"cond": "4",
+"job": "a6c26011f80d494c",
+"gold": "NOINFO"
+},
+{
+"qid": "380",
+"cond": "4",
+"job": "30fa6644a509be29",
+"gold": "SUPPORT"
+},
+{
+"qid": "384",
+"cond": "4",
+"job": "73a9b474062162be",
+"gold": "NOINFO"
+},
+{
+"qid": "385",
+"cond": "4",
+"job": "068421d96e941f91",
+"gold": "SUPPORT"
+},
+{
+"qid": "386",
+"cond": "4",
+"job": "ddb1f3556010d764",
+"gold": "SUPPORT"
+},
+{
+"qid": "388",
+"cond": "4",
+"job": "9a7151c3b0fb33ae",
+"gold": "NOINFO"
+},
+{
+"qid": "399",
+"cond": "4",
+"job": "7ce8f2fae55cfa0a",
+"gold": "SUPPORT"
+},
+{
+"qid": "410",
+"cond": "4",
+"job": "d7778f746c77ab7c",
+"gold": "NOINFO"
+},
+{
+"qid": "411",
+"cond": "4",
+"job": "449bd20ff75fa078",
+"gold": "NOINFO"
+},
+{
+"qid": "415",
+"cond": "4",
+"job": "173889959c5c56f5",
+"gold": "SUPPORT"
+},
+{
+"qid": "42",
+"cond": "4",
+"job": "780fb61dfdb1854e",
+"gold": "CONTRADICT"
+},
+{
+"qid": "421",
+"cond": "4",
+"job": "71f19ce19bb12bb6",
+"gold": "NOINFO"
+},
+{
+"qid": "431",
+"cond": "4",
+"job": "4c742dfb30c13db3",
+"gold": "SUPPORT"
+},
+{
+"qid": "436",
+"cond": "4",
+"job": "83b463d64110506b",
+"gold": "SUPPORT"
+},
+{
+"qid": "437",
+"cond": "4",
+"job": "d56d99b91d298ce3",
+"gold": "NOINFO"
+},
+{
+"qid": "439",
+"cond": "4",
+"job": "eea77fd6cb6d5a5e",
+"gold": "NOINFO"
+},
+{
+"qid": "440",
+"cond": "4",
+"job": "4cdcb3b8ede53fc2",
+"gold": "NOINFO"
+},
+{
+"qid": "443",
+"cond": "4",
+"job": "5f2eeed1eee1f310",
+"gold": "SUPPORT"
+},
+{
+"qid": "452",
+"cond": "4",
+"job": "6603021d53b71e9e",
+"gold": "CONTRADICT"
+},
+{
+"qid": "475",
+"cond": "4",
+"job": "03770f8f081386bd",
+"gold": "SUPPORT"
+},
+{
+"qid": "478",
+"cond": "4",
+"job": "06ce1c6c33028a4b",
+"gold": "NOINFO"
+},
+{
+"qid": "48",
+"cond": "4",
+"job": "6019e3c0737affe3",
+"gold": "CONTRADICT"
+},
+{
+"qid": "49",
+"cond": "4",
+"job": "6e2ed7e1ef06a094",
+"gold": "SUPPORT"
+},
+{
+"qid": "491",
+"cond": "4",
+"job": "5c1f1c4dbcb747ca",
+"gold": "NOINFO"
+},
+{
+"qid": "5",
+"cond": "4",
+"job": "62aa54a038e4f00d",
+"gold": "SUPPORT"
+},
+{
+"qid": "50",
+"cond": "4",
+"job": "75278aa7bc07d643",
+"gold": "SUPPORT"
+},
+{
+"qid": "501",
+"cond": "4",
+"job": "ff347cf399b5fdfb",
+"gold": "SUPPORT"
+},
+{
+"qid": "502",
+"cond": "4",
+"job": "d287d41aee565ae3",
+"gold": "NOINFO"
+},
+{
+"qid": "507",
+"cond": "4",
+"job": "b0ec118648fef25b",
+"gold": "NOINFO"
+},
+{
+"qid": "508",
+"cond": "4",
+"job": "66bde531bbc9959a",
+"gold": "NOINFO"
+},
+{
+"qid": "51",
+"cond": "4",
+"job": "ba37b98a76851677",
+"gold": "CONTRADICT"
+},
+{
+"qid": "513",
+"cond": "4",
+"job": "a91c84dc72181309",
+"gold": "CONTRADICT"
+},
+{
+"qid": "514",
+"cond": "4",
+"job": "425459c84b83e254",
+"gold": "NOINFO"
+},
+{
+"qid": "516",
+"cond": "4",
+"job": "460f75c0d3fb21dc",
+"gold": "CONTRADICT"
+},
+{
+"qid": "517",
+"cond": "4",
+"job": "741e79bf6478dbbd",
+"gold": "NOINFO"
+},
+{
+"qid": "521",
+"cond": "4",
+"job": "d7409933378770ba",
+"gold": "SUPPORT"
+},
+{
+"qid": "525",
+"cond": "4",
+"job": "14fc26b0684dc485",
+"gold": "SUPPORT"
+},
+{
+"qid": "527",
+"cond": "4",
+"job": "21a4782797cae60f",
+"gold": "NOINFO"
+},
+{
+"qid": "528",
+"cond": "4",
+"job": "88834b34b44535f8",
+"gold": "SUPPORT"
+},
+{
+"qid": "53",
+"cond": "4",
+"job": "876d06aac92691cf",
+"gold": "SUPPORT"
+},
+{
+"qid": "532",
+"cond": "4",
+"job": "0f6faea4a91d9cc8",
+"gold": "CONTRADICT"
+},
+{
+"qid": "533",
+"cond": "4",
+"job": "56326e94a92972f6",
+"gold": "SUPPORT"
+},
+{
+"qid": "535",
+"cond": "4",
+"job": "64e0dbd996fec21f",
+"gold": "NOINFO"
+},
+{
+"qid": "536",
+"cond": "4",
+"job": "5a610545827b3cf9",
+"gold": "SUPPORT"
+},
+{
+"qid": "539",
+"cond": "4",
+"job": "3962edf7f2b6cbe0",
+"gold": "SUPPORT"
+},
+{
+"qid": "54",
+"cond": "4",
+"job": "9ba9b4fd98eedd57",
+"gold": "CONTRADICT"
+},
+{
+"qid": "540",
+"cond": "4",
+"job": "2d2fa7f014d0e9b7",
+"gold": "SUPPORT"
+},
+{
+"qid": "544",
+"cond": "4",
+"job": "11ff77ccd27ff6e4",
+"gold": "NOINFO"
+},
+{
+"qid": "549",
+"cond": "4",
+"job": "74da3d5b64589bc0",
+"gold": "SUPPORT"
+},
+{
+"qid": "551",
+"cond": "4",
+"job": "317755ba0df52acf",
+"gold": "NOINFO"
+},
+{
+"qid": "552",
+"cond": "4",
+"job": "4ac48ed81590377e",
+"gold": "NOINFO"
+},
+{
+"qid": "554",
+"cond": "4",
+"job": "c173752f43274a8d",
+"gold": "NOINFO"
+},
+{
+"qid": "56",
+"cond": "4",
+"job": "bebcbc493db69cc3",
+"gold": "SUPPORT"
+},
+{
+"qid": "560",
+"cond": "4",
+"job": "6b9b84c9abe33720",
+"gold": "NOINFO"
+},
+{
+"qid": "569",
+"cond": "4",
+"job": "77add018c51fa41f",
+"gold": "SUPPORT"
+},
+{
+"qid": "57",
+"cond": "4",
+"job": "d2fbb8df091c5e41",
+"gold": "CONTRADICT"
+},
+{
+"qid": "575",
+"cond": "4",
+"job": "72ed00f1922a725d",
+"gold": "NOINFO"
+},
+{
+"qid": "577",
+"cond": "4",
+"job": "8749789aa12f1d3e",
+"gold": "NOINFO"
+},
+{
+"qid": "578",
+"cond": "4",
+"job": "6bb52b499f4026c5",
+"gold": "CONTRADICT"
+},
+{
+"qid": "587",
+"cond": "4",
+"job": "5ce18907f97de888",
+"gold": "NOINFO"
+},
+{
+"qid": "589",
+"cond": "4",
+"job": "f5984c91e9feff0e",
+"gold": "SUPPORT"
+},
+{
+"qid": "593",
+"cond": "4",
+"job": "99fb091df94feae4",
+"gold": "SUPPORT"
+},
+{
+"qid": "597",
+"cond": "4",
+"job": "2ff0152ca809d571",
+"gold": "SUPPORT"
+},
+{
+"qid": "598",
+"cond": "4",
+"job": "a4f3b08142f1fb8c",
+"gold": "CONTRADICT"
+},
+{
+"qid": "613",
+"cond": "4",
+"job": "35156403fe85e159",
+"gold": "SUPPORT"
+},
+{
+"qid": "619",
+"cond": "4",
+"job": "4e8f29f3341ad58f",
+"gold": "CONTRADICT"
+},
+{
+"qid": "623",
+"cond": "4",
+"job": "6fefecb3f3584570",
+"gold": "NOINFO"
+},
+{
+"qid": "628",
+"cond": "4",
+"job": "c9e4b3568acb5d3b",
+"gold": "NOINFO"
+},
+{
+"qid": "636",
+"cond": "4",
+"job": "a89dd3b1cddb864a",
+"gold": "SUPPORT"
+},
+{
+"qid": "637",
+"cond": "4",
+"job": "fce9e1411875d4ba",
+"gold": "NOINFO"
+},
+{
+"qid": "641",
+"cond": "4",
+"job": "efd307827f114511",
+"gold": "SUPPORT"
+},
+{
+"qid": "644",
+"cond": "4",
+"job": "94262c7a47d0ac97",
+"gold": "NOINFO"
+},
+{
+"qid": "649",
+"cond": "4",
+"job": "fb952537a3de24d4",
+"gold": "NOINFO"
+},
+{
+"qid": "659",
+"cond": "4",
+"job": "69877c1478e79258",
+"gold": "NOINFO"
+},
+{
+"qid": "660",
+"cond": "4",
+"job": "bbb2d385dc498090",
+"gold": "NOINFO"
+},
+{
+"qid": "674",
+"cond": "4",
+"job": "7dddb408c21d70f2",
+"gold": "CONTRADICT"
+},
+{
+"qid": "684",
+"cond": "4",
+"job": "3d0e8690076c4a73",
+"gold": "NOINFO"
+},
+{
+"qid": "690",
+"cond": "4",
+"job": "cd98ba9401d8c674",
+"gold": "NOINFO"
+},
+{
+"qid": "691",
+"cond": "4",
+"job": "81244381b3daecdf",
+"gold": "NOINFO"
+},
+{
+"qid": "692",
+"cond": "4",
+"job": "450935a3e45001e9",
+"gold": "CONTRADICT"
+},
+{
+"qid": "693",
+"cond": "4",
+"job": "06a9de6d75231cab",
+"gold": "SUPPORT"
+},
+{
+"qid": "70",
+"cond": "4",
+"job": "3a53121d5494b8a9",
+"gold": "SUPPORT"
+},
+{
+"qid": "700",
+"cond": "4",
+"job": "823184c9a9bf3979",
+"gold": "NOINFO"
+},
+{
+"qid": "702",
+"cond": "4",
+"job": "c8c6d70af3182f1b",
+"gold": "NOINFO"
+},
+{
+"qid": "715",
+"cond": "4",
+"job": "ddf2a5fa73b8058e",
+"gold": "NOINFO"
+},
+{
+"qid": "716",
+"cond": "4",
+"job": "fc8828d44a068857",
+"gold": "NOINFO"
+},
+{
+"qid": "718",
+"cond": "4",
+"job": "306a3fb716419b3f",
+"gold": "CONTRADICT"
+},
+{
+"qid": "72",
+"cond": "4",
+"job": "10403b4535c8691c",
+"gold": "NOINFO"
+},
+{
+"qid": "721",
+"cond": "4",
+"job": "af376f9105819bc0",
+"gold": "SUPPORT"
+},
+{
+"qid": "723",
+"cond": "4",
+"job": "afea8ac9e1cc9896",
+"gold": "SUPPORT"
+},
+{
+"qid": "727",
+"cond": "4",
+"job": "247db493b7da8ac8",
+"gold": "NOINFO"
+},
+{
+"qid": "728",
+"cond": "4",
+"job": "5df6a0c986bd33a8",
+"gold": "CONTRADICT"
+},
+{
+"qid": "729",
+"cond": "4",
+"job": "06a949466ecfeff8",
+"gold": "SUPPORT"
+},
+{
+"qid": "742",
+"cond": "4",
+"job": "62220423c80c5a53",
+"gold": "SUPPORT"
+},
+{
+"qid": "743",
+"cond": "4",
+"job": "7efbf61b40f35fec",
+"gold": "CONTRADICT"
+},
+{
+"qid": "744",
+"cond": "4",
+"job": "f76d2f99764d09c8",
+"gold": "SUPPORT"
+},
+{
+"qid": "75",
+"cond": "4",
+"job": "8e2d88879a37161c",
+"gold": "NOINFO"
+},
+{
+"qid": "756",
+"cond": "4",
+"job": "20d6b13f44115c7d",
+"gold": "SUPPORT"
+},
+{
+"qid": "759",
+"cond": "4",
+"job": "9288696e49e49e06",
+"gold": "CONTRADICT"
+},
+{
+"qid": "768",
+"cond": "4",
+"job": "267c320f61b88b99",
+"gold": "NOINFO"
+},
+{
+"qid": "770",
+"cond": "4",
+"job": "de03162e8a498678",
+"gold": "SUPPORT"
+},
+{
+"qid": "775",
+"cond": "4",
+"job": "281df57e44d08908",
+"gold": "NOINFO"
+},
+{
+"qid": "781",
+"cond": "4",
+"job": "28026eddfc17c6ba",
+"gold": "CONTRADICT"
+},
+{
+"qid": "783",
+"cond": "4",
+"job": "a55ec88e9b6499d3",
+"gold": "NOINFO"
+},
+{
+"qid": "784",
+"cond": "4",
+"job": "947a6800d7148666",
+"gold": "SUPPORT"
+},
+{
+"qid": "785",
+"cond": "4",
+"job": "37469699bbcc00a3",
+"gold": "NOINFO"
+},
+{
+"qid": "793",
+"cond": "4",
+"job": "5ef84f89c4741a02",
+"gold": "CONTRADICT"
+},
+{
+"qid": "800",
+"cond": "4",
+"job": "730de6158dca6d42",
+"gold": "NOINFO"
+},
+{
+"qid": "805",
+"cond": "4",
+"job": "fc1c82bbde1bc8db",
+"gold": "SUPPORT"
+},
+{
+"qid": "808",
+"cond": "4",
+"job": "9d2217d01f6e29b0",
+"gold": "SUPPORT"
+},
+{
+"qid": "811",
+"cond": "4",
+"job": "501ae3fd4ab02554",
+"gold": "CONTRADICT"
+},
+{
+"qid": "814",
+"cond": "4",
+"job": "9a3417df96cb4417",
+"gold": "NOINFO"
+},
+{
+"qid": "820",
+"cond": "4",
+"job": "12fae224f8291c38",
+"gold": "NOINFO"
+},
+{
+"qid": "821",
+"cond": "4",
+"job": "f8de60e9cb8942b0",
+"gold": "NOINFO"
+},
+{
+"qid": "823",
+"cond": "4",
+"job": "14be5f645f77dd2c",
+"gold": "SUPPORT"
+},
+{
+"qid": "830",
+"cond": "4",
+"job": "7236491134b95b8c",
+"gold": "NOINFO"
+},
+{
+"qid": "831",
+"cond": "4",
+"job": "66103392aa01ee06",
+"gold": "NOINFO"
+},
+{
+"qid": "832",
+"cond": "4",
+"job": "f2905ec41a97b9f1",
+"gold": "SUPPORT"
+},
+{
+"qid": "834",
+"cond": "4",
+"job": "f649df684a2ed98a",
+"gold": "NOINFO"
+},
+{
+"qid": "837",
+"cond": "4",
+"job": "42b9774e6f9287ba",
+"gold": "SUPPORT"
+},
+{
+"qid": "839",
+"cond": "4",
+"job": "d0f61214452471ec",
+"gold": "SUPPORT"
+},
+{
+"qid": "845",
+"cond": "4",
+"job": "0645523b35ea269a",
+"gold": "SUPPORT"
+},
+{
+"qid": "847",
+"cond": "4",
+"job": "15ab945a5e8da7db",
+"gold": "CONTRADICT"
+},
+{
+"qid": "852",
+"cond": "4",
+"job": "2cf198debf5072d4",
+"gold": "CONTRADICT"
+},
+{
+"qid": "859",
+"cond": "4",
+"job": "3c450722db6d9d30",
+"gold": "CONTRADICT"
+},
+{
+"qid": "870",
+"cond": "4",
+"job": "9b7b191d00ab2615",
+"gold": "NOINFO"
+},
+{
+"qid": "873",
+"cond": "4",
+"job": "4d1dcd3e5f839751",
+"gold": "CONTRADICT"
+},
+{
+"qid": "879",
+"cond": "4",
+"job": "caf5b65e42945cec",
+"gold": "CONTRADICT"
+},
+{
+"qid": "880",
+"cond": "4",
+"job": "4c490a83e426622f",
+"gold": "SUPPORT"
+},
+{
+"qid": "882",
+"cond": "4",
+"job": "df88c45e6af58024",
+"gold": "CONTRADICT"
+},
+{
+"qid": "887",
+"cond": "4",
+"job": "c354ede789e21847",
+"gold": "NOINFO"
+},
+{
+"qid": "903",
+"cond": "4",
+"job": "6af8a269f6387c06",
+"gold": "CONTRADICT"
+},
+{
+"qid": "904",
+"cond": "4",
+"job": "926a3468ed7f6cb3",
+"gold": "SUPPORT"
+},
+{
+"qid": "907",
+"cond": "4",
+"job": "27d656bde14369cc",
+"gold": "NOINFO"
+},
+{
+"qid": "911",
+"cond": "4",
+"job": "7d1b7bb1683d7cb8",
+"gold": "SUPPORT"
+},
+{
+"qid": "913",
+"cond": "4",
+"job": "d78353677ff61f53",
+"gold": "NOINFO"
+},
+{
+"qid": "914",
+"cond": "4",
+"job": "2265edff2cd75e21",
+"gold": "NOINFO"
+},
+{
+"qid": "921",
+"cond": "4",
+"job": "fa1e1fb6b7e9e6b3",
+"gold": "SUPPORT"
+},
+{
+"qid": "922",
+"cond": "4",
+"job": "be6022ddf7d5970f",
+"gold": "CONTRADICT"
+},
+{
+"qid": "936",
+"cond": "4",
+"job": "92b1a6207a810087",
+"gold": "SUPPORT"
+},
+{
+"qid": "94",
+"cond": "4",
+"job": "753e537bfef14b99",
+"gold": "NOINFO"
+},
+{
+"qid": "956",
+"cond": "4",
+"job": "99a2a9b6a1d0ff47",
+"gold": "NOINFO"
+},
+{
+"qid": "957",
+"cond": "4",
+"job": "198d741c4db7249a",
+"gold": "SUPPORT"
+},
+{
+"qid": "960",
+"cond": "4",
+"job": "03598933057c8281",
+"gold": "SUPPORT"
+},
+{
+"qid": "967",
+"cond": "4",
+"job": "7317d90f3ac45812",
+"gold": "SUPPORT"
+},
+{
+"qid": "971",
+"cond": "4",
+"job": "5bca4ebce8d96613",
+"gold": "SUPPORT"
+},
+{
+"qid": "975",
+"cond": "4",
+"job": "203965778d15af9b",
+"gold": "NOINFO"
+},
+{
+"qid": "982",
+"cond": "4",
+"job": "4d3f5ca008c961e1",
+"gold": "SUPPORT"
+},
+{
+"qid": "985",
+"cond": "4",
+"job": "c672149095976f34",
+"gold": "SUPPORT"
+},
+{
+"qid": "99",
+"cond": "4",
+"job": "396b3808cda476db",
+"gold": "NOINFO"
+},
+{
+"qid": "993",
+"cond": "4",
+"job": "42f161de0bae9a48",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1",
+"cond": "3",
+"job": "0f5acfc9e176fd25",
+"gold": "NOINFO"
+},
+{
+"qid": "100",
+"cond": "3",
+"job": "74c9ba0504ca3122",
+"gold": "SUPPORT"
+},
+{
+"qid": "1012",
+"cond": "3",
+"job": "70271bacaf0dfd6d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1014",
+"cond": "3",
+"job": "39397408c5ec0aa2",
+"gold": "NOINFO"
+},
+{
+"qid": "1019",
+"cond": "3",
+"job": "0404ccc0d4523e92",
+"gold": "SUPPORT"
+},
+{
+"qid": "1020",
+"cond": "3",
+"job": "00177abf8e55891b",
+"gold": "SUPPORT"
+},
+{
+"qid": "1021",
+"cond": "3",
+"job": "a8a1d1c0468ee2e3",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1024",
+"cond": "3",
+"job": "1e8443c334bb651e",
+"gold": "SUPPORT"
+},
+{
+"qid": "1029",
+"cond": "3",
+"job": "37920185125cb939",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1041",
+"cond": "3",
+"job": "df84bfe8a7a9fe0a",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1049",
+"cond": "3",
+"job": "27296ebc1b929211",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1062",
+"cond": "3",
+"job": "2ace7ff8721957c8",
+"gold": "SUPPORT"
+},
+{
+"qid": "1086",
+"cond": "3",
+"job": "d92ad1b7fbcbc6b0",
+"gold": "SUPPORT"
+},
+{
+"qid": "1088",
+"cond": "3",
+"job": "fae872ee86ecaf89",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1089",
+"cond": "3",
+"job": "c731fdb25d9bbb40",
+"gold": "SUPPORT"
+},
+{
+"qid": "1099",
+"cond": "3",
+"job": "3ec8694b2c758884",
+"gold": "NOINFO"
+},
+{
+"qid": "1100",
+"cond": "3",
+"job": "999742887d240b94",
+"gold": "NOINFO"
+},
+{
+"qid": "1104",
+"cond": "3",
+"job": "a86fca7652af0e9e",
+"gold": "SUPPORT"
+},
+{
+"qid": "1107",
+"cond": "3",
+"job": "c846355e4123d2c7",
+"gold": "SUPPORT"
+},
+{
+"qid": "1110",
+"cond": "3",
+"job": "a46932c9147ef321",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1121",
+"cond": "3",
+"job": "02913df02145f8fa",
+"gold": "SUPPORT"
+},
+{
+"qid": "113",
+"cond": "3",
+"job": "b9caaea3b2ff2d72",
+"gold": "SUPPORT"
+},
+{
+"qid": "1130",
+"cond": "3",
+"job": "7bf9fde810ec5840",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1132",
+"cond": "3",
+"job": "48b919e3138a2583",
+"gold": "SUPPORT"
+},
+{
+"qid": "1137",
+"cond": "3",
+"job": "cd5b732c055d4209",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1140",
+"cond": "3",
+"job": "5e3a7f13c0475f36",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1144",
+"cond": "3",
+"job": "2ba23d1658cc23d4",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1146",
+"cond": "3",
+"job": "90a8a9e2e6f1ce21",
+"gold": "SUPPORT"
+},
+{
+"qid": "115",
+"cond": "3",
+"job": "1c00b1c0ea54c3a5",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1150",
+"cond": "3",
+"job": "73953970c7657766",
+"gold": "SUPPORT"
+},
+{
+"qid": "1163",
+"cond": "3",
+"job": "3bfe6ac300e377ec",
+"gold": "SUPPORT"
+},
+{
+"qid": "1175",
+"cond": "3",
+"job": "fb5c3573953bcd51",
+"gold": "NOINFO"
+},
+{
+"qid": "1179",
+"cond": "3",
+"job": "0bf4a9b2b59c7daa",
+"gold": "NOINFO"
+},
+{
+"qid": "118",
+"cond": "3",
+"job": "cffd0af0c10e7ae3",
+"gold": "SUPPORT"
+},
+{
+"qid": "1180",
+"cond": "3",
+"job": "791b63716606214d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1185",
+"cond": "3",
+"job": "633e06495ba0ee01",
+"gold": "SUPPORT"
+},
+{
+"qid": "1187",
+"cond": "3",
+"job": "5857c8c8cbe33561",
+"gold": "SUPPORT"
+},
+{
+"qid": "1191",
+"cond": "3",
+"job": "ee85a94e45067285",
+"gold": "NOINFO"
+},
+{
+"qid": "1194",
+"cond": "3",
+"job": "d7de98c48bc9daf3",
+"gold": "NOINFO"
+},
+{
+"qid": "1196",
+"cond": "3",
+"job": "7613eebb6ba2a9ea",
+"gold": "NOINFO"
+},
+{
+"qid": "1197",
+"cond": "3",
+"job": "bc1dcb7850ddfb07",
+"gold": "NOINFO"
+},
+{
+"qid": "1199",
+"cond": "3",
+"job": "6b909b7bfb18f909",
+"gold": "NOINFO"
+},
+{
+"qid": "1200",
+"cond": "3",
+"job": "97684fa4711a1937",
+"gold": "NOINFO"
+},
+{
+"qid": "1202",
+"cond": "3",
+"job": "f2708088e47f2b89",
+"gold": "SUPPORT"
+},
+{
+"qid": "1204",
+"cond": "3",
+"job": "b2a414261d050598",
+"gold": "NOINFO"
+},
+{
+"qid": "1207",
+"cond": "3",
+"job": "40384e0092da1c23",
+"gold": "NOINFO"
+},
+{
+"qid": "1213",
+"cond": "3",
+"job": "35192b85f813602a",
+"gold": "NOINFO"
+},
+{
+"qid": "1216",
+"cond": "3",
+"job": "d7a40822a7da7e3b",
+"gold": "SUPPORT"
+},
+{
+"qid": "1221",
+"cond": "3",
+"job": "2e0718c9aadc4173",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1225",
+"cond": "3",
+"job": "e9ffbb23d941723c",
+"gold": "SUPPORT"
+},
+{
+"qid": "1226",
+"cond": "3",
+"job": "3e456dd2115ba89b",
+"gold": "NOINFO"
+},
+{
+"qid": "1232",
+"cond": "3",
+"job": "51bdae00b87a2476",
+"gold": "CONTRADICT"
+},
+{
+"qid": "124",
+"cond": "3",
+"job": "a425ed7f5ba9b5c1",
+"gold": "SUPPORT"
+},
+{
+"qid": "1241",
+"cond": "3",
+"job": "72c7740edf19c8f2",
+"gold": "SUPPORT"
+},
+{
+"qid": "1245",
+"cond": "3",
+"job": "04ce7847963e247f",
+"gold": "NOINFO"
+},
+{
+"qid": "1259",
+"cond": "3",
+"job": "6e14504c29cb883d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1262",
+"cond": "3",
+"job": "435fcd60cbd85840",
+"gold": "SUPPORT"
+},
+{
+"qid": "1266",
+"cond": "3",
+"job": "e359d88390ab69d8",
+"gold": "SUPPORT"
+},
+{
+"qid": "127",
+"cond": "3",
+"job": "afa31c35795fefdd",
+"gold": "NOINFO"
+},
+{
+"qid": "1270",
+"cond": "3",
+"job": "a6fbf1fd11eff69a",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1271",
+"cond": "3",
+"job": "8a51b50b0416d5c0",
+"gold": "SUPPORT"
+},
+{
+"qid": "1272",
+"cond": "3",
+"job": "8aa483a43acb968c",
+"gold": "NOINFO"
+},
+{
+"qid": "1273",
+"cond": "3",
+"job": "b80ce9963278008a",
+"gold": "SUPPORT"
+},
+{
+"qid": "1274",
+"cond": "3",
+"job": "a77e9a10e2911063",
+"gold": "SUPPORT"
+},
+{
+"qid": "1278",
+"cond": "3",
+"job": "212fc380be3121ea",
+"gold": "NOINFO"
+},
+{
+"qid": "1279",
+"cond": "3",
+"job": "bb6c1be9169b7813",
+"gold": "NOINFO"
+},
+{
+"qid": "128",
+"cond": "3",
+"job": "c4d9168a95c233d3",
+"gold": "NOINFO"
+},
+{
+"qid": "1280",
+"cond": "3",
+"job": "7efccc26c7150c12",
+"gold": "NOINFO"
+},
+{
+"qid": "1281",
+"cond": "3",
+"job": "4c3aa1be9453d74a",
+"gold": "NOINFO"
+},
+{
+"qid": "1282",
+"cond": "3",
+"job": "9c1f49620ea5764b",
+"gold": "NOINFO"
+},
+{
+"qid": "129",
+"cond": "3",
+"job": "b53ff076b0327174",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1290",
+"cond": "3",
+"job": "eb570fdf852ba8f9",
+"gold": "SUPPORT"
+},
+{
+"qid": "1292",
+"cond": "3",
+"job": "05163b646ca3a18a",
+"gold": "NOINFO"
+},
+{
+"qid": "1298",
+"cond": "3",
+"job": "665fc0d45a36b8cc",
+"gold": "SUPPORT"
+},
+{
+"qid": "13",
+"cond": "3",
+"job": "a2db5d225f3a0bb3",
+"gold": "NOINFO"
+},
+{
+"qid": "130",
+"cond": "3",
+"job": "5c0eeae384847a70",
+"gold": "SUPPORT"
+},
+{
+"qid": "1303",
+"cond": "3",
+"job": "5c7fe131162e1511",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1316",
+"cond": "3",
+"job": "ec82321f1ba428d3",
+"gold": "NOINFO"
+},
+{
+"qid": "1319",
+"cond": "3",
+"job": "5949ad3b0f776a26",
+"gold": "SUPPORT"
+},
+{
+"qid": "132",
+"cond": "3",
+"job": "274ca1bff0855c66",
+"gold": "NOINFO"
+},
+{
+"qid": "1320",
+"cond": "3",
+"job": "4c68e0a9ffea4336",
+"gold": "CONTRADICT"
+},
+{
+"qid": "133",
+"cond": "3",
+"job": "28f777e32fc32c40",
+"gold": "SUPPORT"
+},
+{
+"qid": "1332",
+"cond": "3",
+"job": "f45cd76cb3d90f2a",
+"gold": "NOINFO"
+},
+{
+"qid": "1335",
+"cond": "3",
+"job": "6992e72496467199",
+"gold": "SUPPORT"
+},
+{
+"qid": "1336",
+"cond": "3",
+"job": "4cffe7f2e6acb748",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1337",
+"cond": "3",
+"job": "b71c6bf0ff6cf84c",
+"gold": "SUPPORT"
+},
+{
+"qid": "1339",
+"cond": "3",
+"job": "9273168be8829836",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1344",
+"cond": "3",
+"job": "1527cb708f5bdaa8",
+"gold": "NOINFO"
+},
+{
+"qid": "1352",
+"cond": "3",
+"job": "3502ac9155a59fb7",
+"gold": "SUPPORT"
+},
+{
+"qid": "1359",
+"cond": "3",
+"job": "07194b3aad22fbf5",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1362",
+"cond": "3",
+"job": "9ac83e41a195c36e",
+"gold": "NOINFO"
+},
+{
+"qid": "1363",
+"cond": "3",
+"job": "19a25aaec4e82083",
+"gold": "NOINFO"
+},
+{
+"qid": "1368",
+"cond": "3",
+"job": "1554500a12c7d765",
+"gold": "SUPPORT"
+},
+{
+"qid": "137",
+"cond": "3",
+"job": "6e0e6ca219174c5d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1370",
+"cond": "3",
+"job": "a5fe91d19e531515",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1379",
+"cond": "3",
+"job": "b89c64140c93e7ec",
+"gold": "SUPPORT"
+},
+{
+"qid": "1382",
+"cond": "3",
+"job": "50baeaa3c36b189e",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1385",
+"cond": "3",
+"job": "5fc78a685f71dabf",
+"gold": "SUPPORT"
+},
+{
+"qid": "1389",
+"cond": "3",
+"job": "9fc6f55bfa4124f7",
+"gold": "SUPPORT"
+},
+{
+"qid": "1395",
+"cond": "3",
+"job": "e55674073e398ada",
+"gold": "NOINFO"
+},
+{
+"qid": "141",
+"cond": "3",
+"job": "b9f8fafa63628bea",
+"gold": "SUPPORT"
+},
+{
+"qid": "142",
+"cond": "3",
+"job": "f0e4925fe09f9d7b",
+"gold": "CONTRADICT"
+},
+{
+"qid": "143",
+"cond": "3",
+"job": "05c0b31b7f745f12",
+"gold": "SUPPORT"
+},
+{
+"qid": "146",
+"cond": "3",
+"job": "4cf0fd55ee9e2ea2",
+"gold": "SUPPORT"
+},
+{
+"qid": "148",
+"cond": "3",
+"job": "f019ca7af96c2f3b",
+"gold": "SUPPORT"
+},
+{
+"qid": "163",
+"cond": "3",
+"job": "b5e6a2959028b4f0",
+"gold": "SUPPORT"
+},
+{
+"qid": "171",
+"cond": "3",
+"job": "5059e2e7a359bbc9",
+"gold": "CONTRADICT"
+},
+{
+"qid": "179",
+"cond": "3",
+"job": "060c58770985cacd",
+"gold": "SUPPORT"
+},
+{
+"qid": "180",
+"cond": "3",
+"job": "40a74cda79dd08fc",
+"gold": "CONTRADICT"
+},
+{
+"qid": "183",
+"cond": "3",
+"job": "b90ec12b77974328",
+"gold": "CONTRADICT"
+},
+{
+"qid": "185",
+"cond": "3",
+"job": "6a33dbed642fc274",
+"gold": "CONTRADICT"
+},
+{
+"qid": "198",
+"cond": "3",
+"job": "7702738b60a29b2e",
+"gold": "NOINFO"
+},
+{
+"qid": "208",
+"cond": "3",
+"job": "e31983ca7c132dd9",
+"gold": "SUPPORT"
+},
+{
+"qid": "212",
+"cond": "3",
+"job": "8e471a7127287d08",
+"gold": "CONTRADICT"
+},
+{
+"qid": "213",
+"cond": "3",
+"job": "faec2d3fd8f4588a",
+"gold": "NOINFO"
+},
+{
+"qid": "216",
+"cond": "3",
+"job": "7a02d810215c6760",
+"gold": "CONTRADICT"
+},
+{
+"qid": "217",
+"cond": "3",
+"job": "053ae84822deda48",
+"gold": "SUPPORT"
+},
+{
+"qid": "218",
+"cond": "3",
+"job": "e92861ce91729e65",
+"gold": "SUPPORT"
+},
+{
+"qid": "219",
+"cond": "3",
+"job": "9198194ca37d4075",
+"gold": "CONTRADICT"
+},
+{
+"qid": "230",
+"cond": "3",
+"job": "1dc85766739d1342",
+"gold": "SUPPORT"
+},
+{
+"qid": "232",
+"cond": "3",
+"job": "629327fc992593d5",
+"gold": "NOINFO"
+},
+{
+"qid": "233",
+"cond": "3",
+"job": "53a51552188d13f6",
+"gold": "CONTRADICT"
+},
+{
+"qid": "236",
+"cond": "3",
+"job": "1bd93b0005307d5a",
+"gold": "SUPPORT"
+},
+{
+"qid": "237",
+"cond": "3",
+"job": "21f5dc1d7851ec1c",
+"gold": "NOINFO"
+},
+{
+"qid": "238",
+"cond": "3",
+"job": "2b62114d7fdae972",
+"gold": "NOINFO"
+},
+{
+"qid": "239",
+"cond": "3",
+"job": "365ab41a0ce27ec4",
+"gold": "SUPPORT"
+},
+{
+"qid": "248",
+"cond": "3",
+"job": "d6fb66b00c6cc278",
+"gold": "SUPPORT"
+},
+{
+"qid": "249",
+"cond": "3",
+"job": "0b8bd1dd6b99bf9b",
+"gold": "CONTRADICT"
+},
+{
+"qid": "261",
+"cond": "3",
+"job": "b72788b68eca0645",
+"gold": "SUPPORT"
+},
+{
+"qid": "268",
+"cond": "3",
+"job": "5f9049f97c07ef04",
+"gold": "NOINFO"
+},
+{
+"qid": "269",
+"cond": "3",
+"job": "163ba36afe49ba00",
+"gold": "NOINFO"
+},
+{
+"qid": "274",
+"cond": "3",
+"job": "7e74b900b499e5b8",
+"gold": "CONTRADICT"
+},
+{
+"qid": "275",
+"cond": "3",
+"job": "bb7d9d7c19bcd74e",
+"gold": "SUPPORT"
+},
+{
+"qid": "279",
+"cond": "3",
+"job": "dd755c54151d65e1",
+"gold": "SUPPORT"
+},
+{
+"qid": "294",
+"cond": "3",
+"job": "8b64150a72d7326d",
+"gold": "NOINFO"
+},
+{
+"qid": "295",
+"cond": "3",
+"job": "11d31c946bc57287",
+"gold": "SUPPORT"
+},
+{
+"qid": "298",
+"cond": "3",
+"job": "ac255efd223db2ef",
+"gold": "SUPPORT"
+},
+{
+"qid": "3",
+"cond": "3",
+"job": "79cd727cc22134fe",
+"gold": "SUPPORT"
+},
+{
+"qid": "300",
+"cond": "3",
+"job": "0bcae29b2634e97f",
+"gold": "NOINFO"
+},
+{
+"qid": "303",
+"cond": "3",
+"job": "cce0f8a21998126e",
+"gold": "NOINFO"
+},
+{
+"qid": "312",
+"cond": "3",
+"job": "76e89ebc11a254ed",
+"gold": "NOINFO"
+},
+{
+"qid": "314",
+"cond": "3",
+"job": "7ac3e4d6a03864a6",
+"gold": "SUPPORT"
+},
+{
+"qid": "324",
+"cond": "3",
+"job": "482e68f83ccae7ba",
+"gold": "NOINFO"
+},
+{
+"qid": "327",
+"cond": "3",
+"job": "bb6bb60746e01d35",
+"gold": "SUPPORT"
+},
+{
+"qid": "338",
+"cond": "3",
+"job": "16962ae8973c88c8",
+"gold": "CONTRADICT"
+},
+{
+"qid": "343",
+"cond": "3",
+"job": "220a1e6a102d8374",
+"gold": "SUPPORT"
+},
+{
+"qid": "350",
+"cond": "3",
+"job": "d61480053ac38f6e",
+"gold": "NOINFO"
+},
+{
+"qid": "354",
+"cond": "3",
+"job": "73f17d1810a359be",
+"gold": "NOINFO"
+},
+{
+"qid": "36",
+"cond": "3",
+"job": "f98a68eb9e1e5a1c",
+"gold": "NOINFO"
+},
+{
+"qid": "362",
+"cond": "3",
+"job": "a6c26011f80d494c",
+"gold": "NOINFO"
+},
+{
+"qid": "380",
+"cond": "3",
+"job": "30fa6644a509be29",
+"gold": "SUPPORT"
+},
+{
+"qid": "384",
+"cond": "3",
+"job": "73a9b474062162be",
+"gold": "NOINFO"
+},
+{
+"qid": "385",
+"cond": "3",
+"job": "068421d96e941f91",
+"gold": "SUPPORT"
+},
+{
+"qid": "386",
+"cond": "3",
+"job": "ddb1f3556010d764",
+"gold": "SUPPORT"
+},
+{
+"qid": "388",
+"cond": "3",
+"job": "9a7151c3b0fb33ae",
+"gold": "NOINFO"
+},
+{
+"qid": "399",
+"cond": "3",
+"job": "f2d1707f398dd83a",
+"gold": "SUPPORT"
+},
+{
+"qid": "410",
+"cond": "3",
+"job": "d7778f746c77ab7c",
+"gold": "NOINFO"
+},
+{
+"qid": "411",
+"cond": "3",
+"job": "449bd20ff75fa078",
+"gold": "NOINFO"
+},
+{
+"qid": "415",
+"cond": "3",
+"job": "237e491757b109c5",
+"gold": "SUPPORT"
+},
+{
+"qid": "42",
+"cond": "3",
+"job": "780fb61dfdb1854e",
+"gold": "CONTRADICT"
+},
+{
+"qid": "421",
+"cond": "3",
+"job": "71f19ce19bb12bb6",
+"gold": "NOINFO"
+},
+{
+"qid": "431",
+"cond": "3",
+"job": "4c742dfb30c13db3",
+"gold": "SUPPORT"
+},
+{
+"qid": "436",
+"cond": "3",
+"job": "83b463d64110506b",
+"gold": "SUPPORT"
+},
+{
+"qid": "437",
+"cond": "3",
+"job": "ba18ba336f2b2c07",
+"gold": "NOINFO"
+},
+{
+"qid": "439",
+"cond": "3",
+"job": "eea77fd6cb6d5a5e",
+"gold": "NOINFO"
+},
+{
+"qid": "440",
+"cond": "3",
+"job": "4cdcb3b8ede53fc2",
+"gold": "NOINFO"
+},
+{
+"qid": "443",
+"cond": "3",
+"job": "5f2eeed1eee1f310",
+"gold": "SUPPORT"
+},
+{
+"qid": "452",
+"cond": "3",
+"job": "6603021d53b71e9e",
+"gold": "CONTRADICT"
+},
+{
+"qid": "475",
+"cond": "3",
+"job": "03770f8f081386bd",
+"gold": "SUPPORT"
+},
+{
+"qid": "478",
+"cond": "3",
+"job": "06ce1c6c33028a4b",
+"gold": "NOINFO"
+},
+{
+"qid": "48",
+"cond": "3",
+"job": "66556521fe0c3f40",
+"gold": "CONTRADICT"
+},
+{
+"qid": "49",
+"cond": "3",
+"job": "6e2ed7e1ef06a094",
+"gold": "SUPPORT"
+},
+{
+"qid": "491",
+"cond": "3",
+"job": "5c1f1c4dbcb747ca",
+"gold": "NOINFO"
+},
+{
+"qid": "5",
+"cond": "3",
+"job": "62aa54a038e4f00d",
+"gold": "SUPPORT"
+},
+{
+"qid": "50",
+"cond": "3",
+"job": "75278aa7bc07d643",
+"gold": "SUPPORT"
+},
+{
+"qid": "501",
+"cond": "3",
+"job": "ff347cf399b5fdfb",
+"gold": "SUPPORT"
+},
+{
+"qid": "502",
+"cond": "3",
+"job": "e3bfb4fb3c81ffe8",
+"gold": "NOINFO"
+},
+{
+"qid": "507",
+"cond": "3",
+"job": "b0ec118648fef25b",
+"gold": "NOINFO"
+},
+{
+"qid": "508",
+"cond": "3",
+"job": "66bde531bbc9959a",
+"gold": "NOINFO"
+},
+{
+"qid": "51",
+"cond": "3",
+"job": "ba37b98a76851677",
+"gold": "CONTRADICT"
+},
+{
+"qid": "513",
+"cond": "3",
+"job": "c5688e04aa0662b5",
+"gold": "CONTRADICT"
+},
+{
+"qid": "514",
+"cond": "3",
+"job": "425459c84b83e254",
+"gold": "NOINFO"
+},
+{
+"qid": "516",
+"cond": "3",
+"job": "460f75c0d3fb21dc",
+"gold": "CONTRADICT"
+},
+{
+"qid": "517",
+"cond": "3",
+"job": "741e79bf6478dbbd",
+"gold": "NOINFO"
+},
+{
+"qid": "521",
+"cond": "3",
+"job": "d7409933378770ba",
+"gold": "SUPPORT"
+},
+{
+"qid": "525",
+"cond": "3",
+"job": "14fc26b0684dc485",
+"gold": "SUPPORT"
+},
+{
+"qid": "527",
+"cond": "3",
+"job": "0193bbf7e48e0386",
+"gold": "NOINFO"
+},
+{
+"qid": "528",
+"cond": "3",
+"job": "88834b34b44535f8",
+"gold": "SUPPORT"
+},
+{
+"qid": "53",
+"cond": "3",
+"job": "876d06aac92691cf",
+"gold": "SUPPORT"
+},
+{
+"qid": "532",
+"cond": "3",
+"job": "0f6faea4a91d9cc8",
+"gold": "CONTRADICT"
+},
+{
+"qid": "533",
+"cond": "3",
+"job": "56326e94a92972f6",
+"gold": "SUPPORT"
+},
+{
+"qid": "535",
+"cond": "3",
+"job": "c76f418e39fd833d",
+"gold": "NOINFO"
+},
+{
+"qid": "536",
+"cond": "3",
+"job": "5a610545827b3cf9",
+"gold": "SUPPORT"
+},
+{
+"qid": "539",
+"cond": "3",
+"job": "3962edf7f2b6cbe0",
+"gold": "SUPPORT"
+},
+{
+"qid": "54",
+"cond": "3",
+"job": "9ba9b4fd98eedd57",
+"gold": "CONTRADICT"
+},
+{
+"qid": "540",
+"cond": "3",
+"job": "2d2fa7f014d0e9b7",
+"gold": "SUPPORT"
+},
+{
+"qid": "544",
+"cond": "3",
+"job": "11ff77ccd27ff6e4",
+"gold": "NOINFO"
+},
+{
+"qid": "549",
+"cond": "3",
+"job": "74da3d5b64589bc0",
+"gold": "SUPPORT"
+},
+{
+"qid": "551",
+"cond": "3",
+"job": "317755ba0df52acf",
+"gold": "NOINFO"
+},
+{
+"qid": "552",
+"cond": "3",
+"job": "4ac48ed81590377e",
+"gold": "NOINFO"
+},
+{
+"qid": "554",
+"cond": "3",
+"job": "c173752f43274a8d",
+"gold": "NOINFO"
+},
+{
+"qid": "56",
+"cond": "3",
+"job": "bebcbc493db69cc3",
+"gold": "SUPPORT"
+},
+{
+"qid": "560",
+"cond": "3",
+"job": "6b9b84c9abe33720",
+"gold": "NOINFO"
+},
+{
+"qid": "569",
+"cond": "3",
+"job": "77add018c51fa41f",
+"gold": "SUPPORT"
+},
+{
+"qid": "57",
+"cond": "3",
+"job": "d2fbb8df091c5e41",
+"gold": "CONTRADICT"
+},
+{
+"qid": "575",
+"cond": "3",
+"job": "72ed00f1922a725d",
+"gold": "NOINFO"
+},
+{
+"qid": "577",
+"cond": "3",
+"job": "39225a313d0c8a7f",
+"gold": "NOINFO"
+},
+{
+"qid": "578",
+"cond": "3",
+"job": "6bb52b499f4026c5",
+"gold": "CONTRADICT"
+},
+{
+"qid": "587",
+"cond": "3",
+"job": "b9a3fa0cbc124c44",
+"gold": "NOINFO"
+},
+{
+"qid": "589",
+"cond": "3",
+"job": "f5984c91e9feff0e",
+"gold": "SUPPORT"
+},
+{
+"qid": "593",
+"cond": "3",
+"job": "99fb091df94feae4",
+"gold": "SUPPORT"
+},
+{
+"qid": "597",
+"cond": "3",
+"job": "2ff0152ca809d571",
+"gold": "SUPPORT"
+},
+{
+"qid": "598",
+"cond": "3",
+"job": "a4f3b08142f1fb8c",
+"gold": "CONTRADICT"
+},
+{
+"qid": "613",
+"cond": "3",
+"job": "35156403fe85e159",
+"gold": "SUPPORT"
+},
+{
+"qid": "619",
+"cond": "3",
+"job": "ac1ca65c3a78f4fc",
+"gold": "CONTRADICT"
+},
+{
+"qid": "623",
+"cond": "3",
+"job": "6fefecb3f3584570",
+"gold": "NOINFO"
+},
+{
+"qid": "628",
+"cond": "3",
+"job": "c9e4b3568acb5d3b",
+"gold": "NOINFO"
+},
+{
+"qid": "636",
+"cond": "3",
+"job": "a89dd3b1cddb864a",
+"gold": "SUPPORT"
+},
+{
+"qid": "637",
+"cond": "3",
+"job": "fce9e1411875d4ba",
+"gold": "NOINFO"
+},
+{
+"qid": "641",
+"cond": "3",
+"job": "efd307827f114511",
+"gold": "SUPPORT"
+},
+{
+"qid": "644",
+"cond": "3",
+"job": "94262c7a47d0ac97",
+"gold": "NOINFO"
+},
+{
+"qid": "649",
+"cond": "3",
+"job": "50dd372e6a9feaa3",
+"gold": "NOINFO"
+},
+{
+"qid": "659",
+"cond": "3",
+"job": "69877c1478e79258",
+"gold": "NOINFO"
+},
+{
+"qid": "660",
+"cond": "3",
+"job": "bbb2d385dc498090",
+"gold": "NOINFO"
+},
+{
+"qid": "674",
+"cond": "3",
+"job": "37b43d9e1200b613",
+"gold": "CONTRADICT"
+},
+{
+"qid": "684",
+"cond": "3",
+"job": "3d0e8690076c4a73",
+"gold": "NOINFO"
+},
+{
+"qid": "690",
+"cond": "3",
+"job": "1a28cd83b96e1dd6",
+"gold": "NOINFO"
+},
+{
+"qid": "691",
+"cond": "3",
+"job": "856091c76b7edeb8",
+"gold": "NOINFO"
+},
+{
+"qid": "692",
+"cond": "3",
+"job": "450935a3e45001e9",
+"gold": "CONTRADICT"
+},
+{
+"qid": "693",
+"cond": "3",
+"job": "06a9de6d75231cab",
+"gold": "SUPPORT"
+},
+{
+"qid": "70",
+"cond": "3",
+"job": "8e54ac5d062275a2",
+"gold": "SUPPORT"
+},
+{
+"qid": "700",
+"cond": "3",
+"job": "823184c9a9bf3979",
+"gold": "NOINFO"
+},
+{
+"qid": "702",
+"cond": "3",
+"job": "c8c6d70af3182f1b",
+"gold": "NOINFO"
+},
+{
+"qid": "715",
+"cond": "3",
+"job": "acd58985f037476e",
+"gold": "NOINFO"
+},
+{
+"qid": "716",
+"cond": "3",
+"job": "1b696df86d74490b",
+"gold": "NOINFO"
+},
+{
+"qid": "718",
+"cond": "3",
+"job": "306a3fb716419b3f",
+"gold": "CONTRADICT"
+},
+{
+"qid": "72",
+"cond": "3",
+"job": "10403b4535c8691c",
+"gold": "NOINFO"
+},
+{
+"qid": "721",
+"cond": "3",
+"job": "af376f9105819bc0",
+"gold": "SUPPORT"
+},
+{
+"qid": "723",
+"cond": "3",
+"job": "afea8ac9e1cc9896",
+"gold": "SUPPORT"
+},
+{
+"qid": "727",
+"cond": "3",
+"job": "247db493b7da8ac8",
+"gold": "NOINFO"
+},
+{
+"qid": "728",
+"cond": "3",
+"job": "5df6a0c986bd33a8",
+"gold": "CONTRADICT"
+},
+{
+"qid": "729",
+"cond": "3",
+"job": "06a949466ecfeff8",
+"gold": "SUPPORT"
+},
+{
+"qid": "742",
+"cond": "3",
+"job": "62220423c80c5a53",
+"gold": "SUPPORT"
+},
+{
+"qid": "743",
+"cond": "3",
+"job": "7efbf61b40f35fec",
+"gold": "CONTRADICT"
+},
+{
+"qid": "744",
+"cond": "3",
+"job": "f76d2f99764d09c8",
+"gold": "SUPPORT"
+},
+{
+"qid": "75",
+"cond": "3",
+"job": "8e2d88879a37161c",
+"gold": "NOINFO"
+},
+{
+"qid": "756",
+"cond": "3",
+"job": "20d6b13f44115c7d",
+"gold": "SUPPORT"
+},
+{
+"qid": "759",
+"cond": "3",
+"job": "9288696e49e49e06",
+"gold": "CONTRADICT"
+},
+{
+"qid": "768",
+"cond": "3",
+"job": "584421cd38f67a1c",
+"gold": "NOINFO"
+},
+{
+"qid": "770",
+"cond": "3",
+"job": "de03162e8a498678",
+"gold": "SUPPORT"
+},
+{
+"qid": "775",
+"cond": "3",
+"job": "281df57e44d08908",
+"gold": "NOINFO"
+},
+{
+"qid": "781",
+"cond": "3",
+"job": "28026eddfc17c6ba",
+"gold": "CONTRADICT"
+},
+{
+"qid": "783",
+"cond": "3",
+"job": "a55ec88e9b6499d3",
+"gold": "NOINFO"
+},
+{
+"qid": "784",
+"cond": "3",
+"job": "947a6800d7148666",
+"gold": "SUPPORT"
+},
+{
+"qid": "785",
+"cond": "3",
+"job": "37469699bbcc00a3",
+"gold": "NOINFO"
+},
+{
+"qid": "793",
+"cond": "3",
+"job": "5ef84f89c4741a02",
+"gold": "CONTRADICT"
+},
+{
+"qid": "800",
+"cond": "3",
+"job": "f900caf147bb871b",
+"gold": "NOINFO"
+},
+{
+"qid": "805",
+"cond": "3",
+"job": "fc1c82bbde1bc8db",
+"gold": "SUPPORT"
+},
+{
+"qid": "808",
+"cond": "3",
+"job": "9d2217d01f6e29b0",
+"gold": "SUPPORT"
+},
+{
+"qid": "811",
+"cond": "3",
+"job": "501ae3fd4ab02554",
+"gold": "CONTRADICT"
+},
+{
+"qid": "814",
+"cond": "3",
+"job": "9a3417df96cb4417",
+"gold": "NOINFO"
+},
+{
+"qid": "820",
+"cond": "3",
+"job": "12fae224f8291c38",
+"gold": "NOINFO"
+},
+{
+"qid": "821",
+"cond": "3",
+"job": "41a58a6dcd9b5566",
+"gold": "NOINFO"
+},
+{
+"qid": "823",
+"cond": "3",
+"job": "39e4e72b2423c1d5",
+"gold": "SUPPORT"
+},
+{
+"qid": "830",
+"cond": "3",
+"job": "7236491134b95b8c",
+"gold": "NOINFO"
+},
+{
+"qid": "831",
+"cond": "3",
+"job": "66103392aa01ee06",
+"gold": "NOINFO"
+},
+{
+"qid": "832",
+"cond": "3",
+"job": "f2905ec41a97b9f1",
+"gold": "SUPPORT"
+},
+{
+"qid": "834",
+"cond": "3",
+"job": "f649df684a2ed98a",
+"gold": "NOINFO"
+},
+{
+"qid": "837",
+"cond": "3",
+"job": "42b9774e6f9287ba",
+"gold": "SUPPORT"
+},
+{
+"qid": "839",
+"cond": "3",
+"job": "d0f61214452471ec",
+"gold": "SUPPORT"
+},
+{
+"qid": "845",
+"cond": "3",
+"job": "0645523b35ea269a",
+"gold": "SUPPORT"
+},
+{
+"qid": "847",
+"cond": "3",
+"job": "15ab945a5e8da7db",
+"gold": "CONTRADICT"
+},
+{
+"qid": "852",
+"cond": "3",
+"job": "2cf198debf5072d4",
+"gold": "CONTRADICT"
+},
+{
+"qid": "859",
+"cond": "3",
+"job": "3c450722db6d9d30",
+"gold": "CONTRADICT"
+},
+{
+"qid": "870",
+"cond": "3",
+"job": "e6bf6a3ceb7c7c72",
+"gold": "NOINFO"
+},
+{
+"qid": "873",
+"cond": "3",
+"job": "4d1dcd3e5f839751",
+"gold": "CONTRADICT"
+},
+{
+"qid": "879",
+"cond": "3",
+"job": "caf5b65e42945cec",
+"gold": "CONTRADICT"
+},
+{
+"qid": "880",
+"cond": "3",
+"job": "4c490a83e426622f",
+"gold": "SUPPORT"
+},
+{
+"qid": "882",
+"cond": "3",
+"job": "df88c45e6af58024",
+"gold": "CONTRADICT"
+},
+{
+"qid": "887",
+"cond": "3",
+"job": "74d21c9263f7f218",
+"gold": "NOINFO"
+},
+{
+"qid": "903",
+"cond": "3",
+"job": "6af8a269f6387c06",
+"gold": "CONTRADICT"
+},
+{
+"qid": "904",
+"cond": "3",
+"job": "926a3468ed7f6cb3",
+"gold": "SUPPORT"
+},
+{
+"qid": "907",
+"cond": "3",
+"job": "27d656bde14369cc",
+"gold": "NOINFO"
+},
+{
+"qid": "911",
+"cond": "3",
+"job": "e79fcf932ab8f255",
+"gold": "SUPPORT"
+},
+{
+"qid": "913",
+"cond": "3",
+"job": "90da31b3776fbc06",
+"gold": "NOINFO"
+},
+{
+"qid": "914",
+"cond": "3",
+"job": "1bc66da79611d852",
+"gold": "NOINFO"
+},
+{
+"qid": "921",
+"cond": "3",
+"job": "fa1e1fb6b7e9e6b3",
+"gold": "SUPPORT"
+},
+{
+"qid": "922",
+"cond": "3",
+"job": "58124dc1e77fce20",
+"gold": "CONTRADICT"
+},
+{
+"qid": "936",
+"cond": "3",
+"job": "92b1a6207a810087",
+"gold": "SUPPORT"
+},
+{
+"qid": "94",
+"cond": "3",
+"job": "453608d48e639623",
+"gold": "NOINFO"
+},
+{
+"qid": "956",
+"cond": "3",
+"job": "99a2a9b6a1d0ff47",
+"gold": "NOINFO"
+},
+{
+"qid": "957",
+"cond": "3",
+"job": "198d741c4db7249a",
+"gold": "SUPPORT"
+},
+{
+"qid": "960",
+"cond": "3",
+"job": "03598933057c8281",
+"gold": "SUPPORT"
+},
+{
+"qid": "967",
+"cond": "3",
+"job": "7317d90f3ac45812",
+"gold": "SUPPORT"
+},
+{
+"qid": "971",
+"cond": "3",
+"job": "5bca4ebce8d96613",
+"gold": "SUPPORT"
+},
+{
+"qid": "975",
+"cond": "3",
+"job": "203965778d15af9b",
+"gold": "NOINFO"
+},
+{
+"qid": "982",
+"cond": "3",
+"job": "4d3f5ca008c961e1",
+"gold": "SUPPORT"
+},
+{
+"qid": "985",
+"cond": "3",
+"job": "c672149095976f34",
+"gold": "SUPPORT"
+},
+{
+"qid": "99",
+"cond": "3",
+"job": "396b3808cda476db",
+"gold": "NOINFO"
+},
+{
+"qid": "993",
+"cond": "3",
+"job": "42f161de0bae9a48",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1",
+"cond": "2",
+"job": "d2a89a48329084da",
+"gold": "NOINFO"
+},
+{
+"qid": "100",
+"cond": "2",
+"job": "74c9ba0504ca3122",
+"gold": "SUPPORT"
+},
+{
+"qid": "1012",
+"cond": "2",
+"job": "70271bacaf0dfd6d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1014",
+"cond": "2",
+"job": "39397408c5ec0aa2",
+"gold": "NOINFO"
+},
+{
+"qid": "1019",
+"cond": "2",
+"job": "0404ccc0d4523e92",
+"gold": "SUPPORT"
+},
+{
+"qid": "1020",
+"cond": "2",
+"job": "00177abf8e55891b",
+"gold": "SUPPORT"
+},
+{
+"qid": "1021",
+"cond": "2",
+"job": "7e01438a18d3e468",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1024",
+"cond": "2",
+"job": "6ff1a5780a4d47a9",
+"gold": "SUPPORT"
+},
+{
+"qid": "1029",
+"cond": "2",
+"job": "a6bd1e3c820b465c",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1041",
+"cond": "2",
+"job": "df84bfe8a7a9fe0a",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1049",
+"cond": "2",
+"job": "27296ebc1b929211",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1062",
+"cond": "2",
+"job": "2ace7ff8721957c8",
+"gold": "SUPPORT"
+},
+{
+"qid": "1086",
+"cond": "2",
+"job": "d92ad1b7fbcbc6b0",
+"gold": "SUPPORT"
+},
+{
+"qid": "1088",
+"cond": "2",
+"job": "fae872ee86ecaf89",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1089",
+"cond": "2",
+"job": "c731fdb25d9bbb40",
+"gold": "SUPPORT"
+},
+{
+"qid": "1099",
+"cond": "2",
+"job": "3ec8694b2c758884",
+"gold": "NOINFO"
+},
+{
+"qid": "1100",
+"cond": "2",
+"job": "ae2ca92baa2017ce",
+"gold": "NOINFO"
+},
+{
+"qid": "1104",
+"cond": "2",
+"job": "a86fca7652af0e9e",
+"gold": "SUPPORT"
+},
+{
+"qid": "1107",
+"cond": "2",
+"job": "c846355e4123d2c7",
+"gold": "SUPPORT"
+},
+{
+"qid": "1110",
+"cond": "2",
+"job": "6201a3b085faf5d6",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1121",
+"cond": "2",
+"job": "b843ebc33d970c1b",
+"gold": "SUPPORT"
+},
+{
+"qid": "113",
+"cond": "2",
+"job": "3a983d4d2d6a7962",
+"gold": "SUPPORT"
+},
+{
+"qid": "1130",
+"cond": "2",
+"job": "e1155b4452c92ad2",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1132",
+"cond": "2",
+"job": "48b919e3138a2583",
+"gold": "SUPPORT"
+},
+{
+"qid": "1137",
+"cond": "2",
+"job": "cd5b732c055d4209",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1140",
+"cond": "2",
+"job": "5e3a7f13c0475f36",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1144",
+"cond": "2",
+"job": "f2b11b75eaf45316",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1146",
+"cond": "2",
+"job": "90a8a9e2e6f1ce21",
+"gold": "SUPPORT"
+},
+{
+"qid": "115",
+"cond": "2",
+"job": "61874665f9c06ee2",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1150",
+"cond": "2",
+"job": "73953970c7657766",
+"gold": "SUPPORT"
+},
+{
+"qid": "1163",
+"cond": "2",
+"job": "3bfe6ac300e377ec",
+"gold": "SUPPORT"
+},
+{
+"qid": "1175",
+"cond": "2",
+"job": "909d40bc575558a1",
+"gold": "NOINFO"
+},
+{
+"qid": "1179",
+"cond": "2",
+"job": "84bc006ac4b98989",
+"gold": "NOINFO"
+},
+{
+"qid": "118",
+"cond": "2",
+"job": "cffd0af0c10e7ae3",
+"gold": "SUPPORT"
+},
+{
+"qid": "1180",
+"cond": "2",
+"job": "3f1854edc0524422",
+"gold": "SUPPORT"
+},
+{
+"qid": "1185",
+"cond": "2",
+"job": "633e06495ba0ee01",
+"gold": "SUPPORT"
+},
+{
+"qid": "1187",
+"cond": "2",
+"job": "4408f2027d43dc0d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1191",
+"cond": "2",
+"job": "f0df2c57fd48a70a",
+"gold": "NOINFO"
+},
+{
+"qid": "1194",
+"cond": "2",
+"job": "d7de98c48bc9daf3",
+"gold": "NOINFO"
+},
+{
+"qid": "1196",
+"cond": "2",
+"job": "d09e0657756fd4d7",
+"gold": "NOINFO"
+},
+{
+"qid": "1197",
+"cond": "2",
+"job": "bc1dcb7850ddfb07",
+"gold": "NOINFO"
+},
+{
+"qid": "1199",
+"cond": "2",
+"job": "4f7c3056f6d1a933",
+"gold": "NOINFO"
+},
+{
+"qid": "1200",
+"cond": "2",
+"job": "d3ad4801259a70ea",
+"gold": "NOINFO"
+},
+{
+"qid": "1202",
+"cond": "2",
+"job": "f2708088e47f2b89",
+"gold": "SUPPORT"
+},
+{
+"qid": "1204",
+"cond": "2",
+"job": "1cc43fa52f72140e",
+"gold": "NOINFO"
+},
+{
+"qid": "1207",
+"cond": "2",
+"job": "40384e0092da1c23",
+"gold": "NOINFO"
+},
+{
+"qid": "1213",
+"cond": "2",
+"job": "b6c365afc6cae1e8",
+"gold": "NOINFO"
+},
+{
+"qid": "1216",
+"cond": "2",
+"job": "d7a40822a7da7e3b",
+"gold": "SUPPORT"
+},
+{
+"qid": "1221",
+"cond": "2",
+"job": "2e0718c9aadc4173",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1225",
+"cond": "2",
+"job": "e9ffbb23d941723c",
+"gold": "SUPPORT"
+},
+{
+"qid": "1226",
+"cond": "2",
+"job": "3e456dd2115ba89b",
+"gold": "NOINFO"
+},
+{
+"qid": "1232",
+"cond": "2",
+"job": "51bdae00b87a2476",
+"gold": "CONTRADICT"
+},
+{
+"qid": "124",
+"cond": "2",
+"job": "a425ed7f5ba9b5c1",
+"gold": "SUPPORT"
+},
+{
+"qid": "1241",
+"cond": "2",
+"job": "72c7740edf19c8f2",
+"gold": "SUPPORT"
+},
+{
+"qid": "1245",
+"cond": "2",
+"job": "04ce7847963e247f",
+"gold": "NOINFO"
+},
+{
+"qid": "1259",
+"cond": "2",
+"job": "6e14504c29cb883d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1262",
+"cond": "2",
+"job": "435fcd60cbd85840",
+"gold": "SUPPORT"
+},
+{
+"qid": "1266",
+"cond": "2",
+"job": "e359d88390ab69d8",
+"gold": "SUPPORT"
+},
+{
+"qid": "127",
+"cond": "2",
+"job": "afa31c35795fefdd",
+"gold": "NOINFO"
+},
+{
+"qid": "1270",
+"cond": "2",
+"job": "a6fbf1fd11eff69a",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1271",
+"cond": "2",
+"job": "8a51b50b0416d5c0",
+"gold": "SUPPORT"
+},
+{
+"qid": "1272",
+"cond": "2",
+"job": "b0265b8b7512b0c1",
+"gold": "NOINFO"
+},
+{
+"qid": "1273",
+"cond": "2",
+"job": "b80ce9963278008a",
+"gold": "SUPPORT"
+},
+{
+"qid": "1274",
+"cond": "2",
+"job": "a77e9a10e2911063",
+"gold": "SUPPORT"
+},
+{
+"qid": "1278",
+"cond": "2",
+"job": "abf643fd941b864e",
+"gold": "NOINFO"
+},
+{
+"qid": "1279",
+"cond": "2",
+"job": "bb6c1be9169b7813",
+"gold": "NOINFO"
+},
+{
+"qid": "128",
+"cond": "2",
+"job": "2cafceccb2e9496a",
+"gold": "NOINFO"
+},
+{
+"qid": "1280",
+"cond": "2",
+"job": "abdc71431738a763",
+"gold": "NOINFO"
+},
+{
+"qid": "1281",
+"cond": "2",
+"job": "daf4d1819474a28a",
+"gold": "NOINFO"
+},
+{
+"qid": "1282",
+"cond": "2",
+"job": "9c1f49620ea5764b",
+"gold": "NOINFO"
+},
+{
+"qid": "129",
+"cond": "2",
+"job": "b53ff076b0327174",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1290",
+"cond": "2",
+"job": "02a3dc2745ee568c",
+"gold": "SUPPORT"
+},
+{
+"qid": "1292",
+"cond": "2",
+"job": "05163b646ca3a18a",
+"gold": "NOINFO"
+},
+{
+"qid": "1298",
+"cond": "2",
+"job": "665fc0d45a36b8cc",
+"gold": "SUPPORT"
+},
+{
+"qid": "13",
+"cond": "2",
+"job": "c73abf891728b6d2",
+"gold": "NOINFO"
+},
+{
+"qid": "130",
+"cond": "2",
+"job": "5c0eeae384847a70",
+"gold": "SUPPORT"
+},
+{
+"qid": "1303",
+"cond": "2",
+"job": "5c7fe131162e1511",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1316",
+"cond": "2",
+"job": "ec82321f1ba428d3",
+"gold": "NOINFO"
+},
+{
+"qid": "1319",
+"cond": "2",
+"job": "5949ad3b0f776a26",
+"gold": "SUPPORT"
+},
+{
+"qid": "132",
+"cond": "2",
+"job": "d86a610f78ad9ac5",
+"gold": "NOINFO"
+},
+{
+"qid": "1320",
+"cond": "2",
+"job": "4c68e0a9ffea4336",
+"gold": "CONTRADICT"
+},
+{
+"qid": "133",
+"cond": "2",
+"job": "28f777e32fc32c40",
+"gold": "SUPPORT"
+},
+{
+"qid": "1332",
+"cond": "2",
+"job": "c1993392c2a84edf",
+"gold": "NOINFO"
+},
+{
+"qid": "1335",
+"cond": "2",
+"job": "6992e72496467199",
+"gold": "SUPPORT"
+},
+{
+"qid": "1336",
+"cond": "2",
+"job": "4cffe7f2e6acb748",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1337",
+"cond": "2",
+"job": "54b36d3b9976eea0",
+"gold": "SUPPORT"
+},
+{
+"qid": "1339",
+"cond": "2",
+"job": "9273168be8829836",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1344",
+"cond": "2",
+"job": "1527cb708f5bdaa8",
+"gold": "NOINFO"
+},
+{
+"qid": "1352",
+"cond": "2",
+"job": "3502ac9155a59fb7",
+"gold": "SUPPORT"
+},
+{
+"qid": "1359",
+"cond": "2",
+"job": "ffa50f0296637aa1",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1362",
+"cond": "2",
+"job": "803b66f1b5897841",
+"gold": "NOINFO"
+},
+{
+"qid": "1363",
+"cond": "2",
+"job": "408d31a927a77ac2",
+"gold": "NOINFO"
+},
+{
+"qid": "1368",
+"cond": "2",
+"job": "1554500a12c7d765",
+"gold": "SUPPORT"
+},
+{
+"qid": "137",
+"cond": "2",
+"job": "6e0e6ca219174c5d",
+"gold": "SUPPORT"
+},
+{
+"qid": "1370",
+"cond": "2",
+"job": "a5fe91d19e531515",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1379",
+"cond": "2",
+"job": "719ad85fb6ab3af1",
+"gold": "SUPPORT"
+},
+{
+"qid": "1382",
+"cond": "2",
+"job": "cce035ed6d7c0116",
+"gold": "CONTRADICT"
+},
+{
+"qid": "1385",
+"cond": "2",
+"job": "5fc78a685f71dabf",
+"gold": "SUPPORT"
+},
+{
+"qid": "1389",
+"cond": "2",
+"job": "9fc6f55bfa4124f7",
+"gold": "SUPPORT"
+},
+{
+"qid": "1395",
+"cond": "2",
+"job": "e55674073e398ada",
+"gold": "NOINFO"
+},
+{
+"qid": "141",
+"cond": "2",
+"job": "4da0647818dd61d7",
+"gold": "SUPPORT"
+},
+{
+"qid": "142",
+"cond": "2",
+"job": "f0e4925fe09f9d7b",
+"gold": "CONTRADICT"
+},
+{
+"qid": "143",
+"cond": "2",
+"job": "05c0b31b7f745f12",
+"gold": "SUPPORT"
+},
+{
+"qid": "146",
+"cond": "2",
+"job": "4cf0fd55ee9e2ea2",
+"gold": "SUPPORT"
+},
+{
+"qid": "148",
+"cond": "2",
+"job": "f019ca7af96c2f3b",
+"gold": "SUPPORT"
+},
+{
+"qid": "163",
+"cond": "2",
+"job": "b5e6a2959028b4f0",
+"gold": "SUPPORT"
+},
+{
+"qid": "171",
+"cond": "2",
+"job": "5059e2e7a359bbc9",
+"gold": "CONTRADICT"
+},
+{
+"qid": "179",
+"cond": "2",
+"job": "060c58770985cacd",
+"gold": "SUPPORT"
+},
+{
+"qid": "180",
+"cond": "2",
+"job": "40a74cda79dd08fc",
+"gold": "CONTRADICT"
+},
+{
+"qid": "183",
+"cond": "2",
+"job": "2a7315d5eaefc49b",
+"gold": "CONTRADICT"
+},
+{
+"qid": "185",
+"cond": "2",
+"job": "6a33dbed642fc274",
+"gold": "CONTRADICT"
+},
+{
+"qid": "198",
+"cond": "2",
+"job": "abacac7281d11b0b",
+"gold": "NOINFO"
+},
+{
+"qid": "208",
+"cond": "2",
+"job": "e31983ca7c132dd9",
+"gold": "SUPPORT"
+},
+{
+"qid": "212",
+"cond": "2",
+"job": "0cd80400fed6582e",
+"gold": "CONTRADICT"
+},
+{
+"qid": "213",
+"cond": "2",
+"job": "faec2d3fd8f4588a",
+"gold": "NOINFO"
+},
+{
+"qid": "216",
+"cond": "2",
+"job": "7a02d810215c6760",
+"gold": "CONTRADICT"
+},
+{
+"qid": "217",
+"cond": "2",
+"job": "053ae84822deda48",
+"gold": "SUPPORT"
+},
+{
+"qid": "218",
+"cond": "2",
+"job": "e92861ce91729e65",
+"gold": "SUPPORT"
+},
+{
+"qid": "219",
+"cond": "2",
+"job": "9198194ca37d4075",
+"gold": "CONTRADICT"
+},
+{
+"qid": "230",
+"cond": "2",
+"job": "1dc85766739d1342",
+"gold": "SUPPORT"
+},
+{
+"qid": "232",
+"cond": "2",
+"job": "65fc0e78b2fd76e2",
+"gold": "NOINFO"
+},
+{
+"qid": "233",
+"cond": "2",
+"job": "53a51552188d13f6",
+"gold": "CONTRADICT"
+},
+{
+"qid": "236",
+"cond": "2",
+"job": "1bd93b0005307d5a",
+"gold": "SUPPORT"
+},
+{
+"qid": "237",
+"cond": "2",
+"job": "21f5dc1d7851ec1c",
+"gold": "NOINFO"
+},
+{
+"qid": "238",
+"cond": "2",
+"job": "69fd286b9a81bb13",
+"gold": "NOINFO"
+},
+{
+"qid": "239",
+"cond": "2",
+"job": "b91c1fd328906b35",
+"gold": "SUPPORT"
+},
+{
+"qid": "248",
+"cond": "2",
+"job": "d6fb66b00c6cc278",
+"gold": "SUPPORT"
+},
+{
+"qid": "249",
+"cond": "2",
+"job": "0b8bd1dd6b99bf9b",
+"gold": "CONTRADICT"
+},
+{
+"qid": "261",
+"cond": "2",
+"job": "1894c1943b1ee568",
+"gold": "SUPPORT"
+},
+{
+"qid": "268",
+"cond": "2",
+"job": "5f9049f97c07ef04",
+"gold": "NOINFO"
+},
+{
+"qid": "269",
+"cond": "2",
+"job": "163ba36afe49ba00",
+"gold": "NOINFO"
+},
+{
+"qid": "274",
+"cond": "2",
+"job": "7e74b900b499e5b8",
+"gold": "CONTRADICT"
+},
+{
+"qid": "275",
+"cond": "2",
+"job": "bb7d9d7c19bcd74e",
+"gold": "SUPPORT"
+},
+{
+"qid": "279",
+"cond": "2",
+"job": "eacbddb61b54bb97",
+"gold": "SUPPORT"
+},
+{
+"qid": "294",
+"cond": "2",
+"job": "34a758d07bd1ff05",
+"gold": "NOINFO"
+},
+{
+"qid": "295",
+"cond": "2",
+"job": "3f9b95bd95b2f4e2",
+"gold": "SUPPORT"
+},
+{
+"qid": "298",
+"cond": "2",
+"job": "1d25f668f33b0362",
+"gold": "SUPPORT"
+},
+{
+"qid": "3",
+"cond": "2",
+"job": "79cd727cc22134fe",
+"gold": "SUPPORT"
+},
+{
+"qid": "300",
+"cond": "2",
+"job": "3d75935167e643f7",
+"gold": "NOINFO"
+},
+{
+"qid": "303",
+"cond": "2",
+"job": "cce0f8a21998126e",
+"gold": "NOINFO"
+},
+{
+"qid": "312",
+"cond": "2",
+"job": "cff9460f07b7668b",
+"gold": "NOINFO"
+},
+{
+"qid": "314",
+"cond": "2",
+"job": "8dd997e906c8003c",
+"gold": "SUPPORT"
+},
+{
+"qid": "324",
+"cond": "2",
+"job": "e9cb0f9d5129c916",
+"gold": "NOINFO"
+},
+{
+"qid": "327",
+"cond": "2",
+"job": "afdadd0f05eed307",
+"gold": "SUPPORT"
+},
+{
+"qid": "338",
+"cond": "2",
+"job": "16962ae8973c88c8",
+"gold": "CONTRADICT"
+},
+{
+"qid": "343",
+"cond": "2",
+"job": "9df97e60b9230d7d",
+"gold": "SUPPORT"
+},
+{
+"qid": "350",
+"cond": "2",
+"job": "d61480053ac38f6e",
+"gold": "NOINFO"
+},
+{
+"qid": "354",
+"cond": "2",
+"job": "73f17d1810a359be",
+"gold": "NOINFO"
+},
+{
+"qid": "36",
+"cond": "2",
+"job": "f98a68eb9e1e5a1c",
+"gold": "NOINFO"
+},
+{
+"qid": "362",
+"cond": "2",
+"job": "4021a5b599706491",
+"gold": "NOINFO"
+},
+{
+"qid": "380",
+"cond": "2",
+"job": "30fa6644a509be29",
+"gold": "SUPPORT"
+},
+{
+"qid": "384",
+"cond": "2",
+"job": "73a9b474062162be",
+"gold": "NOINFO"
+},
+{
+"qid": "385",
+"cond": "2",
+"job": "068421d96e941f91",
+"gold": "SUPPORT"
+},
+{
+"qid": "386",
+"cond": "2",
+"job": "ddb1f3556010d764",
+"gold": "SUPPORT"
+},
+{
+"qid": "388",
+"cond": "2",
+"job": "a9a6695fb93881dc",
+"gold": "NOINFO"
+},
+{
+"qid": "399",
+"cond": "2",
+"job": "7ce8f2fae55cfa0a",
+"gold": "SUPPORT"
+},
+{
+"qid": "410",
+"cond": "2",
+"job": "d7778f746c77ab7c",
+"gold": "NOINFO"
+},
+{
+"qid": "411",
+"cond": "2",
+"job": "449bd20ff75fa078",
+"gold": "NOINFO"
+},
+{
+"qid": "415",
+"cond": "2",
+"job": "ec1937ee50de2d08",
+"gold": "SUPPORT"
+},
+{
+"qid": "42",
+"cond": "2",
+"job": "780fb61dfdb1854e",
+"gold": "CONTRADICT"
+},
+{
+"qid": "421",
+"cond": "2",
+"job": "71f19ce19bb12bb6",
+"gold": "NOINFO"
+},
+{
+"qid": "431",
+"cond": "2",
+"job": "678ef1fdb1c063e9",
+"gold": "SUPPORT"
+},
+{
+"qid": "436",
+"cond": "2",
+"job": "4d5ffe748cbf164d",
+"gold": "SUPPORT"
+},
+{
+"qid": "437",
+"cond": "2",
+"job": "981dc297a3675a3a",
+"gold": "NOINFO"
+},
+{
+"qid": "439",
+"cond": "2",
+"job": "48c9df324092d592",
+"gold": "NOINFO"
+},
+{
+"qid": "440",
+"cond": "2",
+"job": "2866a30581eec051",
+"gold": "NOINFO"
+},
+{
+"qid": "443",
+"cond": "2",
+"job": "5f2eeed1eee1f310",
+"gold": "SUPPORT"
+},
+{
+"qid": "452",
+"cond": "2",
+"job": "b5395cb502782d08",
+"gold": "CONTRADICT"
+},
+{
+"qid": "475",
+"cond": "2",
+"job": "43abd9cff2d58275",
+"gold": "SUPPORT"
+},
+{
+"qid": "478",
+"cond": "2",
+"job": "06ce1c6c33028a4b",
+"gold": "NOINFO"
+},
+{
+"qid": "48",
+"cond": "2",
+"job": "66556521fe0c3f40",
+"gold": "CONTRADICT"
+},
+{
+"qid": "49",
+"cond": "2",
+"job": "6e2ed7e1ef06a094",
+"gold": "SUPPORT"
+},
+{
+"qid": "491",
+"cond": "2",
+"job": "5c1f1c4dbcb747ca",
+"gold": "NOINFO"
+},
+{
+"qid": "5",
+"cond": "2",
+"job": "7471879bbcbd7f99",
+"gold": "SUPPORT"
+},
+{
+"qid": "50",
+"cond": "2",
+"job": "44394aa8bc7e8f69",
+"gold": "SUPPORT"
+},
+{
+"qid": "501",
+"cond": "2",
+"job": "ff347cf399b5fdfb",
+"gold": "SUPPORT"
+},
+{
+"qid": "502",
+"cond": "2",
+"job": "33731859f3af4304",
+"gold": "NOINFO"
+},
+{
+"qid": "507",
+"cond": "2",
+"job": "b0ec118648fef25b",
+"gold": "NOINFO"
+},
+{
+"qid": "508",
+"cond": "2",
+"job": "e9b2309e98685761",
+"gold": "NOINFO"
+},
+{
+"qid": "51",
+"cond": "2",
+"job": "ba37b98a76851677",
+"gold": "CONTRADICT"
+},
+{
+"qid": "513",
+"cond": "2",
+"job": "10f2991f7f5de66b",
+"gold": "CONTRADICT"
+},
+{
+"qid": "514",
+"cond": "2",
+"job": "425459c84b83e254",
+"gold": "NOINFO"
+},
+{
+"qid": "516",
+"cond": "2",
+"job": "460f75c0d3fb21dc",
+"gold": "CONTRADICT"
+},
+{
+"qid": "517",
+"cond": "2",
+"job": "a00d1b41e62cf69e",
+"gold": "NOINFO"
+},
+{
+"qid": "521",
+"cond": "2",
+"job": "d7409933378770ba",
+"gold": "SUPPORT"
+},
+{
+"qid": "525",
+"cond": "2",
+"job": "14fc26b0684dc485",
+"gold": "SUPPORT"
+},
+{
+"qid": "527",
+"cond": "2",
+"job": "baf56f97c8f1e9c3",
+"gold": "NOINFO"
+},
+{
+"qid": "528",
+"cond": "2",
+"job": "88834b34b44535f8",
+"gold": "SUPPORT"
+},
+{
+"qid": "53",
+"cond": "2",
+"job": "876d06aac92691cf",
+"gold": "SUPPORT"
+},
+{
+"qid": "532",
+"cond": "2",
+"job": "0f6faea4a91d9cc8",
+"gold": "CONTRADICT"
+},
+{
+"qid": "533",
+"cond": "2",
+"job": "56326e94a92972f6",
+"gold": "SUPPORT"
+},
+{
+"qid": "535",
+"cond": "2",
+"job": "a74919cd6d3faaa4",
+"gold": "NOINFO"
+},
+{
+"qid": "536",
+"cond": "2",
+"job": "5a610545827b3cf9",
+"gold": "SUPPORT"
+},
+{
+"qid": "539",
+"cond": "2",
+"job": "3962edf7f2b6cbe0",
+"gold": "SUPPORT"
+},
+{
+"qid": "54",
+"cond": "2",
+"job": "9ba9b4fd98eedd57",
+"gold": "CONTRADICT"
+},
+{
+"qid": "540",
+"cond": "2",
+"job": "bf2076b940f59c9e",
+"gold": "SUPPORT"
+},
+{
+"qid": "544",
+"cond": "2",
+"job": "b5cd974858dbd184",
+"gold": "NOINFO"
+},
+{
+"qid": "549",
+"cond": "2",
+"job": "249778dc1c6effa9",
+"gold": "SUPPORT"
+},
+{
+"qid": "551",
+"cond": "2",
+"job": "2975f3f2a17f8716",
+"gold": "NOINFO"
+},
+{
+"qid": "552",
+"cond": "2",
+"job": "4ac48ed81590377e",
+"gold": "NOINFO"
+},
+{
+"qid": "554",
+"cond": "2",
+"job": "d0a66da67f0a6dc9",
+"gold": "NOINFO"
+},
+{
+"qid": "56",
+"cond": "2",
+"job": "bebcbc493db69cc3",
+"gold": "SUPPORT"
+},
+{
+"qid": "560",
+"cond": "2",
+"job": "6f7eba05fc45fb6d",
+"gold": "NOINFO"
+},
+{
+"qid": "569",
+"cond": "2",
+"job": "77add018c51fa41f",
+"gold": "SUPPORT"
+},
+{
+"qid": "57",
+"cond": "2",
+"job": "d2fbb8df091c5e41",
+"gold": "CONTRADICT"
+},
+{
+"qid": "575",
+"cond": "2",
+"job": "beff2d57ce304686",
+"gold": "NOINFO"
+},
+{
+"qid": "577",
+"cond": "2",
+"job": "d0488a5932f03516",
+"gold": "NOINFO"
+},
+{
+"qid": "578",
+"cond": "2",
+"job": "6bb52b499f4026c5",
+"gold": "CONTRADICT"
+},
+{
+"qid": "587",
+"cond": "2",
+"job": "33ce19e1fdadb55b",
+"gold": "NOINFO"
+},
+{
+"qid": "589",
+"cond": "2",
+"job": "f5984c91e9feff0e",
+"gold": "SUPPORT"
+},
+{
+"qid": "593",
+"cond": "2",
+"job": "99fb091df94feae4",
+"gold": "SUPPORT"
+},
+{
+"qid": "597",
+"cond": "2",
+"job": "18c8479943edca38",
+"gold": "SUPPORT"
+},
+{
+"qid": "598",
+"cond": "2",
+"job": "2291a6fbb237708f",
+"gold": "CONTRADICT"
+},
+{
+"qid": "613",
+"cond": "2",
+"job": "35156403fe85e159",
+"gold": "SUPPORT"
+},
+{
+"qid": "619",
+"cond": "2",
+"job": "ac1ca65c3a78f4fc",
+"gold": "CONTRADICT"
+},
+{
+"qid": "623",
+"cond": "2",
+"job": "b072281ad554741d",
+"gold": "NOINFO"
+},
+{
+"qid": "628",
+"cond": "2",
+"job": "c9e4b3568acb5d3b",
+"gold": "NOINFO"
+},
+{
+"qid": "636",
+"cond": "2",
+"job": "a89dd3b1cddb864a",
+"gold": "SUPPORT"
+},
+{
+"qid": "637",
+"cond": "2",
+"job": "c25b5dd1c02a64ca",
+"gold": "NOINFO"
+},
+{
+"qid": "641",
+"cond": "2",
+"job": "efd307827f114511",
+"gold": "SUPPORT"
+},
+{
+"qid": "644",
+"cond": "2",
+"job": "0e036f48a50fdd96",
+"gold": "NOINFO"
+},
+{
+"qid": "649",
+"cond": "2",
+"job": "f319427ce6a5103b",
+"gold": "NOINFO"
+},
+{
+"qid": "659",
+"cond": "2",
+"job": "671ea61e9ed9124a",
+"gold": "NOINFO"
+},
+{
+"qid": "660",
+"cond": "2",
+"job": "bbb2d385dc498090",
+"gold": "NOINFO"
+},
+{
+"qid": "674",
+"cond": "2",
+"job": "37b43d9e1200b613",
+"gold": "CONTRADICT"
+},
+{
+"qid": "684",
+"cond": "2",
+"job": "3d0e8690076c4a73",
+"gold": "NOINFO"
+},
+{
+"qid": "690",
+"cond": "2",
+"job": "f771a671deb4ebc1",
+"gold": "NOINFO"
+},
+{
+"qid": "691",
+"cond": "2",
+"job": "81244381b3daecdf",
+"gold": "NOINFO"
+},
+{
+"qid": "692",
+"cond": "2",
+"job": "450935a3e45001e9",
+"gold": "CONTRADICT"
+},
+{
+"qid": "693",
+"cond": "2",
+"job": "06a9de6d75231cab",
+"gold": "SUPPORT"
+},
+{
+"qid": "70",
+"cond": "2",
+"job": "44b0126462a287cc",
+"gold": "SUPPORT"
+},
+{
+"qid": "700",
+"cond": "2",
+"job": "823184c9a9bf3979",
+"gold": "NOINFO"
+},
+{
+"qid": "702",
+"cond": "2",
+"job": "c8c6d70af3182f1b",
+"gold": "NOINFO"
+},
+{
+"qid": "715",
+"cond": "2",
+"job": "acd58985f037476e",
+"gold": "NOINFO"
+},
+{
+"qid": "716",
+"cond": "2",
+"job": "fc8828d44a068857",
+"gold": "NOINFO"
+},
+{
+"qid": "718",
+"cond": "2",
+"job": "3a71f59104ea6485",
+"gold": "CONTRADICT"
+},
+{
+"qid": "72",
+"cond": "2",
+"job": "18563f47f676c763",
+"gold": "NOINFO"
+},
+{
+"qid": "721",
+"cond": "2",
+"job": "af376f9105819bc0",
+"gold": "SUPPORT"
+},
+{
+"qid": "723",
+"cond": "2",
+"job": "afea8ac9e1cc9896",
+"gold": "SUPPORT"
+},
+{
+"qid": "727",
+"cond": "2",
+"job": "247db493b7da8ac8",
+"gold": "NOINFO"
+},
+{
+"qid": "728",
+"cond": "2",
+"job": "5df6a0c986bd33a8",
+"gold": "CONTRADICT"
+},
+{
+"qid": "729",
+"cond": "2",
+"job": "06a949466ecfeff8",
+"gold": "SUPPORT"
+},
+{
+"qid": "742",
+"cond": "2",
+"job": "62220423c80c5a53",
+"gold": "SUPPORT"
+},
+{
+"qid": "743",
+"cond": "2",
+"job": "7efbf61b40f35fec",
+"gold": "CONTRADICT"
+},
+{
+"qid": "744",
+"cond": "2",
+"job": "f76d2f99764d09c8",
+"gold": "SUPPORT"
+},
+{
+"qid": "75",
+"cond": "2",
+"job": "8e2d88879a37161c",
+"gold": "NOINFO"
+},
+{
+"qid": "756",
+"cond": "2",
+"job": "20d6b13f44115c7d",
+"gold": "SUPPORT"
+},
+{
+"qid": "759",
+"cond": "2",
+"job": "9288696e49e49e06",
+"gold": "CONTRADICT"
+},
+{
+"qid": "768",
+"cond": "2",
+"job": "cf7bead86d93777b",
+"gold": "NOINFO"
+},
+{
+"qid": "770",
+"cond": "2",
+"job": "de03162e8a498678",
+"gold": "SUPPORT"
+},
+{
+"qid": "775",
+"cond": "2",
+"job": "281df57e44d08908",
+"gold": "NOINFO"
+},
+{
+"qid": "781",
+"cond": "2",
+"job": "28026eddfc17c6ba",
+"gold": "CONTRADICT"
+},
+{
+"qid": "783",
+"cond": "2",
+"job": "a55ec88e9b6499d3",
+"gold": "NOINFO"
+},
+{
+"qid": "784",
+"cond": "2",
+"job": "b881c23308266fdd",
+"gold": "SUPPORT"
+},
+{
+"qid": "785",
+"cond": "2",
+"job": "b229d0ffdfe965e5",
+"gold": "NOINFO"
+},
+{
+"qid": "793",
+"cond": "2",
+"job": "5ef84f89c4741a02",
+"gold": "CONTRADICT"
+},
+{
+"qid": "800",
+"cond": "2",
+"job": "f900caf147bb871b",
+"gold": "NOINFO"
+},
+{
+"qid": "805",
+"cond": "2",
+"job": "fc1c82bbde1bc8db",
+"gold": "SUPPORT"
+},
+{
+"qid": "808",
+"cond": "2",
+"job": "7b6a9e542e24bdcb",
+"gold": "SUPPORT"
+},
+{
+"qid": "811",
+"cond": "2",
+"job": "501ae3fd4ab02554",
+"gold": "CONTRADICT"
+},
+{
+"qid": "814",
+"cond": "2",
+"job": "9a3417df96cb4417",
+"gold": "NOINFO"
+},
+{
+"qid": "820",
+"cond": "2",
+"job": "41c4ce3908a2b1de",
+"gold": "NOINFO"
+},
+{
+"qid": "821",
+"cond": "2",
+"job": "8391adf23c2cd81e",
+"gold": "NOINFO"
+},
+{
+"qid": "823",
+"cond": "2",
+"job": "39e4e72b2423c1d5",
+"gold": "SUPPORT"
+},
+{
+"qid": "830",
+"cond": "2",
+"job": "cd5ae8575c862289",
+"gold": "NOINFO"
+},
+{
+"qid": "831",
+"cond": "2",
+"job": "bd981616bd0e0e9b",
+"gold": "NOINFO"
+},
+{
+"qid": "832",
+"cond": "2",
+"job": "f2905ec41a97b9f1",
+"gold": "SUPPORT"
+},
+{
+"qid": "834",
+"cond": "2",
+"job": "f649df684a2ed98a",
+"gold": "NOINFO"
+},
+{
+"qid": "837",
+"cond": "2",
+"job": "42b9774e6f9287ba",
+"gold": "SUPPORT"
+},
+{
+"qid": "839",
+"cond": "2",
+"job": "d0f61214452471ec",
+"gold": "SUPPORT"
+},
+{
+"qid": "845",
+"cond": "2",
+"job": "0645523b35ea269a",
+"gold": "SUPPORT"
+},
+{
+"qid": "847",
+"cond": "2",
+"job": "15ab945a5e8da7db",
+"gold": "CONTRADICT"
+},
+{
+"qid": "852",
+"cond": "2",
+"job": "bb744617b463c9b4",
+"gold": "CONTRADICT"
+},
+{
+"qid": "859",
+"cond": "2",
+"job": "f479cd85b28c6ab6",
+"gold": "CONTRADICT"
+},
+{
+"qid": "870",
+"cond": "2",
+"job": "e6bf6a3ceb7c7c72",
+"gold": "NOINFO"
+},
+{
+"qid": "873",
+"cond": "2",
+"job": "941895648e0f14b4",
+"gold": "CONTRADICT"
+},
+{
+"qid": "879",
+"cond": "2",
+"job": "caf5b65e42945cec",
+"gold": "CONTRADICT"
+},
+{
+"qid": "880",
+"cond": "2",
+"job": "351adce8fb4e95b4",
+"gold": "SUPPORT"
+},
+{
+"qid": "882",
+"cond": "2",
+"job": "df88c45e6af58024",
+"gold": "CONTRADICT"
+},
+{
+"qid": "887",
+"cond": "2",
+"job": "c354ede789e21847",
+"gold": "NOINFO"
+},
+{
+"qid": "903",
+"cond": "2",
+"job": "6af8a269f6387c06",
+"gold": "CONTRADICT"
+},
+{
+"qid": "904",
+"cond": "2",
+"job": "926a3468ed7f6cb3",
+"gold": "SUPPORT"
+},
+{
+"qid": "907",
+"cond": "2",
+"job": "27d656bde14369cc",
+"gold": "NOINFO"
+},
+{
+"qid": "911",
+"cond": "2",
+"job": "e79fcf932ab8f255",
+"gold": "SUPPORT"
+},
+{
+"qid": "913",
+"cond": "2",
+"job": "947c35438191b051",
+"gold": "NOINFO"
+},
+{
+"qid": "914",
+"cond": "2",
+"job": "43da739c02c2b5f2",
+"gold": "NOINFO"
+},
+{
+"qid": "921",
+"cond": "2",
+"job": "6357c1bb9cfad5c1",
+"gold": "SUPPORT"
+},
+{
+"qid": "922",
+"cond": "2",
+"job": "be6022ddf7d5970f",
+"gold": "CONTRADICT"
+},
+{
+"qid": "936",
+"cond": "2",
+"job": "92b1a6207a810087",
+"gold": "SUPPORT"
+},
+{
+"qid": "94",
+"cond": "2",
+"job": "f9b8a7512f50f056",
+"gold": "NOINFO"
+},
+{
+"qid": "956",
+"cond": "2",
+"job": "99a2a9b6a1d0ff47",
+"gold": "NOINFO"
+},
+{
+"qid": "957",
+"cond": "2",
+"job": "198d741c4db7249a",
+"gold": "SUPPORT"
+},
+{
+"qid": "960",
+"cond": "2",
+"job": "03598933057c8281",
+"gold": "SUPPORT"
+},
+{
+"qid": "967",
+"cond": "2",
+"job": "7317d90f3ac45812",
+"gold": "SUPPORT"
+},
+{
+"qid": "971",
+"cond": "2",
+"job": "b9a162f5e59f36b6",
+"gold": "SUPPORT"
+},
+{
+"qid": "975",
+"cond": "2",
+"job": "3ca6437a811158f2",
+"gold": "NOINFO"
+},
+{
+"qid": "982",
+"cond": "2",
+"job": "4d3f5ca008c961e1",
+"gold": "SUPPORT"
+},
+{
+"qid": "985",
+"cond": "2",
+"job": "c672149095976f34",
+"gold": "SUPPORT"
+},
+{
+"qid": "99",
+"cond": "2",
+"job": "d797b600c6ce8770",
+"gold": "NOINFO"
+},
+{
+"qid": "993",
+"cond": "2",
+"job": "42f161de0bae9a48",
+"gold": "CONTRADICT"
+}
+]
