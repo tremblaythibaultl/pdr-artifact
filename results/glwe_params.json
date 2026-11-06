@@ -63,13 +63,15 @@
   "attack_k2": "dual_hybrid"
  },
  "round2_d11": {
-  "log2_sigma": 5.3,
-  "lambda": 112.3,
+  "sigma": 3.2,
+  "log2_sigma": 1.6780719051126378,
+  "lambda": 105.71359271190862,
   "attack": "bdd"
  },
  "round2_d12": {
-  "log2_sigma": 5.3,
-  "lambda": 237.5,
+  "sigma": 3.2,
+  "log2_sigma": 1.6780719051126378,
+  "lambda": 223.09504499007107,
   "attack": "dual_hybrid"
  },
  "_meta": {
